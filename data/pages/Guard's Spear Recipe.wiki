@@ -1,0 +1,33 @@
+{{Item
+|ItemID=r22
+|BoolEventItem=No
+|ItemType=Recipe (Item)
+|note=needs dropinfo
+|Weight=10
+|LevelEquipRequirement=35
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].
+|BoolQuest=Yes
+|PlayerQuestMinLevel=32
+|PerceptionLevel=2
+|QuestForestMorning=No
+|QuestForestDay=No
+|QuestForestEvening=No
+|QuestForestNight=No
+|QuestSwampMorning=No
+|QuestSwampDay=No
+|QuestSwampEvening=No
+|QuestSwampNight=No
+|QuestValleyMorning=Yes
+|QuestValleyDay=Yes
+|QuestValleyEvening=Yes
+|QuestValleyNight=No
+|QuestForayMorning=No
+|QuestForayDay=No
+|QuestForayEvening=No
+|QuestForayNight=No
+|BoolEnchantment=No
+|BoolCraft=No
+}}

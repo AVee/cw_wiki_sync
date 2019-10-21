@@ -1,0 +1,120 @@
+The '''{{PAGENAME}}''' is {{#show: {{PAGENAME}} |?ItemType}} of the type {{#show: {{PAGENAME}} |?ItemSubType}}. 
+
+=Characteristics=
+{{InfoOverview}}
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=a18
+| CraftCommand=
+| note=needs weight added
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/ResourceMisc-->
+| ItemType=Protective Gear
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=Gloves
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=0
+| Defense=3
+| Mana=0
+| Weight=
+<!--Stats of special event items/reward items-->
+| Stamina=0
+| InventoryIncrease=0
+| Luck=0
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration=
+| Wrapping=1
+
+| LevelEquipRequirement=0
+| BoolEnchantment=false
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=27
+| ShopBuyPrice=92
+
+| BoolExchange=false
+| BoolAuction=false
+| BoolCraft=false
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=
+| SkillCraftLevel=
+| ManaCrafting=
+
+| BoolQuest=false
+| PerceptionLevel=
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

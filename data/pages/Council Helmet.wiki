@@ -1,0 +1,70 @@
+{{Item
+|ItemID=a79
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Helmet
+|ArmorClass=Heavy Armor
+|note=info missing
+|Attack=8
+|Defense=25
+|Mana=0
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|ShopSellPrice=683
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=0
+|EnchantAtk3=0
+|EnchantAtk4=0
+|EnchantDef1=2
+|EnchantDef2=2
+|EnchantDef3=2
+|EnchantMana1=5
+|EnchantMana2=5
+|EnchantMana3=5
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/c_79
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Council Helmet Part
+|Qty=6
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Mold
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=17
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Sapphire
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Council Helmet Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Metallic Fiber
+|Qty=29
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=13
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=2
+}}

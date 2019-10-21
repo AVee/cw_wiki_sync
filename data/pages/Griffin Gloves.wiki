@@ -1,0 +1,64 @@
+{{Item
+|ItemID=a86
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Gloves
+|ArmorClass=Light Armor
+|Attack=7
+|Defense=12
+|Mana=0
+|Weight=155
+|Wrapping=1
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|ShopSellPrice=393
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantDef1=2
+|EnchantMana1=0
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/c_a86
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=6
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Crafted Leather
+|Qty=13
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Gloves Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Gloves Part
+|Qty=6
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=7
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Mold
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=1
+}}

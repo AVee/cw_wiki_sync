@@ -1,0 +1,11 @@
+{{Item
+|ItemID=r99
+|BoolEventItem=No
+|ItemType=Recipe (Item)
+|LevelEquipRequirement=45
+|BoolQuest=Yes
+|QuestSwampDay=Yes
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

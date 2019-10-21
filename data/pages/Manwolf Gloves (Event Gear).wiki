@@ -1,0 +1,18 @@
+{{Item
+|ItemID=e130
+|BoolEventItem=Yes
+|Event=Monster Hunt 2018
+|ItemType=Protective Gear
+|ItemSubType=Gloves
+|note=page creation. check info
+weight, wrapping, level req...etc missing
+|Attack=5
+|Defense=8
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=The Manwolf Gloves were obtainable in the [[Monster Hunt 2018]] event. Unlike other gloves, they can't be enchanted.
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=No
+}}

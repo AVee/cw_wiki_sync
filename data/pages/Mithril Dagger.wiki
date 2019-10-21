@@ -1,0 +1,121 @@
+The '''{{PAGENAME}}''' is a {{#show: {{PAGENAME}} |?ItemType}} of the type {{#show: {{PAGENAME}} |?ItemSubType}}. 
+
+=Characteristics=
+{{InfoOverview}}
+ Top of the line for daggers found in the shop, the Catalina Blue knife is sharp as a razor, and durable enough to be hammered and bent at will. With an edge hard enough to scratch mid-grade quality steel, many warriors cherish the blade. Some models even feature a loop, capable of being strapped to a user's wrist to prevent being lost in combat.
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=w17
+| CraftCommand=
+| note=none
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/ResourceMisc-->
+| ItemType=Weapon
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=Dagger
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=7
+| Defense=0
+| Mana=0
+| Weight=180
+<!--Stats of special event items/reward items-->
+| Stamina=0
+| InventoryIncrease=0
+| Luck=0
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration=
+| Wrapping=1
+
+| LevelEquipRequirement=15
+| BoolEnchantment=true
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=149
+| ShopBuyPrice=498
+
+| BoolExchange=false
+| BoolAuction=true
+| BoolCraft=false
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=
+| SkillCraftLevel=
+| ManaCrafting=
+
+| BoolQuest=false
+| PerceptionLevel=
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

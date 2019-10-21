@@ -1,0 +1,15 @@
+{{Item
+|ItemID=e139
+|BoolEventItem=Yes
+|Event=Monster Hunt 2018
+|ItemType=Protective Gear
+|ItemSubType=Armor
+|Attack=13
+|Defense=27
+|Mana=50
+|LevelEquipRequirement=35
+|BoolDepositGuild=Yes
+|BoolAuction=Yes
+|BoolEnchantment=No
+|BoolCraft=No
+}}

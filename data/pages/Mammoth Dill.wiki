@@ -1,0 +1,17 @@
+{{Item
+|ItemID=68
+|BoolEventItem=No
+|ItemType=Resource
+|ItemSubType=Alchemy Resource
+|Weight=1
+|BoolDepositGuild=Yes
+|BoolExchange=Yes
+|BoolAuction=No
+|BoolQuest=Yes
+|PerceptionLevel=12
+|QuestSwampMorning=No
+|QuestSwampDay=No
+|QuestSwampEvening=No
+|QuestSwampNight=Yes
+|BoolCraft=No
+}}

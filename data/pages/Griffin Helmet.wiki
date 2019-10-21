@@ -1,0 +1,73 @@
+{{Item
+|ItemID=a84
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Helmet
+|ArmorClass=Light Armor
+|Attack=11
+|Defense=18
+|Mana=0
+|Weight=210
+|Wrapping=1
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|ShopSellPrice=600
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=0
+|EnchantAtk3=0
+|EnchantAtk4=0
+|EnchantDef1=2
+|EnchantDef2=2
+|EnchantDef3=2
+|EnchantDef4=2
+|EnchantMana1=0
+|EnchantMana2=0
+|EnchantMana3=0
+|EnchantMana4=0
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_a84
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=6
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Helmet Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Helmet Part
+|Qty=6
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Mold
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=15
+}}
+{{#subobject:
+|Crafting ingredient=Crafted Leather
+|Qty=14
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=7
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=8
+}}

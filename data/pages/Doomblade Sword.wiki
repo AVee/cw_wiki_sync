@@ -1,0 +1,60 @@
+{{Item
+|ItemID=w34
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Sword
+|note=needs sale price, weight and wrapping added
+|Attack=36
+|Defense=1
+|Mana=0
+|LevelEquipRequirement=35
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|ShopSellPrice=1887
+|FreeTextOverview=It was introduced with the [[Game_updates/2018-06-30|June 30th, 2018 game update]].
+ The Doomblade Sword gets its name due to the way its manufactured. A steel blade is forged with coke, to give it a black color. After cooling, acid is applied to the blade, coloring and hardening the metal through chemistry. The case hardened finish is a mix of a dark gold, light blue, red and brown, all the way down the black blade.
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=3
+|EnchantAtk2=3
+|EnchantAtk3=3
+|EnchantAtk4=3
+|BoolCraft=Yes
+|CraftCommand=/craft_w34
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=500
+}}
+{{#subobject:
+|Crafting ingredient=Doomblade Sword Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Doomblade Blade
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Metal Plate
+|Qty=72
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=61
+}}
+{{#subobject:
+|Crafting ingredient=Silver Frame
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Hardener
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Artisan Frame
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=3
+}}

@@ -1,0 +1,13 @@
+{{Item
+|ItemID=k82
+|BoolEventItem=No
+|ItemType=Piece of Equipment
+|LevelEquipRequirement=45
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=Yes
+|QuestValleyMorning=Yes
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

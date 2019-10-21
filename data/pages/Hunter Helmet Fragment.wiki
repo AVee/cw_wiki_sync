@@ -1,0 +1,32 @@
+{{Item
+|ItemID=k12
+|BoolEventItem=No
+|ItemType=Piece of Equipment
+|note=finished
+|Weight=10
+|LevelEquipRequirement=25
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=It was introduced with the [[Advanced Crafting]] update.
+|BoolQuest=Yes
+|PerceptionLevel=0
+|QuestForestMorning=No
+|QuestForestDay=No
+|QuestForestEvening=No
+|QuestForestNight=No
+|QuestSwampMorning=Yes
+|QuestSwampDay=Yes
+|QuestSwampEvening=Yes
+|QuestSwampNight=No
+|QuestValleyMorning=No
+|QuestValleyDay=No
+|QuestValleyEvening=No
+|QuestValleyNight=No
+|QuestForayMorning=No
+|QuestForayDay=No
+|QuestForayEvening=No
+|QuestForayNight=No
+|BoolEnchantment=No
+|BoolCraft=No
+}}

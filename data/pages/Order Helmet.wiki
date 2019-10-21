@@ -1,0 +1,59 @@
+{{Item
+|ItemID=a28
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Helmet
+|ArmorClass=Heavy Armor
+|note=needs sale price
+|Attack=3
+|Defense=15
+|Mana=0
+|Weight=190
+|Wrapping=1
+|LevelEquipRequirement=25
+|BoolDepositGuild=Yes
+|ShopSellPrice=298
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=It was added to the game with the April 3, 2018 update.
+|DetailedDescription=Forged in two halves, they are reinforced in the middle by a strip of metal. The neck and chin are low on the user, where it connects to the armor like a metal bracket, hooking and locking to the chestpiece. 5 indivdual latches help ensure the wearer never loses their helmet, from the horde of invaders that clamber against the walls.
+|BoolQuest=No
+|BoolEnchantment=Yes
+|BoolCraft=Yes
+|CraftCommand=/craft_a28
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=3
+|ManaCrafting=150
+}}
+{{#subobject:
+|Crafting ingredient=Order Helmet Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Order Helmet Fragment
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Metal Plate
+|Qty=12
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=7
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Silver Mold
+|Qty=2
+}}
+{{#subobject:
+|Crafting ingredient=Sapphire
+|Qty=1
+}}

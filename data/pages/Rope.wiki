@@ -1,0 +1,143 @@
+{{RecipeInfobox}}
+The [[Resource|resource]] '''Rope''' can be crafted at the [[Workshop]] :Workshop: or traded at [[Exchange]] :Exchange:. 
+
+=Properties=
+{{InfoOverview}}
+
+=Usage=
+{{UsageList}}
+
+<!-- remove this list once the properties on most pages are set and the automatic one is more complete-->
+==Legacy usage list==
+* [[Hunter Helmet]]
+* [[Hunter Armor]]
+* [[Hunter Gloves]]
+* [[Hunter Boots]]
+
+* [[Clarity Circlet]]
+* [[Clarity Robe]]
+* [[Clarity Bracers]]
+* [[Clarity Shoes]]
+
+* [[Order Helmet]]
+* [[Order Armor]]
+* [[Order Gauntlets]]
+* [[Order Boots]]
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=31
+| CraftCommand=/craft_31
+| note=needs error checking
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Resource
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=1
+<!--Stats of special event items/reward items-->
+| Stamina=
+| InventoryIncrease=
+| Luck=
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration= 
+| Wrapping=
+
+| LevelEquipRequirement=
+| BoolEnchantment=
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=true
+| BoolAuction=false
+| BoolCraft=true
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=Crafting (Skill)
+| SkillCraftLevel=0
+| ManaCrafting=10
+<!--Choose: Workshop or Alchemy for CraftIcon-->
+| CraftIcon=Workshop
+
+| BoolQuest=true
+| PerceptionLevel=0
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=40
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=false
+| QuestForestDay=false
+| QuestForestEvening=false
+| QuestForestNight=false
+
+| QuestSwampMorning=true
+| QuestSwampDay=true
+| QuestSwampEvening=true
+| QuestSwampNight=false
+
+| QuestValleyMorning=false
+| QuestValleyDay=false
+| QuestValleyEvening=false
+| QuestValleyNight=false
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=Thread
+ |Qty=4
+}}
+{{#subobject:
+ |Crafting ingredient=String
+ |Qty=1
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

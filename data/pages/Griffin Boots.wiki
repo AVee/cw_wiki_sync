@@ -1,0 +1,60 @@
+{{Item
+|ItemID=a85
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Boots
+|ArmorClass=Light Armor
+|note=recipe needs checking, rest completely missing
+|Attack=7
+|Defense=12
+|Mana=0
+|Weight=155
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|ShopSellPrice=393
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolEnchantment=Yes
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/c_a85
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=6
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Boots Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Boots Part
+|Qty=6
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Mold
+|Qty=2
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=6
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Crafted Leather
+|Qty=14
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=2
+}}

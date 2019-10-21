@@ -1,0 +1,20 @@
+{{Item
+|ItemID=w04
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Sword
+|note=needs weight added, check if auction is still correct
+|Attack=10
+|Defense=0
+|Mana=0
+|Wrapping=1
+|LevelEquipRequirement=0
+|BoolDepositGuild=Yes
+|ShopBuyPrice=645
+|ShopSellPrice=193
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=No
+}}

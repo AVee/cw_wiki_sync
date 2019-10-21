@@ -1,0 +1,121 @@
+{{RecipeInfobox}}
+
+Equipping a torch in the [[Weapon|Off Hand Weapon]] slot reduces the time of the [[Quest|quests]] :Forest:[[Forest]], :Swamp:[[Swamp]] and :Valley:[[Valley]] by one minute, but only at the [[Time|time of day]] night. It also increases the loot found at night in Forest. Torches can randomly break during quests.
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=tch
+| CraftCommand=/craft_tch
+| note=needs weight, wrapping & checking
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Consumable
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=
+<!--Stats of special event items/reward items-->
+| Stamina=
+| InventoryIncrease=
+| Luck=
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration= 
+| Wrapping=
+
+| LevelEquipRequirement=0
+| BoolEnchantment=false
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=false
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=false
+| BoolAuction=false
+| BoolCraft=true
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=Crafting (Skill)
+| SkillCraftLevel=0
+| ManaCrafting=80
+<!--Choose: Workshop or Alchemy for CraftIcon-->
+| CraftIcon=Workshop
+
+| BoolQuest=false
+| PerceptionLevel=
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=Stick
+ |Qty=5
+}}
+{{#subobject:
+ |Crafting ingredient=Coke
+ |Qty=1
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

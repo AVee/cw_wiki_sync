@@ -1,0 +1,40 @@
+{{Item
+|ItemID=618
+|BoolEventItem=No
+|ItemType=Pet Food
+|BoolDepositGuild=Yes
+|BoolExchange=Yes
+|BoolAuction=No
+|BoolQuest=Yes
+|PlayerQuestMinLevel=3
+|QuestForestMorning=No
+|QuestForestDay=No
+|QuestForestEvening=No
+|QuestForestNight=No
+|QuestSwampMorning=No
+|QuestSwampDay=No
+|QuestSwampEvening=No
+|QuestSwampNight=No
+|QuestValleyMorning=No
+|QuestValleyDay=No
+|QuestValleyEvening=No
+|QuestValleyNight=No
+|QuestForayMorning=Yes
+|QuestForayDay=Yes
+|QuestForayEvening=Yes
+|QuestForayNight=No
+}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+'''{{PAGENAME}}''' is a consumable item that is needed to feed [[Pet|pets]] of the type [[Horse]]. 
+
+=Acquisition=
+{{PAGENAME}} can be bought in the :Paws: Menagerie of the [[Shop]] for 1 :Gem: with the commande <code>/buy_{{#show: {{PAGENAME}}| ?ItemID}}</code> or can be possible loot for succesful [[Foray|forays]]. {{PAGENAME}} can also be traded in the exchange with <code>/t_{{#show: {{PAGENAME}}| ?ItemID}}</code>

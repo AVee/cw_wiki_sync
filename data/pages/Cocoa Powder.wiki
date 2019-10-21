@@ -1,0 +1,182 @@
+Cocoa Powder is a historical basic [[Resource|resource]] in the game. It was introduced with the [[Valentines Day 2018]] event and was removed from the game with the end of the event. It was one of the ingredients used to craft [[Cake|cakes]].
+
+=Properties=
+For droprate research please consult [[Talk:{{PAGENAME}}]].
+
+{| class="wikitable"
+|+Item Properties
+|-
+| style="width: 50%" colspan="3" align="center" style="background-color:#b3b3b3" | '''General information'''
+|-
+| '''Item'''
+| colspan="2| '''{{PAGENAME}}'''
+|- 
+| '''Item identifier code''' 
+| colspan="2| <code>e1</code>
+|-
+| '''Item Type'''
+| colspan="2" | Basic [[Resource]]
+|-
+| colspan="3" align="center" style="background-color:#b3b3b3"| '''Crafting'''
+|-
+| '''Can be crafted'''
+| colspan="2| no
+|-
+| '''Required level of [[Crafting (Skill)]]'''
+| colspan="2| n/a
+|-
+|style="width: 40%"| '''Recipe (discovery)''' 
+|style="width: 30%"| '''Item 
+|style="width: 30%"| '''Amount'''
+|-
+| || n/a || n/a
+|-
+| colspan="3" align="center" style="background-color:#b3b3b3"| '''Quests'''
+|-
+| '''Can be found at [[Quest|quests]]'''
+| colspan="2" | 
+|-
+| || '''Quest''' || '''[[Time]]'''
+|-
+| || [[Forest]] || yes 
+|-
+| || [[Swamp]]  ||  n/a
+|-
+| || [[Valley]] || n/a
+|-
+| '''Required Level of [[Perception]]'''
+| colspan="2"| 0
+|-
+| colspan="3" align="center" style="background-color:#b3b3b3" | '''Trading'''
+|-
+| '''Exchange market'''
+| colspan="2" | yes
+|-
+| '''Exchange-command'''
+| colspan="2" | <code>t_e1</code>
+|-
+| '''Auction'''
+| colspan="2" | no
+|-
+|}
+
+=Usage=
+* [[Cake]]
+
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=e1
+| CraftCommand=
+
+| BoolEventItem=true
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Resource
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=1
+<!--Stats of special event items/reward items-->
+| Stamina=0
+| InventoryIncrease=0
+| Luck=0
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration= 
+| Wrapping=
+
+| LevelEquipRequirement=
+| BoolEnchantment=
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=true
+| BoolAuction=false
+| BoolCraft=false
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=
+| SkillCraftLevel=
+| ManaCrafting=
+<!--Choose: Workshop or Alchemy for CraftIcon-->
+| CraftIcon=
+
+| BoolQuest=true
+| PerceptionLevel=0
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=1
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

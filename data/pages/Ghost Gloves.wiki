@@ -1,0 +1,70 @@
+{{Item
+|ItemID=a58
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Gloves
+|ArmorClass=Light Armor
+|DetailedDescription=Similar to regular Gloves, they appear to be made of wool. Except, having 2 layers of Metallic Fiber and 3 layers of Crafted Leather spun thin as twine, and dyed white and sprinkled with filed Sapphire for a glittery effect. Similar to a trick, anyone who fails to recognize this type of glove is in for a real treat, or a stabbing.
+|note=needs weight, wrapping and error checking
+|Attack=5
+|Defense=10
+|Mana=0
+|LevelEquipRequirement=35
+|BoolDepositGuild=Yes
+|ShopSellPrice=270
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=0
+|EnchantAtk3=0
+|EnchantAtk4=0
+|EnchantDef1=2
+|EnchantDef2=1
+|EnchantDef3=2
+|EnchantDef4=1
+|EnchantMana1=0
+|EnchantMana2=0
+|EnchantMana3=0
+|EnchantMana4=0
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_a58
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=500
+}}
+{{#subobject:
+|Crafting ingredient=Ghost Gloves Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Ghost Gloves Part
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Crafted Leather
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=7
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Sapphire
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Frame
+|Qty=1
+}}

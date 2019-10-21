@@ -1,0 +1,14 @@
+{{Item
+|ItemID=hw107
+|BoolEventItem=Yes
+|ItemType=Misc
+|note=HW Event Item
+|BoolDepositGuild=No
+|BoolExchange=No
+|BoolAuction=No
+|BoolQuest=Yes
+|PlayerQuestMinLevel=0
+|PerceptionLevel=0
+|QuestForestEvening=Yes
+|BoolCraft=No
+}}

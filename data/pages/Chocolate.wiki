@@ -1,0 +1,21 @@
+{{Item
+|ItemID=e9
+|BoolEventItem=Yes
+|Event=Valentines Day 2018, Trade Union Event 2019
+|ItemType=Consumable
+|Attack=0
+|Defense=0
+|Mana=0
+|Stamina=0
+|InventoryIncrease=0
+|Luck=0
+|LevelEquipRequirement=1
+|BoolDepositGuild=No
+|BoolExchange=No
+|BoolAuction=No
+|FreeTextOverview='''Chocolate''' is an event item from the historical event[[Valentines Day 2018]] that could be rewarded from eating [[Cake|cake]]. It was reintroduced with the [[Trade Union Event 2019]] and was a possible reward from boxes there. Chocolate is a consumable item that gives the player one :Stamina: stamina, but not increasing the maximum amount of stamina.
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

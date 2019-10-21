@@ -1,0 +1,19 @@
+{{Item
+|ItemID=e128
+|BoolEventItem=Yes
+|Event=Monster Hunt 2018
+|ItemType=Protective Gear
+|ItemSubType=Helmet
+|note=page creation. check info
+weight, wrapping, level req...etc missing
+|Attack=7
+|Defense=11
+|Mana=0
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=The Manwolf Helmet could be obtained in the [[Monster Hunt 2018]] event. It can't be enchanted.
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=No
+}}

@@ -1,0 +1,34 @@
+{{Item
+|ItemID=a04
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Armor
+|note=needs weight
+|Attack=1
+|Defense=15
+|Mana=0
+|Wrapping=1
+|LevelEquipRequirement=15
+|BoolDepositGuild=Yes
+|ShopBuyPrice=430
+|ShopSellPrice=128
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantDef1=1
+|EnchantDef2=1
+|EnchantDef3=1
+|EnchantDef4=1
+|BoolCraft=No
+}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}

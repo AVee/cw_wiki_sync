@@ -1,0 +1,31 @@
+{{Item
+|ItemID=38
+|BoolEventItem=No
+|ItemType=Resource
+|note=recipe completed, please fill out other info
+|Weight=3
+|BoolDepositGuild=No
+|BoolExchange=No
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_38
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=300
+}}
+{{#subobject:
+|Crafting ingredient=Artisan Frame
+|Qty=2
+}}
+{{#subobject:
+|Crafting ingredient=Magic Stone
+|Qty=2
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Silver Alloy
+|Qty=5
+}}

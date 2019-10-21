@@ -1,0 +1,23 @@
+{{Item
+|ItemID=36
+|BoolEventItem=No
+|ItemType=Resource
+|note=recipe not complete. all other info missing
+|Weight=2
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/c_36
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=300
+}}
+{{#subobject:
+|Crafting ingredient=Cloth
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Powder
+|Qty=3
+}}

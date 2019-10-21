@@ -1,0 +1,131 @@
+The '''{{PAGENAME}}''' is an item of the type {{#show: {{PAGENAME}} |?ItemType}}
+
+=Characteristics=
+{{InfoOverview}}
+
+=Acquisition=
+When starting the game and using the button "Me" or typing <code>/me</code>, the player will find a short notice on the top of the message:
+ :Exclamationmark: Please report to your captain in the castle chat. The password is ZOM ODO.
+''(Note: The password is randomly generated for each player)''
+
+Joining the linked castle chat and typing out those letters given in the password awards the player with a cape, that can be equipped next to all standard equipment.
+ Earned: '''[[Royal Guard Cape]]'''. Check <code>/inv</code> to wear it.
+
+=Trivia=
+In earlier versions of the game the {{PAGENAME}} could be bought in the [[Shop|castle shop]] for 1 :Gold:, this got deactivated later on and now the item can only be acquired through [[Captain Arthur]].
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=a26
+| CraftCommand=
+| note=needs weight added
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/ResourceMisc-->
+| ItemType=Cape
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=1
+| Defense=1
+| Mana=0
+| Weight=
+<!--Stats of special event items/reward items-->
+| Stamina=0
+| InventoryIncrease=0
+| Luck=0
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration=
+| Wrapping=1
+
+| LevelEquipRequirement=0
+| BoolEnchantment=false
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=0
+| ShopBuyPrice=
+
+| BoolExchange=false
+| BoolAuction=false
+| BoolCraft=false
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=
+| SkillCraftLevel=
+| ManaCrafting=
+
+| BoolQuest=false
+| PerceptionLevel=
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

@@ -1,0 +1,68 @@
+{{Item
+|ItemID=a53
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Gloves
+|ArmorClass=Heavy Armor
+|Attack=3
+|Defense=13
+|Mana=0
+|LevelEquipRequirement=35
+|ShopSellPrice=288
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=0
+|EnchantAtk3=0
+|EnchantAtk4=0
+|EnchantDef1=2
+|EnchantDef2=1
+|EnchantDef3=2
+|EnchantDef4=1
+|EnchantMana1=0
+|EnchantMana2=0
+|EnchantMana3=0
+|EnchantMana4=0
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_a53
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=500
+}}
+{{#subobject:
+|Crafting ingredient=Royal Gauntlets Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Royal Gauntlets Part
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Metallic Fiber
+|Qty=21
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=7
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Sapphire
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Frame
+|Qty=1
+}}
+{{#subobject:}}
+{{#subobject:}}

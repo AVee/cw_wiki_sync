@@ -1,0 +1,137 @@
+Powder is one of the basic [[Resource|resources]] in the game. It can be found at [[Quest|quests]].
+
+=Properties=
+For droprate research please consult [[Talk:{{PAGENAME}}]].
+
+{{InfoOverview}}
+
+=Usage=
+{{UsageList}}
+
+==Legacy usage list==
+* [[Metal Plate]]
+* [[Silver Arrows Pack]]
+* [[Silver Frame]]
+* [[Steel Mold]]
+* [[Steel]]
+
+
+
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=07
+| CraftCommand=
+| note=finished
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Resource
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=1
+<!--Stats of special event items/reward items-->
+| Stamina=
+| InventoryIncrease=
+| Luck=
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration= 
+| Wrapping=
+
+| LevelEquipRequirement=
+| BoolEnchantment=
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=true
+| BoolAuction=false
+| BoolCraft=false
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=
+| SkillCraftLevel=
+| ManaCrafting=
+<!--Choose: Workshop or Alchemy for CraftIcon-->
+| CraftIcon=
+
+| BoolQuest=true
+| PerceptionLevel=0
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=1
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=true
+| QuestForestDay=true
+| QuestForestEvening=true
+| QuestForestNight=true
+
+| QuestSwampMorning=true
+| QuestSwampDay=true
+| QuestSwampEvening=true
+| QuestSwampNight=true
+
+| QuestValleyMorning=true
+| QuestValleyDay=true
+| QuestValleyEvening=true
+| QuestValleyNight=true
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

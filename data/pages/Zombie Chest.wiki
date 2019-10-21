@@ -1,0 +1,135 @@
+The '''Zombie Chest''' is a possible reward for exchanging [[Ichor]] at the [[Scientist]] during the [[Monster Hunt 2018]] event. 
+
+=Possible loot=
+
+* :Coupon: [[Gift Coupon: Horse]]
+* :Coupon: [[Gift Coupon: Pig]]
+* :Coupon: [[Gift Coupon: Mouse]]
+* :Coupon: [[Gift Coupon: Owl]]
+* :Coupon: [[Gift Coupon: Gopher]]
+* :Bookgreen: [[Rare Scroll of Peace (Green)]]
+* :Bookgreen: [[Rare Scroll of Rage (Green)]]
+* :Bookblue: [[Rare Scroll of Peace (Blue)]]
+* :Bookblue: [[Rare Scroll of Rage (Blue)]]
+
+
+
+
+
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=ch1
+| CraftCommand=
+
+| BoolEventItem=true
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Consumable
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=
+<!--Stats of special event items/reward items-->
+| Stamina=0
+| InventoryIncrease=0
+| Luck=0
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration=
+| Wrapping=
+
+| LevelEquipRequirement=
+| BoolEnchantment=
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=true
+| BoolAuction=false
+| BoolCraft=false
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=
+| SkillCraftLevel=
+| ManaCrafting=
+<!--Choose: Workshop or Alchemy for CraftIcon-->
+| CraftIcon=
+
+| BoolQuest=false
+| PerceptionLevel=
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

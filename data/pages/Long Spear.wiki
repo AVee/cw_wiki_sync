@@ -1,0 +1,20 @@
+{{Item
+|ItemID=w09
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Spear
+|note=needs weight
+|Attack=5
+|Defense=3
+|Mana=0
+|Wrapping=1
+|LevelEquipRequirement=0
+|BoolDepositGuild=Yes
+|ShopBuyPrice=364
+|ShopSellPrice=109
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=No
+}}

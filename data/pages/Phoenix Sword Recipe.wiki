@@ -1,0 +1,10 @@
+{{Item
+|ItemID=r93
+|BoolEventItem=No
+|ItemType=Recipe (Item)
+|BoolQuest=Yes
+|QuestValleyDay=Yes
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

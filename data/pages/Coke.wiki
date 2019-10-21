@@ -1,0 +1,41 @@
+{{Item
+|ItemID=23
+|BoolEventItem=No
+|ItemType=Resource
+|Weight=1
+|BoolDepositGuild=Yes
+|BoolExchange=Yes
+|BoolAuction=No
+|BoolQuest=Yes
+|PlayerQuestMinLevel=1
+|PerceptionLevel=0
+|QuestForestMorning=No
+|QuestForestDay=No
+|QuestForestEvening=No
+|QuestForestNight=Yes
+|QuestSwampMorning=Yes
+|QuestSwampDay=Yes
+|QuestSwampEvening=Yes
+|QuestSwampNight=Yes
+|QuestValleyMorning=No
+|QuestValleyDay=No
+|QuestValleyEvening=No
+|QuestValleyNight=Yes
+|QuestForayMorning=Yes
+|QuestForayDay=Yes
+|QuestForayEvening=Yes
+|BoolEnchantment=No
+|BoolCraft=Yes
+|CraftCommand=/craft_23
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=0
+|ManaCrafting=10
+}}
+{{#subobject:
+|Crafting ingredient=Charcoal
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Coal
+|Qty=3
+}}

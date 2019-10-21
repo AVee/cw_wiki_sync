@@ -1,0 +1,11 @@
+{{Item
+|ItemID=k93
+|BoolEventItem=No
+|ItemType=Piece of Equipment
+|LevelEquipRequirement=45
+|BoolQuest=Yes
+|QuestForestMorning=Yes
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

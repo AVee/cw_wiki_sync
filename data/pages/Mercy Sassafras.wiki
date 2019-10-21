@@ -1,0 +1,27 @@
+{{Item
+|ItemID=40
+|BoolEventItem=No
+|ItemType=Resource
+|ItemSubType=Alchemy Resource
+|note=needs drop info & error checking
+|Weight=1
+|BoolDepositGuild=Yes
+|BoolExchange=Yes
+|BoolAuction=No
+|BoolQuest=Yes
+|PerceptionLevel=3
+|QuestForestNight=Yes
+|QuestSwampNight=Yes
+|QuestValleyNight=Yes
+|BoolCraft=No
+}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}

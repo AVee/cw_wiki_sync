@@ -1,0 +1,9 @@
+{{Item
+|ItemID=r87
+|BoolEventItem=No
+|ItemType=Recipe (Item)
+|BoolQuest=Yes
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

@@ -1,0 +1,19 @@
+{{Item
+|ItemID=k79
+|BoolEventItem=No
+|ItemType=Piece of Equipment
+|note=every info missing
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=Yes
+|QuestSwampEvening=Yes
+|QuestForayMorning=No
+|QuestForayDay=No
+|QuestForayEvening=No
+|QuestForayNight=No
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

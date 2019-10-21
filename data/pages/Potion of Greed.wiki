@@ -1,0 +1,139 @@
+{{RecipeInfobox}}
+
+'''{{PAGENAME}}''' is a {{#show: {{PAGENAME}} |?ItemType}} of the type {{#show: {{PAGENAME}} |?ItemSubType}}. It increases the amount of resources found in [[Quest|quests]].
+
+=Characteristics=
+{{InfoOverview}}
+
+=Bill of Materials=
+{{BoM}}
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=p08
+| CraftCommand=/brew_p08
+| note=needs weight, effect added and error checking
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Consumable
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=Potion
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=
+<!--Stats of special event items/reward items-->
+| Stamina=
+| InventoryIncrease=
+| Luck=
+
+<!--For potions, time in minutes-->
+| BaseDuration=30
+| PotionEffect=It increases the amount of resources found in [[Quest|quests]].
+
+| Wrapping=
+
+| LevelEquipRequirement=
+| BoolEnchantment=
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=true
+| BoolAuction=false
+| BoolCraft=true
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=Alchemy (Skill)
+| SkillCraftLevel=2
+| ManaCrafting=15
+
+| BoolQuest=false
+| PerceptionLevel=
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+
+<!-- Enchantment atk bonus (increment, not total) -->
+| EnchantAtk1=
+| EnchantAtk2=
+| EnchantAtk3=
+| EnchantAtk4=
+
+<!-- Enchantment def bonus (increment, not total) -->
+| EnchantDef1=
+| EnchantDef2=
+| EnchantDef3=
+| EnchantDef4=
+}}
+
+{{#subobject:
+ |Crafting ingredient=Ethereal Bone
+ |Qty=1
+}}
+{{#subobject:
+ |Crafting ingredient=Kloliarway
+ |Qty=1
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

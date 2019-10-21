@@ -1,0 +1,27 @@
+{{Item
+|ItemID=60
+|BoolEventItem=No
+|ItemType=Resource
+|ItemSubType=Alchemy Resource
+|Weight=1
+|BoolDepositGuild=Yes
+|BoolExchange=Yes
+|BoolAuction=No
+|BoolCraft=Yes
+|CraftCommand=/brew_60
+|SkillCraft=Alchemy (Skill)
+|SkillCraftLevel=1
+|ManaCrafting=10
+}}
+{{#subobject:
+|Crafting ingredient=Tecceagrass
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Stinky Sumac
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Storm Hyssop
+|Qty=1
+}}

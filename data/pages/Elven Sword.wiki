@@ -1,0 +1,24 @@
+{{Item
+|ItemID=w06
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Sword
+|note=needs weight added
+|Attack=22
+|Defense=0
+|Mana=0
+|Wrapping=1
+|LevelEquipRequirement=15
+|BoolDepositGuild=Yes
+|ShopBuyPrice=1800
+|ShopSellPrice=540
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=1
+|EnchantAtk2=1
+|EnchantAtk3=1
+|EnchantAtk4=1
+|BoolCraft=No
+}}

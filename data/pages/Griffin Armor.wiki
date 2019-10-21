@@ -1,0 +1,72 @@
+{{Item
+|ItemID=a83
+|BoolEventItem=No
+|ItemType=Protective Gear
+|ItemSubType=Armor
+|ArmorClass=Light Armor
+|note=recipe needs checking, rest completely missing
+|Attack=16
+|Defense=34
+|Mana=0
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|ShopSellPrice=1035
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=0
+|EnchantAtk3=0
+|EnchantAtk4=0
+|EnchantDef1=2
+|EnchantDef2=2
+|EnchantDef3=2
+|EnchantDef4=2
+|EnchantMana1=0
+|EnchantMana2=0
+|EnchantMana3=0
+|EnchantMana4=0
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/c_a83
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=6
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Armor Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Armor Part
+|Qty=6
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Mold
+|Qty=4
+}}
+{{#subobject:
+|Crafting ingredient=Crafted Leather
+|Qty=14
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=17
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=19
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=15
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=7
+}}

@@ -1,0 +1,24 @@
+{{Item
+|ItemID=a76
+|BoolEventItem=No
+|ItemType=Special Equippable
+|DetailedDescription=A smart stick. Given out to those who helped create the encyclopedia of the land, or wiki, detailing all armors, weapons, events, craftables, resources, and parts... A laborous task. About the size of a staff, it's capped with an energizing green orb, giving the wielder extra stamina and seemingly luck. Thank you for helping!
+|note=finished
+|Attack=0
+|Defense=0
+|Mana=0
+|Stamina=2
+|Luck=2
+|Weight=10
+|Wrapping=1
+|LevelEquipRequirement=1
+|BoolDepositGuild=Yes
+|ShopSellPrice=0
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=It is a a special reward given to selected players for working on the chatwars wiki. It gives +2 :Stamina: stamina and +2 :Luck: luck.
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

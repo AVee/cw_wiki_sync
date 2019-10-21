@@ -1,0 +1,20 @@
+{{Item
+|ItemID=w11
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Spear
+|note=needs weight and enchantment info
+|Attack=12
+|Defense=7
+|Mana=0
+|Wrapping=1
+|LevelEquipRequirement=15
+|BoolDepositGuild=Yes
+|ShopBuyPrice=1414
+|ShopSellPrice=424
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|BoolCraft=No
+}}

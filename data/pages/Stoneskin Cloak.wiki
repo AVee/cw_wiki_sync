@@ -1,0 +1,69 @@
+{{Item
+|ItemID=a102
+|BoolEventItem=No
+|ItemType=Cape
+|note=recipe complete, other info missing
+|Attack=3
+|Defense=6
+|Mana=0
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=1
+|EnchantAtk3=1
+|EnchantAtk4=1
+|EnchantDef1=1
+|EnchantDef2=1
+|EnchantDef3=0
+|EnchantDef4=1
+|EnchantMana1=0
+|EnchantMana2=0
+|EnchantMana3=0
+|EnchantMana4=0
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_a102
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=6
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Stoneskin Cloak Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Stoneskin Cloak Part
+|Qty=4
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=17
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=7
+}}
+{{#subobject:
+|Crafting ingredient=Crafted Leather
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=4
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Mold
+|Qty=2
+}}
+{{#subobject:
+|Crafting ingredient=Silver Alloy
+|Qty=2
+}}

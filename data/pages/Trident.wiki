@@ -1,0 +1,63 @@
+{{Item
+|ItemID=w29
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Spear
+|note=needs weight, check enchantment info for errors
+|Attack=16
+|Defense=14
+|Mana=0
+|Wrapping=2
+|LevelEquipRequirement=25
+|BoolDepositGuild=Yes
+|ShopSellPrice=1104
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=2
+|EnchantAtk3=0
+|EnchantAtk4=2
+|EnchantDef1=2
+|EnchantDef2=0
+|EnchantDef3=2
+|EnchantDef4=0
+|BoolCraft=Yes
+|CraftCommand=/craft_w29
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=3
+|ManaCrafting=150
+}}
+{{#subobject:
+|Crafting ingredient=Trident Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Trident Blade
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Steel Mold
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=41
+}}
+{{#subobject:
+|Crafting ingredient=Wooden Shaft
+|Qty=41
+}}
+{{#subobject:
+|Crafting ingredient=Silver Alloy
+|Qty=27
+}}
+{{#subobject:
+|Crafting ingredient=Hardener
+|Qty=3
+}}

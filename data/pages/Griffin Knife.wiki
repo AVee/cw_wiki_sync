@@ -1,0 +1,65 @@
+{{Item
+|ItemID=w91
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Dagger
+|Attack=15
+|Defense=0
+|Mana=0
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolEnchantment=Yes
+|EnchantAtk1=3
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_w91
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=6
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Knife Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Griffin Knife Part
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=27
+}}
+{{#subobject:
+|Crafting ingredient=Silver Alloy
+|Qty=21
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=2
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Magic Stone
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Artisan Mold
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Blacksmith Mold
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Metal Plate
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Hardener
+|Qty=3
+}}

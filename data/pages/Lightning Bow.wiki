@@ -1,0 +1,67 @@
+{{Item
+|ItemID=w40
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Bow
+|DetailedDescription=Perhaps the fastest firing bow for its tier, it's nicknamed lightning respectively. Cleanly releasing energy on firing, and able to be drawn back 25% further than the Composite or Hailstorm bow, it prides itself in being able to punch through most armors. Featuring a 'tier' like design, the ripples help conserve energy in the frame.
+|note=weight and wrapped to be confirmed
+|Attack=27
+|Defense=8
+|Mana=0
+|Weight=200
+|Wrapping=1
+|LevelEquipRequirement=35
+|Ammunition=Silver Arrow
+|BoolDepositGuild=Yes
+|ShopSellPrice=1785
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolEnchantment=Yes
+|EnchantAtk1=3
+|EnchantAtk2=2
+|EnchantAtk3=1
+|EnchantAtk4=3
+|EnchantDef1=0
+|EnchantDef2=1
+|EnchantDef3=2
+|EnchantDef4=0
+|BoolCraft=Yes
+|CraftCommand=/craft_w40
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=500
+}}
+{{#subobject:
+|Crafting ingredient=Lightning Bow Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Lightning Bow Shaft
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Wooden Shaft
+|Qty=72
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=61
+}}
+{{#subobject:
+|Crafting ingredient=Silver Frame
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Hardener
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Artisan Frame
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=3
+}}
+{{#subobject:}}
+{{#subobject:}}

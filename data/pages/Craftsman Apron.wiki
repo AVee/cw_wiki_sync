@@ -1,0 +1,67 @@
+{{Item
+|ItemID=a101
+|BoolEventItem=No
+|ItemType=Cape
+|note=recipe complete, other info missing/unconfirmed
+|Attack=3
+|Defense=3
+|Mana=60
+|Weight=50
+|Wrapping=1
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=0
+|EnchantAtk2=1
+|EnchantAtk3=1
+|EnchantAtk4=1
+|EnchantDef1=1
+|EnchantDef2=1
+|EnchantDef3=0
+|EnchantDef4=1
+|EnchantMana1=5
+|EnchantMana2=5
+|EnchantMana3=5
+|EnchantMana4=5
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_a101
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=6
+|ManaCrafting=800
+}}
+{{#subobject:
+|Crafting ingredient=Craftsman Apron Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Craftsman Apron Part
+|Qty=4
+}}
+{{#subobject:
+|Crafting ingredient=Crafted Leather
+|Qty=17
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Quality Cloth
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Rope
+|Qty=2
+}}
+{{#subobject:
+|Crafting ingredient=Artisan Mold
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Solvent
+|Qty=1
+}}

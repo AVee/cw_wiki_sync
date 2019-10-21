@@ -1,0 +1,29 @@
+{{Item
+|ItemID=621
+|BoolEventItem=No
+|ItemType=Pet Food
+|note=need info filled out, weight
+|BoolDepositGuild=Yes
+|BoolExchange=Yes
+|BoolAuction=No
+|FreeTextOverview=Cheese is [[Pet]] food for [[Mouse]].
+|BoolQuest=Yes
+|PlayerQuestMinLevel=3
+|QuestForestMorning=No
+|QuestForestDay=No
+|QuestForestEvening=No
+|QuestForestNight=No
+|QuestSwampMorning=No
+|QuestSwampDay=No
+|QuestSwampEvening=No
+|QuestSwampNight=No
+|QuestValleyMorning=No
+|QuestValleyDay=No
+|QuestValleyEvening=No
+|QuestValleyNight=No
+|QuestForayMorning=No
+|QuestForayDay=No
+|QuestForayEvening=No
+|QuestForayNight=Yes
+|BoolCraft=No
+}}

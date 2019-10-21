@@ -1,0 +1,62 @@
+{{Item
+|ItemID=w28
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Sword
+|DetailedDescription=A sword with high honors, it has a mithril core with an edge made of ruby. The outer metal holster has a brilliant silver sheen, outlined by the red of the cutting edge. About 4 feet long, the daunting blade is considered a longsword. With a pure gold crossguard and hilt, wrapped in a thick red twine, its envied by duelists and show-offs
+|note=finished
+|Attack=31
+|Defense=0
+|Mana=0
+|Weight=180
+|Wrapping=2
+|LevelEquipRequirement=25
+|BoolDepositGuild=Yes
+|ShopSellPrice=1488
+|BoolExchange=No
+|BoolAuction=Yes
+|FreeTextOverview=It was added to the game with the April 3, 2018 update.
+|BoolQuest=No
+|BoolEnchantment=Yes
+|EnchantAtk1=2
+|EnchantAtk2=2
+|EnchantAtk3=2
+|EnchantAtk4=2
+|BoolCraft=Yes
+|CraftCommand=/craft_w28
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=3
+|ManaCrafting=150
+}}
+{{#subobject:
+|Crafting ingredient=Champion Sword Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Champion Blade
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=41
+}}
+{{#subobject:
+|Crafting ingredient=Metal Plate
+|Qty=41
+}}
+{{#subobject:
+|Crafting ingredient=Silver Alloy
+|Qty=27
+}}
+{{#subobject:
+|Crafting ingredient=Hardener
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Steel Mold
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=1
+}}

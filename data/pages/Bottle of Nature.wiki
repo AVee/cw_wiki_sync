@@ -1,0 +1,140 @@
+{{RecipeInfobox}}
+
+'''{{PAGENAME}}''' is a {{#show: {{PAGENAME}} |?ItemType}} of the type {{#show: {{PAGENAME}} |?ItemSubType}}.
+
+=Characteristics=
+{{InfoOverview}}
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=p12
+| CraftCommand=/brew_p12
+| note=needs weight added and error checking
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Consumable
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=Potion
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=
+<!--Stats of special event items/reward items-->
+| Stamina=
+| InventoryIncrease=
+| Luck=
+
+<!--For potions, time in minutes-->
+| BaseDuration=30
+| PotionEffect=Increase [[Harvest]] level by 5
+
+| Wrapping=
+
+| LevelEquipRequirement=
+| BoolEnchantment=
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=true
+| BoolAuction=false
+| BoolCraft=true
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=Alchemy (Skill)
+| SkillCraftLevel=3
+| ManaCrafting=30
+<!--Choose: Workshop or Alchemy for CraftIcon-->
+| CraftIcon=Alchemy
+
+| BoolQuest=false
+| PerceptionLevel=
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+
+<!-- Enchantment atk bonus (increment, not total) -->
+| EnchantAtk1=
+| EnchantAtk2=
+| EnchantAtk3=
+| EnchantAtk4=
+
+<!-- Enchantment def bonus (increment, not total) -->
+| EnchantDef1=
+| EnchantDef2=
+| EnchantDef3=
+| EnchantDef4=
+}}
+
+{{#subobject:
+ |Crafting ingredient=Plasma of Abyss
+ |Qty=3
+}}
+{{#subobject:
+ |Crafting ingredient=Purified Powder
+ |Qty=1
+}}
+{{#subobject:
+ |Crafting ingredient=Kloliarway
+ |Qty=1
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+=Bill of Materials=
+{{BoM}}

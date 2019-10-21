@@ -1,0 +1,18 @@
+{{Item
+|ItemID=k85
+|BoolEventItem=No
+|ItemType=Piece of Equipment
+|LevelEquipRequirement=45
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=Yes
+|QuestValleyNight=Yes
+|QuestForayMorning=No
+|QuestForayDay=No
+|QuestForayEvening=No
+|QuestForayNight=No
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

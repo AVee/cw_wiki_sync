@@ -1,0 +1,11 @@
+{{Item
+|ItemID=k97
+|BoolEventItem=No
+|ItemType=Piece of Equipment
+|LevelEquipRequirement=45
+|BoolQuest=Yes
+|QuestValleyEvening=Yes
+|BoolEnchantment=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}

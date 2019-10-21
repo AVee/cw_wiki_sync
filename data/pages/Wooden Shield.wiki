@@ -1,0 +1,21 @@
+{{Item
+|ItemID=a21
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Shield
+|note=needs weight added
+|Attack=0
+|Defense=1
+|Mana=0
+|Wrapping=1
+|LevelEquipRequirement=0
+|BoolDepositGuild=Yes
+|ShopBuyPrice=3
+|ShopSellPrice=0
+|BoolExchange=No
+|BoolAuction=No
+|FreeTextOverview=Unlike other [[Weapon|weapons]] the {{PAGENAME}} is listed under ''Equipment'' in the [[Shop|shop]] and not weapons, but it uses the [[Weapon|Off Hand Weapon]] slot to be equipped, as all other [[Weapon|weapons]] do.
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=No
+}}

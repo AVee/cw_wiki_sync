@@ -1,0 +1,138 @@
+{{RecipeInfobox}}
+
+'''Steel''' is a [[Resource|resource]] that can be found in [[Quest|quests]] or be crafted at the [[Workshop]] :Workshop:. 
+
+=Properties=
+For droprate research please consult [[Talk:{{PAGENAME}}]].
+
+{{InfoOverview}}
+
+=Usage=
+{{UsageList}}
+
+==Legacy usage list==
+* [[Cord]]
+* [[Silver Alloy]]
+* [[Steel Arrows Pack]]
+* [[Steel Mold]]
+
+
+
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=19
+| CraftCommand=/craft_19
+| note=should be fine
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Resource
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=2
+<!--Stats of special event items/reward items-->
+| Stamina=
+| InventoryIncrease=
+| Luck=
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration= 
+| Wrapping=
+
+| LevelEquipRequirement=
+| BoolEnchantment=
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=true
+| BoolAuction=false
+| BoolCraft=true
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=Crafting (Skill)
+| SkillCraftLevel=0
+| ManaCrafting=10
+<!--Choose: Workshop or Alchemy for CraftIcon-->
+| CraftIcon=Workshop
+
+| BoolQuest=true
+| PerceptionLevel=0
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=1
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=
+| QuestForestDay=
+| QuestForestEvening=
+| QuestForestNight=
+
+| QuestSwampMorning=
+| QuestSwampDay=
+| QuestSwampEvening=
+| QuestSwampNight=true
+
+| QuestValleyMorning=false
+| QuestValleyDay=false
+| QuestValleyEvening=false
+| QuestValleyNight=true
+
+| QuestForayMorning=
+| QuestForayDay=
+| QuestForayEvening=
+| QuestForayNight=
+}}
+
+{{#subobject:
+ |Crafting ingredient=Powder
+ |Qty=2
+}}
+{{#subobject:
+ |Crafting ingredient=Iron Ore
+ |Qty=2
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}
+{{#subobject:
+ |Crafting ingredient=
+ |Qty=
+}}

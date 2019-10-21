@@ -1,0 +1,114 @@
+{{Item
+|ItemID=r33
+|BoolEventItem=No
+|ItemType=Recipe (Item)
+|QuestForestMorning=No
+|QuestForestDay=No
+|QuestForestEvening=No
+|QuestForestNight=No
+|QuestSwampMorning=No
+|QuestSwampDay=No
+|QuestSwampEvening=No
+|QuestSwampNight=No
+|QuestValleyMorning=Yes
+|QuestValleyDay=No
+|QuestValleyEvening=No
+|QuestValleyNight=No
+|QuestForayMorning=No
+|QuestForayDay=No
+|QuestForayEvening=No
+|QuestForayNight=No
+|BoolCraft=No
+|BoolRecipeIncomplete=No
+}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+{{#subobject:}}
+'''{{PAGENAME}}''' is an item of the type [[Recipe (Item)]] and was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].
+
+=Properties=
+{{InfoOverview}}
+
+If the {{PAGENAME}} is in the player's inventory, the crafting recipe can be shown in the game with <code>/view_{{#show: {{PAGENAME}} |?ItemID }}</code>. Crafting the item consumes the recipe. 
+
+<!-- Set iteminfo -->
+{{#set:
+| ItemID=r33
+| CraftCommand=
+| note=needs drop info added
+
+| BoolEventItem=false
+
+<!--please chose: Weapon/Cape/Protective Gear/Piece of Equipment/Recipe (Item)/Consumable/Resource/Misc-->
+| ItemType=Recipe (Item)
+<!--please chose: Sword/Spear/Dagger/Shield/Blunt/Helmet/Armor/Gloves/Boots-->
+| ItemSubType=
+<!--please chose: Heavy Armor/Robe Armor/Light Armor-->
+| ArmorClass=
+
+<!--add numbers-->
+| Attack=
+| Defense=
+| Mana=
+| Weight=10
+<!--Stats of special event items/reward items-->
+| Stamina=
+| InventoryIncrease=
+| Luck=
+
+<!--For potions, “min” for minutes, “h” for hours-->
+| BaseDuration=
+| Wrapping=
+
+| LevelEquipRequirement=35
+| BoolEnchantment=false
+<!--e.g. Type of arrows needed-->
+| Ammunition=
+
+
+| BoolDepositGuild=true
+| ShopSellPrice=
+| ShopBuyPrice=
+
+| BoolExchange=false
+| BoolAuction=true
+| BoolCraft=false
+
+<!--Choose: Crafting (Skill)/Alchemy (Skill)-->
+| SkillCraft=
+| SkillCraftLevel=
+| ManaCrafting=
+
+| BoolQuest=true
+| PerceptionLevel=2
+<!-- Minimum level players need to have not regarding perception level (eg level 40 for bauxite)-->
+| PlayerQuestMinLevel=
+
+<!--All QuestXXX are boolean, used for “can be found then and there”-->
+| QuestForestMorning=false
+| QuestForestDay=false
+| QuestForestEvening=false
+| QuestForestNight=false
+
+| QuestSwampMorning=false
+| QuestSwampDay=false
+| QuestSwampEvening=false
+| QuestSwampNight=false
+
+| QuestValleyMorning=
+| QuestValleyDay=
+| QuestValleyEvening=
+| QuestValleyNight=
+
+| QuestForayMorning=false
+| QuestForayDay=false
+| QuestForayEvening=false
+| QuestForayNight=false
+}}

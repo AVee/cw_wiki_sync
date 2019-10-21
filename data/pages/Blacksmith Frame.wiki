@@ -1,0 +1,30 @@
+{{Item
+|ItemID=29
+|BoolEventItem=No
+|ItemType=Resource
+|note=finished
+|Weight=3
+|BoolDepositGuild=Yes
+|BoolExchange=No
+|BoolAuction=No
+|FreeTextOverview=It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]] and is used in crafting tier 3 :Bookblue: equipment.
+|BoolQuest=No
+|BoolEnchantment=No
+|BoolCraft=Yes
+|CraftCommand=/craft_29
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=4
+|ManaCrafting=50
+}}
+{{#subobject:
+|Crafting ingredient=Bauxite
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Purified Powder
+|Qty=3
+}}
+{{#subobject:
+|Crafting ingredient=Silver Mold
+|Qty=1
+}}

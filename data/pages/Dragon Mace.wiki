@@ -1,0 +1,60 @@
+{{Item
+|ItemID=w44
+|BoolEventItem=No
+|ItemType=Weapon
+|ItemSubType=Blunt
+|DetailedDescription=Breaking the norm, the Dragon Mace is decorated with teeth like spikes, mounted on a solid, fist sized orb. Each spike is curled slightly, giving a gnarled, rough appearance to the weapon. The shaft, only about a foot long, is decorated in a dragon like design, which wraps around the handle and curls off the grip in a tail like shape.
+|note=enchantment pattern missing
+|Attack=17
+|Defense=18
+|Mana=0
+|Weight=200
+|Wrapping=1
+|LevelEquipRequirement=35
+|BoolDepositGuild=Yes
+|ShopSellPrice=1785
+|BoolExchange=No
+|BoolAuction=Yes
+|BoolQuest=No
+|BoolEnchantment=Yes
+|BoolCraft=Yes
+|BoolRecipeIncomplete=No
+|CraftCommand=/craft_w44
+|SkillCraft=Crafting (Skill)
+|SkillCraftLevel=5
+|ManaCrafting=500
+}}
+{{#subobject:
+|Crafting ingredient=Dragon Mace Recipe
+|Qty=1
+}}
+{{#subobject:
+|Crafting ingredient=Dragon Mace Head
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Coke
+|Qty=61
+}}
+{{#subobject:
+|Crafting ingredient=Silver Frame
+|Qty=11
+}}
+{{#subobject:
+|Crafting ingredient=Metal Plate
+|Qty=72
+}}
+{{#subobject:
+|Crafting ingredient=Artisan Frame
+|Qty=5
+}}
+{{#subobject:
+|Crafting ingredient=Hardener
+|Qty=9
+}}
+{{#subobject:
+|Crafting ingredient=Ruby
+|Qty=3
+}}
+{{#subobject:}}
+{{#subobject:}}

@@ -10529,6 +10529,7 @@
     {
         "id": "31",
         "eventItem": false,
+        "name": "Rope",
         "type": "Resource",
         "wikiNote": "needs error checking",
         "weight": 1,
@@ -10551,6 +10552,7 @@
         "dropValleyEvening": false,
         "dropValleyNight": false,
         "craftable": true,
+        "recipeIncomplete": false,
         "craftCommand": "/craft_31",
         "craftSkill": "Crafting (Skill)",
         "craftLevel": 0,
@@ -10560,8 +10562,8 @@
             "String": "1"
         },
         "pagename": "Rope",
-        "lastModified": "2019-11-02T21:20:09Z",
-        "revision": 12368,
+        "lastModified": "2019-11-15T23:34:23Z",
+        "revision": 12857,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rope"
     },
     {

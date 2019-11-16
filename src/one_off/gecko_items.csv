@@ -1,0 +1,511 @@
+id	itemname	type	Attack	Defense	Mana	Tier	ArmorType	Forest_Morning	Forest_Day	Forest_Evening	Forest_Night	Swamp_Morning	Swamp_Day	Swamp_Evening	Swamp_Night	Valley_Morning	Valley_Day	Valley_Evening	Valley_Night	Foray_Morning	Foray_Day	Foray_Evening	Foray_Night	Droprate_Notes
+01	Thread	Resource						1	1	1	1	20	20	20	20	20	20	20	20					
+02	Stick	Resource						1	1	1	1	0	0	0	0	0	0	0	0					
+03	Pelt	Resource						0	0	0	1	20	20	20	20	0	0	0	0					
+04	Bone	Resource						0	0	0	0	20	20	20	20	20	20	20	20					
+05	Coal	Resource						1	1	1	0	0	0	0	20	20	20	20	0					
+06	Charcoal	Resource						0	0	0	1	20	20	20	20	0	0	0	20					
+07	Powder	Resource						1	1	1	1	20	20	20	20	20	20	20	20					
+08	Iron ore	Resource						0	0	0	1	0	0	0	0	20	20	20	20					
+09	Cloth	Resource						1	1	1	0	20	20	20	0	0	0	0	0	0	0	0	0	
+10	Silver ore	Resource						1	1	1	0	20	20	20	0	20	20	20	20					
+100	Pouch of Gold	Misc						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+11	Bauxite	Resource							40	40		40	40	40	40	40	40	40	40					
+13	Magic stone	Resource						1		1	1		20		20	20	20	20	20				3	
+14	Wooden shaft	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+15	Sapphire	Resource						0	0	0	0					20	20	20	0					
+16	Solvent	Resource						0	0	0	0	20	20	20		20	20	20	0					
+17	Ruby	Resource						0	0	0	0					0	0	0	20					
+18	Hardener	Resource						0	0	0	1	0	0	0	20	0	0	0	20					
+19	Steel	Resource						0	0	0	1	0	0	0	20	20	20	20	20					
+20	Leather	Resource						1	1	1		20	20	20		20	20	20	20					
+21	Bone powder	Resource						1	1		1	20	20	20	20	20		20	20					
+22	String	Resource						1	1	1		20	20	20		20								
+23	Coke	Resource						0	0	0	1	20	20	20	20							3		
+24	Purified powder	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+25	Silver alloy	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+27	Steel mold	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+28	Silver mold	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+29	Blacksmith frame	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+30	Artisan frame	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+31	Rope	Resource						40	40			40				40	40	40	0	0	0	0	0	
+32	Silver frame	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+33	Metal plate	Resource						40	40	40		0	0	0	0	40	40	40	0	0	0	0	0	
+34	Metallic fiber	Resource						0	0	0	40	0	0	0	40	0	0	0	40	0	0	0	0	
+35	Crafted leather	Resource						0	0	0	40	0	0	0	40	0	0	0	40	0	0	0	0	
+36	Quality Cloth	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+37	Blacksmith mold	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+38	Artisan mold	Resource						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+39	Stinky Sumac	Herb						1	1	1	0	1	1	1	0	1	1	1	0	0	0	0	0	
+40	Mercy Sassafras	Herb						0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	
+41	Cliff Rue	Herb						1	1	1	0	1	1	1	0	1	1	1	0	0	0	0	0	
+42	Love Creeper	Herb						7	7	7	0	7	7	7	0	7	7	7	0	0	0	0	0	
+43	Wolf Root	Herb						7	7	7	0	7	7	7	0	7	7	7	0	0	0	0	0	
+44	Swamp Lavender	Herb						0	0	0	2	0	0	0	2	0	0	0	2	0	0	0	0	
+45	White Blossom	Herb						0	0	0	2	0	0	0	2	0	0	0	2	0	0	0	0	
+46	Ilaves	Herb						1	1	1	0	1	1	1	0	1	1	1	0	0	0	0	0	
+47	Ephijora	Herb						1	1	1	0	1	1	1	0	1	1	1	0	0	0	0	0	
+48	Storm Hyssop	Herb						0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	
+49	Cave Garlic	Herb						0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	
+50	Yellow Seed	Herb						0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	
+501	Wrapping	Misc						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+505	Wooden Arrows Pack	Arrows						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+51	Tecceagrass	Herb						0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	
+511	Steel Arrows Pack	Arrows						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+513	Silver Arrows Pack	Arrows						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+515	Broad Arrows Pack	Arrows						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+517	Heavy Arrows Pack	Arrows						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+519	Compound Arrows Pack	Arrows						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+52	Spring Bay Leaf	Herb						0	0	0	7	0	0	0	7	0	0	0	7	0	0	0	0	
+53	Ash Rosemary	Herb						2	2	2	0	2	2	2	0	2	2	2	0	0	0	0	0	
+54	Sanguine Parsley	Herb						2	2	2	0	2	2	2	0	2	2	2	0	0	0	0	0	
+55	Sun Tarragon	Herb						1	1	1	0	1	1	1	0	1	1	1	0	0	0	0	0	
+56	Maccunut	Herb						0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	
+57	Dragon Seed	Herb						0	0	0	7	0	0	0	7	0	0	0	7	0	0	0	0	
+58	Queen's Pepper	Herb						2	2	2	0	2	2	2	0	2	2	2	0	0	0	0	0	
+59	Plasma of abyss	Herb						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+60	Ultramarine dust	Herb						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+61	Ethereal bone	Herb						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+614	🎟Gift Coupon 'Pig'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+615	🎟Gift Coupon 'Horse'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+616	🎟Gift Coupon 'Owl'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+617	🎟Gift Coupon 'Mouse'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+618	Hay	Pet Food						0	0	0	0	0	0	0	0	0	0	0	0	3		3	0	
+619	Corn	Pet Food						0	0	0	0	0	0	0	0	0	0	0	0	3	3			
+62	Itacory	Herb						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+620	Hamsters	Pet Food						0	0	0	0	0	0	0	0	0	0	0	0				3	
+621	Cheese	Pet Food						0	0	0	0	0	0	0	0	0	0	0	0				3	
+622	🎟Gift Coupon 'Gopher'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+623	🎟Gift Coupon 'Ants'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+624	🎟Gift Coupon 'Spider'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+625	🎟Gift Coupon 'Haunted'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+626	🎟Gift Coupon 'Camel'	Pet Coupon						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+63	Assassin Vine	Herb						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+64	Kloliarway	Herb						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+65	Astrulic	Herb						12	12	12	0	12	12	12	0	12	12	12	0	0	0	0	0	
+66	Flammia Nut	Herb						12	12	12	0	12	12	12	0	12	12	12	0	0	0	0	0	
+67	Plexisop	Herb						0	0	0	12	0	0	0	12	0	0	0	12	0	0	0	0	
+68	Mammoth Dill	Herb						0	0	0	12	0	0	0	12	0	0	0	12	0	0	0	0	
+69	Silver dust	Herb						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a01	Cloth Jacket	Armor	0	2	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a02	Leather Shirt	Armor	0	4	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a03	Chain Mail	Armor	0	12	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a04	Silver Cuirass	Armor	1	15	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a05	Mithril Armor	Armor	3	17	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a06	Hat	Helmet	0	1	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a07	Leather Hood	Helmet	0	2	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a08	Steel Helmet	Helmet	0	3	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a09	Silver Helmet	Helmet	0	7	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a10	Mithril Helmet	Helmet	0	12	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a100	Assault Cape	Cape	6	3	0	4	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a101	Craftsman Apron	Cape	3	3	60	4	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a102	Stoneskin Cloak	Cape	3	6	0	4	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a11	Sandals	Boots	0	1	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a12	Leather Shoes	Boots	0	2	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a13	Steel Boots	Boots	0	3	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a14	Silver Boots	Boots	0	5	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a15	Mithril Boots	Boots	0	8	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a16	Gloves	Gloves	0	1	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a17	Leather Gloves	Gloves	0	2	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a18	Steel Gauntlets	Gloves	0	3	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a19	Silver Gauntlets	Gloves	0	5	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a20	Mithril Gauntlets	Gloves	0	8	0	1	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a21	Wooden Shield	Shield	0	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a22	Skeleton Buckler	Shield	0	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a23	Bronze Shield	Shield	0	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a24	Silver Shield	Shield	0	5	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a25	Mithril Shield	Shield	0	7	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a26	Royal Guard Cape	Cape	1	1	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a27	Order Armor	Armor	5	25	0	2	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a28	Order Helmet	Helmet	3	15	0	2	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a29	Order Boots	Boots	2	10	0	2	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a30	Order Gauntlets	Gloves	2	10	0	2	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a31	Order Shield	Shield	0	10	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a32	Hunter Armor	Armor	8	18	0	2	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a33	Hunter Helmet	Helmet	5	11	0	2	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a34	Hunter Boots	Boots	3	8	0	2	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a35	Hunter Gloves	Gloves	3	8	0	2	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a36	Clarity Robe	Armor	4	20	120	2	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a37	Clarity Circlet	Helmet	2	12	80	2	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a38	Clarity Shoes	Boots	1	9	40	2	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a39	Clarity Bracers	Gloves	1	9	40	2	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a40	Pencil of Truth	Amulet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a41	Bard's Cape	Cape	2	2	0	0	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a45	Crusader Armor	Armor	10	32	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a46	Crusader Helmet	Helmet	6	19	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a47	Crusader Boots	Boots	4	12	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a48	Crusader Gauntlets	Gloves	4	12	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a49	Crusader Shield	Shield	1	12	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a50	Royal Armor	Armor	8	34	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a51	Royal Helmet	Helmet	5	20	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a52	Royal Boots	Boots	3	13	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a53	Royal Gauntlets	Gloves	3	13	0	3	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a54	Royal Shield	Shield	0	13	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a55	Ghost Armor	Armor	12	26	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a56	Ghost Helmet	Helmet	7	15	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a57	Ghost Boots	Boots	5	10	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a58	Ghost Gloves	Gloves	5	10	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a59	Lion Armor	Armor	14	24	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a60	Lion Helmet	Helmet	8	14	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a61	Lion Boots	Boots	6	9	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a62	Lion Gloves	Gloves	6	9	0	3	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a63	Demon Robe	Armor	9	25	165	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a64	Demon Circlet	Helmet	5	15	110	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a65	Demon Shoes	Boots	4	10	55	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a66	Demon Bracers	Gloves	4	10	55	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a67	Divine Robe	Armor	8	26	165	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a68	Divine Circlet	Helmet	4	16	110	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a69	Divine Shoes	Boots	3	11	55	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a70	Divine Bracers	Gloves	3	11	55	3	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a71	Storm Cloak	Cape	4	3	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a72	Durable Cloak	Cape	3	4	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a73	Blessed Cloak	Cape	2	2	50	x	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a74	Hiking Jar	Amulet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a75	Hiking Bag	Ring						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a76	Stick of Wisdom	Amulet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a78	Council Armor	Armor	13	42	0	4	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a79	Council Helmet	Helmet	8	25	0	4	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a80	Council Boots	Boots	5	15	0	4	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a81	Council Gauntlets	Gloves	5	15	0	4	Heavy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a82	Council Shield	Shield	0	15	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a83	Griffin Armor	Armor	16	34	0	4	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a84	Griffin Helmet	Helmet	11	18	0	4	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a85	Griffin Boots	Boots	7	12	0	4	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a86	Griffin Gloves	Gloves	7	12	0	4	Light	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a87	Celestial Armor	Armor	11	34	180	4	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a88	Celestial Helmet	Helmet	6	20	125	4	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a89	Celestial Boots	Boots	5	13	65	4	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+a90	Celestial Bracers	Gloves	5	13	65	4	Robe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e101	🧟‍♂️ Witchling Robe	Armor	4	20	141	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e102	🧟‍♂️ Witchling Circlet	Helmet	2	12	99	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e103	🧟‍♂️ Witchling Shoes	Shoes	1	9	60	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e104	🧟‍♂️ Witchling Bracers	Gloves	1	9	50	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e105	🧟‍♂️ Witch Robe	Armor	9	23	175	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e106	🧟‍♂️ Witch Circlet	Helmet	5	14	130	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e107	🧟‍♂️ Witch Shoes	Shoes	4	8	75	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e108	🧟‍♂️ Witch Bracers	Gloves	4	9	75	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e109	🧟‍♂️ Walker Armor	Armor	5	28	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e110	🧟‍♂️ Walker Helmet	Helmet	3	17	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e111	🧟‍♂️ Walker Boots	Boots	2	11	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e112	🧟‍♂️ Walker Gauntlets	Gloves	2	11	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e113	🧟‍♂️ Walker Shield	Shield	0	12	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e114	🧟‍♂️ Zombie Armor	Armor	10	34	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e115	🧟‍♂️ Zombie Helmet	Helmet	6	22	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e116	🧟‍♂️ Zombie Boots	Boots	4	13	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e117	🧟‍♂️ Zombie Gauntlets	Gloves	4	13	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e118	🧟‍♂️ Zombie Shield	Shield	1	14	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e119	🧟‍♂️ Imp Robe	Armor	5	20	143	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e120	🧟‍♂️ Imp Circlet	Helmet	3	12	96	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e121	🧟‍♂️ Imp Shoes	Shoes	2	9	65	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e122	🧟‍♂️ Imp Bracers	Gloves	2	9	45	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e123	🧟‍♂️ Demon Robe	Armor	10	22	175	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e124	🧟‍♂️ Demon Circlet	Helmet	8	12	130	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e125	🧟‍♂️ Demon Shoes	Shoes	5	7	75	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e126	🧟‍♂️ Demon Bracers	Gloves	5	8	75	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e127	🧟‍♂️ Manwolf Armor	Armor	11	18	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e128	🧟‍♂️ Manwolf Helmet	Helmet	7	11	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e129	🧟‍♂️ Manwolf Boots	Boots	5	8	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e130	🧟‍♂️ Manwolf Gloves	Gloves	5	8	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e131	🧟‍♂️ Werewolf Armor	Armor	14	26	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e132	🧟‍♂️ Werewolf Helmet	Helmet	9	15	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e133	🧟‍♂️ Werewolf Boots	Boots	7	10	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e134	🧟‍♂️ Werewolf Gloves	Gloves	7	10	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e135	🧟‍♂️ Fleder Armor	Armor	12	16	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e136	🧟‍♂️ Fleder Helmet	Helmet	8	9	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e137	🧟‍♂️ Fleder Boots	Boots	6	6	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e138	🧟‍♂️ Fleder Gloves	Gloves	6	6	0	2	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e139	🧟‍♂️ Nosferatu Armor	Armor	13	27	50	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e140	🧟‍♂️ Nosferatu Helmet	Helmet	8	16	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e141	🧟‍♂️ Nosferatu Boots	Boots	6	11	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e142	🧟‍♂️ Nosferatu Gloves	Gloves	6	11	0	3	Normal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e143	🧟‍♂️ Witchling Staff	Spear	19	14	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e144	🧟‍♂️ War Club	Blunt	17	14	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e145	🧟‍♂️ Imp Bow	Bow	23	8	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e146	🧟‍♂️ Imp Whip	Dagger	12	0	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e147	🧟‍♂️ Manwolf Knife	Dagger	13	0	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e148	🧟‍♂️ Fleder Scimitar	Sword	34	0	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e149	🧟‍♂️ Witch Staff	Spear	21	18	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e150	🧟‍♂️ Walker Club	Blunt	17	20	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e151	🧟‍♂️ Demon Bow	Bow	26	12	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e152	🧟‍♂️ Demon Whip	Dagger	15	1	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e153	🧟‍♂️ Werewolf Knife	Dagger	16	0	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e154	🧟‍♂️ Nosferatu Rapier	Sword	37	2	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e155	Vague Bell	Amulet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+e156	Hat of Pretender	Helmet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+est	👹Evil Spirits Totem	Special Equippable						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+gwb	Guild banner	Misc						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k01	Champion blade	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k02	Trident blade	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k03	Hunter shaft	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k04	War hammer head	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k05	Hunter blade	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k06	Order Armor piece	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k07	Order Helmet fragment	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k08	Order Boots part	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k09	Order Gauntlets part	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k10	Order shield part	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k100	Assault Cape part	Part						0	0	0	0	0	0	0	0	46	46	46	0	0	0	0	0	
+k101	Craftsman Apron part	Part						0	46	0	0	46	0	0	0	0	0	0	0	0	0	0	0	
+k102	Stoneskin Cloak part	Part						0	0	0	0	46	46	46	0	0	0	0	0	0	0	0	0	
+k11	Hunter Armor part	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k12	Hunter Helmet fragment	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k13	Hunter Boots part	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k14	Hunter Gloves part	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k15	Clarity Robe piece	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k16	Clarity Circlet fragment	Part						0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	
+k17	Clarity Shoes part	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k18	Clarity Bracers part	Part						0	0	0	0	22	22	22	0	0	0	0	0	0	0	0	0	
+k19	Thundersoul blade	Part						0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	
+k20	Doomblade blade	Part						40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k21	Eclipse blade	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k22	Guard's blade	Part						0	0	0	0	32	32	32	0	0	0	0	0	0	0	0	0	
+k23	King's Defender blade	Part						0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k24	Raging Lance blade	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k25	Composite Bow shaft	Part						0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	
+k26	Lightning Bow shaft	Part						0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k27	Hailstorm Bow shaft	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k28	Imperial Axe head	Part						0	0	0	0	32	32	32	0	0	0	0	0	0	0	0	0	
+k29	Skull Crusher head	Part						0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	
+k30	Dragon Mace head	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k31	Ghost blade	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k32	Lion blade	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k33	Crusader Armor piece	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k34	Crusader Helmet fragment	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k35	Crusader Boots part	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k36	Crusader Gauntlets part	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k37	Crusader shield part	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k38	Royal Armor piece	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k39	Royal Helmet fragment	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k40	Royal Boots part	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k41	Royal Gauntlets part	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k42	Royal shield part	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k43	Ghost Armor part	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k44	Ghost Helmet fragment	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k45	Ghost Boots part	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k46	Ghost Gloves part	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k47	Lion Armor part	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k48	Lion Helmet fragment	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k49	Lion Boots part	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k50	Lion Gloves part	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k51	Demon Robe piece	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k52	Demon Circlet fragment	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k53	Demon Shoes part	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k54	Demon Bracers part	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k55	Divine Robe piece	Part						0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	
+k56	Divine Circlet fragment	Part						0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	
+k57	Divine Shoes part	Part						0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	
+k58	Divine Bracers part	Part						0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	
+k59	Storm Cloak part	Part						0	0	0	0	32	32	32	32	0	0	0	0	0	0	0	0	
+k60	Durable Cloak part	Part						0	0	0	0	0	32	32	32	0	0	0	0	0	0	0	0	
+k61	Blessed Cloak part	Part						0	0	0	0	32	32	32	32	0	0	0	0	0	0	0	0	
+k78	Council Armor part	Part						0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	
+k79	Council Helmet part	Part						0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	
+k80	Council Boots part	Part						0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	
+k81	Council Gauntlets part	Part						0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	
+k82	Council Shield part	Part						0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	
+k83	Griffin Armor part	Part						0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	
+k84	Griffin Helmet part	Part						0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	
+k85	Griffin Boots part	Part						0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	
+k86	Griffin Gloves part	Part						0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	
+k87	Celestial Armor part	Part						0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	
+k88	Celestial Helmet part	Part						0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	
+k89	Celestial Boots part	Part						0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k90	Celestial Bracers part	Part						0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	
+k91	Griffin Knife part	Part						0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k92	Minotaur Sword part	Part						0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	
+k93	Phoenix Sword part	Part						46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k94	Heavy Fauchard part	Part						0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	
+k95	Guisarme part	Part						0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	
+k96	Meteor Bow part	Part						0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	
+k97	Nightfall Bow part	Part						0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	
+k98	Black Morningstar part	Part						0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	
+k99	Maiming Bulawa part	Part						0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	
+p01	Vial of Rage	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p02	Potion of Rage	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p03	Bottle of Rage	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p04	Vial of Peace	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p05	Potion of Peace	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p06	Bottle of Peace	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p07	Vial of Greed	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p08	Potion of Greed	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p09	Bottle of Greed	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p10	Vial of Nature	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p11	Potion of Nature	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p12	Bottle of Nature	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p13	Vial of Mana	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p14	Potion of Mana	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p15	Bottle of Mana	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p16	Vial of Twilight	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p17	Potion of Twilight	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p18	Bottle of Twilight	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p19	Vial of Morph	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p20	Potion of Morph	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+p21	Bottle of Morph	Potion						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r01	Champion Sword recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r02	Trident recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r03	Hunter Bow recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r04	War hammer recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r05	Hunter Dagger recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r06	Order Armor recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r07	Order Helmet recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r08	Order Boots recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r09	Order Gauntlets recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r10	Order shield recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r100	Assault Cape recipe	Recipe						46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r101	Craftsman Apron recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	
+r102	Stoneskin Cloak recipe	Recipe						0	0	46	46	0	0	0	0	0	0	0	0	0	0	0	0	
+r11	Hunter Armor recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r12	Hunter Helmet recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r13	Hunter Boots recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r14	Hunter Gloves recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r15	Clarity Robe recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r16	Clarity Circlet recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	
+r17	Clarity Shoes recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r18	Clarity Bracers recipe	Recipe						0	0	0	0	0	0	0	0	22	22	22	0	0	0	0	0	
+r19	Thundersoul Sword recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	
+r20	Doomblade Sword recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r21	Eclipse recipe	Recipe						40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r22	Guard's Spear recipe	Recipe						0	0	0	0	0	0	0	0	32	32	32	0	0	0	0	0	
+r23	King's Defender recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r24	Raging Lance recipe	Recipe						0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r25	Composite Bow recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	
+r26	Lightning Bow recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r27	Hailstorm Bow recipe	Recipe						0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r28	Imperial Axe recipe	Recipe						0	0	0	0	0	0	0	0	32	32	32	0	0	0	0	0	
+r29	Skull Crusher recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r30	Dragon Mace recipe	Recipe						0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	
+r31	Ghost dagger recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r32	Lion Knife recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r33	Crusader Armor recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r34	Crusader Helmet recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r35	Crusader Boots recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r36	Crusader Gauntlets recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r37	Crusader shield recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r38	Royal Armor recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r39	Royal Helmet recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r40	Royal Boots recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r41	Royal Gauntlets recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r42	Royal shield recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r43	Ghost Armor recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r44	Ghost Helmet recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r45	Ghost Boots recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r46	Ghost Gloves recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r47	Lion Armor recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r48	Lion Helmet recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r49	Lion Boots recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r50	Lion Gloves recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r51	Demon Robe recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r52	Demon Circlet recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r53	Demon Shoes recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r54	Demon Bracers recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r55	Divine Robe recipe	Recipe						0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	
+r56	Divine Circlet recipe	Recipe						0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	
+r57	Divine Shoes recipe	Recipe						0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	
+r58	Divine Bracers recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	
+r59	Storm Cloak recipe	Recipe						0	0	0	0	0	0	0	0	32	32	32	32	0	0	0	0	
+r60	Durable Cloak recipe	Recipe						0	0	0	0	0	0	0	0	0	32	32	32	0	0	0	0	
+r61	Blessed Cloak recipe	Recipe						0	0	0	0	0	0	0	0	32	32	32	32	0	0	0	0	
+r78	Council Armor recipe	Recipe						0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	
+r79	Council Helmet recipe	Recipe						0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	
+r80	Council Boots recipe	Recipe						0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	
+r81	Council Gauntlets recipe	Recipe						46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r82	Council Shield recipe	Recipe						0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	
+r83	Griffin Armor recipe	Recipe						0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	
+r84	Griffin Helmet recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	
+r85	Griffin Boots recipe	Recipe						0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	
+r86	Griffin Gloves recipe	Recipe						0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	
+r87	Celestial Armor recipe	Recipe						0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	
+r88	Celestial Helmet recipe	Recipe						0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	
+r89	Celestial Boots recipe	Recipe						0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	
+r90	Celestial Bracers recipe	Recipe						0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r91	Griffin Knife recipe	Recipe						46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r92	Minotaur Sword recipe	Recipe						0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r93	Phoenix Sword recipe	Recipe						0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	
+r94	Heavy Fauchard recipe	Recipe						0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+r95	Guisarme recipe	Recipe						0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	
+r96	Meteor Bow recipe	Recipe						0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	
+r97	Nightfall Bow recipe	Recipe						0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	
+r98	Black Morningstar recipe	Recipe						0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	
+r99	Maiming Bulawa recipe	Recipe						0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	
+s01	📕Scroll of Rage	Scroll						0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	15	
+s02	📕Scroll of Peace	Scroll						15	15	15	0	0	0	0	0	0	0	0	0	15	15	15	0	
+s03	📗Scroll of Rage	Scroll						0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	25	
+s04	📗Scroll of Peace	Scroll						25	25	25	0	0	0	0	0	0	0	0	0	25	25	25	0	
+s05	📘Scroll of Rage	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	
+s06	📘Scroll of Peace	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	35	35	35	0	
+s07	📙Scroll of Rage	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	
+s08	📙Scroll of Peace	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	45	45	45	0	
+s11	📕Rare scroll of Rage	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s12	📕Rare scroll of Peace	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s13	📗Rare scroll of Rage	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s14	📗Rare scroll of Peace	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s15	📘Rare scroll of Rage	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s16	📘Rare scroll of Peace	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s17	📙Rare scroll of Rage	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s18	📙Rare scroll of Peace	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s2b	🦅Bronze Aries ring	Ring						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s2g	🐺Gold Aries ring	Ring						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s2s	🐉Silver Aries ring	Ring						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s3b	🦅Bronze Taurus amulet	Amulet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s3g	🐉Gold Taurus amulet	Amulet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s3s	🐺Silver Taurus amulet	Amulet						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s50	🖋Scroll of Engraving	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s51	✒️Scroll of Engraving	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s52	🖋Rare Scroll of Engraving	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+s53	✒️Rare scroll of Engraving	Scroll						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+tch	Torch	Special Equippable						0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w01	Wooden Sword	Sword	1	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w02	Short Sword	Sword	3	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w03	Long Sword	Sword	6	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w04	Widow Sword	Sword	10	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w05	Knight's Sword	Sword	16	0	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w06	Elven Sword	Sword	22	0	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w07	Rapier	Sword	27	0	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w08	Short Spear	Spear	3	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w09	Long Spear	Spear	5	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w10	Lance	Spear	11	5	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w11	Elven Spear	Spear	12	7	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w12	Halberd	Spear	14	10	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w13	Kitchen Knife	Dagger	1	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w14	Battle Knife	Dagger	2	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w15	Steel Dagger	Dagger	3	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w16	Silver Dagger	Dagger	5	0	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w17	Mithril Dagger	Dagger	7	0	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w18	Short Bow	Bow	4	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w19	Wooden Bow	Bow	8	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w20	Long Bow	Bow	12	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w21	Elven Bow	Bow	16	5	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w22	Forest Bow	Bow	18	6	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w23	Club	Blunt	2	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w24	Bone Club	Blunt	4	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w25	Heavy Club	Blunt	7	7	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w26	Steel Axe	Blunt	9	9	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w27	Mithril Axe	Blunt	11	11	0	1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w28	Champion Sword	Sword	31	0	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w29	Trident	Spear	16	14	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w30	Hunter Bow	Bow	22	8	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w31	War Hammer	Blunt	15	15	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w32	Hunter Dagger	Dagger	10	0	0	2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w33	Thundersoul Sword	Sword	35	0	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w34	Doomblade Sword	Sword	36	1	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w35	Eclipse	Sword	37	0	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w36	Guard's Spear	Spear	18	16	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w37	King's Defender	Spear	18	17	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w38	Raging Lance	Spear	19	16	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w39	Composite Bow	Bow	25	9	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w40	Lightning Bow	Bow	27	8	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w41	Hailstorm Bow	Bow	24	11	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w42	Imperial Axe	Blunt	17	17	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w43	Skull Crusher	Blunt	18	17	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w44	Dragon Mace	Blunt	17	18	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w45	Ghost Dagger	Dagger	12	1	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w46	Lion Knife	Dagger	13	0	0	3		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w91	Griffin Knife	Dagger	15	0	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w92	Minotaur Sword	Sword	41	0	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w93	Phoenix Sword	Sword	45	0	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w94	Heavy Fauchard	Spear	21	19	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w95	Guisarme	Spear	23	21	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w96	Meteor Bow	Bow	29	11	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w97	Nightfall Bow	Bow	32	12	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w98	Black Morningstar	Blunt	19	21	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+w99	Maiming Bulawa	Blunt	22	22	0	4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	

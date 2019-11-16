@@ -109,15 +109,25 @@ class Item(object):
         self.lastModified = page._info.get('touched')
         self.wikiUrl = 'https://chatwars-wiki.de/index.php?title=' + self.pagename
 
+    def save(self, site: Site, summary: str, allow_new = False):
+        self._page = site.pages[self.pagename]
+        if not self._page.exists and not allow_new:
+            raise Exception('Refusing to create new pages.')
+        if not self._has_item:
+            raise Exception("Invalid item state, page doesn't seem to contain an Item")
+        self._page.save(self.wiki_text(), summary)
+        self._apply_page(self._page)
+        self.dirty = False
+        
     def load(self, site: Site, page: Page=None):
         if page:
             self._page = page
         else:
             self._page = site.pages[self.pagename]
         if self.dirty or not self.revision or self.revision != self._page.revision:
-            self._apply_page(self._page)
             text = self._page.text()
             self.parse(text)
+            self._apply_page(self._page)
     
     def clear(self):
         for v in self.__dict__.values():

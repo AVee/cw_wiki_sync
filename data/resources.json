@@ -13817,5 +13817,41 @@
         "lastModified": null,
         "revision": null,
         "wikiUrl": null
+    },
+    {
+        "id": "622",
+        "eventItem": false,
+        "name": "🎟Gift Coupon 'Gopher'",
+        "type": "Misc",
+        "depositable": true,
+        "exchange": false,
+        "auction": true,
+        "freeText": "The [[Gift Coupon]] can be traded for a [[Gopher]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
+        "quest": false,
+        "enchantable": false,
+        "craftable": false,
+        "recipe": {},
+        "pagename": "Gift Coupon: Gopher",
+        "lastModified": null,
+        "revision": null,
+        "wikiUrl": null
+    },
+    {
+        "id": "616",
+        "eventItem": false,
+        "name": "🎟Gift Coupon 'Owl'",
+        "type": "Misc",
+        "depositable": true,
+        "exchange": false,
+        "auction": true,
+        "freeText": "The [[Gift Coupon]] can be traded for a [[Owl]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
+        "quest": false,
+        "enchantable": false,
+        "craftable": false,
+        "recipe": {},
+        "pagename": "Gift Coupon: Owl",
+        "lastModified": null,
+        "revision": null,
+        "wikiUrl": null
     }
 ]

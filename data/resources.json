@@ -13800,5 +13800,22 @@
         "lastModified": "2019-11-03T15:59:23Z",
         "revision": 12453,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie Shield (Event Gear)"
+    },
+    {
+        "id": "614",
+        "eventItem": false,
+        "name": "🎟Gift Coupon 'Pig'",
+        "type": "Misc",
+        "exchange": false,
+        "auction": true,
+        "freeText": "The [[Gift Coupon]] can be traded for a [[Pig]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
+        "quest": false,
+        "enchantable": false,
+        "craftable": false,
+        "recipe": {},
+        "pagename": "Gift Coupon: Pig",
+        "lastModified": null,
+        "revision": null,
+        "wikiUrl": null
     }
 ]

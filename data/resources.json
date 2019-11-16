@@ -13810,6 +13810,7 @@
         "craftSkill": "Crafting (Skill)",
         "craftLevel": 0,
         "craftMana": 10,
+        "wikiFreeText": "#REDIRECT [[Evil Spirits Totem]]",
         "recipe": {
             "Silver Ore": "15",
             "Powder": "10",
@@ -13818,8 +13819,8 @@
             "Thread": "1"
         },
         "pagename": "\ud83d\udc79Evil Spirits Totem",
-        "lastModified": "2019-10-24T00:13:20Z",
-        "revision": 7567,
+        "lastModified": "2019-11-16T12:14:45Z",
+        "revision": 12858,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=\ud83d\udc79Evil Spirits Totem"
     }
 ]

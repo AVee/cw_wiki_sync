@@ -2,3 +2,4 @@
 **/__pycache__/**
 .settings
 /src/secrets.py
+/env/

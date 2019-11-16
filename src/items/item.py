@@ -14,6 +14,8 @@ from mwparserfromhell.nodes.text import Text
 from mwparserfromhell.nodes.extras.parameter import Parameter
 from mwclient.page import Page
 from mwclient import page
+import io
+from typing import List
 
 class Item(object):
     def __init__(self, pagename:str=None, page:Page=None, **kwargs):
@@ -99,6 +101,7 @@ class Item(object):
             self._apply_page(self._page)
         
         self._dirty = False
+        self._has_item = False
 
     def _apply_page(self, page:Page):
         self.pagename = page.page_title
@@ -116,10 +119,24 @@ class Item(object):
             text = self._page.text()
             self.parse(text)
     
+    def clear(self):
+        for v in self.__dict__.values():
+            if isinstance(v, Property) and v.value != None:
+                v.value = None
+        self._dirty = False
+        self._has_item = False
+        self.recipe = {}
+        self.lastModified = None
+        self.revision = None
+        self.wikiUrl = None
+    
     def parse(self, text):
+        self.clear()
         w = mwparserfromhell.parse(text)
+        item_found = False
         for template in w.filter_templates():
             if str(template.name).strip() == 'Item':
+                item_found = True
                 for param in template.params:
                     name = str(param.name).strip()
                     value = str(param.value).strip() # More sanitizing may be needed
@@ -153,6 +170,7 @@ class Item(object):
             self.FreeText.value = free
             
         self.dirty = False
+        self._has_item = item_found
     
     def wiki_text(self):
         w = mwparserfromhell.parse("{{Item}}\n")
@@ -241,6 +259,15 @@ def load_all_items(site: Site):
         
     return items
 
+def load_from_file(path: str):
+    with io.open(path, encoding='utf-8') as f:
+        items = json.load(f, object_hook=item_deserialize)
+        return items
+
+def save_to_file(path: str, items: List[Item]):
+    with io.open(path, 'w', encoding='utf-8') as f:
+        json.dump([i for i in items if i._has_item], f, default=item_serialize, indent=4, ensure_ascii=False)
+
 def item_serialize(obj):
     if isinstance(obj, Item):
         result = { v.json_name:v.value for v in obj.__dict__.values() if isinstance(v, Property) and v.value != None }
@@ -262,6 +289,7 @@ def item_deserialize(dct):
                 except KeyError:
                     pass
         item.dirty = False
+        item._has_item = True
         return item
     
     return dct

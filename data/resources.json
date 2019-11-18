@@ -15124,5 +15124,24 @@
         "lastModified": "2019-11-18T15:31:21Z",
         "revision": 13426,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel Arrows Pack"
+    },
+    {
+        "id": "tlt",
+        "eventItem": false,
+        "name": "Loyalty Trophy",
+        "type": "Misc",
+        "depositable": false,
+        "exchange": false,
+        "auction": false,
+        "freeText": "This item is obtained a part of the [[Proof of Loyalty]] process.",
+        "quest": false,
+        "enchantable": false,
+        "craftable": false,
+        "wikiFreeText": "= Trivia =\nWhen the tropy is obtained by a [[Guild]] it is placed in the guild stock. It can be withdrawn from there, but it cannot be deposited back.",
+        "recipe": {},
+        "pagename": "Loyalty Trophy",
+        "lastModified": "2019-11-18T16:40:39Z",
+        "revision": 13446,
+        "wikiUrl": "https://chatwars-wiki.de/index.php?title=Loyalty Trophy"
     }
 ]

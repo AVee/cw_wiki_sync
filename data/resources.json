@@ -2344,6 +2344,7 @@
         "eventItem": false,
         "name": "Corn",
         "type": "Pet Food",
+        "exchange": true,
         "quest": true,
         "questMinLevel": 3,
         "dropForestMorning": false,
@@ -2366,8 +2367,8 @@
         "wikiFreeText": "'''{{PAGENAME}}''' is a consumable item that is needed to feed [[Pet|pets]] of the type [[Pig]]. \n\n=Acquisition=\n{{PAGENAME}} can be bought in the :Paws: Menagerie of the [[Shop]] for 1 :Gem: with the commande <code>/buy_{{#show: {{PAGENAME}}| ?ItemID}}</code> or can be possible loot for succesful [[Foray|forays]]. {{PAGENAME}} can also be traded in the exchange with <code>/t_{{#show: {{PAGENAME}}| ?ItemID}}</code>",
         "recipe": {},
         "pagename": "Corn",
-        "lastModified": "2019-11-16T16:28:12Z",
-        "revision": 12978,
+        "lastModified": "2019-11-18T18:39:02Z",
+        "revision": 13447,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Corn"
     },
     {

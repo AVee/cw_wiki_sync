@@ -43,12 +43,14 @@ def run():
                 else:
                     items['items'].append(itm)
 
-    item.save_to_file('../data/resources.json', items)
+    # Only save if there are changes
+    if any(i for i in items['items'] if i.revision > maxrev):
+        item.save_to_file('../data/resources.json', items)
 
     if lastrev:
         try:
             with io.open('../data/lastrev', 'w') as f:
-                f.write(str(maxrev))
+                f.write(str(lastrev))
         except Exception as e:
             print(f'Failed to save lastrev: {e}')
         

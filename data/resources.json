@@ -245,7 +245,7 @@
     {
         "id": "w14",
         "eventItem": false,
-        "name": "Battle Knife",
+        "name": "Battle knife",
         "type": "Weapon",
         "subType": "Dagger",
         "wikiNote": "needs weight added",
@@ -267,8 +267,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Battle Knife",
-        "lastModified": "2019-11-16T16:37:45Z",
-        "revision": 13310,
+        "lastModified": "2019-11-18T14:03:51Z",
+        "revision": 13363,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Battle Knife"
     },
     {
@@ -578,7 +578,7 @@
     {
         "id": "w24",
         "eventItem": false,
-        "name": "Bone Club",
+        "name": "Bone club",
         "type": "Weapon",
         "subType": "Blunt",
         "wikiNote": "needs weight added",
@@ -600,8 +600,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Bone Club",
-        "lastModified": "2019-11-16T16:37:56Z",
-        "revision": 13320,
+        "lastModified": "2019-11-18T14:04:28Z",
+        "revision": 13364,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bone Club"
     },
     {
@@ -793,6 +793,7 @@
     {
         "id": "508",
         "eventItem": false,
+        "name": "Bottle of Poison",
         "type": "Consumable",
         "subType": "Combat Potion",
         "wikiNote": "needs weight and checking",
@@ -802,11 +803,10 @@
         "freeText": "To create the {{PAGENAME}} alchemists can craft and use a [[Poison Pack]] to receive 5 bottles.",
         "quest": false,
         "craftable": false,
-        "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Bottle of Poison",
-        "lastModified": "2019-11-03T21:34:16Z",
-        "revision": 12518,
+        "lastModified": "2019-11-18T13:18:57Z",
+        "revision": 13361,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle of Poison"
     },
     {
@@ -841,6 +841,7 @@
     {
         "id": "506",
         "eventItem": false,
+        "name": "Bottle of Remedy",
         "type": "Consumable",
         "subType": "Combat Potion",
         "wikiNote": "needs weight and checking",
@@ -850,11 +851,10 @@
         "freeText": "To create the {{PAGENAME}} alchemists can craft and use a [[Remedy Pack]] to receive 5 bottles.",
         "quest": false,
         "craftable": false,
-        "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Bottle of Remedy",
-        "lastModified": "2019-11-03T21:36:30Z",
-        "revision": 12519,
+        "lastModified": "2019-11-18T13:22:51Z",
+        "revision": 13362,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle of Remedy"
     },
     {
@@ -892,7 +892,7 @@
     {
         "id": "515",
         "eventItem": false,
-        "name": "Broad Arrows Pack",
+        "name": "Broad arrows pack",
         "type": "Consumable",
         "subType": "Ammunition",
         "wikiNote": "new tier, missing lots of info",
@@ -910,14 +910,14 @@
             "Bone Powder": "2"
         },
         "pagename": "Broad Arrows Pack",
-        "lastModified": "2019-11-16T16:27:46Z",
-        "revision": 12962,
+        "lastModified": "2019-11-18T14:04:32Z",
+        "revision": 13365,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Broad Arrows Pack"
     },
     {
         "id": "a23",
         "eventItem": false,
-        "name": "Bronze Shield",
+        "name": "Bronze shield",
         "type": "Weapon",
         "subType": "Shield",
         "wikiNote": "needs weight",
@@ -937,8 +937,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Bronze Shield",
-        "lastModified": "2019-11-16T16:29:29Z",
-        "revision": 13018,
+        "lastModified": "2019-11-18T14:04:35Z",
+        "revision": 13366,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bronze Shield"
     },
     {
@@ -1310,7 +1310,7 @@
     {
         "id": "a03",
         "eventItem": false,
-        "name": "Chain Mail",
+        "name": "Chain mail",
         "type": "Protective Gear",
         "subType": "Armor",
         "wikiNote": "needs weight",
@@ -1329,8 +1329,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Chain Mail",
-        "lastModified": "2019-11-16T16:28:41Z",
-        "revision": 12995,
+        "lastModified": "2019-11-18T14:04:40Z",
+        "revision": 13367,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chain Mail"
     },
     {
@@ -2045,7 +2045,7 @@
     {
         "id": "a01",
         "eventItem": false,
-        "name": "Cloth Jacket",
+        "name": "Cloth jacket",
         "type": "Protective Gear",
         "subType": "Armor",
         "wikiNote": "needs weight",
@@ -2064,8 +2064,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Cloth Jacket",
-        "lastModified": "2019-11-16T16:28:37Z",
-        "revision": 12993,
+        "lastModified": "2019-11-18T14:04:44Z",
+        "revision": 13368,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cloth Jacket"
     },
     {
@@ -2291,7 +2291,7 @@
     {
         "id": "519",
         "eventItem": false,
-        "name": "Compound Arrows Pack",
+        "name": "Compound arrows pack",
         "type": "Consumable",
         "subType": "Ammunition",
         "craftable": true,
@@ -2309,8 +2309,8 @@
             "Iron Ore": "2"
         },
         "pagename": "Compound Arrows Pack",
-        "lastModified": "2019-11-16T16:27:50Z",
-        "revision": 12964,
+        "lastModified": "2019-11-18T14:04:48Z",
+        "revision": 13369,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Compound Arrows Pack"
     },
     {
@@ -4767,7 +4767,7 @@
     {
         "id": "w11",
         "eventItem": false,
-        "name": "Elven Spear",
+        "name": "Elven spear",
         "type": "Weapon",
         "subType": "Spear",
         "wikiNote": "needs weight and enchantment info",
@@ -4786,14 +4786,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Elven Spear",
-        "lastModified": "2019-11-16T16:37:42Z",
-        "revision": 13307,
+        "lastModified": "2019-11-18T14:04:49Z",
+        "revision": 13370,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Elven Spear"
     },
     {
         "id": "w06",
         "eventItem": false,
-        "name": "Elven Sword",
+        "name": "Elven sword",
         "type": "Weapon",
         "subType": "Sword",
         "wikiNote": "needs weight added",
@@ -4816,8 +4816,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Elven Sword",
-        "lastModified": "2019-11-16T16:37:37Z",
-        "revision": 13302,
+        "lastModified": "2019-11-18T14:04:52Z",
+        "revision": 13371,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Elven Sword"
     },
     {
@@ -5206,7 +5206,7 @@
     {
         "id": "w45",
         "eventItem": false,
-        "name": "Ghost Dagger",
+        "name": "Ghost dagger",
         "type": "Weapon",
         "subType": "Dagger",
         "wikiNote": "needs weight, wrapping and detailed description",
@@ -5250,8 +5250,8 @@
             "Ruby": "1"
         },
         "pagename": "Ghost Dagger",
-        "lastModified": "2019-11-16T16:38:57Z",
-        "revision": 13341,
+        "lastModified": "2019-11-18T14:04:57Z",
+        "revision": 13372,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Dagger"
     },
     {
@@ -6549,7 +6549,7 @@
     {
         "id": "517",
         "eventItem": false,
-        "name": "Heavy Arrows Pack",
+        "name": "Heavy arrows pack",
         "type": "Consumable",
         "subType": "Ammunition",
         "wikiNote": "new tier, missing lots of info",
@@ -6566,14 +6566,14 @@
             "Quality Cloth": "1"
         },
         "pagename": "Heavy Arrows Pack",
-        "lastModified": "2019-11-16T16:27:48Z",
-        "revision": 12963,
+        "lastModified": "2019-11-18T14:04:59Z",
+        "revision": 13373,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy Arrows Pack"
     },
     {
         "id": "w25",
         "eventItem": false,
-        "name": "Heavy Club",
+        "name": "Heavy club",
         "type": "Weapon",
         "subType": "Blunt",
         "wikiNote": "needs weight added",
@@ -6595,8 +6595,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Heavy Club",
-        "lastModified": "2019-11-16T16:37:57Z",
-        "revision": 13321,
+        "lastModified": "2019-11-18T14:05:02Z",
+        "revision": 13374,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy Club"
     },
     {
@@ -7059,7 +7059,7 @@
     {
         "id": "w32",
         "eventItem": false,
-        "name": "Hunter Dagger",
+        "name": "Hunter dagger",
         "type": "Weapon",
         "subType": "Dagger",
         "wikiNote": "needs weight, sale price & wrapping added",
@@ -7092,8 +7092,8 @@
             "Steel Mold": "1"
         },
         "pagename": "Hunter Dagger",
-        "lastModified": "2019-11-16T16:38:16Z",
-        "revision": 13328,
+        "lastModified": "2019-11-18T14:05:07Z",
+        "revision": 13375,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter Dagger"
     },
     {
@@ -7717,7 +7717,7 @@
     {
         "id": "w13",
         "eventItem": false,
-        "name": "Kitchen Knife",
+        "name": "Kitchen knife",
         "type": "Weapon",
         "subType": "Dagger",
         "wikiNote": "needs weight added",
@@ -7739,8 +7739,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Kitchen Knife",
-        "lastModified": "2019-11-16T16:37:44Z",
-        "revision": 13309,
+        "lastModified": "2019-11-18T14:05:10Z",
+        "revision": 13376,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Kitchen Knife"
     },
     {
@@ -7771,7 +7771,7 @@
     {
         "id": "w05",
         "eventItem": false,
-        "name": "Knight's Sword",
+        "name": "Knight's sword",
         "type": "Weapon",
         "subType": "Sword",
         "wikiNote": "needs weight added",
@@ -7794,8 +7794,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Knight's Sword",
-        "lastModified": "2019-11-16T16:37:36Z",
-        "revision": 13301,
+        "lastModified": "2019-11-18T14:05:13Z",
+        "revision": 13377,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Knight's Sword"
     },
     {
@@ -7891,7 +7891,7 @@
     {
         "id": "a17",
         "eventItem": false,
-        "name": "Leather Gloves",
+        "name": "Leather gloves",
         "type": "Protective Gear",
         "subType": "Gloves",
         "wikiNote": "needs weight added",
@@ -7913,14 +7913,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Leather Gloves",
-        "lastModified": "2019-11-16T16:29:20Z",
-        "revision": 13012,
+        "lastModified": "2019-11-18T14:05:18Z",
+        "revision": 13378,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather Gloves"
     },
     {
         "id": "a07",
         "eventItem": false,
-        "name": "Leather Hood",
+        "name": "Leather hood",
         "type": "Protective Gear",
         "subType": "Helmet",
         "wikiNote": "needs weight added",
@@ -7939,14 +7939,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Leather Hood",
-        "lastModified": "2019-11-16T16:28:50Z",
-        "revision": 12999,
+        "lastModified": "2019-11-18T14:05:22Z",
+        "revision": 13379,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather Hood"
     },
     {
         "id": "a02",
         "eventItem": false,
-        "name": "Leather Shirt",
+        "name": "Leather shirt",
         "type": "Protective Gear",
         "subType": "Armor",
         "wikiNote": "needs weight",
@@ -7965,14 +7965,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Leather Shirt",
-        "lastModified": "2019-11-16T16:28:39Z",
-        "revision": 12994,
+        "lastModified": "2019-11-18T14:05:34Z",
+        "revision": 13380,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather Shirt"
     },
     {
         "id": "a12",
         "eventItem": false,
-        "name": "Leather Shoes",
+        "name": "Leather shoes",
         "type": "Protective Gear",
         "subType": "Boots",
         "wikiNote": "needs weight added",
@@ -7994,8 +7994,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Leather Shoes",
-        "lastModified": "2019-11-16T16:29:10Z",
-        "revision": 13007,
+        "lastModified": "2019-11-18T14:05:37Z",
+        "revision": 13381,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather Shoes"
     },
     {
@@ -8668,7 +8668,7 @@
     {
         "id": "w09",
         "eventItem": false,
-        "name": "Long Spear",
+        "name": "Long spear",
         "type": "Weapon",
         "subType": "Spear",
         "wikiNote": "needs weight",
@@ -8687,14 +8687,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Long Spear",
-        "lastModified": "2019-11-16T16:37:40Z",
-        "revision": 13305,
+        "lastModified": "2019-11-18T14:05:39Z",
+        "revision": 13382,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Long Spear"
     },
     {
         "id": "w03",
         "eventItem": false,
-        "name": "Long Sword",
+        "name": "Long sword",
         "type": "Weapon",
         "subType": "Sword",
         "wikiNote": "check if auction is correct",
@@ -8714,8 +8714,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Long Sword",
-        "lastModified": "2019-11-16T16:37:34Z",
-        "revision": 13299,
+        "lastModified": "2019-11-18T14:05:41Z",
+        "revision": 13383,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Long Sword"
     },
     {
@@ -9262,7 +9262,7 @@
     {
         "id": "a05",
         "eventItem": false,
-        "name": "Mithril Armor",
+        "name": "Mithril armor",
         "type": "Protective Gear",
         "subType": "Armor",
         "wikiNote": "needs weight",
@@ -9287,14 +9287,14 @@
         "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Mithril Armor",
-        "lastModified": "2019-11-16T16:28:46Z",
-        "revision": 12997,
+        "lastModified": "2019-11-18T14:05:44Z",
+        "revision": 13384,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Armor"
     },
     {
         "id": "w27",
         "eventItem": false,
-        "name": "Mithril Axe",
+        "name": "Mithril axe",
         "type": "Weapon",
         "subType": "Blunt",
         "wikiNote": "needs weight added",
@@ -9316,14 +9316,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Mithril Axe",
-        "lastModified": "2019-11-16T16:37:59Z",
-        "revision": 13323,
+        "lastModified": "2019-11-18T14:05:46Z",
+        "revision": 13385,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Axe"
     },
     {
         "id": "a15",
         "eventItem": false,
-        "name": "Mithril Boots",
+        "name": "Mithril boots",
         "type": "Protective Gear",
         "subType": "Boots",
         "wikiNote": "needs weight added",
@@ -9354,14 +9354,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Mithril Boots",
-        "lastModified": "2019-11-16T16:29:15Z",
-        "revision": 13010,
+        "lastModified": "2019-11-18T14:05:49Z",
+        "revision": 13386,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Boots"
     },
     {
         "id": "w17",
         "eventItem": false,
-        "name": "Mithril Dagger",
+        "name": "Mithril dagger",
         "type": "Weapon",
         "subType": "Dagger",
         "wikiNote": "none",
@@ -9386,14 +9386,14 @@
         "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Mithril Dagger",
-        "lastModified": "2019-11-16T16:37:48Z",
-        "revision": 13313,
+        "lastModified": "2019-11-18T14:05:51Z",
+        "revision": 13387,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Dagger"
     },
     {
         "id": "a20",
         "eventItem": false,
-        "name": "Mithril Gauntlets",
+        "name": "Mithril gauntlets",
         "type": "Protective Gear",
         "subType": "Gloves",
         "wikiNote": "needs weight added",
@@ -9424,14 +9424,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Mithril Gauntlets",
-        "lastModified": "2019-11-16T16:29:25Z",
-        "revision": 13015,
+        "lastModified": "2019-11-18T14:05:55Z",
+        "revision": 13388,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Gauntlets"
     },
     {
         "id": "a10",
         "eventItem": false,
-        "name": "Mithril Helmet",
+        "name": "Mithril helmet",
         "type": "Protective Gear",
         "subType": "Helmet",
         "wikiNote": "needs weight added",
@@ -9456,14 +9456,14 @@
         "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Mithril Helmet",
-        "lastModified": "2019-11-16T16:28:55Z",
-        "revision": 13002,
+        "lastModified": "2019-11-18T14:05:57Z",
+        "revision": 13389,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Helmet"
     },
     {
         "id": "a25",
         "eventItem": false,
-        "name": "Mithril Shield",
+        "name": "Mithril shield",
         "type": "Weapon",
         "subType": "Shield",
         "wikiNote": "needs weight",
@@ -9487,8 +9487,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Mithril Shield",
-        "lastModified": "2019-11-16T16:29:31Z",
-        "revision": 13020,
+        "lastModified": "2019-11-18T14:06:00Z",
+        "revision": 13390,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Shield"
     },
     {
@@ -10541,7 +10541,7 @@
     {
         "id": "100",
         "eventItem": false,
-        "name": "Pouch of Gold",
+        "name": "Pouch of gold",
         "type": "Misc",
         "weight": 0,
         "depositable": false,
@@ -10560,8 +10560,8 @@
             "Gold": "120"
         },
         "pagename": "Pouch of Gold",
-        "lastModified": "2019-11-16T16:23:59Z",
-        "revision": 12920,
+        "lastModified": "2019-11-18T14:06:02Z",
+        "revision": 13391,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pouch of Gold"
     },
     {
@@ -11609,7 +11609,7 @@
     {
         "id": "w08",
         "eventItem": false,
-        "name": "Short Spear",
+        "name": "Short spear",
         "type": "Weapon",
         "subType": "Spear",
         "wikiNote": "needs weight",
@@ -11628,14 +11628,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Short Spear",
-        "lastModified": "2019-11-16T16:37:39Z",
-        "revision": 13304,
+        "lastModified": "2019-11-18T14:06:04Z",
+        "revision": 13392,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Short Spear"
     },
     {
         "id": "w02",
         "eventItem": false,
-        "name": "Short Sword",
+        "name": "Short sword",
         "type": "Weapon",
         "subType": "Sword",
         "wikiNote": "needs weight added",
@@ -11654,8 +11654,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Short Sword",
-        "lastModified": "2019-11-16T16:37:33Z",
-        "revision": 13298,
+        "lastModified": "2019-11-18T14:06:06Z",
+        "revision": 13393,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Short Sword"
     },
     {
@@ -11687,7 +11687,7 @@
     {
         "id": "513",
         "eventItem": false,
-        "name": "Silver Arrows Pack",
+        "name": "Silver arrows pack",
         "type": "Consumable",
         "subType": "Ammunition",
         "wikiNote": "needs checking",
@@ -11709,14 +11709,14 @@
             "Powder": "5"
         },
         "pagename": "Silver Arrow",
-        "lastModified": "2019-11-16T16:27:45Z",
-        "revision": 12961,
+        "lastModified": "2019-11-18T14:06:09Z",
+        "revision": 13394,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver Arrow"
     },
     {
         "id": "a14",
         "eventItem": false,
-        "name": "Silver Boots",
+        "name": "Silver boots",
         "type": "Protective Gear",
         "subType": "Boots",
         "wikiNote": "needs weight added",
@@ -11746,14 +11746,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Silver Boots",
-        "lastModified": "2019-11-16T16:29:13Z",
-        "revision": 13009,
+        "lastModified": "2019-11-18T14:06:12Z",
+        "revision": 13395,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver Boots"
     },
     {
         "id": "a04",
         "eventItem": false,
-        "name": "Silver Cuirass",
+        "name": "Silver cuirass",
         "type": "Protective Gear",
         "subType": "Armor",
         "wikiNote": "needs weight",
@@ -11776,14 +11776,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Silver Cuirass",
-        "lastModified": "2019-11-16T16:28:44Z",
-        "revision": 12996,
+        "lastModified": "2019-11-18T14:06:15Z",
+        "revision": 13396,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver Cuirass"
     },
     {
         "id": "w16",
         "eventItem": false,
-        "name": "Silver Dagger",
+        "name": "Silver dagger",
         "type": "Weapon",
         "subType": "Dagger",
         "wikiNote": "needs weight added",
@@ -11806,8 +11806,8 @@
         "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Silver Dagger",
-        "lastModified": "2019-11-16T16:37:47Z",
-        "revision": 13312,
+        "lastModified": "2019-11-18T14:06:17Z",
+        "revision": 13397,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver Dagger"
     },
     {
@@ -11865,7 +11865,7 @@
     {
         "id": "a19",
         "eventItem": false,
-        "name": "Silver Gauntlets",
+        "name": "Silver gauntlets",
         "type": "Protective Gear",
         "subType": "Gloves",
         "wikiNote": "needs weight added",
@@ -11895,14 +11895,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Silver Gauntlets",
-        "lastModified": "2019-11-16T16:29:23Z",
-        "revision": 13014,
+        "lastModified": "2019-11-18T14:06:20Z",
+        "revision": 13398,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver Gauntlets"
     },
     {
         "id": "a09",
         "eventItem": false,
-        "name": "Silver Helmet",
+        "name": "Silver helmet",
         "type": "Protective Gear",
         "subType": "Helmet",
         "wikiNote": "needs weight added",
@@ -11925,8 +11925,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Silver Helmet",
-        "lastModified": "2019-11-16T16:28:53Z",
-        "revision": 13001,
+        "lastModified": "2019-11-18T14:06:23Z",
+        "revision": 13399,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver Helmet"
     },
     {
@@ -11990,7 +11990,7 @@
     {
         "id": "a24",
         "eventItem": false,
-        "name": "Silver Shield",
+        "name": "Silver shield",
         "type": "Weapon",
         "subType": "Shield",
         "wikiNote": "needs weight",
@@ -12014,8 +12014,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Silver Shield",
-        "lastModified": "2019-11-16T16:29:30Z",
-        "revision": 13019,
+        "lastModified": "2019-11-18T14:06:25Z",
+        "revision": 13400,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver Shield"
     },
     {
@@ -12229,7 +12229,7 @@
     {
         "id": "511",
         "eventItem": false,
-        "name": "Steel Arrows Pack",
+        "name": "Steel arrows pack",
         "type": "Consumable",
         "subType": "Ammunition",
         "wikiNote": "needs checking",
@@ -12250,14 +12250,14 @@
             "Steel": "1"
         },
         "pagename": "Steel Arrow",
-        "lastModified": "2019-11-16T16:27:43Z",
-        "revision": 12960,
+        "lastModified": "2019-11-18T14:06:28Z",
+        "revision": 13401,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel Arrow"
     },
     {
         "id": "w26",
         "eventItem": false,
-        "name": "Steel Axe",
+        "name": "Steel axe",
         "type": "Weapon",
         "subType": "Blunt",
         "wikiNote": "needs weight added",
@@ -12279,14 +12279,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Steel Axe",
-        "lastModified": "2019-11-16T16:37:58Z",
-        "revision": 13322,
+        "lastModified": "2019-11-18T14:06:30Z",
+        "revision": 13402,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel Axe"
     },
     {
         "id": "a13",
         "eventItem": false,
-        "name": "Steel Boots",
+        "name": "Steel boots",
         "type": "Protective Gear",
         "subType": "Boots",
         "wikiNote": "needs weight added",
@@ -12308,14 +12308,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Steel Boots",
-        "lastModified": "2019-11-16T16:29:11Z",
-        "revision": 13008,
+        "lastModified": "2019-11-18T14:06:32Z",
+        "revision": 13403,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel Boots"
     },
     {
         "id": "w15",
         "eventItem": false,
-        "name": "Steel Dagger",
+        "name": "Steel dagger",
         "type": "Weapon",
         "subType": "Dagger",
         "wikiNote": "needs weight added",
@@ -12337,14 +12337,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Steel Dagger",
-        "lastModified": "2019-11-16T16:37:46Z",
-        "revision": 13311,
+        "lastModified": "2019-11-18T14:06:34Z",
+        "revision": 13404,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel Dagger"
     },
     {
         "id": "a18",
         "eventItem": false,
-        "name": "Steel Gauntlets",
+        "name": "Steel gauntlets",
         "type": "Protective Gear",
         "subType": "Gloves",
         "wikiNote": "needs weight added",
@@ -12366,14 +12366,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Steel Gauntlets",
-        "lastModified": "2019-11-16T16:29:21Z",
-        "revision": 13013,
+        "lastModified": "2019-11-18T14:06:40Z",
+        "revision": 13405,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel Gauntlets"
     },
     {
         "id": "a08",
         "eventItem": false,
-        "name": "Steel Helmet",
+        "name": "Steel helmet",
         "type": "Protective Gear",
         "subType": "Helmet",
         "wikiNote": "needs weight added",
@@ -12392,8 +12392,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Steel Helmet",
-        "lastModified": "2019-11-16T16:28:51Z",
-        "revision": 13000,
+        "lastModified": "2019-11-18T14:06:42Z",
+        "revision": 13406,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel Helmet"
     },
     {
@@ -13644,7 +13644,7 @@
     {
         "id": "w31",
         "eventItem": false,
-        "name": "War Hammer",
+        "name": "War hammer",
         "type": "Weapon",
         "subType": "Blunt",
         "wikiNote": "needs checking",
@@ -13680,8 +13680,8 @@
             "Ruby": "1"
         },
         "pagename": "War Hammer",
-        "lastModified": "2019-11-16T16:38:13Z",
-        "revision": 13327,
+        "lastModified": "2019-11-18T14:06:45Z",
+        "revision": 13407,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=War Hammer"
     },
     {
@@ -13820,7 +13820,7 @@
     {
         "id": "w04",
         "eventItem": false,
-        "name": "Widow Sword",
+        "name": "Widow sword",
         "type": "Weapon",
         "subType": "Sword",
         "wikiNote": "needs weight added, check if auction is still correct",
@@ -13839,8 +13839,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Widow Sword",
-        "lastModified": "2019-11-16T16:37:35Z",
-        "revision": 13300,
+        "lastModified": "2019-11-18T14:06:46Z",
+        "revision": 13408,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Widow Sword"
     },
     {
@@ -13867,7 +13867,7 @@
     {
         "id": "505",
         "eventItem": false,
-        "name": "Wooden Arrows Pack",
+        "name": "Wooden arrows pack",
         "type": "Consumable",
         "subType": "Ammunition",
         "wikiNote": "needs checking",
@@ -13889,8 +13889,8 @@
             "Iron Ore": "1"
         },
         "pagename": "Wooden Arrow",
-        "lastModified": "2019-11-16T16:27:39Z",
-        "revision": 12958,
+        "lastModified": "2019-11-18T14:06:47Z",
+        "revision": 13409,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden Arrow"
     },
     {
@@ -13953,7 +13953,7 @@
     {
         "id": "a21",
         "eventItem": false,
-        "name": "Wooden Shield",
+        "name": "Wooden shield",
         "type": "Weapon",
         "subType": "Shield",
         "wikiNote": "needs weight added",
@@ -13973,14 +13973,14 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Wooden Shield",
-        "lastModified": "2019-11-16T16:29:26Z",
-        "revision": 13016,
+        "lastModified": "2019-11-18T14:06:49Z",
+        "revision": 13410,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden Shield"
     },
     {
         "id": "w01",
         "eventItem": false,
-        "name": "Wooden Sword",
+        "name": "Wooden sword",
         "type": "Weapon",
         "subType": "Sword",
         "wikiNote": "needs weight added",
@@ -13999,8 +13999,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "Wooden Sword",
-        "lastModified": "2019-11-16T16:37:32Z",
-        "revision": 13297,
+        "lastModified": "2019-11-18T14:06:50Z",
+        "revision": 13411,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden Sword"
     },
     {

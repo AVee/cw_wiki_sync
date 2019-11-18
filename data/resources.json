@@ -14491,15 +14491,16 @@
     },
     {
         "id": "e156",
-        "eventItem": false,
+        "eventItem": true,
+        "eventPage": "Pretender Event 2019",
         "name": "Hat of Pretender",
         "type": "Protective Gear",
         "subType": "Helmet",
         "quest": false,
         "recipe": {},
         "pagename": "Hat of Pretender",
-        "lastModified": "2019-11-16T15:37:57Z",
-        "revision": 12902,
+        "lastModified": "2019-11-18T19:09:29Z",
+        "revision": 13448,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hat of Pretender"
     },
     {

@@ -2316,6 +2316,7 @@
     {
         "id": "12",
         "eventItem": false,
+        "name": "Cord",
         "type": "Resource",
         "wikiNote": "finished",
         "weight": 2,
@@ -2324,6 +2325,7 @@
         "auction": false,
         "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]], and is used in crafting tier 3 :Bookblue: equipment.",
         "craftable": true,
+        "recipeIncomplete": false,
         "craftCommand": "/craft_12",
         "craftSkill": "Crafting (Skill)",
         "craftLevel": 2,
@@ -2333,8 +2335,8 @@
             "Steel": "1"
         },
         "pagename": "Cord",
-        "lastModified": "2019-11-02T20:06:02Z",
-        "revision": 12353,
+        "lastModified": "2019-11-18T14:22:51Z",
+        "revision": 13412,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cord"
     },
     {
@@ -7827,6 +7829,7 @@
     {
         "id": "502",
         "eventItem": false,
+        "name": "Leash",
         "type": "Consumable",
         "wikiNote": "needs sale price (is it sellable?). needs template/modification of template to display all info?",
         "weight": 2,
@@ -7836,6 +7839,7 @@
         "freeText": "With a leash you can put your [[Pet|pet]] into [[Pet#Sheltering|shelter]].",
         "quest": false,
         "craftable": true,
+        "recipeIncomplete": false,
         "craftCommand": "/craft_502",
         "craftSkill": "Crafting (Skill)",
         "craftLevel": 2,
@@ -7846,8 +7850,8 @@
             "String": "10"
         },
         "pagename": "Leash",
-        "lastModified": "2019-11-03T17:04:49Z",
-        "revision": 12383,
+        "lastModified": "2019-11-18T14:23:31Z",
+        "revision": 13413,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leash"
     },
     {
@@ -10148,7 +10152,7 @@
     {
         "id": "a40",
         "eventItem": false,
-        "name": "Pencil of Truth",
+        "name": "✏️Pencil of Truth",
         "type": "Special Equippable",
         "wikiNote": "weight, sale price & auction is assumption based on stick of wisdom",
         "attack": 0,
@@ -10167,11 +10171,10 @@
         "quest": false,
         "enchantable": false,
         "craftable": false,
-        "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Pencil of Truth",
-        "lastModified": "2019-11-16T16:30:13Z",
-        "revision": 13035,
+        "lastModified": "2019-11-18T14:24:31Z",
+        "revision": 13414,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pencil of Truth"
     },
     {
@@ -10312,6 +10315,7 @@
     {
         "id": "509",
         "eventItem": false,
+        "name": "Poison Pack",
         "type": "Misc",
         "freeText": "It is a container-item, that yields 5 [[Bottle of Poison]] when opening.",
         "craftable": true,
@@ -10325,8 +10329,8 @@
             "Ephijora": "1"
         },
         "pagename": "Poison Pack",
-        "lastModified": "2019-11-03T21:23:05Z",
-        "revision": 12515,
+        "lastModified": "2019-11-18T14:24:57Z",
+        "revision": 13415,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poison Pack"
     },
     {
@@ -10820,6 +10824,7 @@
     {
         "id": "507",
         "eventItem": false,
+        "name": "Remedy Pack",
         "type": "Misc",
         "freeText": "It is a container-item, that yields 5 [[Bottle of Remedy]] when opening.",
         "craftable": true,
@@ -10833,13 +10838,14 @@
             "Tecceagrass": "1"
         },
         "pagename": "Remedy Pack",
-        "lastModified": "2019-11-03T21:23:33Z",
-        "revision": 12517,
+        "lastModified": "2019-11-18T14:25:24Z",
+        "revision": 13416,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Remedy Pack"
     },
     {
         "id": "636",
         "eventItem": false,
+        "name": "Resurrection Mix",
         "type": "Misc",
         "wikiNote": "mana crafting needed",
         "weight": 1,
@@ -10862,8 +10868,8 @@
             "Purified Powder": "1"
         },
         "pagename": "Resurrection Mix",
-        "lastModified": "2019-11-02T19:53:00Z",
-        "revision": 9411,
+        "lastModified": "2019-11-18T14:25:59Z",
+        "revision": 13417,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Resurrection Mix"
     },
     {
@@ -14991,5 +14997,34 @@
         "lastModified": "2019-11-18T10:30:06Z",
         "revision": 13358,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=War Club (Event Gear)"
+    },
+    {
+        "id": "505",
+        "eventItem": false,
+        "name": "Wooden arrows pack",
+        "type": "Misc",
+        "wikiNote": "needs checking",
+        "weight": 10,
+        "levelRequirement": 35,
+        "depositable": false,
+        "shopSellPrice": 0,
+        "exchange": false,
+        "auction": false,
+        "freeText": "When opened with /use_505 it yields 100 [[Wooden Arrow|Wooden Arrows]]. Arrow packs can only be crafted and not traded in any way.",
+        "quest": false,
+        "craftable": true,
+        "recipeIncomplete": false,
+        "craftCommand": "/craft_505",
+        "craftSkill": "Crafting (Skill)",
+        "craftLevel": 0,
+        "craftMana": 80,
+        "recipe": {
+            "Stick": "6",
+            "Iron Ore": "1"
+        },
+        "pagename": "Wooden Arrows Pack",
+        "lastModified": "2019-11-18T15:12:21Z",
+        "revision": 13420,
+        "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden Arrows Pack"
     }
 ]

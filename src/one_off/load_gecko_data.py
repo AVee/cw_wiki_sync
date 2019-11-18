@@ -29,6 +29,18 @@ def item_type(type:str):
         return 'Misc'
     elif type in ['Special Equippable', 'Ring', 'Amulet']:
         return 'Special Equippable'
+    elif type in ['Resource', 'Herb']:
+        return 'Resource'
+    elif type in ['Arrows', 'Potion']:
+        return 'Consumable'
+    elif type in ['Pet Food']:
+        return 'Pet Food'
+    elif type in ['Cape']:
+        return 'Cape'
+    elif type in ['Part']:
+        return 'Piece of Equipment'
+    elif type in ['Recipe']:
+        return 'Recipe (Item)'
     else:
         raise Exception('Unknown type')
     
@@ -118,7 +130,7 @@ def create_new_page(row):
     itm.save(site, "New items from GrumpyGecko", allow_new=True)
 
 def create_new():
-    items = item.load_from_file('../../data/resources.json')
+    items = item.load_from_file('../../data/resources.json')['items']
     
     with io.open('gecko_items.csv', encoding='utf-8') as f:
         reader = csv.DictReader(f, delimiter='\t')
@@ -133,7 +145,7 @@ def create_new():
                     print(f"{row['itemname']}: {e}")
 
 def fill_ingame_names():
-    items = item.load_from_file('../../data/resources.json')
+    items = item.load_from_file('../../data/resources.json')['items']
     
     with io.open('gecko_items.csv', encoding='utf-8') as f:
         reader = csv.DictReader(f, delimiter='\t')
@@ -150,14 +162,100 @@ def fill_ingame_names():
                     elif row['itemname'] and itm.InGameName.value != row['itemname']:
                         print(f"Name mismatch: {itm.InGameName.value} on wiki vs {row['itemname']} in file.")
 
-                    
+            except IndexError as e:
+                print(f'Item {row["id"]} not found.')
+
+def tier_level(tier: str):
+    if tier == '0':
+        return 0
+    elif tier == '1':
+        return 15
+    elif tier == '2':
+        return 25
+    elif tier == '3':
+        return 35
+    elif tier == '4':
+        return 45
+
+
+def check_stats():
+    items = item.load_from_file('../../data/resources.json')['items']
+    
+    with io.open('gecko_items.csv', encoding='utf-8') as f:
+        reader = csv.DictReader(f, delimiter='\t')
+        for row in reader:
+            try:
+                itm = single([i for i in items if i.ItemID.value == row['id']])
+                if itm.Attack.get_wiki_value() != row['Attack'] and itm.Attack.get_wiki_value() != None and row['Attack'] != '':
+                    print(f"{itm.pagename} Attack stats differ: Wiki: '{itm.Attack.get_wiki_value()}', Gecko: '{row['Attack']}'")
+                if itm.Defense.get_wiki_value() != row['Defense'] and itm.Defense.get_wiki_value() != None and row['Defense'] != '':
+                    print(f"{itm.pagename} Defense stats differ: Wiki: '{itm.Defense.get_wiki_value()}', Gecko: '{row['Defense']}'")
+                if itm.Mana.get_wiki_value() != row['Mana'] and itm.Mana.get_wiki_value() != None and row['Mana'] != '':
+                    print(f"{itm.pagename} Mana stats differ: Wiki: '{itm.Mana.get_wiki_value()}', Gecko: '{row['Mana']}'")
+                
+                if itm.LevelEquipRequirement.get_wiki_value() != None and row['Tier'] != '' and itm.LevelEquipRequirement.value != tier_level(row['Tier']):
+                    print(f"{itm.pagename} Tier differs: Wiki: '{itm.LevelEquipRequirement.get_wiki_value()}', Gecko: '{row['Tier']}'")
+
+                if itm.ItemType.get_wiki_value() != None and row['type'] != '' and itm.ItemType.value != item_type(row['type']):
+                    print(f"{itm.pagename} Type differs: Wiki: '{itm.ItemType.get_wiki_value()}', Gecko: '{row['type']}'")
+
+            except IndexError as e:
+                print(f'Item {row["id"]} not found.')
+
+def check_drops():
+    items = item.load_from_file('../../data/resources.json')['items']
+    
+    with io.open('gecko_items.csv', encoding='utf-8') as f:
+        reader = csv.DictReader(f, delimiter='\t')
+        for row in reader:
+            try:
+                itm = single([i for i in items if i.ItemID.value == row['id']])
+                fields = { k:v for k,v in itm.__dict__.items()  if k.startswith('Quest') }
+                for k,v in fields.items():
+                    rowname = re.sub(r"Quest([^MDEN]+)(.*)", r"\1_\2", k)
+                    if itm.BoolQuest.value:
+                        if(v.value == None and row[rowname] != ''):
+                            print(f"{itm.pagename}: {k} missing on wiki.")
+                        elif(v.value != None and row[rowname] == ''):
+                            print(f"{itm.pagename}: {k} missing on table")
+                        elif(v.value != (row[rowname] != '0')):
+                            print(f"{itm.pagename}: {k} mismatch")
+                    else:
+                        if(row[rowname] != '0'):
+                            print(f"{itm.pagename}: {k} findable in data but not on wiki")
                 
             except IndexError as e:
                 print(f'Item {row["id"]} not found.')
+
+def gecko_missing_items():
+    items = item.load_from_file('../../data/resources.json')['items']
+    
+    with io.open('gecko_items.csv', encoding='utf-8') as f:
+        reader = csv.DictReader(f, delimiter='\t')
+        rows = list(reader)
+    for v in items:
+        try:
+            if v.InGameName.value != None:
+                row = single([i for i in rows if v.InGameName.value == i['itemname']])
+                if row['id'] != v.ItemID.value:
+                    print(f"Id mismatch {row['id']} / {v.ItemID.value} {v.pagename}")
+        except IndexError as e:
+            print(f'Item {v.InGameName.value} not found. {v.pagename}')
+        try:
+            row = single([i for i in rows if v.ItemID.value == i['id']])
+            if v.InGameName.value != None:
+                if row['itemname'] != v.InGameName.value:
+                    print(f"Id mismatch {row['itemname']} / {v.InGameName.value} {v.pagename}")
+        except IndexError as e:
+            print(f'Item {v.ItemID.value} not found. {v.pagename}')
+    
                 
 def run():
     #create_new()
-    fill_ingame_names()
+    #fill_ingame_names()
+    #check_stats()
+    #check_drops()
+    gecko_missing_items()
     
 if __name__ == '__main__':
     run()

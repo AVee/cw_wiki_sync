@@ -33,10 +33,16 @@ class Property(object):
     def get_wiki_value(self):
         return None if self._value == None else str(self._value)
     
-    #def serialize(self):
     def __str__(self):
         return self.get_wiki_value()
-
+    
+    def __eq__(self, other):
+        if isinstance(other, Property):
+            if type(other) == type(self):
+                return self.value == other.value
+            else:
+                return False
+        return  NotImplemented            
 
 class BoolProperty(Property):
     def __init__(self, **kwarg):

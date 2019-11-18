@@ -6,6 +6,7 @@ Created on 14 Nov 2019
 from tests import test_pages
 from items.item import Item
 import mwclient
+import items
 
 def test_parse_all():
     for p, t in test_pages.pages.items():
@@ -48,6 +49,14 @@ def test_dirty():
     assert not item.dirty
     assert not item.Attack._dirty
     assert not item.BoolAuction._dirty
+
+def test_file():
+    itms = items.item.load_from_file('../data/resources.json')
+    items.item.save_to_file('../data/resources.json.test', itms)
+    itms2 = items.item.load_from_file('../data/resources.json.test')
+    del(itms['timestamp'])
+    del(itms2['timestamp'])
+    assert itms == itms2
     
 def test_loading():    
     item = Item(pagename='Lion Boots')

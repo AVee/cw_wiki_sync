@@ -15,7 +15,8 @@ from mwparserfromhell.nodes.extras.parameter import Parameter
 from mwclient.page import Page
 from mwclient import page
 import io
-from typing import List
+from typing import List, Union
+from datetime import datetime, timezone
 
 class Item(object):
     def __init__(self, pagename:str=None, page:Page=None, **kwargs):
@@ -227,6 +228,11 @@ class Item(object):
                 except AttributeError:
                     pass
 
+    def __eq__(self, other):
+        if isinstance(other, Item):
+            return self.__dict__ == other.__dict__
+        return NotImplemented
+
 def item_by_id(site: Site, item_id: str):
     pages = site.ask(f'[[ItemID::{item_id}]]')
     page = next(pages)
@@ -274,9 +280,14 @@ def load_from_file(path: str):
         items = json.load(f, object_hook=item_deserialize)
         return items
 
-def save_to_file(path: str, items: List[Item]):
+def save_to_file(path: str, items: Union[List[Item], dict]):
+    if isinstance(items, dict):
+        items = items['items']
+    
+    result = { 'timestamp': datetime.now(tz=timezone.utc).isoformat(), 'deprecated': False, 'obsolete': False, 'format': 1, 'items': [i for i in items if i._has_item] }
+    
     with io.open(path, 'w', encoding='utf-8') as f:
-        json.dump([i for i in items if i._has_item], f, default=item_serialize, indent=4, ensure_ascii=False)
+        json.dump(result, f, default=item_serialize, indent=4, ensure_ascii=False)
 
 def item_serialize(obj):
     if isinstance(obj, Item):
@@ -303,18 +314,3 @@ def item_deserialize(dct):
         return item
     
     return dct
-            
-
-def to_json(item: Item):
-    return json.dumps(item, default=item_serialize, indent=4)
-
-if __name__ == '__main__':
-    site = mwclient.Site('chatwars-wiki.de', path='/')
-    item = [item_by_id(site, '31'),item_by_id(site, 'w99')]
-    item[0].load(site)
-    item[1].load(site)
-    j = to_json(item)
-    print(j)
-    item2 = json.loads(j, object_hook=item_deserialize)
-    print("\n============\n")
-    print(to_json(item2))

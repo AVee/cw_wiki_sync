@@ -12,7 +12,7 @@ def run():
 
     # Refresh existing items
     items = item.load_from_file('../data/resources.json')
-    for itm in items:
+    for itm in items['items']:
         itm.load(site)
     
     # Find new items
@@ -20,10 +20,10 @@ def run():
     
     for page in pages:
         name = page['fulltext']
-        if not any([i for i in items if i.pagename == name]):
+        if not any([i for i in items['items'] if i.pagename == name]):
             itm = Item(pagename=name)
             itm.load(site)
-            items.append(itm)
+            items['items'].append(itm)
 
     item.save_to_file('../data/resources.json', items)
     

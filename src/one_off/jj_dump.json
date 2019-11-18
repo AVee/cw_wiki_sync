@@ -1,0 +1,2248 @@
+{
+    "title": "All items",
+    "values": [
+        [
+            "01",
+            "Thread",
+            false
+        ],
+        [
+            "02",
+            "Stick",
+            false
+        ],
+        [
+            "03",
+            "Pelt",
+            false
+        ],
+        [
+            "04",
+            "Bone",
+            false
+        ],
+        [
+            "05",
+            "Coal",
+            false
+        ],
+        [
+            "06",
+            "Charcoal",
+            false
+        ],
+        [
+            "07",
+            "Powder",
+            false
+        ],
+        [
+            "08",
+            "Iron ore",
+            false
+        ],
+        [
+            "09",
+            "Cloth",
+            false
+        ],
+        [
+            "10",
+            "Silver ore",
+            false
+        ],
+        [
+            "100",
+            "Pouch of gold",
+            true
+        ],
+        [
+            "11",
+            "Bauxite",
+            false
+        ],
+        [
+            "12",
+            "Cord",
+            true
+        ],
+        [
+            "13",
+            "Magic stone",
+            false
+        ],
+        [
+            "14",
+            "Wooden shaft",
+            true
+        ],
+        [
+            "15",
+            "Sapphire",
+            false
+        ],
+        [
+            "16",
+            "Solvent",
+            false
+        ],
+        [
+            "17",
+            "Ruby",
+            false
+        ],
+        [
+            "18",
+            "Hardener",
+            false
+        ],
+        [
+            "19",
+            "Steel",
+            true
+        ],
+        [
+            "20",
+            "Leather",
+            true
+        ],
+        [
+            "21",
+            "Bone powder",
+            true
+        ],
+        [
+            "22",
+            "String",
+            true
+        ],
+        [
+            "23",
+            "Coke",
+            true
+        ],
+        [
+            "24",
+            "Purified powder",
+            true
+        ],
+        [
+            "25",
+            "Silver alloy",
+            true
+        ],
+        [
+            "27",
+            "Steel mold",
+            true
+        ],
+        [
+            "28",
+            "Silver mold",
+            true
+        ],
+        [
+            "29",
+            "Blacksmith frame",
+            true
+        ],
+        [
+            "30",
+            "Artisan frame",
+            true
+        ],
+        [
+            "31",
+            "Rope",
+            true
+        ],
+        [
+            "32",
+            "Silver frame",
+            true
+        ],
+        [
+            "33",
+            "Metal plate",
+            true
+        ],
+        [
+            "34",
+            "Metallic fiber",
+            true
+        ],
+        [
+            "35",
+            "Crafted leather",
+            true
+        ],
+        [
+            "36",
+            "Quality Cloth",
+            true
+        ],
+        [
+            "37",
+            "Blacksmith mold",
+            true
+        ],
+        [
+            "38",
+            "Artisan mold",
+            true
+        ],
+        [
+            "39",
+            "Stinky Sumac",
+            false
+        ],
+        [
+            "40",
+            "Mercy Sassafras",
+            false
+        ],
+        [
+            "41",
+            "Cliff Rue",
+            false
+        ],
+        [
+            "42",
+            "Love Creeper",
+            false
+        ],
+        [
+            "43",
+            "Wolf Root",
+            false
+        ],
+        [
+            "44",
+            "Swamp Lavender",
+            false
+        ],
+        [
+            "45",
+            "White Blossom",
+            false
+        ],
+        [
+            "46",
+            "Ilaves",
+            false
+        ],
+        [
+            "47",
+            "Ephijora",
+            false
+        ],
+        [
+            "48",
+            "Storm Hyssop",
+            false
+        ],
+        [
+            "49",
+            "Cave Garlic",
+            false
+        ],
+        [
+            "50",
+            "Yellow Seed",
+            false
+        ],
+        [
+            "501",
+            "Wrapping",
+            true
+        ],
+        [
+            "502",
+            "Leash",
+            true
+        ],
+        [
+            "504",
+            "Wooden arrow",
+            false
+        ],
+        [
+            "505",
+            "Wooden arrows pack",
+            true
+        ],
+        [
+            "506",
+            "Bottle of Remedy",
+            false
+        ],
+        [
+            "507",
+            "Remedy Pack",
+            true
+        ],
+        [
+            "508",
+            "Bottle of Poison",
+            false
+        ],
+        [
+            "509",
+            "Poison Pack",
+            true
+        ],
+        [
+            "51",
+            "Tecceagrass",
+            false
+        ],
+        [
+            "510",
+            "Steel arrow",
+            false
+        ],
+        [
+            "511",
+            "Steel arrows pack",
+            true
+        ],
+        [
+            "513",
+            "Silver arrows pack",
+            true
+        ],
+        [
+            "515",
+            "Broad arrows pack",
+            true
+        ],
+        [
+            "517",
+            "Heavy arrows pack",
+            true
+        ],
+        [
+            "519",
+            "Compound arrows pack",
+            true
+        ],
+        [
+            "52",
+            "Spring Bay Leaf",
+            false
+        ],
+        [
+            "53",
+            "Ash Rosemary",
+            false
+        ],
+        [
+            "54",
+            "Sanguine Parsley",
+            false
+        ],
+        [
+            "55",
+            "Sun Tarragon",
+            false
+        ],
+        [
+            "56",
+            "Maccunut",
+            false
+        ],
+        [
+            "57",
+            "Dragon Seed",
+            false
+        ],
+        [
+            "58",
+            "Queen's Pepper",
+            false
+        ],
+        [
+            "59",
+            "Plasma of abyss",
+            true
+        ],
+        [
+            "60",
+            "Ultramarine dust",
+            true
+        ],
+        [
+            "61",
+            "Ethereal bone",
+            true
+        ],
+        [
+            "614",
+            "🎟Gift Coupon 'Pig'",
+            false
+        ],
+        [
+            "615",
+            "🎟Gift Coupon 'Horse'",
+            false
+        ],
+        [
+            "616",
+            "🎟Gift Coupon 'Owl'",
+            false
+        ],
+        [
+            "617",
+            "🎟Gift Coupon 'Mouse'",
+            false
+        ],
+        [
+            "618",
+            "Hay",
+            false
+        ],
+        [
+            "619",
+            "Corn",
+            false
+        ],
+        [
+            "62",
+            "Itacory",
+            true
+        ],
+        [
+            "620",
+            "Hamsters",
+            false
+        ],
+        [
+            "621",
+            "Cheese",
+            false
+        ],
+        [
+            "63",
+            "Assassin Vine",
+            true
+        ],
+        [
+            "636",
+            "Resurrection Mix",
+            true
+        ],
+        [
+            "64",
+            "Kloliarway",
+            true
+        ],
+        [
+            "65",
+            "Astrulic",
+            false
+        ],
+        [
+            "66",
+            "Flammia Nut",
+            false
+        ],
+        [
+            "67",
+            "Plexisop",
+            false
+        ],
+        [
+            "68",
+            "Mammoth Dill",
+            false
+        ],
+        [
+            "69",
+            "Silver dust",
+            true
+        ],
+        [
+            "a01",
+            "Cloth jacket",
+            false
+        ],
+        [
+            "a02",
+            "Leather shirt",
+            false
+        ],
+        [
+            "a03",
+            "Chain mail",
+            false
+        ],
+        [
+            "a04",
+            "Silver cuirass",
+            false
+        ],
+        [
+            "a05",
+            "Mithril armor",
+            false
+        ],
+        [
+            "a06",
+            "Hat",
+            false
+        ],
+        [
+            "a07",
+            "Leather hood",
+            false
+        ],
+        [
+            "a08",
+            "Steel helmet",
+            false
+        ],
+        [
+            "a09",
+            "Silver helmet",
+            false
+        ],
+        [
+            "a10",
+            "Mithril helmet",
+            false
+        ],
+        [
+            "a100",
+            "Assault Cape",
+            true
+        ],
+        [
+            "a101",
+            "Craftsman Apron",
+            true
+        ],
+        [
+            "a102",
+            "Stoneskin Cloak",
+            true
+        ],
+        [
+            "a11",
+            "Sandals",
+            false
+        ],
+        [
+            "a12",
+            "Leather shoes",
+            false
+        ],
+        [
+            "a13",
+            "Steel boots",
+            false
+        ],
+        [
+            "a14",
+            "Silver boots",
+            false
+        ],
+        [
+            "a15",
+            "Mithril boots",
+            false
+        ],
+        [
+            "a16",
+            "Gloves",
+            false
+        ],
+        [
+            "a17",
+            "Leather gloves",
+            false
+        ],
+        [
+            "a18",
+            "Steel gauntlets",
+            false
+        ],
+        [
+            "a19",
+            "Silver gauntlets",
+            false
+        ],
+        [
+            "a20",
+            "Mithril gauntlets",
+            false
+        ],
+        [
+            "a21",
+            "Wooden shield",
+            false
+        ],
+        [
+            "a22",
+            "Skeleton Buckler",
+            false
+        ],
+        [
+            "a23",
+            "Bronze shield",
+            false
+        ],
+        [
+            "a24",
+            "Silver shield",
+            false
+        ],
+        [
+            "a25",
+            "Mithril shield",
+            false
+        ],
+        [
+            "a26",
+            "Royal Guard Cape",
+            false
+        ],
+        [
+            "a27",
+            "Order Armor",
+            true
+        ],
+        [
+            "a28",
+            "Order Helmet",
+            true
+        ],
+        [
+            "a29",
+            "Order Boots",
+            true
+        ],
+        [
+            "a30",
+            "Order Gauntlets",
+            true
+        ],
+        [
+            "a31",
+            "Order Shield",
+            true
+        ],
+        [
+            "a32",
+            "Hunter Armor",
+            true
+        ],
+        [
+            "a33",
+            "Hunter Helmet",
+            true
+        ],
+        [
+            "a34",
+            "Hunter Boots",
+            true
+        ],
+        [
+            "a35",
+            "Hunter Gloves",
+            true
+        ],
+        [
+            "a36",
+            "Clarity Robe",
+            true
+        ],
+        [
+            "a37",
+            "Clarity Circlet",
+            true
+        ],
+        [
+            "a38",
+            "Clarity Shoes",
+            true
+        ],
+        [
+            "a39",
+            "Clarity Bracers",
+            true
+        ],
+        [
+            "a40",
+            "✏️Pencil of Truth",
+            false
+        ],
+        [
+            "a41",
+            "Bard's Cape",
+            false
+        ],
+        [
+            "a45",
+            "Crusader Armor",
+            true
+        ],
+        [
+            "a46",
+            "Crusader Helmet",
+            true
+        ],
+        [
+            "a47",
+            "Crusader Boots",
+            true
+        ],
+        [
+            "a48",
+            "Crusader Gauntlets",
+            true
+        ],
+        [
+            "a49",
+            "Crusader Shield",
+            true
+        ],
+        [
+            "a50",
+            "Royal Armor",
+            true
+        ],
+        [
+            "a51",
+            "Royal Helmet",
+            true
+        ],
+        [
+            "a52",
+            "Royal Boots",
+            true
+        ],
+        [
+            "a53",
+            "Royal Gauntlets",
+            true
+        ],
+        [
+            "a54",
+            "Royal Shield",
+            true
+        ],
+        [
+            "a55",
+            "Ghost Armor",
+            true
+        ],
+        [
+            "a56",
+            "Ghost Helmet",
+            true
+        ],
+        [
+            "a57",
+            "Ghost Boots",
+            true
+        ],
+        [
+            "a58",
+            "Ghost Gloves",
+            true
+        ],
+        [
+            "a59",
+            "Lion Armor",
+            true
+        ],
+        [
+            "a60",
+            "Lion Helmet",
+            true
+        ],
+        [
+            "a61",
+            "Lion Boots",
+            true
+        ],
+        [
+            "a62",
+            "Lion Gloves",
+            true
+        ],
+        [
+            "a63",
+            "Demon Robe",
+            true
+        ],
+        [
+            "a64",
+            "Demon Circlet",
+            true
+        ],
+        [
+            "a65",
+            "Demon Shoes",
+            true
+        ],
+        [
+            "a66",
+            "Demon Bracers",
+            true
+        ],
+        [
+            "a67",
+            "Divine Robe",
+            true
+        ],
+        [
+            "a68",
+            "Divine Circlet",
+            true
+        ],
+        [
+            "a69",
+            "Divine Shoes",
+            true
+        ],
+        [
+            "a70",
+            "Divine Bracers",
+            true
+        ],
+        [
+            "a71",
+            "Storm Cloak",
+            true
+        ],
+        [
+            "a72",
+            "Durable Cloak",
+            true
+        ],
+        [
+            "a73",
+            "Blessed Cloak",
+            true
+        ],
+        [
+            "a74",
+            "Hiking Jar",
+            false
+        ],
+        [
+            "a75",
+            "Hiking Bag",
+            false
+        ],
+        [
+            "a78",
+            "Council Armor",
+            true
+        ],
+        [
+            "a79",
+            "Council Helmet",
+            true
+        ],
+        [
+            "a80",
+            "Council Boots",
+            true
+        ],
+        [
+            "a81",
+            "Council Gauntlets",
+            true
+        ],
+        [
+            "a82",
+            "Council Shield",
+            true
+        ],
+        [
+            "a83",
+            "Griffin Armor",
+            true
+        ],
+        [
+            "a84",
+            "Griffin Helmet",
+            true
+        ],
+        [
+            "a85",
+            "Griffin Boots",
+            true
+        ],
+        [
+            "a86",
+            "Griffin Gloves",
+            true
+        ],
+        [
+            "a87",
+            "Celestial Armor",
+            true
+        ],
+        [
+            "a88",
+            "Celestial Helmet",
+            true
+        ],
+        [
+            "a89",
+            "Celestial Boots",
+            true
+        ],
+        [
+            "a90",
+            "Celestial Bracers",
+            true
+        ],
+        [
+            "est",
+            "👹Evil Spirits Totem",
+            true
+        ],
+        [
+            "gwb",
+            "Guild banner",
+            false
+        ],
+        [
+            "k01",
+            "Champion blade",
+            false
+        ],
+        [
+            "k02",
+            "Trident blade",
+            false
+        ],
+        [
+            "k03",
+            "Hunter shaft",
+            false
+        ],
+        [
+            "k04",
+            "War hammer head",
+            false
+        ],
+        [
+            "k05",
+            "Hunter blade",
+            false
+        ],
+        [
+            "k06",
+            "Order Armor piece",
+            false
+        ],
+        [
+            "k07",
+            "Order Helmet fragment",
+            false
+        ],
+        [
+            "k08",
+            "Order Boots part",
+            false
+        ],
+        [
+            "k09",
+            "Order Gauntlets part",
+            false
+        ],
+        [
+            "k10",
+            "Order shield part",
+            false
+        ],
+        [
+            "k100",
+            "Assault Cape part",
+            false
+        ],
+        [
+            "k101",
+            "Craftsman Apron part",
+            false
+        ],
+        [
+            "k102",
+            "Stoneskin Cloak part",
+            false
+        ],
+        [
+            "k11",
+            "Hunter Armor part",
+            false
+        ],
+        [
+            "k12",
+            "Hunter Helmet fragment",
+            false
+        ],
+        [
+            "k13",
+            "Hunter Boots part",
+            false
+        ],
+        [
+            "k14",
+            "Hunter Gloves part",
+            false
+        ],
+        [
+            "k15",
+            "Clarity Robe piece",
+            false
+        ],
+        [
+            "k16",
+            "Clarity Circlet fragment",
+            false
+        ],
+        [
+            "k17",
+            "Clarity Shoes part",
+            false
+        ],
+        [
+            "k18",
+            "Clarity Bracers part",
+            false
+        ],
+        [
+            "k19",
+            "Thundersoul blade",
+            false
+        ],
+        [
+            "k20",
+            "Doomblade blade",
+            false
+        ],
+        [
+            "k21",
+            "Eclipse blade",
+            false
+        ],
+        [
+            "k22",
+            "Guard's blade",
+            false
+        ],
+        [
+            "k23",
+            "King's Defender blade",
+            false
+        ],
+        [
+            "k24",
+            "Raging Lance blade",
+            false
+        ],
+        [
+            "k25",
+            "Composite Bow shaft",
+            false
+        ],
+        [
+            "k26",
+            "Lightning Bow shaft",
+            false
+        ],
+        [
+            "k27",
+            "Hailstorm Bow shaft",
+            false
+        ],
+        [
+            "k28",
+            "Imperial Axe head",
+            false
+        ],
+        [
+            "k29",
+            "Skull Crusher head",
+            false
+        ],
+        [
+            "k30",
+            "Dragon Mace head",
+            false
+        ],
+        [
+            "k31",
+            "Ghost blade",
+            false
+        ],
+        [
+            "k32",
+            "Lion blade",
+            false
+        ],
+        [
+            "k33",
+            "Crusader Armor piece",
+            false
+        ],
+        [
+            "k34",
+            "Crusader Helmet fragment",
+            false
+        ],
+        [
+            "k35",
+            "Crusader Boots part",
+            false
+        ],
+        [
+            "k36",
+            "Crusader Gauntlets part",
+            false
+        ],
+        [
+            "k37",
+            "Crusader shield part",
+            false
+        ],
+        [
+            "k38",
+            "Royal Armor piece",
+            false
+        ],
+        [
+            "k39",
+            "Royal Helmet fragment",
+            false
+        ],
+        [
+            "k40",
+            "Royal Boots part",
+            false
+        ],
+        [
+            "k41",
+            "Royal Gauntlets part",
+            false
+        ],
+        [
+            "k42",
+            "Royal shield part",
+            false
+        ],
+        [
+            "k43",
+            "Ghost Armor part",
+            false
+        ],
+        [
+            "k44",
+            "Ghost Helmet fragment",
+            false
+        ],
+        [
+            "k45",
+            "Ghost Boots part",
+            false
+        ],
+        [
+            "k46",
+            "Ghost Gloves part",
+            false
+        ],
+        [
+            "k47",
+            "Lion Armor part",
+            false
+        ],
+        [
+            "k48",
+            "Lion Helmet fragment",
+            false
+        ],
+        [
+            "k49",
+            "Lion Boots part",
+            false
+        ],
+        [
+            "k50",
+            "Lion Gloves part",
+            false
+        ],
+        [
+            "k51",
+            "Demon Robe piece",
+            false
+        ],
+        [
+            "k52",
+            "Demon Circlet fragment",
+            false
+        ],
+        [
+            "k53",
+            "Demon Shoes part",
+            false
+        ],
+        [
+            "k54",
+            "Demon Bracers part",
+            false
+        ],
+        [
+            "k55",
+            "Divine Robe piece",
+            false
+        ],
+        [
+            "k56",
+            "Divine Circlet fragment",
+            false
+        ],
+        [
+            "k57",
+            "Divine Shoes part",
+            false
+        ],
+        [
+            "k58",
+            "Divine Bracers part",
+            false
+        ],
+        [
+            "k59",
+            "Storm Cloak part",
+            false
+        ],
+        [
+            "k60",
+            "Durable Cloak part",
+            false
+        ],
+        [
+            "k61",
+            "Blessed Cloak part",
+            false
+        ],
+        [
+            "k78",
+            "Council Armor part",
+            false
+        ],
+        [
+            "k79",
+            "Council Helmet part",
+            false
+        ],
+        [
+            "k80",
+            "Council Boots part",
+            false
+        ],
+        [
+            "k81",
+            "Council Gauntlets part",
+            false
+        ],
+        [
+            "k82",
+            "Council Shield part",
+            false
+        ],
+        [
+            "k83",
+            "Griffin Armor part",
+            false
+        ],
+        [
+            "k84",
+            "Griffin Helmet part",
+            false
+        ],
+        [
+            "k85",
+            "Griffin Boots part",
+            false
+        ],
+        [
+            "k86",
+            "Griffin Gloves part",
+            false
+        ],
+        [
+            "k87",
+            "Celestial Armor part",
+            false
+        ],
+        [
+            "k88",
+            "Celestial Helmet part",
+            false
+        ],
+        [
+            "k89",
+            "Celestial Boots part",
+            false
+        ],
+        [
+            "k90",
+            "Celestial Bracers part",
+            false
+        ],
+        [
+            "k91",
+            "Griffin Knife part",
+            false
+        ],
+        [
+            "k92",
+            "Minotaur Sword part",
+            false
+        ],
+        [
+            "k93",
+            "Phoenix Sword part",
+            false
+        ],
+        [
+            "k94",
+            "Heavy Fauchard part",
+            false
+        ],
+        [
+            "k95",
+            "Guisarme part",
+            false
+        ],
+        [
+            "k96",
+            "Meteor Bow part",
+            false
+        ],
+        [
+            "k97",
+            "Nightfall Bow part",
+            false
+        ],
+        [
+            "k98",
+            "Black Morningstar part",
+            false
+        ],
+        [
+            "k99",
+            "Maiming Bulawa part",
+            false
+        ],
+        [
+            "p01",
+            "Vial of Rage",
+            true
+        ],
+        [
+            "p02",
+            "Potion of Rage",
+            true
+        ],
+        [
+            "p03",
+            "Bottle of Rage",
+            true
+        ],
+        [
+            "p04",
+            "Vial of Peace",
+            true
+        ],
+        [
+            "p05",
+            "Potion of Peace",
+            true
+        ],
+        [
+            "p06",
+            "Bottle of Peace",
+            true
+        ],
+        [
+            "p07",
+            "Vial of Greed",
+            true
+        ],
+        [
+            "p08",
+            "Potion of Greed",
+            true
+        ],
+        [
+            "p09",
+            "Bottle of Greed",
+            true
+        ],
+        [
+            "p10",
+            "Vial of Nature",
+            true
+        ],
+        [
+            "p11",
+            "Potion of Nature",
+            true
+        ],
+        [
+            "p12",
+            "Bottle of Nature",
+            true
+        ],
+        [
+            "p13",
+            "Vial of Mana",
+            true
+        ],
+        [
+            "p14",
+            "Potion of Mana",
+            true
+        ],
+        [
+            "p15",
+            "Bottle of Mana",
+            true
+        ],
+        [
+            "p16",
+            "Vial of Twilight",
+            true
+        ],
+        [
+            "p17",
+            "Potion of Twilight",
+            true
+        ],
+        [
+            "p18",
+            "Bottle of Twilight",
+            true
+        ],
+        [
+            "p19",
+            "Vial of Morph",
+            true
+        ],
+        [
+            "p20",
+            "Potion of Morph",
+            true
+        ],
+        [
+            "p21",
+            "Bottle of Morph",
+            true
+        ],
+        [
+            "pl1",
+            "Vial of Оblivion",
+            false
+        ],
+        [
+            "r01",
+            "Champion Sword recipe",
+            false
+        ],
+        [
+            "r02",
+            "Trident recipe",
+            false
+        ],
+        [
+            "r03",
+            "Hunter Bow recipe",
+            false
+        ],
+        [
+            "r04",
+            "War hammer recipe",
+            false
+        ],
+        [
+            "r05",
+            "Hunter Dagger recipe",
+            false
+        ],
+        [
+            "r06",
+            "Order Armor recipe",
+            false
+        ],
+        [
+            "r07",
+            "Order Helmet recipe",
+            false
+        ],
+        [
+            "r08",
+            "Order Boots recipe",
+            false
+        ],
+        [
+            "r09",
+            "Order Gauntlets recipe",
+            false
+        ],
+        [
+            "r10",
+            "Order shield recipe",
+            false
+        ],
+        [
+            "r100",
+            "Assault Cape recipe",
+            false
+        ],
+        [
+            "r101",
+            "Craftsman Apron recipe",
+            false
+        ],
+        [
+            "r102",
+            "Stoneskin Cloak recipe",
+            false
+        ],
+        [
+            "r11",
+            "Hunter Armor recipe",
+            false
+        ],
+        [
+            "r12",
+            "Hunter Helmet recipe",
+            false
+        ],
+        [
+            "r13",
+            "Hunter Boots recipe",
+            false
+        ],
+        [
+            "r14",
+            "Hunter Gloves recipe",
+            false
+        ],
+        [
+            "r15",
+            "Clarity Robe recipe",
+            false
+        ],
+        [
+            "r16",
+            "Clarity Circlet recipe",
+            false
+        ],
+        [
+            "r17",
+            "Clarity Shoes recipe",
+            false
+        ],
+        [
+            "r18",
+            "Clarity Bracers recipe",
+            false
+        ],
+        [
+            "r19",
+            "Thundersoul Sword recipe",
+            false
+        ],
+        [
+            "r20",
+            "Doomblade Sword recipe",
+            false
+        ],
+        [
+            "r21",
+            "Eclipse recipe",
+            false
+        ],
+        [
+            "r22",
+            "Guard's Spear recipe",
+            false
+        ],
+        [
+            "r23",
+            "King's Defender recipe",
+            false
+        ],
+        [
+            "r24",
+            "Raging Lance recipe",
+            false
+        ],
+        [
+            "r25",
+            "Composite Bow recipe",
+            false
+        ],
+        [
+            "r26",
+            "Lightning Bow recipe",
+            false
+        ],
+        [
+            "r27",
+            "Hailstorm Bow recipe",
+            false
+        ],
+        [
+            "r28",
+            "Imperial Axe recipe",
+            false
+        ],
+        [
+            "r29",
+            "Skull Crusher recipe",
+            false
+        ],
+        [
+            "r30",
+            "Dragon Mace recipe",
+            false
+        ],
+        [
+            "r31",
+            "Ghost dagger recipe",
+            false
+        ],
+        [
+            "r32",
+            "Lion Knife recipe",
+            false
+        ],
+        [
+            "r33",
+            "Crusader Armor recipe",
+            false
+        ],
+        [
+            "r34",
+            "Crusader Helmet recipe",
+            false
+        ],
+        [
+            "r35",
+            "Crusader Boots recipe",
+            false
+        ],
+        [
+            "r36",
+            "Crusader Gauntlets recipe",
+            false
+        ],
+        [
+            "r37",
+            "Crusader shield recipe",
+            false
+        ],
+        [
+            "r38",
+            "Royal Armor recipe",
+            false
+        ],
+        [
+            "r39",
+            "Royal Helmet recipe",
+            false
+        ],
+        [
+            "r40",
+            "Royal Boots recipe",
+            false
+        ],
+        [
+            "r41",
+            "Royal Gauntlets recipe",
+            false
+        ],
+        [
+            "r42",
+            "Royal shield recipe",
+            false
+        ],
+        [
+            "r43",
+            "Ghost Armor recipe",
+            false
+        ],
+        [
+            "r44",
+            "Ghost Helmet recipe",
+            false
+        ],
+        [
+            "r45",
+            "Ghost Boots recipe",
+            false
+        ],
+        [
+            "r46",
+            "Ghost Gloves recipe",
+            false
+        ],
+        [
+            "r47",
+            "Lion Armor recipe",
+            false
+        ],
+        [
+            "r48",
+            "Lion Helmet recipe",
+            false
+        ],
+        [
+            "r49",
+            "Lion Boots recipe",
+            false
+        ],
+        [
+            "r50",
+            "Lion Gloves recipe",
+            false
+        ],
+        [
+            "r51",
+            "Demon Robe recipe",
+            false
+        ],
+        [
+            "r52",
+            "Demon Circlet recipe",
+            false
+        ],
+        [
+            "r53",
+            "Demon Shoes recipe",
+            false
+        ],
+        [
+            "r54",
+            "Demon Bracers recipe",
+            false
+        ],
+        [
+            "r55",
+            "Divine Robe recipe",
+            false
+        ],
+        [
+            "r56",
+            "Divine Circlet recipe",
+            false
+        ],
+        [
+            "r57",
+            "Divine Shoes recipe",
+            false
+        ],
+        [
+            "r58",
+            "Divine Bracers recipe",
+            false
+        ],
+        [
+            "r59",
+            "Storm Cloak recipe",
+            false
+        ],
+        [
+            "r60",
+            "Durable Cloak recipe",
+            false
+        ],
+        [
+            "r61",
+            "Blessed Cloak recipe",
+            false
+        ],
+        [
+            "r78",
+            "Council Armor recipe",
+            false
+        ],
+        [
+            "r79",
+            "Council Helmet recipe",
+            false
+        ],
+        [
+            "r80",
+            "Council Boots recipe",
+            false
+        ],
+        [
+            "r81",
+            "Council Gauntlets recipe",
+            false
+        ],
+        [
+            "r82",
+            "Council Shield recipe",
+            false
+        ],
+        [
+            "r83",
+            "Griffin Armor recipe",
+            false
+        ],
+        [
+            "r84",
+            "Griffin Helmet recipe",
+            false
+        ],
+        [
+            "r85",
+            "Griffin Boots recipe",
+            false
+        ],
+        [
+            "r86",
+            "Griffin Gloves recipe",
+            false
+        ],
+        [
+            "r87",
+            "Celestial Armor recipe",
+            false
+        ],
+        [
+            "r88",
+            "Celestial Helmet recipe",
+            false
+        ],
+        [
+            "r89",
+            "Celestial Boots recipe",
+            false
+        ],
+        [
+            "r90",
+            "Celestial Bracers recipe",
+            false
+        ],
+        [
+            "r91",
+            "Griffin Knife recipe",
+            false
+        ],
+        [
+            "r92",
+            "Minotaur Sword recipe",
+            false
+        ],
+        [
+            "r93",
+            "Phoenix Sword recipe",
+            false
+        ],
+        [
+            "r94",
+            "Heavy Fauchard recipe",
+            false
+        ],
+        [
+            "r95",
+            "Guisarme recipe",
+            false
+        ],
+        [
+            "r96",
+            "Meteor Bow recipe",
+            false
+        ],
+        [
+            "r97",
+            "Nightfall Bow recipe",
+            false
+        ],
+        [
+            "r98",
+            "Black Morningstar recipe",
+            false
+        ],
+        [
+            "r99",
+            "Maiming Bulawa recipe",
+            false
+        ],
+        [
+            "s01",
+            "📕Scroll of Rage",
+            false
+        ],
+        [
+            "s02",
+            "📕Scroll of Peace",
+            false
+        ],
+        [
+            "s03",
+            "📗Scroll of Rage",
+            false
+        ],
+        [
+            "s04",
+            "📗Scroll of Peace",
+            false
+        ],
+        [
+            "s05",
+            "📘Scroll of Rage",
+            false
+        ],
+        [
+            "s06",
+            "📘Scroll of Peace",
+            false
+        ],
+        [
+            "s11",
+            "📕Rare scroll of Rage",
+            false
+        ],
+        [
+            "s12",
+            "📕Rare scroll of Peace",
+            false
+        ],
+        [
+            "s13",
+            "📗Rare scroll of Rage",
+            false
+        ],
+        [
+            "s14",
+            "📗Rare scroll of Peace",
+            false
+        ],
+        [
+            "s15",
+            "📘Rare scroll of Rage",
+            false
+        ],
+        [
+            "s16",
+            "📘Rare scroll of Peace",
+            false
+        ],
+        [
+            "tch",
+            "Torch",
+            true
+        ],
+        [
+            "tlt",
+            "Loyalty Trophy",
+            false
+        ],
+        [
+            "w01",
+            "Wooden sword",
+            false
+        ],
+        [
+            "w02",
+            "Short sword",
+            false
+        ],
+        [
+            "w03",
+            "Long sword",
+            false
+        ],
+        [
+            "w04",
+            "Widow sword",
+            false
+        ],
+        [
+            "w05",
+            "Knight's sword",
+            false
+        ],
+        [
+            "w06",
+            "Elven sword",
+            false
+        ],
+        [
+            "w07",
+            "Rapier",
+            false
+        ],
+        [
+            "w08",
+            "Short spear",
+            false
+        ],
+        [
+            "w09",
+            "Long spear",
+            false
+        ],
+        [
+            "w10",
+            "Lance",
+            false
+        ],
+        [
+            "w11",
+            "Elven spear",
+            false
+        ],
+        [
+            "w12",
+            "Halberd",
+            false
+        ],
+        [
+            "w13",
+            "Kitchen knife",
+            false
+        ],
+        [
+            "w14",
+            "Battle knife",
+            false
+        ],
+        [
+            "w15",
+            "Steel dagger",
+            false
+        ],
+        [
+            "w16",
+            "Silver dagger",
+            false
+        ],
+        [
+            "w17",
+            "Mithril dagger",
+            false
+        ],
+        [
+            "w18",
+            "Short Bow",
+            false
+        ],
+        [
+            "w19",
+            "Wooden Bow",
+            false
+        ],
+        [
+            "w20",
+            "Long Bow",
+            false
+        ],
+        [
+            "w21",
+            "Elven Bow",
+            false
+        ],
+        [
+            "w22",
+            "Forest Bow",
+            false
+        ],
+        [
+            "w23",
+            "Club",
+            false
+        ],
+        [
+            "w24",
+            "Bone club",
+            false
+        ],
+        [
+            "w25",
+            "Heavy club",
+            false
+        ],
+        [
+            "w26",
+            "Steel axe",
+            false
+        ],
+        [
+            "w27",
+            "Mithril axe",
+            false
+        ],
+        [
+            "w28",
+            "Champion Sword",
+            true
+        ],
+        [
+            "w29",
+            "Trident",
+            true
+        ],
+        [
+            "w30",
+            "Hunter Bow",
+            true
+        ],
+        [
+            "w31",
+            "War hammer",
+            true
+        ],
+        [
+            "w32",
+            "Hunter dagger",
+            true
+        ],
+        [
+            "w33",
+            "Thundersoul Sword",
+            true
+        ],
+        [
+            "w34",
+            "Doomblade Sword",
+            true
+        ],
+        [
+            "w35",
+            "Eclipse",
+            true
+        ],
+        [
+            "w36",
+            "Guard's Spear",
+            true
+        ],
+        [
+            "w37",
+            "King's Defender",
+            true
+        ],
+        [
+            "w38",
+            "Raging Lance",
+            true
+        ],
+        [
+            "w39",
+            "Composite Bow",
+            true
+        ],
+        [
+            "w40",
+            "Lightning Bow",
+            true
+        ],
+        [
+            "w41",
+            "Hailstorm Bow",
+            true
+        ],
+        [
+            "w42",
+            "Imperial Axe",
+            true
+        ],
+        [
+            "w43",
+            "Skull Crusher",
+            true
+        ],
+        [
+            "w44",
+            "Dragon Mace",
+            true
+        ],
+        [
+            "w45",
+            "Ghost dagger",
+            true
+        ],
+        [
+            "w46",
+            "Lion Knife",
+            true
+        ],
+        [
+            "w91",
+            "Griffin Knife",
+            true
+        ],
+        [
+            "w92",
+            "Minotaur Sword",
+            true
+        ],
+        [
+            "w93",
+            "Phoenix Sword",
+            true
+        ],
+        [
+            "w94",
+            "Heavy Fauchard",
+            true
+        ],
+        [
+            "w95",
+            "Guisarme",
+            true
+        ],
+        [
+            "w96",
+            "Meteor Bow",
+            true
+        ],
+        [
+            "w97",
+            "Nightfall Bow",
+            true
+        ],
+        [
+            "w98",
+            "Black Morningstar",
+            true
+        ],
+        [
+            "w99",
+            "Maiming Bulawa",
+            true
+        ]
+    ],
+    "fields": [
+        "id",
+        "name",
+        "complex"
+    ],
+    "types": [
+        25,
+        25,
+        16
+    ],
+    "type_names": [
+        "text",
+        "text",
+        "boolean"
+    ],
+    "started_at": "2019-10-21 11:58:01 +0000",
+    "finished_at": "2019-10-21 11:58:02 +0000",
+    "checksum": "ec6917185e12bd0d88623d598fe44cea"
+}

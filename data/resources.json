@@ -13473,8 +13473,8 @@
         "type": "Protective Gear",
         "subType": "Armor",
         "wikiNote": "needs weight, sale price",
-        "attack": 10,
-        "defense": 34,
+        "attack": 5,
+        "defense": 28,
         "mana": 0,
         "stamina": 0,
         "inventoryIncrease": 0,
@@ -13488,11 +13488,10 @@
         "quest": false,
         "enchantable": false,
         "craftable": false,
-        "recipeIncomplete": false,
         "recipe": {},
         "pagename": "Walker Armor (Event Gear)",
-        "lastModified": "2019-11-16T16:33:03Z",
-        "revision": 13082,
+        "lastModified": "2019-11-18T10:13:22Z",
+        "revision": 13357,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=Walker Armor (Event Gear)"
     },
     {
@@ -14965,7 +14964,7 @@
         "eventItem": true,
         "eventPage": "Monster Hunt 2018",
         "name": "🧟‍♂️ War Club",
-        "type": "Protective Gear",
+        "type": "Weapon",
         "subType": "Blunt",
         "wikiNote": "needs weight, sale price, level equip requirement",
         "attack": 17,
@@ -14985,8 +14984,8 @@
         "craftable": false,
         "recipe": {},
         "pagename": "War Club (Event Gear)",
-        "lastModified": "2019-11-16T17:59:34Z",
-        "revision": 13354,
+        "lastModified": "2019-11-18T10:30:06Z",
+        "revision": 13358,
         "wikiUrl": "https://chatwars-wiki.de/index.php?title=War Club (Event Gear)"
     }
 ]

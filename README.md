@@ -29,4 +29,9 @@ This is a spare-time project, so progress will very much depend on time availabl
   - Can present random 'things to fix' to users as a way to get issues resolved.
   - Can do so sort of consensus based editing of wiki data.
   - Monitors changes and reports them somewhere.
+- Add other data such as:
+  - Castle info
+  - Guild levels
+  - Class/skill info
+  - ...
 

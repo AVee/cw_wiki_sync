@@ -1,5 +1,5 @@
 {
-    "timestamp": "2019-12-07T13:47:37.680786+00:00",
+    "timestamp": "2019-12-08T14:11:04.567182+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -11782,6 +11782,8 @@
             "attack": 5,
             "defense": 25,
             "mana": 0,
+            "weight": 450,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "shopSellPrice": 496,
@@ -11795,6 +11797,7 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a27",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -11810,8 +11813,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Order Armor",
-            "lastModified": "2019-11-16T16:29:35Z",
-            "revision": 13022,
+            "lastModified": "2019-12-08T13:39:05Z",
+            "revision": 13686,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Armor"
         },
         {
@@ -12025,6 +12028,8 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "shopSellPrice": 198,
@@ -12032,7 +12037,6 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game_updates/2018-04-03|April 3, 2018 update]].",
             "quest": false,
-            "questPerceptionLevel": 0,
             "enchantable": true,
             "enchantAtk1": 0,
             "enchantAtk2": 0,
@@ -12043,6 +12047,7 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a30",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -12057,8 +12062,8 @@
                 "Metal Plate": "9"
             },
             "pagename": "Order Gauntlets",
-            "lastModified": "2019-11-16T16:29:44Z",
-            "revision": 13025,
+            "lastModified": "2019-12-08T13:29:55Z",
+            "revision": 13685,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Gauntlets"
         },
         {

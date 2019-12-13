@@ -1,5 +1,5 @@
 {
-    "timestamp": "2019-12-08T16:11:05.451978+00:00",
+    "timestamp": "2019-12-13T19:11:04.802783+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -14545,6 +14545,7 @@
             "description": "The Skull Crusher features a mushroom shaped hammer head, which pans out before returning inwards on a central stalk. Attached to the mushroom lips are several inch long blades, wide for blunt, penetrating power when swung. About 5 feet long, the Skull Crusher invites users to drop their shield and bash others... both shields, and people.",
             "attack": 18,
             "defense": 17,
+            "mana": 0,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -14579,8 +14580,8 @@
                 "Ruby": "3"
             },
             "pagename": "Skull Crusher",
-            "lastModified": "2019-11-16T16:38:52Z",
-            "revision": 13339,
+            "lastModified": "2019-12-13T18:11:29Z",
+            "revision": 13692,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull Crusher"
         },
         {

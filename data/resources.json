@@ -1,5 +1,5 @@
 {
-    "timestamp": "2019-12-13T19:11:04.802783+00:00",
+    "timestamp": "2019-12-14T06:11:05.212865+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -2929,6 +2929,7 @@
             "attack": 5,
             "defense": 15,
             "mana": 0,
+            "weight": 155,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 414,
@@ -2953,8 +2954,8 @@
                 "Coke": "11"
             },
             "pagename": "Council Boots",
-            "lastModified": "2019-11-16T16:32:18Z",
-            "revision": 13071,
+            "lastModified": "2019-12-14T05:53:14Z",
+            "revision": 13702,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Boots"
         },
         {
@@ -3156,6 +3157,7 @@
             "attack": 8,
             "defense": 25,
             "mana": 0,
+            "weight": 210,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 683,
@@ -3191,8 +3193,8 @@
                 "Quality Cloth": "2"
             },
             "pagename": "Council Helmet",
-            "lastModified": "2019-11-16T16:32:14Z",
-            "revision": 13070,
+            "lastModified": "2019-12-14T05:51:32Z",
+            "revision": 13701,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Helmet"
         },
         {
@@ -3276,6 +3278,7 @@
             "attack": 0,
             "defense": 15,
             "mana": 0,
+            "weight": 220,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3311,8 +3314,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Council Shield",
-            "lastModified": "2019-11-16T16:32:26Z",
-            "revision": 13073,
+            "lastModified": "2019-12-14T06:06:53Z",
+            "revision": 13706,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Shield"
         },
         {
@@ -6483,6 +6486,7 @@
             "attack": 5,
             "defense": 10,
             "mana": 0,
+            "weight": 140,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 270,
@@ -6520,8 +6524,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Ghost Gloves",
-            "lastModified": "2019-11-16T16:31:02Z",
-            "revision": 13050,
+            "lastModified": "2019-12-14T05:49:39Z",
+            "revision": 13700,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Gloves"
         },
         {
@@ -13245,6 +13249,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 480,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 945,
@@ -13262,6 +13267,7 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a50",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -13277,8 +13283,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Royal Armor",
-            "lastModified": "2019-11-16T16:30:34Z",
-            "revision": 13042,
+            "lastModified": "2019-12-14T05:46:26Z",
+            "revision": 13699,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Armor"
         },
         {
@@ -13487,6 +13493,7 @@
             "attack": 3,
             "defense": 13,
             "mana": 0,
+            "weight": 140,
             "levelRequirement": 35,
             "shopSellPrice": 288,
             "exchange": false,
@@ -13522,8 +13529,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Royal Gauntlets",
-            "lastModified": "2019-11-16T16:30:44Z",
-            "revision": 13045,
+            "lastModified": "2019-12-14T05:57:44Z",
+            "revision": 13703,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Gauntlets"
         },
         {
@@ -15224,6 +15231,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 30,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -15240,6 +15248,7 @@
             "enchantDef3": 1,
             "enchantDef4": 0,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a71",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -15255,8 +15264,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Storm Cloak",
-            "lastModified": "2019-11-16T16:31:54Z",
-            "revision": 13063,
+            "lastModified": "2019-12-14T06:02:53Z",
+            "revision": 13705,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm Cloak"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2019-12-14T07:11:04.242822+00:00",
+    "timestamp": "2019-12-20T23:11:05.342805+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -9213,7 +9213,20 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 2,
+            "enchantAtk2": 1,
+            "enchantAtk3": 2,
+            "enchantAtk4": 1,
+            "enchantDef1": 1,
+            "enchantDef2": 2,
+            "enchantDef3": 1,
+            "enchantDef4": 2,
+            "enchantMana1": 0,
+            "enchantMana2": 0,
+            "enchantMana3": 0,
+            "enchantMana4": 0,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w42",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 4,
@@ -9229,8 +9242,8 @@
                 "Ruby": "3"
             },
             "pagename": "Imperial Axe",
-            "lastModified": "2019-11-16T16:38:49Z",
-            "revision": 13338,
+            "lastModified": "2019-12-20T22:35:44Z",
+            "revision": 13725,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial Axe"
         },
         {

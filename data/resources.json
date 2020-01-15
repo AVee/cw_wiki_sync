@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-01-10T16:11:06.353815+00:00",
+    "timestamp": "2020-01-15T21:11:04.397468+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -15834,6 +15834,7 @@
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "wrapping": 0,
             "levelRequirement": 25,
+            "depositable": true,
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
@@ -15855,8 +15856,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Trident Blade",
-            "lastModified": "2019-11-25T22:54:55Z",
-            "revision": 13645,
+            "lastModified": "2020-01-15T20:58:20Z",
+            "revision": 13753,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident Blade"
         },
         {
@@ -16424,6 +16425,7 @@
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "wrapping": 0,
             "levelRequirement": 25,
+            "depositable": true,
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
@@ -16445,8 +16447,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "War Hammer Head",
-            "lastModified": "2019-11-25T22:57:45Z",
-            "revision": 13646,
+            "lastModified": "2020-01-15T21:09:35Z",
+            "revision": 13754,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War Hammer Head"
         },
         {

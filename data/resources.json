@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-01-16T02:11:17.942769+00:00",
+    "timestamp": "2020-01-18T14:11:05.022824+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -11569,6 +11569,7 @@
             "levelRequirement": 45,
             "ammunition": "Broad Arrow, Compound Arrow, Heavy Arrow",
             "depositable": true,
+            "shopSellPrice": 2376,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -11603,8 +11604,8 @@
                 "Quality Cloth": "5"
             },
             "pagename": "Nightfall Bow",
-            "lastModified": "2019-11-18T16:10:34Z",
-            "revision": 13440,
+            "lastModified": "2020-01-18T13:53:02Z",
+            "revision": 13818,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nightfall Bow"
         },
         {

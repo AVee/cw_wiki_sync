@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-01-29T09:11:05.455340+00:00",
+    "timestamp": "2020-01-29T15:11:04.174882+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5346,6 +5346,14 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 2,
+            "enchantAtk2": 1,
+            "enchantAtk3": 2,
+            "enchantAtk4": 1,
+            "enchantDef1": 1,
+            "enchantDef2": 2,
+            "enchantDef3": 1,
+            "enchantDef4": 2,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_w44",
@@ -5363,8 +5371,8 @@
                 "Ruby": "3"
             },
             "pagename": "Dragon Mace",
-            "lastModified": "2019-11-16T16:38:55Z",
-            "revision": 13340,
+            "lastModified": "2020-01-29T14:58:09Z",
+            "revision": 13825,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon Mace"
         },
         {
@@ -14538,9 +14546,11 @@
             "enchantAtk1": 2,
             "enchantAtk2": 1,
             "enchantAtk3": 2,
+            "enchantAtk4": 1,
             "enchantDef1": 1,
             "enchantDef2": 2,
             "enchantDef3": 1,
+            "enchantDef4": 2,
             "enchantMana1": 0,
             "enchantMana2": 0,
             "enchantMana3": 0,
@@ -14561,8 +14571,8 @@
                 "Ruby": "3"
             },
             "pagename": "Skull Crusher",
-            "lastModified": "2019-12-13T18:11:29Z",
-            "revision": 13692,
+            "lastModified": "2020-01-29T14:58:57Z",
+            "revision": 13826,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull Crusher"
         },
         {

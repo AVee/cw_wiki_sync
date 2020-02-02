@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-01T12:11:04.685025+00:00",
+    "timestamp": "2020-02-02T18:11:04.002307+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -3049,9 +3049,11 @@
             "enchantDef1": 2,
             "enchantDef2": 2,
             "enchantDef3": 2,
-            "enchantMana1": 5,
-            "enchantMana2": 5,
-            "enchantMana3": 5,
+            "enchantDef4": 2,
+            "enchantMana1": 0,
+            "enchantMana2": 0,
+            "enchantMana3": 0,
+            "enchantMana4": 0,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a81",
@@ -3070,8 +3072,8 @@
                 "Blacksmith Mold": "1"
             },
             "pagename": "Council Gauntlets",
-            "lastModified": "2020-01-10T15:18:31Z",
-            "revision": 13749,
+            "lastModified": "2020-02-02T18:06:43Z",
+            "revision": 13828,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Gauntlets"
         },
         {

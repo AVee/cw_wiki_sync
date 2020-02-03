@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-02T18:11:04.002307+00:00",
+    "timestamp": "2020-02-03T03:11:04.662036+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -10180,6 +10180,7 @@
             "attack": 6,
             "defense": 9,
             "mana": 0,
+            "weight": 140,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -10217,8 +10218,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Lion Gloves",
-            "lastModified": "2019-11-16T16:31:22Z",
-            "revision": 13054,
+            "lastModified": "2020-02-03T03:03:19Z",
+            "revision": 13830,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion Gloves"
         },
         {
@@ -12439,6 +12440,7 @@
             "attack": 45,
             "defense": 0,
             "mana": 0,
+            "weight": 220,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -12466,8 +12468,8 @@
                 "Hardener": "9"
             },
             "pagename": "Phoenix Sword",
-            "lastModified": "2019-11-16T16:39:12Z",
-            "revision": 13345,
+            "lastModified": "2020-02-03T03:02:40Z",
+            "revision": 13829,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Phoenix Sword"
         },
         {

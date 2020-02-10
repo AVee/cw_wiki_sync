@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-03T03:11:04.662036+00:00",
+    "timestamp": "2020-02-10T19:11:04.647608+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1172,6 +1172,7 @@
             "weight": 510,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 931,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -1194,8 +1195,8 @@
                 "Quality Cloth": "18"
             },
             "pagename": "Celestial Armor",
-            "lastModified": "2019-11-16T16:32:47Z",
-            "revision": 13078,
+            "lastModified": "2020-02-10T18:51:14Z",
+            "revision": 13841,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Armor"
         },
         {
@@ -8152,6 +8153,7 @@
             "mana": 0,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 2160,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -8173,8 +8175,8 @@
                 "Ruby": "3"
             },
             "pagename": "Heavy Fauchard",
-            "lastModified": "2019-11-16T16:39:16Z",
-            "revision": 13346,
+            "lastModified": "2020-02-10T18:51:58Z",
+            "revision": 13842,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy Fauchard"
         },
         {

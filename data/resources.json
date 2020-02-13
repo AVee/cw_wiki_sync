@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-10T19:11:04.647608+00:00",
+    "timestamp": "2020-02-13T17:11:06.417619+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17221,6 +17221,27 @@
             "lastModified": "2019-11-16T16:33:21Z",
             "revision": 13091,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie Shield (Event Gear)"
+        },
+        {
+            "id": "fst",
+            "eventItem": false,
+            "name": "Force Stone",
+            "type": "Misc",
+            "wikiNote": "needs linking to other pages",
+            "weight": 1,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "freeText": "Used to reroll stats for rings and amulets.",
+            "quest": false,
+            "enchantable": false,
+            "craftable": false,
+            "wikiFreeText": "Random drop from completing guild quests.\n\nRerolls stats, but not class of a ring/amulet.",
+            "recipe": {},
+            "pagename": "Force stone",
+            "lastModified": "2020-02-13T16:59:58Z",
+            "revision": 13843,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Force stone"
         }
     ]
 }

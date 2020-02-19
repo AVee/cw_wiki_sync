@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-16T12:11:07.151365+00:00",
+    "timestamp": "2020-02-19T21:11:06.278081+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1637,7 +1637,7 @@
             "auction": true,
             "freeText": "It was introduced with the [[Advanced Crafting]] update.",
             "quest": true,
-            "questMinLevel": 20,
+            "questMinLevel": 22,
             "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
@@ -1659,8 +1659,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Champion Blade",
-            "lastModified": "2019-11-16T16:33:40Z",
-            "revision": 13103,
+            "lastModified": "2020-02-19T20:27:59Z",
+            "revision": 13862,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Champion Blade"
         },
         {
@@ -8435,6 +8435,8 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -8453,8 +8455,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Hunter Blade",
-            "lastModified": "2020-01-15T21:12:34Z",
-            "revision": 13755,
+            "lastModified": "2020-02-19T20:36:42Z",
+            "revision": 13868,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter Blade"
         },
         {
@@ -9001,13 +9003,6 @@
             "eventItem": false,
             "name": "Hunter shaft",
             "type": "Piece of Equipment",
-            "attack": 0,
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
-            "duration": 0,
             "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
@@ -9016,6 +9011,8 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -9036,8 +9033,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Shaft",
-            "lastModified": "2019-11-25T22:07:02Z",
-            "revision": 13497,
+            "lastModified": "2020-02-19T20:28:23Z",
+            "revision": 13863,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter Shaft"
         },
         {
@@ -11832,6 +11829,8 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -11850,8 +11849,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Armor Piece",
-            "lastModified": "2020-01-15T21:13:23Z",
-            "revision": 13756,
+            "lastModified": "2020-02-19T20:39:17Z",
+            "revision": 13869,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Armor Piece"
         },
         {
@@ -11956,6 +11955,8 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -11974,8 +11975,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Boots Part",
-            "lastModified": "2020-01-16T01:19:39Z",
-            "revision": 13757,
+            "lastModified": "2020-02-19T20:41:54Z",
+            "revision": 13873,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Boots Part"
         },
         {
@@ -12196,6 +12197,7 @@
             "auction": true,
             "freeText": "It was introduced with the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
             "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
@@ -12217,8 +12219,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Order Helmet Fragment",
-            "lastModified": "2019-11-16T16:33:48Z",
-            "revision": 13109,
+            "lastModified": "2020-02-19T20:41:36Z",
+            "revision": 13872,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Helmet Fragment"
         },
         {
@@ -15807,6 +15809,8 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -15825,8 +15829,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Trident Blade",
-            "lastModified": "2020-01-15T20:58:20Z",
-            "revision": 13753,
+            "lastModified": "2020-02-19T20:28:45Z",
+            "revision": 13864,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident Blade"
         },
         {
@@ -16416,8 +16420,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "War Hammer Head",
-            "lastModified": "2020-01-15T21:09:35Z",
-            "revision": 13754,
+            "lastModified": "2020-02-19T20:27:29Z",
+            "revision": 13861,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War Hammer Head"
         },
         {
@@ -17222,27 +17226,6 @@
             "lastModified": "2019-11-16T16:33:21Z",
             "revision": 13091,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie Shield (Event Gear)"
-        },
-        {
-            "id": "fst",
-            "eventItem": false,
-            "name": "Force Stone",
-            "type": "Misc",
-            "wikiNote": "needs linking to other pages",
-            "weight": 1,
-            "depositable": true,
-            "exchange": false,
-            "auction": true,
-            "freeText": "Used to reroll stats for rings and amulets.",
-            "quest": false,
-            "enchantable": false,
-            "craftable": false,
-            "wikiFreeText": "Random drop from completing guild quests.\n\nRerolls stats, but not class of a ring/amulet.",
-            "recipe": {},
-            "pagename": "Force stone",
-            "lastModified": "2020-02-13T16:59:58Z",
-            "revision": 13843,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Force stone"
         },
         {
             "id": "s16",

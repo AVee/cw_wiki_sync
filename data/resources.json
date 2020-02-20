@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-20T05:11:08.879381+00:00",
+    "timestamp": "2020-02-20T07:11:08.968789+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -2671,6 +2671,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 32,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2689,8 +2690,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Composite Bow Shaft",
-            "lastModified": "2020-01-16T01:24:16Z",
-            "revision": 13768,
+            "lastModified": "2020-02-20T07:04:50Z",
+            "revision": 13905,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite Bow Shaft"
         },
         {
@@ -5232,6 +5233,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questPerceptionLevel": 3,
             "dropForestMorning": true,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5250,8 +5252,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Doomblade Blade",
-            "lastModified": "2020-01-16T01:23:14Z",
-            "revision": 13765,
+            "lastModified": "2020-02-20T06:58:19Z",
+            "revision": 13898,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doomblade Blade"
         },
         {
@@ -5309,7 +5311,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questPerceptionLevel": 2,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5330,8 +5332,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Doomblade Sword Recipe",
-            "lastModified": "2019-11-25T22:08:56Z",
-            "revision": 13587,
+            "lastModified": "2020-02-20T06:59:07Z",
+            "revision": 13899,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doomblade Sword Recipe"
         },
         {
@@ -5395,6 +5397,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 40,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5413,8 +5416,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Dragon Mace Head",
-            "lastModified": "2020-01-16T01:26:34Z",
-            "revision": 13773,
+            "lastModified": "2020-02-20T07:10:21Z",
+            "revision": 13913,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon Mace Head"
         },
         {
@@ -5430,7 +5433,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questPerceptionLevel": 2,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5451,8 +5454,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Dragon Mace Recipe",
-            "lastModified": "2019-12-07T13:44:39Z",
-            "revision": 13678,
+            "lastModified": "2020-02-20T07:10:35Z",
+            "revision": 13914,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon Mace Recipe"
         },
         {
@@ -5666,6 +5669,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 40,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5684,8 +5688,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Eclipse Blade",
-            "lastModified": "2020-01-16T01:23:02Z",
-            "revision": 13766,
+            "lastModified": "2020-02-20T07:00:05Z",
+            "revision": 13900,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse Blade"
         },
         {
@@ -6236,6 +6240,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 40,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -6254,8 +6259,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Ghost Blade",
-            "lastModified": "2020-01-16T01:26:37Z",
-            "revision": 13774,
+            "lastModified": "2020-02-20T07:10:59Z",
+            "revision": 13915,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Blade"
         },
         {
@@ -7541,7 +7546,7 @@
             "auction": true,
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questMinLevel": 20,
+            "questMinLevel": 32,
             "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
@@ -7563,8 +7568,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Guard's Blade",
-            "lastModified": "2019-11-25T22:07:25Z",
-            "revision": 13515,
+            "lastModified": "2020-02-20T07:00:58Z",
+            "revision": 13901,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard's Blade"
         },
         {
@@ -7628,7 +7633,6 @@
             "auction": true,
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questMinLevel": 32,
             "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
@@ -7650,8 +7654,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Guard's Spear Recipe",
-            "lastModified": "2019-11-16T16:36:17Z",
-            "revision": 13234,
+            "lastModified": "2020-02-20T07:02:25Z",
+            "revision": 13902,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard's Spear Recipe"
         },
         {
@@ -7847,7 +7851,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questPerceptionLevel": 2,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": true,
@@ -7868,8 +7872,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Hailstorm Bow Recipe",
-            "lastModified": "2019-12-07T13:44:38Z",
-            "revision": 13677,
+            "lastModified": "2020-02-20T07:07:15Z",
+            "revision": 13909,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hailstorm Bow Recipe"
         },
         {
@@ -7884,6 +7888,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 40,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7902,8 +7907,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Hailstorm Bow Shaft",
-            "lastModified": "2020-01-16T01:24:23Z",
-            "revision": 13770,
+            "lastModified": "2020-02-20T07:06:45Z",
+            "revision": 13908,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hailstorm Bow Shaft"
         },
         {
@@ -9244,6 +9249,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 32,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -9262,8 +9268,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Imperial Axe Head",
-            "lastModified": "2020-01-16T01:24:07Z",
-            "revision": 13771,
+            "lastModified": "2020-02-20T07:07:40Z",
+            "revision": 13910,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial Axe Head"
         },
         {
@@ -9836,7 +9842,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questPerceptionLevel": 2,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -9857,8 +9863,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lightning Bow Recipe",
-            "lastModified": "2019-11-25T22:09:00Z",
-            "revision": 13590,
+            "lastModified": "2020-02-20T07:05:57Z",
+            "revision": 13907,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightning Bow Recipe"
         },
         {
@@ -9873,6 +9879,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": true,
@@ -9891,8 +9898,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Lightning Bow Shaft",
-            "lastModified": "2020-01-16T01:24:20Z",
-            "revision": 13769,
+            "lastModified": "2020-02-20T07:05:30Z",
+            "revision": 13906,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightning Bow Shaft"
         },
         {
@@ -13049,6 +13056,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 40,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -13067,8 +13075,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Raging Lance Blade",
-            "lastModified": "2020-01-16T01:23:09Z",
-            "revision": 13767,
+            "lastModified": "2020-02-20T07:03:15Z",
+            "revision": 13903,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging Lance Blade"
         },
         {
@@ -13084,7 +13092,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questPerceptionLevel": 2,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": true,
             "dropForestEvening": false,
@@ -13105,8 +13113,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Raging Lance Recipe",
-            "lastModified": "2019-12-07T13:44:37Z",
-            "revision": 13676,
+            "lastModified": "2020-02-20T07:04:20Z",
+            "revision": 13904,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging Lance Recipe"
         },
         {
@@ -14601,6 +14609,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -14619,8 +14628,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Skull Crusher Head",
-            "lastModified": "2020-01-16T01:24:31Z",
-            "revision": 13772,
+            "lastModified": "2020-02-20T07:08:39Z",
+            "revision": 13911,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull Crusher Head"
         },
         {
@@ -14636,7 +14645,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
-            "questPerceptionLevel": 2,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -14657,8 +14666,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Skull Crusher Recipe",
-            "lastModified": "2019-11-25T22:09:04Z",
-            "revision": 13593,
+            "lastModified": "2020-02-20T07:09:41Z",
+            "revision": 13912,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull Crusher Recipe"
         },
         {
@@ -15589,6 +15598,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
+            "questMinLevel": 32,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -15607,8 +15617,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Thundersoul Blade",
-            "lastModified": "2020-01-16T01:22:33Z",
-            "revision": 13764,
+            "lastModified": "2020-02-20T06:52:52Z",
+            "revision": 13897,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Thundersoul Blade"
         },
         {

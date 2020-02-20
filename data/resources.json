@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-19T21:11:06.278081+00:00",
+    "timestamp": "2020-02-20T04:11:05.165897+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -11867,7 +11867,6 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
-            "questMinLevel": 1,
             "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
@@ -11888,8 +11887,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Order Armor Recipe",
-            "lastModified": "2019-11-25T22:08:42Z",
-            "revision": 13576,
+            "lastModified": "2020-02-20T03:54:00Z",
+            "revision": 13875,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Armor Recipe"
         },
         {
@@ -11992,7 +11991,6 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
-            "questMinLevel": 1,
             "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
@@ -12013,8 +12011,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Order Boots Recipe",
-            "lastModified": "2019-11-25T22:08:44Z",
-            "revision": 13577,
+            "lastModified": "2020-02-20T03:54:49Z",
+            "revision": 13876,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Boots Recipe"
         },
         {
@@ -12081,6 +12079,7 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -12099,8 +12098,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Gauntlets Part",
-            "lastModified": "2020-01-16T01:19:57Z",
-            "revision": 13758,
+            "lastModified": "2020-02-20T04:03:22Z",
+            "revision": 13877,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Gauntlets Part"
         },
         {
@@ -12117,7 +12116,6 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
-            "questMinLevel": 1,
             "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
@@ -12138,8 +12136,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Order Gauntlets Recipe",
-            "lastModified": "2019-11-25T22:08:45Z",
-            "revision": 13578,
+            "lastModified": "2020-02-20T04:04:22Z",
+            "revision": 13878,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Gauntlets Recipe"
         },
         {
@@ -12314,6 +12312,8 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -12332,8 +12332,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Shield Part",
-            "lastModified": "2020-01-16T01:20:15Z",
-            "revision": 13759,
+            "lastModified": "2020-02-20T04:07:35Z",
+            "revision": 13879,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Shield Part"
         },
         {
@@ -16402,6 +16402,8 @@
             "auction": true,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
+            "questMinLevel": 22,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -16420,8 +16422,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "War Hammer Head",
-            "lastModified": "2020-02-19T20:27:29Z",
-            "revision": 13861,
+            "lastModified": "2020-02-20T03:51:49Z",
+            "revision": 13874,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War Hammer Head"
         },
         {

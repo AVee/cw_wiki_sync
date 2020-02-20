@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-20T09:11:16.557910+00:00",
+    "timestamp": "2020-02-20T10:11:07.350906+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1211,6 +1211,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -1229,8 +1230,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Celestial Armor Part",
-            "lastModified": "2020-02-20T08:36:38Z",
-            "revision": 14027,
+            "lastModified": "2020-02-20T09:22:52Z",
+            "revision": 14067,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Armor Part"
         },
         {
@@ -1241,6 +1242,7 @@
             "depositable": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -1261,8 +1263,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Armor Recipe",
-            "lastModified": "2020-02-20T08:37:08Z",
-            "revision": 14028,
+            "lastModified": "2020-02-20T09:22:55Z",
+            "revision": 14068,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Armor Recipe"
         },
         {
@@ -1540,6 +1542,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -1558,11 +1561,10 @@
             "dropForayNight": false,
             "enchantable": false,
             "craftable": false,
-            "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Celestial Helmet Part",
-            "lastModified": "2019-11-25T22:08:26Z",
-            "revision": 13563,
+            "lastModified": "2020-02-20T09:23:00Z",
+            "revision": 14069,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Helmet Part"
         },
         {
@@ -1576,6 +1578,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -1596,8 +1599,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Helmet Recipe",
-            "lastModified": "2020-02-20T08:37:33Z",
-            "revision": 14029,
+            "lastModified": "2020-02-20T09:23:04Z",
+            "revision": 14070,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Helmet Recipe"
         },
         {
@@ -2900,6 +2903,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2920,8 +2924,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Armor Recipe",
-            "lastModified": "2020-02-20T08:22:55Z",
-            "revision": 14010,
+            "lastModified": "2020-02-20T09:22:21Z",
+            "revision": 14058,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Armor Recipe"
         },
         {
@@ -2975,6 +2979,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2995,8 +3000,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Boots Part",
-            "lastModified": "2020-02-20T08:25:13Z",
-            "revision": 14013,
+            "lastModified": "2020-02-20T09:22:32Z",
+            "revision": 14061,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Boots Part"
         },
         {
@@ -3010,6 +3015,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -3029,8 +3035,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Boots Recipe",
-            "lastModified": "2020-02-20T08:26:39Z",
-            "revision": 14014,
+            "lastModified": "2020-02-20T09:22:36Z",
+            "revision": 14062,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Boots Recipe"
         },
         {
@@ -3221,6 +3227,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -3241,8 +3248,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Helmet Part",
-            "lastModified": "2020-02-20T08:23:18Z",
-            "revision": 14011,
+            "lastModified": "2020-02-20T09:22:24Z",
+            "revision": 14059,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Helmet Part"
         },
         {
@@ -3257,6 +3264,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -3277,8 +3285,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Helmet Recipe",
-            "lastModified": "2020-02-20T08:23:47Z",
-            "revision": 14012,
+            "lastModified": "2020-02-20T09:22:28Z",
+            "revision": 14060,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Helmet Recipe"
         },
         {
@@ -7216,6 +7224,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7236,8 +7245,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Boots Recipe",
-            "lastModified": "2020-02-20T08:35:23Z",
-            "revision": 14024,
+            "lastModified": "2020-02-20T09:22:43Z",
+            "revision": 14064,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Boots Recipe"
         },
         {
@@ -7295,6 +7304,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7315,8 +7325,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Gloves Part",
-            "lastModified": "2020-02-20T08:36:01Z",
-            "revision": 14025,
+            "lastModified": "2020-02-20T09:22:46Z",
+            "revision": 14065,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Gloves Part"
         },
         {
@@ -7330,6 +7340,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7350,8 +7361,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Gloves Recipe",
-            "lastModified": "2020-02-20T08:36:17Z",
-            "revision": 14026,
+            "lastModified": "2020-02-20T09:22:49Z",
+            "revision": 14066,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Gloves Recipe"
         },
         {
@@ -7418,6 +7429,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7438,8 +7450,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Helmet Part",
-            "lastModified": "2020-02-20T08:33:18Z",
-            "revision": 14021,
+            "lastModified": "2020-02-20T09:22:39Z",
+            "revision": 14063,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Helmet Part"
         },
         {

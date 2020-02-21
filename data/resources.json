@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-21T07:11:19.328470+00:00",
+    "timestamp": "2020-02-21T09:11:11.788061+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -171,6 +171,7 @@
             "name": "Assault Cape part",
             "type": "Piece of Equipment",
             "wikiNote": "everything unconfirmed :D besides drop info",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -197,8 +198,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Assault Cape Part",
-            "lastModified": "2020-02-20T08:50:43Z",
-            "revision": 14052,
+            "lastModified": "2020-02-21T09:04:04Z",
+            "revision": 14176,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assault Cape Part"
         },
         {
@@ -207,6 +208,7 @@
             "name": "Assault Cape recipe",
             "type": "Recipe (Item)",
             "wikiNote": "everything unconfirmed",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -233,8 +235,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Assault Cape Recipe",
-            "lastModified": "2020-02-20T08:50:59Z",
-            "revision": 14053,
+            "lastModified": "2020-02-21T09:04:08Z",
+            "revision": 14177,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assault Cape Recipe"
         },
         {
@@ -580,6 +582,7 @@
             "name": "Blessed Cloak part",
             "type": "Piece of Equipment",
             "wikiNote": "ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -607,8 +610,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Blessed Cloak Part",
-            "lastModified": "2020-02-20T07:42:06Z",
-            "revision": 14008,
+            "lastModified": "2020-02-21T09:03:31Z",
+            "revision": 14166,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blessed Cloak Part"
         },
         {
@@ -1465,6 +1468,7 @@
             "eventItem": false,
             "name": "Celestial Bracers recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -1491,8 +1495,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Bracers Recipe",
-            "lastModified": "2020-02-20T08:39:59Z",
-            "revision": 14033,
+            "lastModified": "2020-02-21T09:03:40Z",
+            "revision": 14168,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Bracers Recipe"
         },
         {
@@ -2170,6 +2174,7 @@
             "name": "Clarity Robe piece",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -2196,8 +2201,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Clarity Robe Piece",
-            "lastModified": "2020-02-20T04:27:27Z",
-            "revision": 13888,
+            "lastModified": "2020-02-21T09:02:59Z",
+            "revision": 14154,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity Robe Piece"
         },
         {
@@ -2682,6 +2687,7 @@
             "name": "Composite Bow shaft",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -2708,8 +2714,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Composite Bow Shaft",
-            "lastModified": "2020-02-20T07:37:27Z",
-            "revision": 13974,
+            "lastModified": "2020-02-21T09:03:07Z",
+            "revision": 14157,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite Bow Shaft"
         },
         {
@@ -3565,6 +3571,7 @@
             "name": "Craftsman Apron recipe",
             "type": "Recipe (Item)",
             "wikiNote": "missing drop info detail, item id unconfirmed",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3591,8 +3598,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Craftsman Apron Recipe",
-            "lastModified": "2020-02-20T08:52:54Z",
-            "revision": 14055,
+            "lastModified": "2020-02-21T09:04:11Z",
+            "revision": 14178,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman Apron Recipe"
         },
         {
@@ -5303,6 +5310,7 @@
             "name": "Doomblade blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -5328,8 +5336,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Doomblade Blade",
-            "lastModified": "2020-02-20T06:58:19Z",
-            "revision": 13898,
+            "lastModified": "2020-02-21T09:03:02Z",
+            "revision": 14155,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doomblade Blade"
         },
         {
@@ -5625,6 +5633,7 @@
             "name": "Durable Cloak part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -5651,8 +5660,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Durable Cloak Part",
-            "lastModified": "2020-02-20T07:42:05Z",
-            "revision": 14007,
+            "lastModified": "2020-02-21T09:03:26Z",
+            "revision": 14165,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable Cloak Part"
         },
         {
@@ -5743,6 +5752,7 @@
             "name": "Eclipse blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -5769,8 +5779,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Eclipse Blade",
-            "lastModified": "2020-02-20T07:36:56Z",
-            "revision": 13972,
+            "lastModified": "2020-02-21T09:03:04Z",
+            "revision": 14156,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse Blade"
         },
         {
@@ -6243,6 +6253,7 @@
             "name": "Ghost Armor part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -6269,8 +6280,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Ghost Armor Part",
-            "lastModified": "2020-02-20T07:40:05Z",
-            "revision": 13990,
+            "lastModified": "2020-02-21T09:03:20Z",
+            "revision": 14162,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Armor Part"
         },
         {
@@ -6744,6 +6755,7 @@
             "name": "Ghost Helmet fragment",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -6770,8 +6782,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Ghost Helmet Fragment",
-            "lastModified": "2020-02-20T07:40:09Z",
-            "revision": 13991,
+            "lastModified": "2020-02-21T09:03:22Z",
+            "revision": 14163,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Helmet Fragment"
         },
         {
@@ -7113,6 +7125,7 @@
             "eventItem": false,
             "name": "Griffin Armor part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7139,8 +7152,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Armor Part",
-            "lastModified": "2020-02-20T08:32:31Z",
-            "revision": 14019,
+            "lastModified": "2020-02-21T09:03:38Z",
+            "revision": 14167,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Armor Part"
         },
         {
@@ -7580,6 +7593,7 @@
             "eventItem": false,
             "name": "Griffin Knife part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "quest": true,
@@ -7604,8 +7618,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Knife Part",
-            "lastModified": "2020-02-20T08:40:45Z",
-            "revision": 14034,
+            "lastModified": "2020-02-21T09:03:42Z",
+            "revision": 14169,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Knife Part"
         },
         {
@@ -7873,6 +7887,7 @@
             "eventItem": false,
             "name": "Guisarme recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "quest": true,
@@ -7897,8 +7912,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Guisarme Recipe",
-            "lastModified": "2020-02-20T08:46:55Z",
-            "revision": 14043,
+            "lastModified": "2020-02-21T09:03:49Z",
+            "revision": 14172,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guisarme Recipe"
         },
         {
@@ -8343,6 +8358,7 @@
             "eventItem": false,
             "name": "Heavy Fauchard recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "quest": true,
             "questPerceptionLevel": 4,
@@ -8366,8 +8382,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Heavy Fauchard Recipe",
-            "lastModified": "2020-02-20T08:43:50Z",
-            "revision": 14041,
+            "lastModified": "2020-02-21T09:03:47Z",
+            "revision": 14171,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy Fauchard Recipe"
         },
         {
@@ -8552,6 +8568,7 @@
             "name": "Hunter blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 25,
             "depositable": true,
@@ -8578,8 +8595,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Hunter Blade",
-            "lastModified": "2020-02-19T20:36:42Z",
-            "revision": 13868,
+            "lastModified": "2020-02-21T09:02:56Z",
+            "revision": 14153,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter Blade"
         },
         {
@@ -9357,6 +9374,7 @@
             "name": "Imperial Axe head",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -9383,8 +9401,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Imperial Axe Head",
-            "lastModified": "2020-02-20T07:38:41Z",
-            "revision": 13976,
+            "lastModified": "2020-02-21T09:03:13Z",
+            "revision": 14159,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial Axe Head"
         },
         {
@@ -9988,6 +10006,7 @@
             "name": "Lightning Bow shaft",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -10013,8 +10032,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Lightning Bow Shaft",
-            "lastModified": "2020-02-20T07:05:30Z",
-            "revision": 13906,
+            "lastModified": "2020-02-21T09:03:11Z",
+            "revision": 14158,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightning Bow Shaft"
         },
         {
@@ -10362,6 +10381,7 @@
             "name": "Lion Gloves part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -10388,8 +10408,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Lion Gloves Part",
-            "lastModified": "2020-02-20T07:41:31Z",
-            "revision": 13997,
+            "lastModified": "2020-02-21T09:03:24Z",
+            "revision": 14164,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion Gloves Part"
         },
         {
@@ -10904,6 +10924,7 @@
             "name": "Maiming Bulawa part",
             "type": "Piece of Equipment",
             "wikiNote": "most info missing, drop valley night confirmed",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -10929,8 +10950,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Maiming Bulawa Part",
-            "lastModified": "2020-02-20T08:49:57Z",
-            "revision": 14050,
+            "lastModified": "2020-02-21T09:04:01Z",
+            "revision": 14175,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maiming Bulawa Part"
         },
         {
@@ -11281,6 +11302,7 @@
             "eventItem": false,
             "name": "Meteor Bow part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -11306,8 +11328,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Meteor Bow Part",
-            "lastModified": "2020-02-20T08:47:18Z",
-            "revision": 14044,
+            "lastModified": "2020-02-21T09:03:51Z",
+            "revision": 14173,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Meteor Bow Part"
         },
         {
@@ -11315,6 +11337,7 @@
             "eventItem": false,
             "name": "Meteor Bow recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -11341,8 +11364,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Meteor Bow Recipe",
-            "lastModified": "2020-02-20T08:47:40Z",
-            "revision": 14045,
+            "lastModified": "2020-02-21T09:03:53Z",
+            "revision": 14174,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Meteor Bow Recipe"
         },
         {
@@ -11447,6 +11470,7 @@
             "eventItem": false,
             "name": "Minotaur Sword recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11472,8 +11496,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Minotaur Sword Recipe",
-            "lastModified": "2020-02-20T08:41:49Z",
-            "revision": 14037,
+            "lastModified": "2020-02-21T09:03:45Z",
+            "revision": 14170,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Minotaur Sword Recipe"
         },
         {
@@ -12095,6 +12119,7 @@
             "name": "Order Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -12121,8 +12146,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Boots Part",
-            "lastModified": "2020-02-19T20:41:54Z",
-            "revision": 13873,
+            "lastModified": "2020-02-21T09:04:48Z",
+            "revision": 14181,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Boots Part"
         },
         {
@@ -13447,6 +13472,7 @@
             "name": "Royal Armor piece",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -13473,8 +13499,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Royal Armor Piece",
-            "lastModified": "2020-02-20T07:39:30Z",
-            "revision": 13985,
+            "lastModified": "2020-02-21T09:03:16Z",
+            "revision": 14160,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Armor Piece"
         },
         {
@@ -13843,6 +13869,7 @@
             "name": "Royal Helmet fragment",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -13869,8 +13896,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Royal Helmet Fragment",
-            "lastModified": "2020-02-20T07:39:35Z",
-            "revision": 13986,
+            "lastModified": "2020-02-21T09:03:18Z",
+            "revision": 14161,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Helmet Fragment"
         },
         {
@@ -15356,6 +15383,7 @@
             "name": "Stoneskin Cloak recipe",
             "type": "Recipe (Item)",
             "wikiNote": "drop info missing",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -15382,8 +15410,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Stoneskin Cloak Recipe",
-            "lastModified": "2020-02-20T08:53:37Z",
-            "revision": 14057,
+            "lastModified": "2020-02-21T09:04:13Z",
+            "revision": 14179,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin Cloak Recipe"
         },
         {
@@ -15983,6 +16011,7 @@
             "name": "Trident blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 25,
             "depositable": true,
@@ -16009,8 +16038,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Trident Blade",
-            "lastModified": "2020-02-19T20:28:45Z",
-            "revision": 13864,
+            "lastModified": "2020-02-21T09:05:09Z",
+            "revision": 14182,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident Blade"
         },
         {
@@ -16576,6 +16605,7 @@
             "name": "War hammer head",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 25,
             "depositable": true,
@@ -16602,8 +16632,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "War Hammer Head",
-            "lastModified": "2020-02-20T03:51:49Z",
-            "revision": 13874,
+            "lastModified": "2020-02-21T09:04:37Z",
+            "revision": 14180,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War Hammer Head"
         },
         {

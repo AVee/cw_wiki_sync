@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-21T06:11:10.972743+00:00",
+    "timestamp": "2020-02-21T07:11:19.328470+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -404,6 +404,7 @@
             "eventItem": false,
             "name": "Black Morningstar part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -431,8 +432,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Black Morningstar Part",
-            "lastModified": "2020-02-20T08:49:12Z",
-            "revision": 14048,
+            "lastModified": "2020-02-21T06:30:42Z",
+            "revision": 14125,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black Morningstar Part"
         },
         {
@@ -440,6 +441,7 @@
             "eventItem": false,
             "name": "Black Morningstar recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "quest": true,
             "questPerceptionLevel": 4,
@@ -463,8 +465,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Black Morningstar Recipe",
-            "lastModified": "2020-02-20T08:49:31Z",
-            "revision": 14049,
+            "lastModified": "2020-02-21T06:31:32Z",
+            "revision": 14143,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black Morningstar Recipe"
         },
         {
@@ -1205,6 +1207,7 @@
             "name": "Celestial Armor part",
             "type": "Piece of Equipment",
             "subType": "Armor",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -1230,8 +1233,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Celestial Armor Part",
-            "lastModified": "2020-02-20T09:22:52Z",
-            "revision": 14067,
+            "lastModified": "2020-02-21T06:30:16Z",
+            "revision": 14116,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Armor Part"
         },
         {
@@ -1239,6 +1242,7 @@
             "eventItem": false,
             "name": "Celestial Armor recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "quest": true,
             "questMinLevel": 46,
@@ -1263,8 +1267,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Armor Recipe",
-            "lastModified": "2020-02-20T09:22:55Z",
-            "revision": 14068,
+            "lastModified": "2020-02-21T06:31:16Z",
+            "revision": 14137,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Armor Recipe"
         },
         {
@@ -1314,6 +1318,7 @@
             "eventItem": false,
             "name": "Celestial Boots part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -1340,8 +1345,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Boots Part",
-            "lastModified": "2020-02-20T08:37:57Z",
-            "revision": 14030,
+            "lastModified": "2020-02-21T06:30:21Z",
+            "revision": 14118,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Boots Part"
         },
         {
@@ -1349,6 +1354,7 @@
             "eventItem": false,
             "name": "Celestial Boots recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -1375,8 +1381,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Boots Recipe",
-            "lastModified": "2020-02-20T08:38:28Z",
-            "revision": 14031,
+            "lastModified": "2020-02-21T06:31:21Z",
+            "revision": 14139,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Boots Recipe"
         },
         {
@@ -1425,6 +1431,7 @@
             "eventItem": false,
             "name": "Celestial Bracers part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "quest": true,
@@ -1449,8 +1456,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Bracers Part",
-            "lastModified": "2020-02-20T08:39:05Z",
-            "revision": 14032,
+            "lastModified": "2020-02-21T06:30:23Z",
+            "revision": 14119,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Bracers Part"
         },
         {
@@ -1536,6 +1543,7 @@
             "name": "Celestial Helmet part",
             "type": "Piece of Equipment",
             "subType": "Helmet",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -1563,8 +1571,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Helmet Part",
-            "lastModified": "2020-02-20T09:23:00Z",
-            "revision": 14069,
+            "lastModified": "2020-02-21T06:30:18Z",
+            "revision": 14117,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Helmet Part"
         },
         {
@@ -1572,6 +1580,7 @@
             "eventItem": false,
             "name": "Celestial Helmet recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -1599,8 +1608,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Helmet Recipe",
-            "lastModified": "2020-02-20T09:23:04Z",
-            "revision": 14070,
+            "lastModified": "2020-02-21T06:31:18Z",
+            "revision": 14138,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Helmet Recipe"
         },
         {
@@ -2864,6 +2873,7 @@
             "eventItem": false,
             "name": "Council Armor part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -2891,8 +2901,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Armor Part",
-            "lastModified": "2020-02-20T08:19:57Z",
-            "revision": 14009,
+            "lastModified": "2020-02-21T06:29:53Z",
+            "revision": 14109,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Armor Part"
         },
         {
@@ -2900,6 +2910,7 @@
             "eventItem": false,
             "name": "Council Armor recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -2927,8 +2938,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Armor Recipe",
-            "lastModified": "2020-02-20T09:22:21Z",
-            "revision": 14058,
+            "lastModified": "2020-02-21T06:30:50Z",
+            "revision": 14128,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Armor Recipe"
         },
         {
@@ -2976,6 +2987,7 @@
             "eventItem": false,
             "name": "Council Boots part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3003,8 +3015,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Boots Part",
-            "lastModified": "2020-02-20T09:22:32Z",
-            "revision": 14061,
+            "lastModified": "2020-02-21T06:29:59Z",
+            "revision": 14111,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Boots Part"
         },
         {
@@ -3012,6 +3024,7 @@
             "eventItem": false,
             "name": "Council Boots recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3038,8 +3051,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Boots Recipe",
-            "lastModified": "2020-02-20T09:22:36Z",
-            "revision": 14062,
+            "lastModified": "2020-02-21T06:30:57Z",
+            "revision": 14130,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Boots Recipe"
         },
         {
@@ -3137,6 +3150,7 @@
             "eventItem": false,
             "name": "Council Gauntlets recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3163,8 +3177,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Gauntlets Recipe",
-            "lastModified": "2020-02-20T08:28:20Z",
-            "revision": 14016,
+            "lastModified": "2020-02-21T06:31:00Z",
+            "revision": 14131,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Gauntlets Recipe"
         },
         {
@@ -3224,6 +3238,7 @@
             "name": "Council Helmet part",
             "type": "Piece of Equipment",
             "wikiNote": "every info missing",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3251,8 +3266,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Helmet Part",
-            "lastModified": "2020-02-20T09:22:24Z",
-            "revision": 14059,
+            "lastModified": "2020-02-21T06:29:55Z",
+            "revision": 14110,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Helmet Part"
         },
         {
@@ -3261,6 +3276,7 @@
             "name": "Council Helmet recipe",
             "type": "Recipe (Item)",
             "wikiNote": "every info missing",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3288,8 +3304,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Helmet Recipe",
-            "lastModified": "2020-02-20T09:22:28Z",
-            "revision": 14060,
+            "lastModified": "2020-02-21T06:30:55Z",
+            "revision": 14129,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Helmet Recipe"
         },
         {
@@ -3346,6 +3362,7 @@
             "eventItem": false,
             "name": "Council Shield part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3372,8 +3389,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Shield Part",
-            "lastModified": "2020-02-20T08:28:42Z",
-            "revision": 14017,
+            "lastModified": "2020-02-21T06:30:02Z",
+            "revision": 14112,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Shield Part"
         },
         {
@@ -3381,6 +3398,7 @@
             "eventItem": false,
             "name": "Council Shield recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "quest": true,
             "questPerceptionLevel": 4,
@@ -3404,8 +3422,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Shield Recipe",
-            "lastModified": "2020-02-20T08:29:07Z",
-            "revision": 14018,
+            "lastModified": "2020-02-21T06:31:03Z",
+            "revision": 14132,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council Shield Recipe"
         },
         {
@@ -3662,6 +3680,7 @@
             "eventItem": false,
             "name": "Crusader Armor recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3687,8 +3706,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Armor Recipe",
-            "lastModified": "2020-02-20T07:12:45Z",
-            "revision": 13920,
+            "lastModified": "2020-02-21T06:30:46Z",
+            "revision": 14126,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader Armor Recipe"
         },
         {
@@ -3748,6 +3767,7 @@
             "name": "Crusader Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -3774,8 +3794,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Crusader Boots Part",
-            "lastModified": "2020-02-20T07:39:16Z",
-            "revision": 13982,
+            "lastModified": "2020-02-21T06:16:42Z",
+            "revision": 14089,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader Boots Part"
         },
         {
@@ -3873,6 +3893,7 @@
             "name": "Crusader Gauntlets part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -3899,8 +3920,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Crusader Gauntlets Part",
-            "lastModified": "2020-02-20T07:39:21Z",
-            "revision": 13983,
+            "lastModified": "2020-02-21T06:16:45Z",
+            "revision": 14090,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader Gauntlets Part"
         },
         {
@@ -4108,6 +4129,7 @@
             "name": "Crusader shield part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4134,8 +4156,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Crusader Shield Part",
-            "lastModified": "2020-02-20T07:39:25Z",
-            "revision": 13984,
+            "lastModified": "2020-02-21T06:16:47Z",
+            "revision": 14091,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader Shield Part"
         },
         {
@@ -4259,6 +4281,7 @@
             "name": "Demon Bracers part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4285,8 +4308,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Demon Bracers Part",
-            "lastModified": "2020-02-20T07:41:44Z",
-            "revision": 14001,
+            "lastModified": "2020-02-21T06:17:25Z",
+            "revision": 14103,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon Bracers Part"
         },
         {
@@ -4394,6 +4417,7 @@
             "name": "Demon Circlet fragment",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4420,8 +4444,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Demon Circlet Fragment",
-            "lastModified": "2020-02-20T07:41:38Z",
-            "revision": 13999,
+            "lastModified": "2020-02-21T06:17:21Z",
+            "revision": 14101,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon Circlet Fragment"
         },
         {
@@ -4528,6 +4552,7 @@
             "name": "Demon Robe piece",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4554,8 +4579,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Demon Robe Piece",
-            "lastModified": "2020-02-20T07:41:35Z",
-            "revision": 13998,
+            "lastModified": "2020-02-21T06:17:18Z",
+            "revision": 14100,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon Robe Piece"
         },
         {
@@ -4670,6 +4695,7 @@
             "name": "Demon Shoes part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4696,8 +4722,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Demon Shoes Part",
-            "lastModified": "2020-02-20T07:41:41Z",
-            "revision": 14000,
+            "lastModified": "2020-02-21T06:17:23Z",
+            "revision": 14102,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon Shoes Part"
         },
         {
@@ -4817,6 +4843,7 @@
             "name": "Divine Bracers part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4843,8 +4870,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Divine Bracers Part",
-            "lastModified": "2020-02-20T07:41:58Z",
-            "revision": 14005,
+            "lastModified": "2020-02-21T06:17:35Z",
+            "revision": 14107,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine Bracers Part"
         },
         {
@@ -4940,6 +4967,7 @@
             "name": "Divine Circlet fragment",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4966,8 +4994,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Divine Circlet Fragment",
-            "lastModified": "2020-02-20T07:41:51Z",
-            "revision": 14003,
+            "lastModified": "2020-02-21T06:17:30Z",
+            "revision": 14105,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine Circlet Fragment"
         },
         {
@@ -5070,6 +5098,7 @@
             "name": "Divine Robe piece",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -5096,8 +5125,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Divine Robe Piece",
-            "lastModified": "2020-02-20T07:41:48Z",
-            "revision": 14002,
+            "lastModified": "2020-02-21T06:17:28Z",
+            "revision": 14104,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine Robe Piece"
         },
         {
@@ -5199,6 +5228,7 @@
             "name": "Divine Shoes part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -5225,8 +5255,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Divine Shoes Part",
-            "lastModified": "2020-02-20T07:41:54Z",
-            "revision": 14004,
+            "lastModified": "2020-02-21T06:17:32Z",
+            "revision": 14106,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine Shoes Part"
         },
         {
@@ -6375,6 +6405,7 @@
             "name": "Ghost Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -6401,8 +6432,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Ghost Boots Part",
-            "lastModified": "2020-02-20T07:40:14Z",
-            "revision": 13992,
+            "lastModified": "2020-02-21T06:17:01Z",
+            "revision": 14095,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Boots Part"
         },
         {
@@ -6592,6 +6623,7 @@
             "name": "Ghost Gloves part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -6618,8 +6650,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Ghost Gloves Part",
-            "lastModified": "2020-02-20T07:40:17Z",
-            "revision": 13993,
+            "lastModified": "2020-02-21T06:17:04Z",
+            "revision": 14096,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Gloves Part"
         },
         {
@@ -7116,6 +7148,7 @@
             "eventItem": false,
             "name": "Griffin Armor recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7142,8 +7175,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Armor Recipe",
-            "lastModified": "2020-02-20T08:32:54Z",
-            "revision": 14020,
+            "lastModified": "2020-02-21T06:31:06Z",
+            "revision": 14133,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Armor Recipe"
         },
         {
@@ -7191,6 +7224,7 @@
             "eventItem": false,
             "name": "Griffin Boots part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7217,8 +7251,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Boots Part",
-            "lastModified": "2020-02-20T08:34:59Z",
-            "revision": 14023,
+            "lastModified": "2020-02-21T06:30:10Z",
+            "revision": 14114,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Boots Part"
         },
         {
@@ -7226,6 +7260,7 @@
             "eventItem": false,
             "name": "Griffin Boots recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7253,8 +7288,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Boots Recipe",
-            "lastModified": "2020-02-20T09:22:43Z",
-            "revision": 14064,
+            "lastModified": "2020-02-21T06:31:11Z",
+            "revision": 14135,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Boots Recipe"
         },
         {
@@ -7306,6 +7341,7 @@
             "eventItem": false,
             "name": "Griffin Gloves part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7333,8 +7369,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Gloves Part",
-            "lastModified": "2020-02-20T09:22:46Z",
-            "revision": 14065,
+            "lastModified": "2020-02-21T06:30:14Z",
+            "revision": 14115,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Gloves Part"
         },
         {
@@ -7342,6 +7378,7 @@
             "eventItem": false,
             "name": "Griffin Gloves recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7369,8 +7406,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Gloves Recipe",
-            "lastModified": "2020-02-20T09:22:49Z",
-            "revision": 14066,
+            "lastModified": "2020-02-21T06:31:13Z",
+            "revision": 14136,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Gloves Recipe"
         },
         {
@@ -7431,6 +7468,7 @@
             "eventItem": false,
             "name": "Griffin Helmet part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7458,8 +7496,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Helmet Part",
-            "lastModified": "2020-02-20T09:22:39Z",
-            "revision": 14063,
+            "lastModified": "2020-02-21T06:30:08Z",
+            "revision": 14113,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Helmet Part"
         },
         {
@@ -7467,6 +7505,7 @@
             "eventItem": false,
             "name": "Griffin Helmet recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7493,8 +7532,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Helmet Recipe",
-            "lastModified": "2020-02-20T08:33:40Z",
-            "revision": 14022,
+            "lastModified": "2020-02-21T06:31:08Z",
+            "revision": 14134,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Helmet Recipe"
         },
         {
@@ -7574,6 +7613,7 @@
             "eventItem": false,
             "name": "Griffin Knife recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "quest": true,
@@ -7598,8 +7638,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Griffin Knife Recipe",
-            "lastModified": "2020-02-20T08:41:05Z",
-            "revision": 14035,
+            "lastModified": "2020-02-21T06:31:22Z",
+            "revision": 14140,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin Knife Recipe"
         },
         {
@@ -7797,6 +7837,7 @@
             "type": "Piece of Equipment",
             "subType": "Spear",
             "wikiNote": "absolutely all info missing",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -7823,8 +7864,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Guisarme Part",
-            "lastModified": "2020-02-20T08:44:36Z",
-            "revision": 14042,
+            "lastModified": "2020-02-21T06:30:34Z",
+            "revision": 14123,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guisarme Part"
         },
         {
@@ -8266,6 +8307,7 @@
             "name": "Heavy Fauchard part",
             "type": "Piece of Equipment",
             "wikiNote": "absolutely all info missing",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -8292,8 +8334,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Heavy Fauchard Part",
-            "lastModified": "2020-02-20T08:43:33Z",
-            "revision": 14040,
+            "lastModified": "2020-02-21T06:30:31Z",
+            "revision": 14122,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy Fauchard Part"
         },
         {
@@ -10031,6 +10073,7 @@
             "name": "Lion Armor part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -10057,8 +10100,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Lion Armor Part",
-            "lastModified": "2020-02-20T07:40:21Z",
-            "revision": 13994,
+            "lastModified": "2020-02-21T06:17:08Z",
+            "revision": 14097,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion Armor Part"
         },
         {
@@ -10066,6 +10109,7 @@
             "eventItem": false,
             "name": "Lion Armor recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -10093,8 +10137,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lion Armor Recipe",
-            "lastModified": "2020-02-20T07:24:29Z",
-            "revision": 13948,
+            "lastModified": "2020-02-21T06:30:48Z",
+            "revision": 14127,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion Armor Recipe"
         },
         {
@@ -10191,6 +10235,7 @@
             "name": "Lion Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -10217,8 +10262,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Lion Boots Part",
-            "lastModified": "2020-02-20T07:41:27Z",
-            "revision": 13996,
+            "lastModified": "2020-02-21T06:17:15Z",
+            "revision": 14099,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion Boots Part"
         },
         {
@@ -10436,6 +10481,7 @@
             "name": "Lion Helmet fragment",
             "type": "Piece of Equipment",
             "wikiNote": "ToDo: Fill out all these properties",
+            "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -10463,8 +10509,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lion Helmet Fragment",
-            "lastModified": "2020-02-20T07:40:29Z",
-            "revision": 13995,
+            "lastModified": "2020-02-21T06:17:12Z",
+            "revision": 14098,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion Helmet Fragment"
         },
         {
@@ -10892,6 +10938,7 @@
             "eventItem": false,
             "name": "Maiming Bulawa recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "quest": true,
@@ -10917,8 +10964,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Maiming Bulawa Recipe",
-            "lastModified": "2020-02-20T08:50:14Z",
-            "revision": 14051,
+            "lastModified": "2020-02-21T06:31:34Z",
+            "revision": 14144,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maiming Bulawa Recipe"
         },
         {
@@ -11365,6 +11412,7 @@
             "eventItem": false,
             "name": "Minotaur Sword part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "auction": true,
@@ -11390,8 +11438,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Minotaur Sword Part",
-            "lastModified": "2020-02-20T08:41:28Z",
-            "revision": 14036,
+            "lastModified": "2020-02-21T06:30:26Z",
+            "revision": 14120,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Minotaur Sword Part"
         },
         {
@@ -11717,6 +11765,7 @@
             "eventItem": false,
             "name": "Nightfall Bow part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "quest": true,
@@ -11741,8 +11790,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nightfall Bow Part",
-            "lastModified": "2020-02-20T08:48:13Z",
-            "revision": 14046,
+            "lastModified": "2020-02-21T06:30:38Z",
+            "revision": 14124,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nightfall Bow Part"
         },
         {
@@ -11750,6 +11799,7 @@
             "eventItem": false,
             "name": "Nightfall Bow recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "quest": true,
             "questPerceptionLevel": 4,
@@ -11773,8 +11823,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nightfall Bow Recipe",
-            "lastModified": "2020-02-20T08:48:50Z",
-            "revision": 14047,
+            "lastModified": "2020-02-21T06:31:29Z",
+            "revision": 14142,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nightfall Bow Recipe"
         },
         {
@@ -12582,6 +12632,7 @@
             "eventItem": false,
             "name": "Phoenix Sword part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "quest": true,
@@ -12606,8 +12657,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Phoenix Sword Part",
-            "lastModified": "2020-02-20T08:42:22Z",
-            "revision": 14038,
+            "lastModified": "2020-02-21T06:30:29Z",
+            "revision": 14121,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Phoenix Sword Part"
         },
         {
@@ -12615,6 +12666,7 @@
             "eventItem": false,
             "name": "Phoenix Sword recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "depositable": true,
             "quest": true,
             "questPerceptionLevel": 4,
@@ -12638,8 +12690,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Phoenix Sword Recipe",
-            "lastModified": "2020-02-20T08:42:38Z",
-            "revision": 14039,
+            "lastModified": "2020-02-21T06:31:26Z",
+            "revision": 14141,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Phoenix Sword Recipe"
         },
         {
@@ -13519,6 +13571,7 @@
             "name": "Royal Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -13545,8 +13598,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Royal Boots Part",
-            "lastModified": "2020-02-20T07:39:40Z",
-            "revision": 13987,
+            "lastModified": "2020-02-21T06:16:49Z",
+            "revision": 14092,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Boots Part"
         },
         {
@@ -13643,6 +13696,7 @@
             "name": "Royal Gauntlets part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -13669,8 +13723,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Royal Gauntlets Part",
-            "lastModified": "2020-02-20T07:39:53Z",
-            "revision": 13988,
+            "lastModified": "2020-02-21T06:16:55Z",
+            "revision": 14093,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Gauntlets Part"
         },
         {
@@ -13907,6 +13961,7 @@
             "name": "Royal shield part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -13933,8 +13988,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Royal Shield Part",
-            "lastModified": "2020-02-20T07:39:57Z",
-            "revision": 13989,
+            "lastModified": "2020-02-21T06:16:58Z",
+            "revision": 14094,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Shield Part"
         },
         {
@@ -15386,6 +15441,7 @@
             "name": "Storm Cloak part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -15412,8 +15468,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Storm Cloak Part",
-            "lastModified": "2020-02-20T07:42:01Z",
-            "revision": 14006,
+            "lastModified": "2020-02-21T06:17:37Z",
+            "revision": 14108,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm Cloak Part"
         },
         {

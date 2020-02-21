@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-20T10:11:07.350906+00:00",
+    "timestamp": "2020-02-21T06:11:10.972743+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1907,6 +1907,7 @@
             "name": "Clarity Bracers part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -1933,8 +1934,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Clarity Bracers Part",
-            "lastModified": "2020-02-20T04:33:59Z",
-            "revision": 13895,
+            "lastModified": "2020-02-21T06:09:11Z",
+            "revision": 14079,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity Bracers Part"
         },
         {
@@ -2036,6 +2037,7 @@
             "name": "Clarity Circlet fragment",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -2062,8 +2064,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Clarity Circlet Fragment",
-            "lastModified": "2020-02-20T04:33:04Z",
-            "revision": 13892,
+            "lastModified": "2020-02-21T06:02:08Z",
+            "revision": 14077,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity Circlet Fragment"
         },
         {
@@ -2286,6 +2288,7 @@
             "name": "Clarity Shoes part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -2312,8 +2315,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Clarity Shoes Part",
-            "lastModified": "2020-02-20T04:33:15Z",
-            "revision": 13893,
+            "lastModified": "2020-02-21T06:03:00Z",
+            "revision": 14078,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity Shoes Part"
         },
         {
@@ -3506,6 +3509,7 @@
             "name": "Craftsman Apron part",
             "type": "Piece of Equipment",
             "wikiNote": "missing drop info detail, item id unconfirmed",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -3533,8 +3537,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Craftsman Apron Part",
-            "lastModified": "2020-02-20T08:52:16Z",
-            "revision": 14054,
+            "lastModified": "2020-02-21T05:59:15Z",
+            "revision": 14073,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman Apron Part"
         },
         {
@@ -3622,6 +3626,7 @@
             "eventItem": false,
             "name": "Crusader Armor piece",
             "type": "Piece of Equipment",
+            "weight": 10,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3648,8 +3653,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Armor Piece",
-            "lastModified": "2020-02-20T07:39:05Z",
-            "revision": 13980,
+            "lastModified": "2020-02-21T06:09:52Z",
+            "revision": 14087,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader Armor Piece"
         },
         {
@@ -3985,6 +3990,7 @@
             "name": "Crusader Helmet fragment",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -4011,8 +4017,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Crusader Helmet Fragment",
-            "lastModified": "2020-02-20T07:39:11Z",
-            "revision": 13981,
+            "lastModified": "2020-02-21T06:09:55Z",
+            "revision": 14088,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader Helmet Fragment"
         },
         {
@@ -5431,6 +5437,7 @@
             "name": "Dragon Mace head",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -5457,8 +5464,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Dragon Mace Head",
-            "lastModified": "2020-02-20T07:38:46Z",
-            "revision": 13977,
+            "lastModified": "2020-02-21T06:09:30Z",
+            "revision": 14084,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon Mace Head"
         },
         {
@@ -6280,6 +6287,7 @@
             "name": "Ghost blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -6306,8 +6314,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Ghost Blade",
-            "lastModified": "2020-02-20T07:38:50Z",
-            "revision": 13978,
+            "lastModified": "2020-02-21T06:09:33Z",
+            "revision": 14085,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Blade"
         },
         {
@@ -7943,6 +7951,7 @@
             "name": "Hailstorm Bow shaft",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -7969,8 +7978,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Hailstorm Bow Shaft",
-            "lastModified": "2020-02-20T07:38:37Z",
-            "revision": 13975,
+            "lastModified": "2020-02-21T06:09:23Z",
+            "revision": 14082,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hailstorm Bow Shaft"
         },
         {
@@ -10094,6 +10103,7 @@
             "name": "Lion blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -10120,8 +10130,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Lion Blade",
-            "lastModified": "2020-02-20T07:38:58Z",
-            "revision": 13979,
+            "lastModified": "2020-02-21T06:09:38Z",
+            "revision": 14086,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion Blade"
         },
         {
@@ -11909,6 +11919,7 @@
             "name": "Order Armor piece",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -11935,8 +11946,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Armor Piece",
-            "lastModified": "2020-02-19T20:39:17Z",
-            "revision": 13869,
+            "lastModified": "2020-02-21T05:49:00Z",
+            "revision": 14071,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Armor Piece"
         },
         {
@@ -12159,6 +12170,7 @@
             "name": "Order Gauntlets part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 0,
             "depositable": true,
@@ -12185,8 +12197,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Gauntlets Part",
-            "lastModified": "2020-02-20T04:16:14Z",
-            "revision": 13884,
+            "lastModified": "2020-02-21T05:57:07Z",
+            "revision": 14072,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Gauntlets Part"
         },
         {
@@ -12393,6 +12405,7 @@
             "name": "Order shield part",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 25,
             "depositable": true,
@@ -12419,8 +12432,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Order Shield Part",
-            "lastModified": "2020-02-20T04:07:35Z",
-            "revision": 13879,
+            "lastModified": "2020-02-21T06:01:02Z",
+            "revision": 14076,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order Shield Part"
         },
         {
@@ -13128,6 +13141,7 @@
             "name": "Raging Lance blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -13154,8 +13168,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Raging Lance Blade",
-            "lastModified": "2020-02-20T07:37:11Z",
-            "revision": 13973,
+            "lastModified": "2020-02-21T06:09:20Z",
+            "revision": 14081,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging Lance Blade"
         },
         {
@@ -14692,6 +14706,7 @@
             "name": "Skull Crusher head",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -14717,8 +14732,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Skull Crusher Head",
-            "lastModified": "2020-02-20T07:08:39Z",
-            "revision": 13911,
+            "lastModified": "2020-02-21T06:09:26Z",
+            "revision": 14083,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull Crusher Head"
         },
         {
@@ -15248,6 +15263,7 @@
             "eventItem": false,
             "name": "Stoneskin Cloak part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
@@ -15275,8 +15291,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Stoneskin Cloak Part",
-            "lastModified": "2020-02-20T08:53:17Z",
-            "revision": 14056,
+            "lastModified": "2020-02-21T06:00:02Z",
+            "revision": 14074,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin Cloak Part"
         },
         {
@@ -15684,6 +15700,7 @@
             "name": "Thundersoul blade",
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "weight": 10,
             "wrapping": 0,
             "levelRequirement": 35,
             "depositable": true,
@@ -15710,8 +15727,8 @@
             "dropForayNight": false,
             "recipe": {},
             "pagename": "Thundersoul Blade",
-            "lastModified": "2020-02-20T07:36:43Z",
-            "revision": 13971,
+            "lastModified": "2020-02-21T06:09:17Z",
+            "revision": 14080,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Thundersoul Blade"
         },
         {

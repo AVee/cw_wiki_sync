@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-21T09:11:11.788061+00:00",
+    "timestamp": "2020-02-23T22:11:04.574254+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -9562,8 +9562,7 @@
             "exchange": false,
             "auction": true,
             "quest": true,
-            "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": true,
             "dropForestEvening": false,
@@ -9584,8 +9583,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "King's Defender Blade",
-            "lastModified": "2019-11-16T16:34:09Z",
-            "revision": 13128,
+            "lastModified": "2020-02-23T21:57:52Z",
+            "revision": 14183,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=King's Defender Blade"
         },
         {

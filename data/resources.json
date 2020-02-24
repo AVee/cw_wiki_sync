@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-23T22:11:04.574254+00:00",
+    "timestamp": "2020-02-24T05:11:07.114220+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1109,6 +1109,7 @@
         {
             "id": "e6",
             "eventItem": true,
+            "name": "Cake",
             "type": "Misc",
             "freeText": "It is a historical item of ChatWars from the event [[Valentines Day 2018]]. It can be consumed with <code>/use_e6</code>. \n\n=Possible rewards from eating cakes=\n* [[Pouch of Gold]]\n* [[Chocolate]]\n* [[Special Cake]]\n* :Bookred: [[Scroll of Rage (Red)]]\n* :Bookred: [[Scroll of Peace (Red)]]\n* [[Valentine's Card]]",
             "craftable": true,
@@ -1124,8 +1125,8 @@
                 "Egg": "1"
             },
             "pagename": "Cake",
-            "lastModified": "2019-11-03T21:13:10Z",
-            "revision": 12511,
+            "lastModified": "2020-02-24T04:12:39Z",
+            "revision": 14184,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cake"
         },
         {
@@ -1834,13 +1835,8 @@
             "id": "e9",
             "eventItem": true,
             "eventPage": "Valentines Day 2018, Trade Union Event 2019",
+            "name": "🍫Chocolate",
             "type": "Consumable",
-            "attack": 0,
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "levelRequirement": 1,
             "depositable": false,
             "exchange": false,
@@ -1849,11 +1845,10 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Chocolate",
-            "lastModified": "2019-11-03T17:05:31Z",
-            "revision": 9763,
+            "lastModified": "2020-02-24T04:20:41Z",
+            "revision": 14186,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chocolate"
         },
         {
@@ -2533,11 +2528,9 @@
         {
             "id": "e1",
             "eventItem": true,
+            "name": "Cocoa Powder",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": true,
@@ -2549,8 +2542,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Cocoa Powder",
-            "lastModified": "2019-11-02T21:30:13Z",
-            "revision": 12375,
+            "lastModified": "2020-02-24T04:21:20Z",
+            "revision": 14187,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cocoa Powder"
         },
         {
@@ -5824,11 +5817,9 @@
         {
             "id": "e2",
             "eventItem": true,
+            "name": "Egg",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": true,
@@ -5840,8 +5831,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Egg",
-            "lastModified": "2019-11-02T21:28:04Z",
-            "revision": 12373,
+            "lastModified": "2020-02-24T04:22:39Z",
+            "revision": 14188,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Egg"
         },
         {
@@ -6152,11 +6143,9 @@
         {
             "id": "e3",
             "eventItem": true,
+            "name": "Flour",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": true,
@@ -6168,8 +6157,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Flour",
-            "lastModified": "2019-11-02T21:26:37Z",
-            "revision": 12372,
+            "lastModified": "2020-02-24T04:22:59Z",
+            "revision": 14189,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Flour"
         },
         {
@@ -11370,11 +11359,9 @@
         {
             "id": "e4",
             "eventItem": true,
+            "name": "Milk",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "depositable": true,
             "exchange": true,
             "auction": true,
@@ -11385,8 +11372,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Milk",
-            "lastModified": "2019-11-02T21:29:17Z",
-            "revision": 12374,
+            "lastModified": "2020-02-24T04:23:10Z",
+            "revision": 14190,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Milk"
         },
         {
@@ -13071,6 +13058,7 @@
             "id": "pmp",
             "eventItem": true,
             "eventPage": "Pretender Event 2019",
+            "name": "Pumpkin",
             "type": "Misc",
             "depositable": false,
             "exchange": false,
@@ -13079,8 +13067,8 @@
             "quest": false,
             "recipe": {},
             "pagename": "Pumpkin",
-            "lastModified": "2019-11-18T22:34:21Z",
-            "revision": 13450,
+            "lastModified": "2020-02-24T04:28:29Z",
+            "revision": 14191,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pumpkin"
         },
         {
@@ -14182,6 +14170,7 @@
         {
             "id": "hw104",
             "eventItem": true,
+            "name": "Shadow Bloodstone",
             "type": "Misc",
             "wikiNote": "Halloween event item",
             "depositable": false,
@@ -14210,8 +14199,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Shadow Bloodstone",
-            "lastModified": "2019-11-02T19:53:09Z",
-            "revision": 7600,
+            "lastModified": "2020-02-24T04:28:55Z",
+            "revision": 14192,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Shadow Bloodstone"
         },
         {
@@ -15614,11 +15603,9 @@
         {
             "id": "e5",
             "eventItem": true,
+            "name": "Sugar",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "depositable": true,
             "exchange": true,
             "auction": true,
@@ -15629,8 +15616,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Sugar",
-            "lastModified": "2019-11-02T21:31:20Z",
-            "revision": 12376,
+            "lastModified": "2020-02-24T04:29:30Z",
+            "revision": 14193,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sugar"
         },
         {
@@ -15899,6 +15886,7 @@
         {
             "id": "hw102",
             "eventItem": true,
+            "name": "Timeless Jade",
             "type": "Misc",
             "wikiNote": "Halloween event item",
             "depositable": false,
@@ -15927,8 +15915,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Timeless Jade",
-            "lastModified": "2019-11-02T19:53:32Z",
-            "revision": 7604,
+            "lastModified": "2020-02-24T04:29:57Z",
+            "revision": 14194,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Timeless Jade"
         },
         {
@@ -16338,6 +16326,7 @@
         {
             "id": "hw107",
             "eventItem": true,
+            "name": "Void Emerald",
             "type": "Misc",
             "wikiNote": "HW Event Item",
             "depositable": false,
@@ -16350,8 +16339,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Void Emerald",
-            "lastModified": "2019-11-02T19:53:30Z",
-            "revision": 7564,
+            "lastModified": "2020-02-24T04:30:30Z",
+            "revision": 14195,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Void Emerald"
         },
         {
@@ -17336,21 +17325,18 @@
             "id": "ch1",
             "eventItem": true,
             "eventPage": "Monster Hunt 2018",
+            "name": "Zombie Chest",
             "type": "Misc",
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "depositable": true,
             "exchange": true,
             "auction": false,
             "freeText": "It was a possible reward for exchanging [[Ichor]] at the [[Scientist]] during the [[Monster Hunt 2018]] event.\n\n=Possible loot=\n\n* :Coupon: [[Gift Coupon: Horse]]\n* :Coupon: [[Gift Coupon: Pig]]\n* :Coupon: [[Gift Coupon: Mouse]]\n* :Coupon: [[Gift Coupon: Owl]]\n* :Coupon: [[Gift Coupon: Gopher]]\n* :Bookgreen: [[Rare Scroll of Peace (Green)]]\n* :Bookgreen: [[Rare Scroll of Rage (Green)]]\n* :Bookblue: [[Rare Scroll of Peace (Blue)]]\n* :Bookblue: [[Rare Scroll of Rage (Blue)]]",
             "quest": false,
             "craftable": false,
-            "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Zombie Chest",
-            "lastModified": "2019-11-03T20:54:41Z",
-            "revision": 12504,
+            "lastModified": "2020-02-24T04:30:53Z",
+            "revision": 14196,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie Chest"
         },
         {

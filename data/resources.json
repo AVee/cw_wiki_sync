@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-24T05:11:07.114220+00:00",
+    "timestamp": "2020-02-26T20:11:06.189670+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -13792,18 +13792,17 @@
             "luck": 0,
             "wrapping": 1,
             "levelRequirement": 0,
-            "depositable": true,
+            "depositable": false,
             "shopSellPrice": 0,
             "exchange": false,
             "auction": false,
             "quest": false,
             "craftable": false,
-            "recipeIncomplete": false,
             "wikiFreeText": "=Acquisition=\nWhen starting the game and using the button \"Me\" or typing <code>/me</code>, the player will find a short notice on the top of the message:\n :Exclamationmark: Please report to your captain in the castle chat. The password is ZOM ODO.\n''(Note: The password is randomly generated for each player)''\n\nJoining the linked castle chat and typing out those letters given in the password awards the player with a cape, that can be equipped next to all standard equipment.\n Earned: '''[[Royal Guard Cape]]'''. Check <code>/inv</code> to wear it.\n\n=Trivia=\nIn earlier versions of the game the {{PAGENAME}} could be bought in the [[Shop|castle shop]] for 1 :Gold:, this got deactivated later on and now the item can only be acquired through [[Captain Arthur]].",
             "recipe": {},
             "pagename": "Royal Guard Cape",
-            "lastModified": "2019-11-16T16:29:32Z",
-            "revision": 13021,
+            "lastModified": "2020-02-26T20:00:07Z",
+            "revision": 14198,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal Guard Cape"
         },
         {

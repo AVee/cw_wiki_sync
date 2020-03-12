@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-02-27T04:11:03.519863+00:00",
+    "timestamp": "2020-03-12T10:11:04.211913+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -9729,7 +9729,7 @@
             "wikiNote": "needs sale price (is it sellable?). needs template/modification of template to display all info?",
             "weight": 2,
             "depositable": false,
-            "exchange": true,
+            "exchange": false,
             "auction": false,
             "freeText": "With a leash you can put your [[Pet|pet]] into [[Pet#Sheltering|shelter]].",
             "quest": false,
@@ -9745,8 +9745,8 @@
                 "String": "10"
             },
             "pagename": "Leash",
-            "lastModified": "2019-11-18T14:23:31Z",
-            "revision": 13413,
+            "lastModified": "2020-03-12T09:27:29Z",
+            "revision": 14219,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leash"
         },
         {

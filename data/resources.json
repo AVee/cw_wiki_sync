@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-12T10:11:04.211913+00:00",
+    "timestamp": "2020-03-14T10:11:04.376357+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5585,6 +5585,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 30,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -5601,6 +5602,7 @@
             "enchantDef3": 1,
             "enchantDef4": 0,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a72",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -5616,8 +5618,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Durable Cloak",
-            "lastModified": "2019-11-16T16:31:57Z",
-            "revision": 13064,
+            "lastModified": "2020-03-14T09:50:17Z",
+            "revision": 14220,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable Cloak"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-19T02:11:10.928400+00:00",
+    "timestamp": "2020-03-19T03:11:09.153894+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17433,12 +17433,11 @@
             "name": "📘Rare scroll of Peace",
             "type": "Misc",
             "subType": "Scroll",
-            "wikiNote": "needs checking",
+            "wikiNote": "needs checking\nDrop info missing",
             "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
-            "quest": false,
             "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
@@ -17450,8 +17449,8 @@
                 "Scroll Enhancer": "1"
             },
             "pagename": "Rare Scroll of Peace (Blue)",
-            "lastModified": "2020-03-19T01:58:53Z",
-            "revision": 14251,
+            "lastModified": "2020-03-19T02:26:58Z",
+            "revision": 14262,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Peace (Blue)"
         },
         {
@@ -17550,7 +17549,7 @@
             "auction": true,
             "enchantable": false,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
             "craftMana": 0,
@@ -17560,8 +17559,8 @@
                 "Scroll Enhancer": "1"
             },
             "pagename": "Rare Scroll of Peace (Red)",
-            "lastModified": "2020-03-19T02:00:44Z",
-            "revision": 14252,
+            "lastModified": "2020-03-19T02:32:01Z",
+            "revision": 14267,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Peace (Red)"
         },
         {
@@ -17577,7 +17576,7 @@
             "auction": true,
             "enchantable": false,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
             "craftMana": 0,
@@ -17587,8 +17586,8 @@
                 "Scroll Enhancer": "1"
             },
             "pagename": "Rare Scroll of Rage (Red)",
-            "lastModified": "2020-03-19T01:57:10Z",
-            "revision": 14250,
+            "lastModified": "2020-03-19T02:20:16Z",
+            "revision": 14256,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Rage (Red)"
         },
         {
@@ -17730,6 +17729,141 @@
             "lastModified": "2020-03-19T01:41:51Z",
             "revision": 14240,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll of Rage (Red)"
+        },
+        {
+            "id": "s15",
+            "eventItem": false,
+            "name": "📘Rare scroll of Rage",
+            "type": "Misc",
+            "subType": "Scroll",
+            "wikiNote": "Drop info missing",
+            "weight": 1,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 0,
+            "craftMana": 0,
+            "wikiFreeText": "The :Bookblue: {{PAGENAME}} is a scroll that is used to [[Enchantment|enchant]] Tier 3 :Bookblue: [[Equipment|equipment]] of the type [[Weapon|weapon]]. \n\n=Effect=\nThis scroll is used to enchant items of the Tier 3 :Bookblue: quality. Enchanting for more than +3 :Enchantment: with this scroll has the chance to break the item and all enchantments which are lost irrevocably. \nEnchanting an item with :Bookblue: {{PAGENAME}} gives the item +?? :Attack: and the :Enchantment: level increases +1 :Enchantment:.\n\n{|class=\"wikitable\"\n|+ Tier 3 Enchantments\n| Weapons :Bookblue:\n| Blunts\n* Level 1 gives +2 :Attack: and +1 :Defend: attribute\n* Level 2 gives +1 :Attack: and +2 :Defend: attribute\n* Level 3 gives +2 :Attack: and +1 :Defend: attribute\n|-\n|}\n\n=Acquisition= \n{{PAGENAME}} :Bookblue: can drop from [[Zombie Box]].",
+            "recipe": {
+                "Scroll of Rage (Blue)": "3",
+                "Scroll Enhancer": "1"
+            },
+            "pagename": "Rare Scroll of Rage (Blue)",
+            "lastModified": "2020-03-19T02:30:54Z",
+            "revision": 14265,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Rage (Blue)"
+        },
+        {
+            "id": "s18",
+            "eventItem": false,
+            "name": "📙Rare scroll of Peace",
+            "type": "Misc",
+            "subType": "Scroll",
+            "wikiNote": "Drop info missing",
+            "weight": 1,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 0,
+            "craftMana": 0,
+            "wikiFreeText": "The :Bookorange: {{PAGENAME}} is a scroll that is used to [[Enchantment|enchant]] Tier 4 :Bookorange: [[Equipment|equipment]] of the type [[Protective Gear]] or [[Shield]]. \n\n=Effect=\nThis scroll is used to enchant items of the Tier 4 :Bookorange: quality. Enchanting for more than +3 :Enchantment: with this scroll has the chance to lose all enchantments irrevocably. \nEnchanting an item with :Bookorange: {{PAGENAME}} gives the item +?? :Defend: and the :Enchantment: level increases +1 :Enchantment:.\n\n{|class=\"wikitable\"\n|+ Tier 4 Enchantments\n| Armor :Bookorange:\n| Capes\n* Level 1 gives +?? :Attack: and +?? :Defend: attribute\n* Level 2 gives +?? :Attack: attribute\n* Level 3 gives +?? :Attack: and +?? :Defend: attribute\n|-\n|}\n\n==Acquisition== \n{{PAGENAME}} :Bookorange: can drop from ??.",
+            "recipe": {
+                "Scroll of Peace (Orange)": "3",
+                "Scroll Enhancer": "1"
+            },
+            "pagename": "Rare Scroll of Peace (Orange)",
+            "lastModified": "2020-03-19T02:30:38Z",
+            "revision": 14264,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Peace (Orange)"
+        },
+        {
+            "id": "s17",
+            "eventItem": false,
+            "name": "📙Rare scroll of Rage",
+            "type": "Misc",
+            "subType": "Scroll",
+            "wikiNote": "Drop info missing",
+            "weight": 1,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 0,
+            "craftMana": 0,
+            "wikiFreeText": "The :Bookorange: {{PAGENAME}} is a scroll that is used to [[Enchantment|enchant]] Tier 4 :Bookorange: [[Equipment|equipment]] of the type [[Weapon|weapon]]. \n\n=Effect=\nThis scroll is used to enchant items of the Tier 4 :Bookorange: quality. Enchanting for more than +3 :Enchantment: with this scroll has the chance to lose all enchantments irrevocably. \nEnchanting an item with :Bookorange: {{PAGENAME}} gives the item +?? :Attack: and the :Enchantment: level increases +1 :Enchantment:.\n\n{|class=\"wikitable\"\n|+ Tier 4 Enchantments\n| Weapons :Bookorange:\n| Blunts\n* Level 1 gives +?? :Attack: and +?? :Defend: attribute\n* Level 2 gives +?? :Attack: and +?? :Defend: attribute\n* Level 3 gives +?? :Attack: and +?? :Defend: attribute\n|-\n|}\n\n=Acquisition= \n{{PAGENAME}} :Bookorange: can drop from ??.",
+            "recipe": {
+                "Scroll of Rage (Orange)": "3",
+                "Scroll Enhancer": "1"
+            },
+            "pagename": "Rare Scroll of Rage (Orange)",
+            "lastModified": "2020-03-19T02:30:36Z",
+            "revision": 14263,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Rage (Orange)"
+        },
+        {
+            "id": "s14",
+            "eventItem": false,
+            "name": "📗Rare scroll of Peace",
+            "type": "Misc",
+            "subType": "Scroll",
+            "wikiNote": "Drop info missing",
+            "weight": 1,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 0,
+            "craftMana": 0,
+            "wikiFreeText": "The :Bookgreen: {{PAGENAME}} is a scroll that is used to [[Enchantment|enchant]] Tier 2 :Bookgreen: [[Equipment|equipment]] of the type [[Protective Gear|protective gear]] as well as all Tier 2 :Bookgreen: [[Shield|shields]].  \n\n=Effect=\nThis scroll is used to enchant items of the Tier 2 :Bookgreen: quality. Enchanting an item with :Bookgreen: {{PAGENAME}} gives the item +1 :Defend: and the :Enchantment: level increases +1. Enchanting for more than +3 :Enchantment: with this scroll will not destroy the item at a failure in the process but only all previously applied enchantments. If the enchantment is succesful, the enchantment level increases normally.\n\n=Acquisition=",
+            "recipe": {
+                "Scroll of Peace (Green)": "3",
+                "Scroll Enhancer": "1"
+            },
+            "pagename": "Rare Scroll of Peace (Green)",
+            "lastModified": "2020-03-19T02:23:30Z",
+            "revision": 14260,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Peace (Green)"
+        },
+        {
+            "id": "s13",
+            "eventItem": false,
+            "name": "📗Rare scroll of Rage",
+            "type": "Misc",
+            "subType": "Scroll",
+            "wikiNote": "Drop info missing",
+            "weight": 1,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 0,
+            "craftMana": 0,
+            "wikiFreeText": "The :Bookgreen: {{PAGENAME}} is a scroll that is used to [[Enchantment|enchant]] Tier 2 :Bookgreen: [[Equipment|equipment]] of the type [[Weapon|weapon]]. \n\n=Effect=\nThis scroll is used to enchant items of the Tier 2 :Bookgreen: quality. Enchanting for more than +3 :Enchantment: with this scroll will not destroy the item as with [[Scroll of Rage (Green)]] :Bookgreen:. Instead, a failed enchantment with this scroll will only destroy all previously applied enchantments.\n\nEnchanting an item with :Bookgreen: {{PAGENAME}} gives the item +2 :Attack: and the :Enchantment: level increases +1 :Enchantment:.\n\n=Acquisition=",
+            "recipe": {
+                "Scroll of Rage (Green)": "3",
+                "Scroll Enhancer": "1"
+            },
+            "pagename": "Rare Scroll of Rage (Green)",
+            "lastModified": "2020-03-19T02:21:29Z",
+            "revision": 14259,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Rage (Green)"
         }
     ]
 }

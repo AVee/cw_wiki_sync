@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-19T03:11:09.153894+00:00",
+    "timestamp": "2020-03-23T01:11:07.498807+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1289,6 +1289,7 @@
             "weight": 155,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 372,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -1313,8 +1314,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Boots",
-            "lastModified": "2019-11-16T16:32:56Z",
-            "revision": 13080,
+            "lastModified": "2020-03-23T00:39:08Z",
+            "revision": 14268,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Boots"
         },
         {
@@ -1402,6 +1403,7 @@
             "weight": 155,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 372,
             "exchange": false,
             "auction": true,
             "freeText": "This item was renamed to Celestial Bracers from Celestial Gloves shortly after the release of T4 :Bookorange: items.",
@@ -1426,8 +1428,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Bracers",
-            "lastModified": "2019-11-16T16:33:01Z",
-            "revision": 13081,
+            "lastModified": "2020-03-23T00:53:56Z",
+            "revision": 14270,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Bracers"
         },
         {
@@ -6209,6 +6211,7 @@
             "wrapping": 4,
             "levelRequirement": 35,
             "depositable": true,
+            "shopSellPrice": 684,
             "exchange": false,
             "auction": true,
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
@@ -6219,6 +6222,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a55",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -6234,8 +6238,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Ghost Armor",
-            "lastModified": "2019-11-16T16:30:51Z",
-            "revision": 13047,
+            "lastModified": "2020-03-23T00:55:14Z",
+            "revision": 14271,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost Armor"
         },
         {
@@ -7797,6 +7801,7 @@
             "mana": 0,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 2376,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -7832,8 +7837,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Guisarme",
-            "lastModified": "2019-11-16T16:39:19Z",
-            "revision": 13347,
+            "lastModified": "2020-03-23T00:50:43Z",
+            "revision": 14269,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guisarme"
         },
         {
@@ -9510,6 +9515,7 @@
             "luck": 0,
             "levelRequirement": 35,
             "depositable": true,
+            "shopSellPrice": 1785,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -9523,6 +9529,7 @@
             "enchantDef3": 1,
             "enchantDef4": 3,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/c_w37",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -9539,8 +9546,8 @@
                 "Hardener": "9"
             },
             "pagename": "King's Defender",
-            "lastModified": "2019-11-16T16:38:34Z",
-            "revision": 13333,
+            "lastModified": "2020-03-23T00:57:10Z",
+            "revision": 14273,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=King's Defender"
         },
         {
@@ -13178,12 +13185,14 @@
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
+            "shopSellPrice": 1785,
             "exchange": false,
             "auction": true,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": false,
             "enchantable": true,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w38",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -13199,8 +13208,8 @@
                 "Hardener": "9"
             },
             "pagename": "Raging Lance",
-            "lastModified": "2019-11-16T16:38:37Z",
-            "revision": 13334,
+            "lastModified": "2020-03-23T00:56:25Z",
+            "revision": 14272,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging Lance"
         },
         {

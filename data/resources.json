@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-23T02:11:07.079902+00:00",
+    "timestamp": "2020-03-23T03:11:05.683470+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -128,6 +128,7 @@
             "mana": 0,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 228,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -161,8 +162,8 @@
                 "Rope": "3"
             },
             "pagename": "Assault Cape",
-            "lastModified": "2019-11-16T16:28:58Z",
-            "revision": 13003,
+            "lastModified": "2020-03-23T02:52:54Z",
+            "revision": 14280,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assault Cape"
         },
         {
@@ -287,6 +288,7 @@
             "wrapping": 1,
             "levelRequirement": 0,
             "depositable": false,
+            "shopSellPrice": 0,
             "exchange": false,
             "auction": false,
             "quest": false,
@@ -294,8 +296,8 @@
             "wikiFreeText": "=Acquisition=\nThe devs gave this cape to some of the lucky players, as thanks for their successful contribution of quest texts. The quest texts were eventually used in the game.\n\nThese lucky players were greeted with the following message in their ChatWarsBot.\n Tonight is the night. This night you were blessed by the gods. They decided to come down and gift you, PlayerName, with a cheese basket. The catch is, this basket is not made out of cheese and it's not even a basket.\n  \n Right now it includes:\n :Present: Assistant box x 1\n Bard's Cape x 1",
             "recipe": {},
             "pagename": "Bard's Cape",
-            "lastModified": "2019-11-16T16:30:14Z",
-            "revision": 13036,
+            "lastModified": "2020-03-23T02:55:18Z",
+            "revision": 14283,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bard's Cape"
         },
         {
@@ -3486,6 +3488,7 @@
             "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 238,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -3519,8 +3522,8 @@
                 "Solvent": "1"
             },
             "pagename": "Craftsman Apron",
-            "lastModified": "2019-11-16T16:29:02Z",
-            "revision": 13004,
+            "lastModified": "2020-03-23T02:50:16Z",
+            "revision": 14281,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman Apron"
         },
         {
@@ -15306,6 +15309,7 @@
             "mana": 0,
             "levelRequirement": 45,
             "depositable": true,
+            "shopSellPrice": 228,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -15340,8 +15344,8 @@
                 "Silver Alloy": "2"
             },
             "pagename": "Stoneskin Cloak",
-            "lastModified": "2019-11-16T16:29:06Z",
-            "revision": 13005,
+            "lastModified": "2020-03-23T02:51:09Z",
+            "revision": 14282,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin Cloak"
         },
         {
@@ -16123,17 +16127,17 @@
             "luck": 0,
             "levelRequirement": 10,
             "depositable": false,
+            "shopSellPrice": 75,
             "exchange": false,
             "auction": false,
             "freeText": "This bell is part of the [[Trade Union Event 2019]] and is used to find the special resource [[Artisan Goods]] in quests. It can be crafted with <code>/tu_bell</code> for 250 :Gold:.",
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Vague Bell",
-            "lastModified": "2019-11-16T16:33:38Z",
-            "revision": 13101,
+            "lastModified": "2020-03-23T02:41:53Z",
+            "revision": 14279,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vague Bell"
         },
         {

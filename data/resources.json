@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-28T20:11:10.583989+00:00",
+    "timestamp": "2020-03-28T21:11:08.629352+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17884,7 +17884,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Rage (Green)"
         },
         {
-            "id": "??",
+            "id": "r120",
             "eventItem": false,
             "name": "Overseer Shield Recipe",
             "type": "Recipe (Item)",
@@ -17899,9 +17899,40 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Recipe",
-            "lastModified": "2020-03-28T20:10:45Z",
-            "revision": 14305,
+            "lastModified": "2020-03-28T20:54:57Z",
+            "revision": 14308,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe"
+        },
+        {
+            "id": "??",
+            "eventItem": false,
+            "name": "Overseer Shield",
+            "type": "Protective Gear",
+            "subType": "Shield",
+            "wikiNote": "new item, not much data known yet",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "recipe": {
+                "Overseer Shield Part": "8",
+                "Overseer Shield Recipe": "1",
+                "Blacksmith Mold": "5",
+                "Metal Plate": "17",
+                "Steel Mold": "14",
+                "Solvent": "3",
+                "Bone Powder": "7",
+                "Sapphire": "3"
+            },
+            "pagename": "Overseer Shield",
+            "lastModified": "2020-03-28T20:54:57Z",
+            "revision": 14307,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield"
         }
     ]
 }

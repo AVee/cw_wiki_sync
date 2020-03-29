@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-29T21:11:08.673807+00:00",
+    "timestamp": "2020-03-29T22:11:09.088432+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17888,7 +17888,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare Scroll of Rage (Green)"
         },
         {
-            "id": "r120",
+            "id": "r116",
             "eventItem": false,
             "name": "Overseer Shield Recipe",
             "type": "Recipe (Item)",
@@ -17903,8 +17903,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Recipe",
-            "lastModified": "2020-03-28T20:54:57Z",
-            "revision": 14308,
+            "lastModified": "2020-03-29T21:38:38Z",
+            "revision": 14473,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe"
         },
         {
@@ -18043,7 +18043,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Part"
         },
         {
-            "id": "k120",
+            "id": "k116",
             "eventItem": false,
             "name": "Overseer Shield Part",
             "type": "Piece of Equipment",
@@ -18057,8 +18057,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Part",
-            "lastModified": "2020-03-29T19:14:29Z",
-            "revision": 14443,
+            "lastModified": "2020-03-29T21:38:08Z",
+            "revision": 14472,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Part"
         },
         {
@@ -18724,6 +18724,51 @@
             "lastModified": "2020-03-29T20:44:25Z",
             "revision": 14468,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers Part"
+        },
+        {
+            "id": "k123",
+            "eventItem": false,
+            "name": "Discarnate Shoes part",
+            "type": "Piece of Equipment",
+            "levelRequirement": 55,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Discarnate Shoes Part",
+            "lastModified": "2020-03-29T22:09:49Z",
+            "revision": 14475,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes Part"
+        },
+        {
+            "id": "r123",
+            "eventItem": false,
+            "name": "Discarnate Shoes recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "recipe": {},
+            "pagename": "Discarnate Shoes Recipe",
+            "lastModified": "2020-03-29T22:09:14Z",
+            "revision": 14474,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes Recipe"
+        },
+        {
+            "id": "r124",
+            "eventItem": false,
+            "name": "Discarnate Bracers recipe",
+            "type": "Recipe (Item)",
+            "wikiNote": "new item, not much data known",
+            "levelRequirement": 55,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Discarnate Bracers Recipe",
+            "lastModified": "2020-03-29T21:22:48Z",
+            "revision": 14471,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers Recipe"
         }
     ]
 }

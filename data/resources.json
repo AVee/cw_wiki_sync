@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-29T15:11:07.808727+00:00",
+    "timestamp": "2020-03-29T17:11:07.940729+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18493,6 +18493,24 @@
             "lastModified": "2020-03-29T14:39:23Z",
             "revision": 14428,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul Recipe"
+        },
+        {
+            "id": "r122",
+            "eventItem": false,
+            "name": "Discarnate Circlet recipe",
+            "type": "Recipe (Item)",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Discarnate Circlet Recipe",
+            "lastModified": "2020-03-29T16:20:47Z",
+            "revision": 14437,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet Recipe"
         }
     ]
 }

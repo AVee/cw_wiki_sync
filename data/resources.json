@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-29T01:11:05.130945+00:00",
+    "timestamp": "2020-03-29T02:11:06.824920+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18017,6 +18017,26 @@
             "lastModified": "2020-03-28T23:52:12Z",
             "revision": 14351,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots Recipe"
+        },
+        {
+            "id": "k113",
+            "eventItem": false,
+            "name": "Manticore Helmet Part",
+            "type": "Piece of Equipment",
+            "wikiNote": "new item, no data known yet",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "dropSwampDay": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Manticore Helmet Part",
+            "lastModified": "2020-03-29T01:37:24Z",
+            "revision": 14356,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Part"
         }
     ]
 }

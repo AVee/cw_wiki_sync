@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-29T14:11:09.194395+00:00",
+    "timestamp": "2020-03-29T15:11:07.808727+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18456,6 +18456,43 @@
             "lastModified": "2020-03-29T13:14:48Z",
             "revision": 14410,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive Recipe"
+        },
+        {
+            "id": "k110",
+            "eventItem": false,
+            "name": "Malificent Maul part",
+            "type": "Piece of Equipment",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Malificent Maul Part",
+            "lastModified": "2020-03-29T14:42:29Z",
+            "revision": 14430,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul Part"
+        },
+        {
+            "id": "r110",
+            "eventItem": false,
+            "name": "Malificent Maul recipe",
+            "type": "Recipe (Item)",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "dropForestNight": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Malificent Maul Recipe",
+            "lastModified": "2020-03-29T14:39:23Z",
+            "revision": 14428,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul Recipe"
         }
     ]
 }

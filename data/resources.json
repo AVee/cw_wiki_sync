@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-29T05:11:08.042867+00:00",
+    "timestamp": "2020-03-29T07:11:07.848041+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -8202,11 +8202,12 @@
             "dropForayDay": true,
             "dropForayEvening": true,
             "dropForayNight": false,
+            "craftable": false,
             "wikiFreeText": "'''{{PAGENAME}}''' is a consumable item that is needed to feed [[Pet|pets]] of the type [[Horse]]. \n\n=Acquisition=\n{{PAGENAME}} can be bought in the :Paws: Menagerie of the [[Shop]] for 1 :Gem: with the commande <code>/buy_{{#show: {{PAGENAME}}| ?ItemID}}</code> or can be possible loot for succesful [[Foray|forays]]. {{PAGENAME}} can also be traded in the exchange with <code>/t_{{#show: {{PAGENAME}}| ?ItemID}}</code>",
             "recipe": {},
             "pagename": "Hay",
-            "lastModified": "2019-11-16T16:28:11Z",
-            "revision": 12977,
+            "lastModified": "2020-03-29T06:48:27Z",
+            "revision": 14365,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hay"
         },
         {

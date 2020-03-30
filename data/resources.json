@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-30T03:11:08.483948+00:00",
+    "timestamp": "2020-03-30T04:11:11.342480+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17890,7 +17890,7 @@
         {
             "id": "r116",
             "eventItem": false,
-            "name": "Overseer Shield Recipe",
+            "name": "Overseer Shield recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -17903,8 +17903,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Recipe",
-            "lastModified": "2020-03-29T21:38:38Z",
-            "revision": 14473,
+            "lastModified": "2020-03-30T03:27:04Z",
+            "revision": 14486,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe"
         },
         {
@@ -17941,7 +17941,7 @@
         {
             "id": "r109",
             "eventItem": false,
-            "name": "Windstalker Bow Recipe",
+            "name": "Windstalker Bow recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -17954,14 +17954,14 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Windstalker Bow Recipe",
-            "lastModified": "2020-03-28T22:59:24Z",
-            "revision": 14346,
+            "lastModified": "2020-03-30T03:34:22Z",
+            "revision": 14500,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow Recipe"
         },
         {
             "id": "k104",
             "eventItem": false,
-            "name": "Lightbane Katana Part",
+            "name": "Lightbane Katana part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known. night is correct, forest is not entirely sure",
             "levelRequirement": 55,
@@ -17975,14 +17975,14 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lightbane Katana Part",
-            "lastModified": "2020-03-28T21:53:38Z",
-            "revision": 14334,
+            "lastModified": "2020-03-30T03:32:11Z",
+            "revision": 14491,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane Katana Part"
         },
         {
             "id": "k112",
             "eventItem": false,
-            "name": "Manticore Armor Part",
+            "name": "Manticore Armor part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -17997,14 +17997,14 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Armor Part",
-            "lastModified": "2020-03-29T00:48:09Z",
-            "revision": 14352,
+            "lastModified": "2020-03-30T03:32:44Z",
+            "revision": 14493,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Armor Part"
         },
         {
             "id": "r114",
             "eventItem": false,
-            "name": "Manticore Boots Recipe",
+            "name": "Manticore Boots recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -18018,14 +18018,14 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Boots Recipe",
-            "lastModified": "2020-03-28T23:52:12Z",
-            "revision": 14351,
+            "lastModified": "2020-03-30T03:33:36Z",
+            "revision": 14495,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots Recipe"
         },
         {
             "id": "k113",
             "eventItem": false,
-            "name": "Manticore Helmet Part",
+            "name": "Manticore Helmet part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, no data known yet",
             "levelRequirement": 55,
@@ -18038,14 +18038,14 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Helmet Part",
-            "lastModified": "2020-03-29T01:37:24Z",
-            "revision": 14356,
+            "lastModified": "2020-03-30T03:33:58Z",
+            "revision": 14496,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Part"
         },
         {
             "id": "k116",
             "eventItem": false,
-            "name": "Overseer Shield Part",
+            "name": "Overseer Shield part",
             "type": "Piece of Equipment",
             "levelRequirement": 55,
             "depositable": true,
@@ -18057,14 +18057,14 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Part",
-            "lastModified": "2020-03-29T21:38:08Z",
-            "revision": 14472,
+            "lastModified": "2020-03-30T03:34:09Z",
+            "revision": 14498,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Part"
         },
         {
             "id": "k109",
             "eventItem": false,
-            "name": "Windstalker Bow Part",
+            "name": "Windstalker Bow part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -18076,8 +18076,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Windstalker Bow Part",
-            "lastModified": "2020-03-29T10:43:48Z",
-            "revision": 14385,
+            "lastModified": "2020-03-30T03:34:16Z",
+            "revision": 14499,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow Part"
         },
         {
@@ -18114,7 +18114,7 @@
         {
             "id": "r104",
             "eventItem": false,
-            "name": "Lightbane Katana Recipe",
+            "name": "Lightbane Katana recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -18126,8 +18126,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lightbane Katana Recipe",
-            "lastModified": "2020-03-29T10:41:28Z",
-            "revision": 14383,
+            "lastModified": "2020-03-30T03:32:18Z",
+            "revision": 14492,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane Katana Recipe"
         },
         {
@@ -18166,7 +18166,7 @@
         {
             "id": "r112",
             "eventItem": false,
-            "name": "Manticore Armor Recipe",
+            "name": "Manticore Armor recipe",
             "type": "Recipe (Item)",
             "levelRequirement": 55,
             "depositable": true,
@@ -18177,8 +18177,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Armor Recipe",
-            "lastModified": "2020-03-29T10:38:40Z",
-            "revision": 14381,
+            "lastModified": "2020-03-30T03:32:49Z",
+            "revision": 14494,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Armor Recipe"
         },
         {
@@ -18210,7 +18210,7 @@
         {
             "id": "r113",
             "eventItem": false,
-            "name": "Manticore Helmet Recipe",
+            "name": "Manticore Helmet recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -18222,8 +18222,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Helmet Recipe",
-            "lastModified": "2020-03-29T10:37:04Z",
-            "revision": 14379,
+            "lastModified": "2020-03-30T03:34:04Z",
+            "revision": 14497,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Recipe"
         },
         {
@@ -18262,7 +18262,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet"
         },
         {
-            "id": "??",
+            "id": "a124",
             "eventItem": false,
             "name": "Discarnate Bracers",
             "type": "Protective Gear",
@@ -18292,8 +18292,8 @@
                 "Solvent": "2"
             },
             "pagename": "Discarnate Bracers",
-            "lastModified": "2020-03-29T12:51:55Z",
-            "revision": 14401,
+            "lastModified": "2020-03-30T03:18:30Z",
+            "revision": 14485,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers"
         },
         {
@@ -18334,7 +18334,7 @@
         {
             "id": "k114",
             "eventItem": false,
-            "name": "Manticore Boots Part",
+            "name": "Manticore Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -18346,8 +18346,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Boots Part",
-            "lastModified": "2020-03-29T10:13:21Z",
-            "revision": 14374,
+            "lastModified": "2020-03-30T03:34:28Z",
+            "revision": 14501,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots Part"
         },
         {
@@ -18614,7 +18614,7 @@
         {
             "id": "r121",
             "eventItem": false,
-            "name": "??",
+            "name": "Discarnate Robe recipe",
             "type": "Recipe (Item)",
             "levelRequirement": 55,
             "depositable": true,
@@ -18625,8 +18625,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Robe Recipe",
-            "lastModified": "2020-03-29T19:45:44Z",
-            "revision": 14452,
+            "lastModified": "2020-03-30T03:28:57Z",
+            "revision": 14488,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Robe Recipe"
         },
         {
@@ -18670,7 +18670,7 @@
         {
             "id": "r111",
             "eventItem": false,
-            "name": "Brutalizer Flail Recipe",
+            "name": "Brutalizer Flail recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -18683,14 +18683,14 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Brutalizer Flail Recipe",
-            "lastModified": "2020-03-29T21:05:32Z",
-            "revision": 14470,
+            "lastModified": "2020-03-30T03:29:42Z",
+            "revision": 14490,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail Recipe"
         },
         {
             "id": "k111",
             "eventItem": false,
-            "name": "Brutalizer Flail Part",
+            "name": "Brutalizer Flail part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
@@ -18702,8 +18702,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Brutalizer Flail Part",
-            "lastModified": "2020-03-29T21:05:11Z",
-            "revision": 14469,
+            "lastModified": "2020-03-30T03:29:20Z",
+            "revision": 14489,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail Part"
         },
         {
@@ -18899,7 +18899,7 @@
         {
             "id": "w105",
             "eventItem": false,
-            "name": "??",
+            "name": "Doom Warglaive",
             "type": "Weapon",
             "subType": "Sword",
             "levelRequirement": 55,
@@ -18921,9 +18921,36 @@
                 "Cord": "28"
             },
             "pagename": "Doom Warglaive",
-            "lastModified": "2020-03-30T02:57:03Z",
-            "revision": 14478,
+            "lastModified": "2020-03-30T03:27:59Z",
+            "revision": 14487,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive"
+        },
+        {
+            "id": "a123",
+            "eventItem": false,
+            "name": "??",
+            "type": "Protective Gear",
+            "subType": "Boots",
+            "armorClass": "Robe Armor",
+            "quest": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "recipe": {
+                "Discarnate Shoes Part": "8",
+                "Solvent": "1",
+                "Sapphire": "5",
+                "Silver Mold": "2",
+                "Bone Powder": "20",
+                "Ruby": "10",
+                "Discarnate Shoes Recipe": "1",
+                "Artisan Mold": "3",
+                "String": "11",
+                "Quality Cloth": "2"
+            },
+            "pagename": "Discarnate Shoes",
+            "lastModified": "2020-03-30T03:13:51Z",
+            "revision": 14484,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-29T22:11:09.088432+00:00",
+    "timestamp": "2020-03-30T03:11:08.483948+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17908,7 +17908,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe"
         },
         {
-            "id": "a120",
+            "id": "a116",
             "eventItem": false,
             "name": "Overseer Shield",
             "type": "Protective Gear",
@@ -17934,8 +17934,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Overseer Shield",
-            "lastModified": "2020-03-29T10:46:50Z",
-            "revision": 14387,
+            "lastModified": "2020-03-30T02:20:23Z",
+            "revision": 14476,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield"
         },
         {
@@ -18653,7 +18653,7 @@
             "eventItem": false,
             "name": "Doom Warglaive part",
             "type": "Piece of Equipment",
-            "wikiNote": "new item, not much data known. BUMP",
+            "wikiNote": "new item, not much data known",
             "levelRequirement": 55,
             "depositable": true,
             "exchange": false,
@@ -18663,8 +18663,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Doom Warglaive Part",
-            "lastModified": "2020-03-29T20:16:54Z",
-            "revision": 14467,
+            "lastModified": "2020-03-30T02:28:51Z",
+            "revision": 14477,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive Part"
         },
         {
@@ -18769,6 +18769,161 @@
             "lastModified": "2020-03-29T21:22:48Z",
             "revision": 14471,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers Recipe"
+        },
+        {
+            "id": "a122",
+            "eventItem": false,
+            "name": "Discarnate Circlet",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "recipe": {
+                "Discarnate Circlet Recipe": "1",
+                "Discarnate Circlet Part": "8",
+                "Artisan Mold": "2",
+                "String": "31",
+                "Bone Powder": "5",
+                "Silver Mold": "12",
+                "Solvent": "1",
+                "Crafted Leather": "1",
+                "Quality Cloth": "9",
+                "Ruby": "20",
+                "Sapphire": "17"
+            },
+            "pagename": "Discarnate Circlet",
+            "lastModified": "2020-03-30T03:10:33Z",
+            "revision": 14483,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet"
+        },
+        {
+            "id": "a121",
+            "eventItem": false,
+            "name": "Discarnate Robe",
+            "type": "Protective Gear",
+            "subType": "Armor",
+            "armorClass": "Robe Armor",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "recipe": {
+                "Discarnate Robe Recipe": "1"
+            },
+            "pagename": "Discarnate Robe",
+            "lastModified": "2020-03-30T03:03:47Z",
+            "revision": 14482,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Robe"
+        },
+        {
+            "id": "a115",
+            "eventItem": false,
+            "name": "Manticore Gloves",
+            "type": "Protective Gear",
+            "subType": "Gloves",
+            "armorClass": "Light Armor",
+            "levelRequirement": 55,
+            "quest": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "recipe": {
+                "Manticore Gloves Recipe": "1"
+            },
+            "pagename": "Manticore Gloves",
+            "lastModified": "2020-03-30T03:02:13Z",
+            "revision": 14481,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves"
+        },
+        {
+            "id": "w111",
+            "eventItem": false,
+            "name": "Brutalizer Flail",
+            "type": "Weapon",
+            "subType": "Blunt",
+            "wikiNote": "new item, not much data known",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftSkill": "Crafting (Skill)",
+            "wikiFreeText": "{{#subobject:\n|Crafting ingredient=Brutalizer Flail Part\n}}",
+            "recipe": {
+                "Brutalizer Flail Recipe": "1"
+            },
+            "pagename": "Brutalizer Flail",
+            "lastModified": "2020-03-30T03:01:20Z",
+            "revision": 14480,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail"
+        },
+        {
+            "id": "w110",
+            "eventItem": false,
+            "name": "Malificent Maul",
+            "type": "Weapon",
+            "subType": "Blunt",
+            "wikiNote": "info incomplete",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "recipe": {
+                "Hardener": "16",
+                "Quality Cloth": "4",
+                "Malificent Maul Part": "7",
+                "Malificent Maul Recipe": "1",
+                "Silver Mold": "59",
+                "Coke": "137",
+                "Metal Plate": "79",
+                "Silver Frame": "12"
+            },
+            "pagename": "Malificent Maul",
+            "lastModified": "2020-03-30T03:00:32Z",
+            "revision": 14479,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul"
+        },
+        {
+            "id": "w105",
+            "eventItem": false,
+            "name": "??",
+            "type": "Weapon",
+            "subType": "Sword",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "quest": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "recipe": {
+                "Blacksmith Frame": "7",
+                "Metal Plate": "79",
+                "Silver Frame": "27",
+                "Hardener": "5",
+                "Sapphire": "1",
+                "Doom Warglaive Part": "9",
+                "Doom Warglaive Recipe": "1",
+                "Coke": "100",
+                "Quality Cloth": "4",
+                "Cord": "28"
+            },
+            "pagename": "Doom Warglaive",
+            "lastModified": "2020-03-30T02:57:03Z",
+            "revision": 14478,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive"
         }
     ]
 }

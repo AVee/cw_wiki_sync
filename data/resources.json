@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-30T06:11:04.535456+00:00",
+    "timestamp": "2020-03-30T08:11:07.791604+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18951,6 +18951,65 @@
             "lastModified": "2020-03-30T06:10:13Z",
             "revision": 14502,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes"
+        },
+        {
+            "id": "a118",
+            "eventItem": false,
+            "name": "Overseer Boots",
+            "type": "Protective Gear",
+            "subType": "Boots",
+            "armorClass": "Heavy Armor",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "recipe": {
+                "Overseer Boots Recipe": "1"
+            },
+            "pagename": "Overseer Boots",
+            "lastModified": "2020-03-30T07:53:38Z",
+            "revision": 14506,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots"
+        },
+        {
+            "id": "k118",
+            "eventItem": false,
+            "name": "Overseer Boots part",
+            "type": "Piece of Equipment",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Overseer Boots Part",
+            "lastModified": "2020-03-30T07:52:24Z",
+            "revision": 14505,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots Part"
+        },
+        {
+            "id": "r118",
+            "eventItem": false,
+            "name": "Overseer Boots recipe",
+            "type": "Recipe (Item)",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Overseer Boots Recipe",
+            "lastModified": "2020-03-30T07:50:15Z",
+            "revision": 14504,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots Recipe"
         }
     ]
 }

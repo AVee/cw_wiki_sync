@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-31T16:11:08.189168+00:00",
+    "timestamp": "2020-03-31T18:11:09.455335+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17908,7 +17908,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe"
         },
         {
-            "id": "a116",
+            "id": "??",
             "eventItem": false,
             "name": "Overseer Shield",
             "type": "Protective Gear",
@@ -17934,8 +17934,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Overseer Shield",
-            "lastModified": "2020-03-30T02:20:23Z",
-            "revision": 14476,
+            "lastModified": "2020-03-31T17:46:21Z",
+            "revision": 14525,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield"
         },
         {
@@ -18081,7 +18081,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow Part"
         },
         {
-            "id": "w109",
+            "id": "??",
             "eventItem": false,
             "name": "Windstalker Bow",
             "type": "Weapon",
@@ -18107,8 +18107,8 @@
                 "Hardener": "7"
             },
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-03-29T10:43:58Z",
-            "revision": 14384,
+            "lastModified": "2020-03-31T17:44:06Z",
+            "revision": 14524,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow"
         },
         {
@@ -18249,7 +18249,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Recipe"
         },
         {
-            "id": "a113",
+            "id": "??",
             "eventItem": false,
             "name": "Manticore Helmet",
             "type": "Protective Gear",
@@ -18279,12 +18279,12 @@
                 "Sapphire": "1"
             },
             "pagename": "Manticore Helmet",
-            "lastModified": "2020-03-29T10:36:38Z",
-            "revision": 14378,
+            "lastModified": "2020-03-31T17:50:06Z",
+            "revision": 14526,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet"
         },
         {
-            "id": "a124",
+            "id": "??",
             "eventItem": false,
             "name": "Discarnate Bracers",
             "type": "Protective Gear",
@@ -18314,12 +18314,12 @@
                 "Solvent": "2"
             },
             "pagename": "Discarnate Bracers",
-            "lastModified": "2020-03-30T03:18:30Z",
-            "revision": 14485,
+            "lastModified": "2020-03-31T17:50:14Z",
+            "revision": 14527,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers"
         },
         {
-            "id": "a114",
+            "id": "??",
             "eventItem": false,
             "name": "Manticore Boots",
             "type": "Protective Gear",
@@ -18349,8 +18349,8 @@
                 "Silver Mold": "6"
             },
             "pagename": "Manticore Boots",
-            "lastModified": "2020-03-29T10:15:41Z",
-            "revision": 14376,
+            "lastModified": "2020-03-31T17:50:24Z",
+            "revision": 14528,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots"
         },
         {
@@ -18573,7 +18573,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves Part"
         },
         {
-            "id": "a117",
+            "id": "??",
             "eventItem": false,
             "name": "Overseer Armor",
             "type": "Protective Gear",
@@ -18598,12 +18598,12 @@
                 "Sapphire": "10"
             },
             "pagename": "Overseer Armor",
-            "lastModified": "2020-03-29T19:51:25Z",
-            "revision": 14458,
+            "lastModified": "2020-03-31T17:50:33Z",
+            "revision": 14529,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Armor"
         },
         {
-            "id": "w108",
+            "id": "??",
             "eventItem": false,
             "name": "Heartstriker Bow",
             "type": "Weapon",
@@ -18629,8 +18629,8 @@
                 "Heartstriker Bow Recipe": "1"
             },
             "pagename": "Heartstriker Bow",
-            "lastModified": "2020-03-29T19:46:36Z",
-            "revision": 14453,
+            "lastModified": "2020-03-31T17:50:41Z",
+            "revision": 14530,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker Bow"
         },
         {
@@ -18794,7 +18794,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers Recipe"
         },
         {
-            "id": "a122",
+            "id": "??",
             "eventItem": false,
             "name": "Discarnate Circlet",
             "type": "Protective Gear",
@@ -18820,12 +18820,12 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-03-30T03:10:33Z",
-            "revision": 14483,
+            "lastModified": "2020-03-31T17:50:51Z",
+            "revision": 14531,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet"
         },
         {
-            "id": "a121",
+            "id": "??",
             "eventItem": false,
             "name": "Discarnate Robe",
             "type": "Protective Gear",
@@ -18849,12 +18849,12 @@
                 "Sapphire": "20"
             },
             "pagename": "Discarnate Robe",
-            "lastModified": "2020-03-30T17:56:57Z",
-            "revision": 14509,
+            "lastModified": "2020-03-31T17:50:58Z",
+            "revision": 14532,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Robe"
         },
         {
-            "id": "a115",
+            "id": "??",
             "eventItem": false,
             "name": "Manticore Gloves",
             "type": "Protective Gear",
@@ -18868,12 +18868,12 @@
                 "Manticore Gloves Recipe": "1"
             },
             "pagename": "Manticore Gloves",
-            "lastModified": "2020-03-30T03:02:13Z",
-            "revision": 14481,
+            "lastModified": "2020-03-31T17:51:05Z",
+            "revision": 14533,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves"
         },
         {
-            "id": "w111",
+            "id": "??",
             "eventItem": false,
             "name": "Brutalizer Flail",
             "type": "Weapon",
@@ -18893,12 +18893,12 @@
                 "Brutalizer Flail Recipe": "1"
             },
             "pagename": "Brutalizer Flail",
-            "lastModified": "2020-03-30T03:01:20Z",
-            "revision": 14480,
+            "lastModified": "2020-03-31T17:51:11Z",
+            "revision": 14534,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail"
         },
         {
-            "id": "w110",
+            "id": "??",
             "eventItem": false,
             "name": "Malificent Maul",
             "type": "Weapon",
@@ -18922,12 +18922,12 @@
                 "Silver Frame": "12"
             },
             "pagename": "Malificent Maul",
-            "lastModified": "2020-03-30T03:00:32Z",
-            "revision": 14479,
+            "lastModified": "2020-03-31T17:51:23Z",
+            "revision": 14535,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul"
         },
         {
-            "id": "w105",
+            "id": "??",
             "eventItem": false,
             "name": "Doom Warglaive",
             "type": "Weapon",
@@ -18951,12 +18951,12 @@
                 "Cord": "28"
             },
             "pagename": "Doom Warglaive",
-            "lastModified": "2020-03-30T03:27:59Z",
-            "revision": 14487,
+            "lastModified": "2020-03-31T17:51:30Z",
+            "revision": 14536,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive"
         },
         {
-            "id": "a123",
+            "id": "??",
             "eventItem": false,
             "name": "Discarnate Shoes",
             "type": "Protective Gear",
@@ -18978,12 +18978,12 @@
                 "Quality Cloth": "2"
             },
             "pagename": "Discarnate Shoes",
-            "lastModified": "2020-03-30T06:10:13Z",
-            "revision": 14502,
+            "lastModified": "2020-03-31T17:51:41Z",
+            "revision": 14537,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes"
         },
         {
-            "id": "a118",
+            "id": "??",
             "eventItem": false,
             "name": "Overseer Boots",
             "type": "Protective Gear",
@@ -19001,8 +19001,8 @@
                 "Overseer Boots Recipe": "1"
             },
             "pagename": "Overseer Boots",
-            "lastModified": "2020-03-30T07:53:38Z",
-            "revision": 14506,
+            "lastModified": "2020-03-31T17:51:46Z",
+            "revision": 14538,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots"
         },
         {

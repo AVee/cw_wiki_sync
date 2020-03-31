@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-31T12:11:03.813964+00:00",
+    "timestamp": "2020-03-31T14:11:08.936440+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18188,7 +18188,7 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Light Armor",
-            "wikiNote": "enchantment patterns not yet in the game. shop sell price missing",
+            "wikiNote": "enchantment patterns not yet in the game",
             "attack": 24,
             "defense": 45,
             "mana": 0,
@@ -18196,6 +18196,7 @@
             "wrapping": 1,
             "levelRequirement": 55,
             "depositable": true,
+            "shopSellPrice": 1552,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -18218,8 +18219,8 @@
                 "Ruby": "15"
             },
             "pagename": "Manticore Armor",
-            "lastModified": "2020-03-31T11:21:52Z",
-            "revision": 14514,
+            "lastModified": "2020-03-31T13:28:54Z",
+            "revision": 14515,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Armor"
         },
         {

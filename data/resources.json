@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-31T14:11:08.936440+00:00",
+    "timestamp": "2020-03-31T16:11:08.189168+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18131,12 +18131,15 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane Katana Recipe"
         },
         {
-            "id": "w104",
+            "id": "w101",
             "eventItem": false,
             "name": "Lightbane Katana",
             "type": "Weapon",
             "subType": "Sword",
-            "wikiNote": "new item, not much data known",
+            "wikiNote": "crafted by jaume, still waiting on more info. skill level tbc",
+            "attack": 50,
+            "defense": 0,
+            "mana": 0,
             "levelRequirement": 55,
             "depositable": true,
             "exchange": false,
@@ -18145,7 +18148,10 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/c_w101",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
             "recipe": {
                 "Lightbane Katana Recipe": "1",
                 "Lightbane Katana Part": "8",
@@ -18159,8 +18165,8 @@
                 "Hardener": "7"
             },
             "pagename": "Lightbane Katana",
-            "lastModified": "2020-03-29T12:42:44Z",
-            "revision": 14399,
+            "lastModified": "2020-03-31T15:34:08Z",
+            "revision": 14523,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane Katana"
         },
         {
@@ -19034,6 +19040,43 @@
             "lastModified": "2020-03-30T07:50:15Z",
             "revision": 14504,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots Recipe"
+        },
+        {
+            "id": "??",
+            "eventItem": false,
+            "name": "Overseer Helmet",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "armorClass": "Heavy Armor",
+            "wikiNote": "new item, not much data known",
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_??",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
+            "recipe": {
+                "Overseer Helmet Recipe": "1",
+                "Overseer Helmet Part": "8",
+                "Blacksmith Mold": "2",
+                "Bone Powder": "15",
+                "Steel Mold": "13",
+                "Solvent": "4",
+                "String": "21",
+                "Crafted Leather": "6",
+                "Quality Cloth": "1",
+                "Sapphire": "9"
+            },
+            "pagename": "Overseer Helmet",
+            "lastModified": "2020-03-31T15:27:47Z",
+            "revision": 14520,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Helmet"
         }
     ]
 }

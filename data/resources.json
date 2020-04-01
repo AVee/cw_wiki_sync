@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-01T20:11:06.867910+00:00",
+    "timestamp": "2020-04-01T21:11:04.463286+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18879,12 +18879,15 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves"
         },
         {
-            "id": "??",
+            "id": "w108",
             "eventItem": false,
             "name": "Brutalizer Flail",
             "type": "Weapon",
             "subType": "Blunt",
             "wikiNote": "new item, not much data known",
+            "attack": 25,
+            "defense": 29,
+            "mana": 0,
             "levelRequirement": 55,
             "depositable": true,
             "exchange": false,
@@ -18892,15 +18895,24 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/craft_w108",
             "craftSkill": "Crafting (Skill)",
-            "wikiFreeText": "{{#subobject:\n|Crafting ingredient=Brutalizer Flail Part\n}}",
+            "craftLevel": 6,
+            "craftMana": 800,
             "recipe": {
-                "Brutalizer Flail Recipe": "1"
+                "Brutalizer Flail Recipe": "1",
+                "Brutalizer Flail Part": "9",
+                "Coke": "157",
+                "Metal Plate": "79",
+                "Silver Frame": "10",
+                "Silver Mold": "39",
+                "Quality Cloth": "3",
+                "Blacksmith Frame": "6"
             },
             "pagename": "Brutalizer Flail",
-            "lastModified": "2020-03-31T17:51:11Z",
-            "revision": 14534,
+            "lastModified": "2020-04-01T21:05:14Z",
+            "revision": 14552,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail"
         },
         {

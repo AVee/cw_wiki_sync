@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-03-31T18:11:09.455335+00:00",
+    "timestamp": "2020-04-01T20:11:06.867910+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18249,13 +18249,16 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Recipe"
         },
         {
-            "id": "??",
+            "id": "a106",
             "eventItem": false,
             "name": "Manticore Helmet",
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Light Armor",
             "wikiNote": "new item, not much data known",
+            "attack": 14,
+            "defense": 24,
+            "mana": 0,
             "levelRequirement": 55,
             "depositable": true,
             "exchange": false,
@@ -18264,7 +18267,10 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_a106",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
             "recipe": {
                 "Manticore Helmet Part": "8",
                 "Manticore Helmet Recipe": "1",
@@ -18279,8 +18285,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Manticore Helmet",
-            "lastModified": "2020-03-31T17:50:06Z",
-            "revision": 14526,
+            "lastModified": "2020-04-01T19:38:49Z",
+            "revision": 14550,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet"
         },
         {

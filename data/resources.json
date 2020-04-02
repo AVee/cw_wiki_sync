@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-02T16:11:04.487509+00:00",
+    "timestamp": "2020-04-02T17:11:04.172985+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -19004,15 +19004,28 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive"
         },
         {
-            "id": "??",
+            "id": "a116",
             "eventItem": false,
             "name": "Discarnate Shoes",
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Robe Armor",
+            "attack": 8,
+            "defense": 15,
+            "mana": 90,
+            "wrapping": 1,
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
             "quest": false,
+            "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_a116",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
             "recipe": {
                 "Discarnate Shoes Part": "8",
                 "Solvent": "1",
@@ -19026,8 +19039,8 @@
                 "Quality Cloth": "2"
             },
             "pagename": "Discarnate Shoes",
-            "lastModified": "2020-03-31T17:51:41Z",
-            "revision": 14537,
+            "lastModified": "2020-04-02T16:35:36Z",
+            "revision": 14562,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes"
         },
         {

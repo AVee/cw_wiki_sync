@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-02T17:11:04.172985+00:00",
+    "timestamp": "2020-04-02T18:11:07.713530+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18813,6 +18813,7 @@
             "name": "Discarnate Circlet",
             "type": "Protective Gear",
             "subType": "Helmet",
+            "armorClass": "Robe Armor",
             "levelRequirement": 55,
             "depositable": true,
             "exchange": false,
@@ -18834,8 +18835,8 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-03-31T17:50:51Z",
-            "revision": 14531,
+            "lastModified": "2020-04-02T18:11:03Z",
+            "revision": 14566,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet"
         },
         {

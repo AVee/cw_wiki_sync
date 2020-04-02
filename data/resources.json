@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-01T21:11:04.463286+00:00",
+    "timestamp": "2020-04-02T15:11:04.139883+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18860,22 +18860,40 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Robe"
         },
         {
-            "id": "??",
+            "id": "a109",
             "eventItem": false,
             "name": "Manticore Gloves",
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Light Armor",
+            "attack": 11,
+            "defense": 15,
+            "mana": 0,
             "levelRequirement": 55,
             "quest": false,
+            "enchantable": true,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/craft_a109",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
             "recipe": {
-                "Manticore Gloves Recipe": "1"
+                "Manticore Gloves Recipe": "1",
+                "Manticore Gloves Part": "8",
+                "Sapphire": "1",
+                "Artisan Mold": "1",
+                "Rope": "4",
+                "Crafted Leather": "11",
+                "Silver Mold": "11",
+                "Solvent": "2",
+                "Ruby": "9",
+                "String": "7",
+                "Quality Cloth": "3"
             },
             "pagename": "Manticore Gloves",
-            "lastModified": "2020-03-31T17:51:05Z",
-            "revision": 14533,
+            "lastModified": "2020-04-02T14:53:10Z",
+            "revision": 14556,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves"
         },
         {

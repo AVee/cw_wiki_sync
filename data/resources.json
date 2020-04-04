@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-03T22:11:07.594351+00:00",
+    "timestamp": "2020-04-04T22:11:07.873508+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -19177,6 +19177,23 @@
             "lastModified": "2020-04-03T21:45:53Z",
             "revision": 14575,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Gauntlets Recipe"
+        },
+        {
+            "id": "r107",
+            "eventItem": false,
+            "name": "Sinister Ranseur recipe",
+            "type": "Recipe (Item)",
+            "weight": 10,
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "recipe": {},
+            "pagename": "Sinister Ranseur Recipe",
+            "lastModified": "2020-04-04T21:55:04Z",
+            "revision": 14583,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister Ranseur Recipe"
         }
     ]
 }

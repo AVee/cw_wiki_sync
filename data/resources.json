@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-04T22:11:07.873508+00:00",
+    "timestamp": "2020-04-05T11:11:08.041999+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18333,22 +18333,31 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers"
         },
         {
-            "id": "??",
+            "id": "a114",
             "eventItem": false,
             "name": "Manticore Boots",
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Light Armor",
-            "wikiNote": "new item, not much data known",
+            "wikiNote": "missing weight, wrap and sell price",
+            "attack": 12,
+            "defense": 15,
+            "mana": 0,
             "levelRequirement": 55,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantDef1": 2,
+            "enchantMana1": 0,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_a114",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
             "recipe": {
                 "Manticore Boots Recipe": "1",
                 "Manticore Boots Part": "8",
@@ -18363,8 +18372,8 @@
                 "Silver Mold": "6"
             },
             "pagename": "Manticore Boots",
-            "lastModified": "2020-03-31T17:50:24Z",
-            "revision": 14528,
+            "lastModified": "2020-04-05T10:49:34Z",
+            "revision": 14589,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots"
         },
         {
@@ -18977,17 +18986,30 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul"
         },
         {
-            "id": "??",
+            "id": "w102",
             "eventItem": false,
             "name": "Doom Warglaive",
             "type": "Weapon",
             "subType": "Sword",
+            "wikiNote": "weight wrap and sell price missing",
+            "attack": 55,
+            "defense": 0,
+            "mana": 0,
             "levelRequirement": 55,
             "depositable": true,
             "exchange": false,
+            "auction": true,
             "quest": false,
+            "enchantable": true,
+            "enchantAtk1": 5,
+            "enchantDef1": 0,
+            "enchantMana1": 0,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_w102",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
             "recipe": {
                 "Blacksmith Frame": "7",
                 "Metal Plate": "79",
@@ -19001,8 +19023,8 @@
                 "Cord": "28"
             },
             "pagename": "Doom Warglaive",
-            "lastModified": "2020-03-31T17:51:30Z",
-            "revision": 14536,
+            "lastModified": "2020-04-05T10:42:46Z",
+            "revision": 14588,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive"
         },
         {
@@ -19194,6 +19216,40 @@
             "lastModified": "2020-04-04T21:55:04Z",
             "revision": 14583,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister Ranseur Recipe"
+        },
+        {
+            "id": "k107",
+            "eventItem": false,
+            "name": "Sinister Ranseur part",
+            "type": "Piece of Equipment",
+            "weight": 10,
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "recipe": {},
+            "pagename": "Sinister Ranseur Part",
+            "lastModified": "2020-04-05T11:09:32Z",
+            "revision": 14592,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister Ranseur Part"
+        },
+        {
+            "id": "r106",
+            "eventItem": false,
+            "name": "Decimation Harpoon recipe",
+            "type": "Recipe (Item)",
+            "weight": 10,
+            "levelRequirement": 55,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "recipe": {},
+            "pagename": "Decimation Harpoon Recipe",
+            "lastModified": "2020-04-05T11:05:31Z",
+            "revision": 14590,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation Harpoon Recipe"
         }
     ]
 }

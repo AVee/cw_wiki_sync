@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-06T21:11:25.920567+00:00",
+    "timestamp": "2020-04-06T23:11:03.631007+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5113,7 +5113,9 @@
             "eventItem": false,
             "name": "Discarnate Shoes part",
             "type": "Piece of Equipment",
+            "subType": "Boots",
             "levelRequirement": 60,
+            "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -5121,8 +5123,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Shoes Part",
-            "lastModified": "2020-04-06T20:18:31Z",
-            "revision": 14776,
+            "lastModified": "2020-04-06T22:51:41Z",
+            "revision": 14890,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes Part"
         },
         {

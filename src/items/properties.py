@@ -34,7 +34,8 @@ class Property(object):
         return None if self._value == None else str(self._value)
     
     def __str__(self):
-        return self.get_wiki_value()
+        s = self.get_wiki_value()
+        return str(s) if s != '' else 'None'
     
     def __eq__(self, other):
         if isinstance(other, Property):

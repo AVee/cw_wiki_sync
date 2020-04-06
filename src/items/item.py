@@ -284,7 +284,7 @@ def save_to_file(path: str, items: Union[List[Item], dict]):
     if isinstance(items, dict):
         items = items['items']
     
-    result = { 'timestamp': datetime.now(tz=timezone.utc).isoformat(), 'deprecated': False, 'obsolete': False, 'format': 1, 'items': [i for i in items if i._has_item] }
+    result = { 'timestamp': datetime.now(tz=timezone.utc).isoformat(), 'deprecated': False, 'obsolete': False, 'format': 1, 'items': [i for i in items if i._has_item and i.ItemID.value != '' and i.ItemID.value != '??'], 'incomplete': [i for i in items if i._has_item and (i.ItemID.value == '' or i.ItemID.value == '??')] }
     
     with io.open(path, 'w', encoding='utf-8') as f:
         json.dump(result, f, default=item_serialize, indent=4, ensure_ascii=False)
@@ -293,7 +293,7 @@ def item_serialize(obj):
     if isinstance(obj, Item):
         result = { v.json_name:v.value for v in obj.__dict__.values() if isinstance(v, Property) and v.value != None }
         result.update({ k:v for k,v in obj.__dict__.items() if not k.startswith("_") and not isinstance(v, Property) })
-        return result;
+        return result
 
 def item_deserialize(dct):
     if 'pagename' in dct:

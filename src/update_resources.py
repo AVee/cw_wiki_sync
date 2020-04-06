@@ -58,7 +58,7 @@ def run():
                     items['incomplete'].append(itm)
 
     # Only save if there are changes
-    if any(i for i in allitems if i.revision > maxrev):
+    if any(i for i in items['items'] if i.revision > maxrev) or any(i for i in items['incomplete'] if i.revision > maxrev):
         item.save_to_file('../data/resources.json', items)
 
     if lastrev:

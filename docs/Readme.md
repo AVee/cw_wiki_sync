@@ -11,7 +11,7 @@ All known values for certain fields are included in the file, null values are no
 There are two collections in the file, the first being 'items', which contains all valid items. The second is the 'incomplete' collection which contains all items for which the ID is missing. Separating these allows users of the json file to just work with the complete items and ignore work-in-progress items when new stuff is released in Chatwars.
 
 ## Issue lists
-Apart from the json file a few lists are generated with items which might need attention:
-[Items without ID](missingid.md)
-[Items with notes](wikinotes.md)
+Apart from the json file a few lists are generated with items which might need attention:  
+[Items without ID](missingid.md)  
+[Items with notes](wikinotes.md)  
 

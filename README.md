@@ -12,6 +12,8 @@ The intention is to keep the the file backwards compatible whenever possible. So
 
 All known values for certain fields are included in the file, null values are not included. This means missing keys should generally be considered unknown (or not applicable).
 
+There are two collections in the file, the first being 'items', which contains all valid items. The second is the 'incomplete' collection which contains all items for which the ID is missing. Separating these allows users of the json file to just work with the complete items and ignore work-in-progress items when new stuff is released in Chatwars.
+
 ## Running
 The code is developed against Python 3.7, older Python 3 versions might work but there a no guarantees. A requirements.txt file is so dependancies can be installed with `pip3 install -r requirements.txt`
 

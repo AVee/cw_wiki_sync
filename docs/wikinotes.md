@@ -36,9 +36,6 @@ _ToDo: Fill out all these properties_
 [Blessed Cloak Recipe](https://chatwars-wiki.de/index.php?title=Blessed Cloak Recipe)  
 _needs drop info_  
 
-[Bone](https://chatwars-wiki.de/index.php?title=Bone)  
-_finished_  
-
 [Bone Club](https://chatwars-wiki.de/index.php?title=Bone Club)  
 _needs weight added_  
 
@@ -96,15 +93,6 @@ _recipe needs checking, rest completely missing_
 [Chain Mail](https://chatwars-wiki.de/index.php?title=Chain Mail)  
 _needs weight_  
 
-[Champion Blade](https://chatwars-wiki.de/index.php?title=Champion Blade)  
-_finished_  
-
-[Champion Sword](https://chatwars-wiki.de/index.php?title=Champion Sword)  
-_finished_  
-
-[Charcoal](https://chatwars-wiki.de/index.php?title=Charcoal)  
-_finished_  
-
 [Cheese](https://chatwars-wiki.de/index.php?title=Cheese)  
 _need info filled out, weight_  
 
@@ -117,17 +105,11 @@ _Missing drop info before conversion just 'Swamp' was specified._
 [Clarity Bracers Recipe](https://chatwars-wiki.de/index.php?title=Clarity Bracers Recipe)  
 _needs drop info_  
 
-[Clarity Circlet](https://chatwars-wiki.de/index.php?title=Clarity Circlet)  
-_finished_  
-
 [Clarity Circlet Fragment](https://chatwars-wiki.de/index.php?title=Clarity Circlet Fragment)  
 _Missing drop info before conversion just 'Swamp' was specified._  
 
 [Clarity Circlet Recipe](https://chatwars-wiki.de/index.php?title=Clarity Circlet Recipe)  
 _needs checking_  
-
-[Clarity Robe](https://chatwars-wiki.de/index.php?title=Clarity Robe)  
-_finished_  
 
 [Clarity Robe Piece](https://chatwars-wiki.de/index.php?title=Clarity Robe Piece)  
 _Missing drop info before conversion just 'Swamp' was specified._  
@@ -143,9 +125,6 @@ _needs drop info_
 
 [Cliff Rue](https://chatwars-wiki.de/index.php?title=Cliff Rue)  
 _droprate and error check_  
-
-[Cloth](https://chatwars-wiki.de/index.php?title=Cloth)  
-_finished_  
 
 [Cloth Jacket](https://chatwars-wiki.de/index.php?title=Cloth Jacket)  
 _needs weight_  
@@ -164,9 +143,6 @@ _needs drop info added/checked_
 
 [Composite Bow Shaft](https://chatwars-wiki.de/index.php?title=Composite Bow Shaft)  
 _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties_  
-
-[Cord](https://chatwars-wiki.de/index.php?title=Cord)  
-_finished_  
 
 [Council Boots](https://chatwars-wiki.de/index.php?title=Council Boots)  
 _recipe needs checking, rest completely missing_  
@@ -387,9 +363,6 @@ _needs linking to other pages_
 [Forest Bow](https://chatwars-wiki.de/index.php?title=Forest Bow)  
 _needs weight added_  
 
-[Ghost Armor](https://chatwars-wiki.de/index.php?title=Ghost Armor)  
-_finished_  
-
 [Ghost Armor Part](https://chatwars-wiki.de/index.php?title=Ghost Armor Part)  
 _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties_  
 
@@ -422,9 +395,6 @@ _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out 
 
 [Ghost Gloves Recipe](https://chatwars-wiki.de/index.php?title=Ghost Gloves Recipe)  
 _needs drop info_  
-
-[Ghost Helmet](https://chatwars-wiki.de/index.php?title=Ghost Helmet)  
-_Finished_  
 
 [Ghost Helmet Fragment](https://chatwars-wiki.de/index.php?title=Ghost Helmet Fragment)  
 _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties_  
@@ -531,15 +501,6 @@ _needs weight & wrapping added and error checking_
 [Hunter Gloves Recipe](https://chatwars-wiki.de/index.php?title=Hunter Gloves Recipe)  
 _needs checking_  
 
-[Hunter Helmet](https://chatwars-wiki.de/index.php?title=Hunter Helmet)  
-_finished_  
-
-[Hunter Helmet Fragment](https://chatwars-wiki.de/index.php?title=Hunter Helmet Fragment)  
-_finished_  
-
-[Hunter Helmet Recipe](https://chatwars-wiki.de/index.php?title=Hunter Helmet Recipe)  
-_finished_  
-
 [Ilaves](https://chatwars-wiki.de/index.php?title=Ilaves)  
 _needs drop info & error checking_  
 
@@ -551,9 +512,6 @@ _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out 
 
 [Imperial Axe Recipe](https://chatwars-wiki.de/index.php?title=Imperial Axe Recipe)  
 _needs drop info_  
-
-[Iron Ore](https://chatwars-wiki.de/index.php?title=Iron Ore)  
-_finished_  
 
 [King's Defender](https://chatwars-wiki.de/index.php?title=King's Defender)  
 _first draft of new forms page to fix '_  
@@ -626,9 +584,6 @@ _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out 
 
 [Lion Gloves Recipe](https://chatwars-wiki.de/index.php?title=Lion Gloves Recipe)  
 _needs drop info_  
-
-[Lion Helmet](https://chatwars-wiki.de/index.php?title=Lion Helmet)  
-_finished_  
 
 [Lion Helmet Fragment](https://chatwars-wiki.de/index.php?title=Lion Helmet Fragment)  
 _ToDo: Fill out all these properties_  
@@ -735,9 +690,6 @@ _needs weight added_
 [Mithril Helmet](https://chatwars-wiki.de/index.php?title=Mithril Helmet)  
 _needs weight added_  
 
-[Mithril Shield](https://chatwars-wiki.de/index.php?title=Mithril Shield)  
-_Finished_  
-
 [Order Armor](https://chatwars-wiki.de/index.php?title=Order Armor)  
 _needs weight, wrapping and shop price selling_  
 
@@ -768,12 +720,6 @@ _needs checking_
 [Order Helmet](https://chatwars-wiki.de/index.php?title=Order Helmet)  
 _needs sale price_  
 
-[Order Helmet Fragment](https://chatwars-wiki.de/index.php?title=Order Helmet Fragment)  
-_finished_  
-
-[Order Helmet Recipe](https://chatwars-wiki.de/index.php?title=Order Helmet Recipe)  
-_finished_  
-
 [Order Shield](https://chatwars-wiki.de/index.php?title=Order Shield)  
 _needs weight and wrapping_  
 
@@ -794,9 +740,6 @@ _new item, not much data known._
 
 [Overseer Shield Recipe](https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe)  
 _new item, not much data known_  
-
-[Pelt](https://chatwars-wiki.de/index.php?title=Pelt)  
-_finished_  
 
 [Pencil of Truth](https://chatwars-wiki.de/index.php?title=Pencil of Truth)  
 _weight, sale price & auction is assumption based on stick of wisdom_  
@@ -828,9 +771,6 @@ _needs weight added and error checking_
 [Potion of Twilight](https://chatwars-wiki.de/index.php?title=Potion of Twilight)  
 _needs weight added and error checking_  
 
-[Powder](https://chatwars-wiki.de/index.php?title=Powder)  
-_finished_  
-
 [Purified Powder](https://chatwars-wiki.de/index.php?title=Purified Powder)  
 _needs checking_  
 
@@ -845,9 +785,6 @@ _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out 
 
 [Raging Lance Recipe](https://chatwars-wiki.de/index.php?title=Raging Lance Recipe)  
 _needs dropinfo_  
-
-[Rapier](https://chatwars-wiki.de/index.php?title=Rapier)  
-_finished_  
 
 [Rare Scroll of Peace (Blue)](https://chatwars-wiki.de/index.php?title=Rare Scroll of Peace (Blue))  
 _needs checking
@@ -912,9 +849,6 @@ _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out 
 
 [Royal Helmet Recipe](https://chatwars-wiki.de/index.php?title=Royal Helmet Recipe)  
 _needs drop info_  
-
-[Royal Shield](https://chatwars-wiki.de/index.php?title=Royal Shield)  
-_finished_  
 
 [Royal Shield Part](https://chatwars-wiki.de/index.php?title=Royal Shield Part)  
 _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties_  
@@ -998,9 +932,6 @@ _needs weight added_
 [Silver Helmet](https://chatwars-wiki.de/index.php?title=Silver Helmet)  
 _needs weight added_  
 
-[Silver Ore](https://chatwars-wiki.de/index.php?title=Silver Ore)  
-_finished_  
-
 [Silver Shield](https://chatwars-wiki.de/index.php?title=Silver Shield)  
 _needs weight_  
 
@@ -1046,12 +977,6 @@ _needs weight added_
 [Steel Mold](https://chatwars-wiki.de/index.php?title=Steel Mold)  
 _should be fine_  
 
-[Stick](https://chatwars-wiki.de/index.php?title=Stick)  
-_finished_  
-
-[Stick of Wisdom](https://chatwars-wiki.de/index.php?title=Stick of Wisdom)  
-_finished_  
-
 [Stinky Sumac](https://chatwars-wiki.de/index.php?title=Stinky Sumac)  
 _needs error checking_  
 
@@ -1085,14 +1010,8 @@ _needs drop info & error checking_
 [Tecceagrass](https://chatwars-wiki.de/index.php?title=Tecceagrass)  
 _needs drop info & error checking_  
 
-[Thread](https://chatwars-wiki.de/index.php?title=Thread)  
-_finished_  
-
 [Thundersoul Blade](https://chatwars-wiki.de/index.php?title=Thundersoul Blade)  
 _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties_  
-
-[Thundersoul Sword](https://chatwars-wiki.de/index.php?title=Thundersoul Sword)  
-_finished_  
 
 [Thundersoul Sword Recipe](https://chatwars-wiki.de/index.php?title=Thundersoul Sword Recipe)  
 _needs drop info added_  
@@ -1195,9 +1114,6 @@ _needs checking_
 
 [Wooden Bow](https://chatwars-wiki.de/index.php?title=Wooden Bow)  
 _needs weight added_  
-
-[Wooden Shaft](https://chatwars-wiki.de/index.php?title=Wooden Shaft)  
-_finished_  
 
 [Wooden Shield](https://chatwars-wiki.de/index.php?title=Wooden Shield)  
 _needs weight added_  

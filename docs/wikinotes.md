@@ -210,6 +210,12 @@ _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out 
 [Crusader Shield Recipe](https://chatwars-wiki.de/index.php?title=Crusader Shield Recipe)  
 _needs drop info_  
 
+[Decimation Harpoon](https://chatwars-wiki.de/index.php?title=Decimation Harpoon)  
+_stub page, missing detailed info_  
+
+[Decimation Harpoon Part](https://chatwars-wiki.de/index.php?title=Decimation Harpoon Part)  
+_need id confirmation_  
+
 [Demon Bracers](https://chatwars-wiki.de/index.php?title=Demon Bracers)  
 _needs weight, sale price, wrapping & checking_  
 
@@ -245,6 +251,9 @@ _Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out 
 
 [Demon Shoes Recipe](https://chatwars-wiki.de/index.php?title=Demon Shoes Recipe)  
 _needs checking_  
+
+[Discarnate Bracers](https://chatwars-wiki.de/index.php?title=Discarnate Bracers)  
+_new item, not much data known_  
 
 [Discarnate Bracers Part](https://chatwars-wiki.de/index.php?title=Discarnate Bracers Part)  
 _new item, not much data known_  
@@ -441,6 +450,9 @@ _need info filled out, weight_
 [Hat](https://chatwars-wiki.de/index.php?title=Hat)  
 _needs weight added_  
 
+[Heartstriker Bow](https://chatwars-wiki.de/index.php?title=Heartstriker Bow)  
+_new item, not much data known_  
+
 [Heartstriker Bow Part](https://chatwars-wiki.de/index.php?title=Heartstriker Bow Part)  
 _new item, not much data known_  
 
@@ -621,6 +633,9 @@ _some detailed info missing_
 [Maiming Bulawa Part](https://chatwars-wiki.de/index.php?title=Maiming Bulawa Part)  
 _most info missing, drop valley night confirmed_  
 
+[Malificent Maul](https://chatwars-wiki.de/index.php?title=Malificent Maul)  
+_info incomplete_  
+
 [Manticore Armor Part](https://chatwars-wiki.de/index.php?title=Manticore Armor Part)  
 _new item, not much data known_  
 
@@ -681,9 +696,6 @@ _needs weight added_
 [Mithril Boots](https://chatwars-wiki.de/index.php?title=Mithril Boots)  
 _needs weight added_  
 
-[Mithril Dagger](https://chatwars-wiki.de/index.php?title=Mithril Dagger)  
-_none_  
-
 [Mithril Gauntlets](https://chatwars-wiki.de/index.php?title=Mithril Gauntlets)  
 _needs weight added_  
 
@@ -732,11 +744,17 @@ _needs drop info_
 [Overseer Armor Part](https://chatwars-wiki.de/index.php?title=Overseer Armor Part)  
 _all incomplete_  
 
+[Overseer Helmet](https://chatwars-wiki.de/index.php?title=Overseer Helmet)  
+_new item, not much data known_  
+
 [Overseer Helmet Part](https://chatwars-wiki.de/index.php?title=Overseer Helmet Part)  
 _new item, not much data known. BUMP_  
 
 [Overseer Helmet Recipe](https://chatwars-wiki.de/index.php?title=Overseer Helmet Recipe)  
 _new item, not much data known._  
+
+[Overseer Shield](https://chatwars-wiki.de/index.php?title=Overseer Shield)  
+_new item, not much data known yet_  
 
 [Overseer Shield Recipe](https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe)  
 _new item, not much data known_  
@@ -884,6 +902,9 @@ _Drop info missing_
 [Scroll of Peace (Red)](https://chatwars-wiki.de/index.php?title=Scroll of Peace (Red))  
 _Drop info missing_  
 
+[Scroll of Peace (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Peace (Yellow))  
+_checking, drop info_  
+
 [Scroll of Rage (Blue)](https://chatwars-wiki.de/index.php?title=Scroll of Rage (Blue))  
 _Drop info missing_  
 
@@ -895,6 +916,9 @@ _Drop info missing_
 
 [Scroll of Rage (Red)](https://chatwars-wiki.de/index.php?title=Scroll of Rage (Red))  
 _Drop info missing_  
+
+[Scroll of Rage (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Rage (Yellow))  
+_check, drop info_  
 
 [Shadow Bloodstone](https://chatwars-wiki.de/index.php?title=Shadow Bloodstone)  
 _Halloween event item_  
@@ -934,6 +958,9 @@ _needs weight added_
 
 [Silver Shield](https://chatwars-wiki.de/index.php?title=Silver Shield)  
 _needs weight_  
+
+[Sinister Ranseur](https://chatwars-wiki.de/index.php?title=Sinister Ranseur)  
+_shell page, missing info_  
 
 [Skeleton Buckler](https://chatwars-wiki.de/index.php?title=Skeleton Buckler)  
 _needs weight_  
@@ -1097,6 +1124,9 @@ _needs droprate and error checking_
 [Widow Sword](https://chatwars-wiki.de/index.php?title=Widow Sword)  
 _needs weight added, check if auction is still correct_  
 
+[Windstalker Bow](https://chatwars-wiki.de/index.php?title=Windstalker Bow)  
+_new item, not much data known_  
+
 [Windstalker Bow Part](https://chatwars-wiki.de/index.php?title=Windstalker Bow Part)  
 _new item, not much data known_  
 
@@ -1138,37 +1168,4 @@ _needs weight and sale price added_
 
 [Zombie Shield (Event Gear)](https://chatwars-wiki.de/index.php?title=Zombie Shield (Event Gear))  
 _needs weight, sale price_  
-
-[Decimation Harpoon](https://chatwars-wiki.de/index.php?title=Decimation Harpoon)  
-_stub page, missing detailed info_  
-
-[Decimation Harpoon Part](https://chatwars-wiki.de/index.php?title=Decimation Harpoon Part)  
-_need id confirmation_  
-
-[Discarnate Bracers](https://chatwars-wiki.de/index.php?title=Discarnate Bracers)  
-_new item, not much data known_  
-
-[Heartstriker Bow](https://chatwars-wiki.de/index.php?title=Heartstriker Bow)  
-_new item, not much data known_  
-
-[Malificent Maul](https://chatwars-wiki.de/index.php?title=Malificent Maul)  
-_info incomplete_  
-
-[Overseer Helmet](https://chatwars-wiki.de/index.php?title=Overseer Helmet)  
-_new item, not much data known_  
-
-[Overseer Shield](https://chatwars-wiki.de/index.php?title=Overseer Shield)  
-_new item, not much data known yet_  
-
-[Scroll of Peace (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Peace (Yellow))  
-_checking, drop info_  
-
-[Scroll of Rage (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Rage (Yellow))  
-_check, drop info_  
-
-[Sinister Ranseur](https://chatwars-wiki.de/index.php?title=Sinister Ranseur)  
-_shell page, missing info_  
-
-[Windstalker Bow](https://chatwars-wiki.de/index.php?title=Windstalker Bow)  
-_new item, not much data known_  
 

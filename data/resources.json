@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-06T15:11:11.282902+00:00",
+    "timestamp": "2020-04-06T17:11:07.434689+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -12518,7 +12518,6 @@
             "name": "Mithril dagger",
             "type": "Weapon",
             "subType": "Dagger",
-            "wikiNote": "none",
             "attack": 7,
             "defense": 0,
             "mana": 0,
@@ -12537,11 +12536,10 @@
             "quest": false,
             "enchantable": true,
             "craftable": false,
-            "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Mithril Dagger",
-            "lastModified": "2020-03-28T22:23:47Z",
-            "revision": 13387,
+            "lastModified": "2020-04-06T16:20:56Z",
+            "revision": 14681,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril Dagger"
         },
         {

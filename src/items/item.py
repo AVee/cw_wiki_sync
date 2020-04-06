@@ -202,6 +202,9 @@ class Item(object):
         
         return result
     
+    def markdown_link(self):
+        return f"[{self.pagename}]({self.wikiUrl})"
+    
     @property
     def dirty(self):
         if self._dirty:
@@ -282,7 +285,7 @@ def load_from_file(path: str):
 
 def save_to_file(path: str, items: Union[List[Item], dict]):
     if isinstance(items, dict):
-        items = items['items']
+        items = items['items'] + items['incomplete']
     
     result = { 'timestamp': datetime.now(tz=timezone.utc).isoformat(), 'deprecated': False, 'obsolete': False, 'format': 1, 'items': [i for i in items if i._has_item and i.ItemID.value != '' and i.ItemID.value != '??'], 'incomplete': [i for i in items if i._has_item and (i.ItemID.value == '' or i.ItemID.value == '??')] }
     

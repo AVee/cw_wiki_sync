@@ -27,9 +27,6 @@ _needs weight added_
 [Black Morningstar](https://chatwars-wiki.de/index.php?title=Black Morningstar)  
 _every info missing besides recipe. that needs to be checked_  
 
-[Blacksmith Frame](https://chatwars-wiki.de/index.php?title=Blacksmith Frame)  
-_finished_  
-
 [Blacksmith Mold](https://chatwars-wiki.de/index.php?title=Blacksmith Mold)  
 _recipe complete, other info might be missing_  
 
@@ -1225,4 +1222,37 @@ _needs weight and sale price added_
 
 [Zombie Shield (Event Gear)](https://chatwars-wiki.de/index.php?title=Zombie Shield (Event Gear))  
 _needs weight, sale price_  
+
+[Decimation Harpoon](https://chatwars-wiki.de/index.php?title=Decimation Harpoon)  
+_stub page, missing detailed info_  
+
+[Decimation Harpoon Part](https://chatwars-wiki.de/index.php?title=Decimation Harpoon Part)  
+_need id confirmation_  
+
+[Discarnate Bracers](https://chatwars-wiki.de/index.php?title=Discarnate Bracers)  
+_new item, not much data known_  
+
+[Heartstriker Bow](https://chatwars-wiki.de/index.php?title=Heartstriker Bow)  
+_new item, not much data known_  
+
+[Malificent Maul](https://chatwars-wiki.de/index.php?title=Malificent Maul)  
+_info incomplete_  
+
+[Overseer Helmet](https://chatwars-wiki.de/index.php?title=Overseer Helmet)  
+_new item, not much data known_  
+
+[Overseer Shield](https://chatwars-wiki.de/index.php?title=Overseer Shield)  
+_new item, not much data known yet_  
+
+[Scroll of Peace (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Peace (Yellow))  
+_checking, drop info_  
+
+[Scroll of Rage (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Rage (Yellow))  
+_check, drop info_  
+
+[Sinister Ranseur](https://chatwars-wiki.de/index.php?title=Sinister Ranseur)  
+_shell page, missing info_  
+
+[Windstalker Bow](https://chatwars-wiki.de/index.php?title=Windstalker Bow)  
+_new item, not much data known_  
 

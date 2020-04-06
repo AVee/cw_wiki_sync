@@ -15,3 +15,4 @@
 [Scroll of Rage (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Rage (Yellow))  
 [Sinister Ranseur](https://chatwars-wiki.de/index.php?title=Sinister Ranseur)  
 [Windstalker Bow](https://chatwars-wiki.de/index.php?title=Windstalker Bow)  
+[Poniard](https://chatwars-wiki.de/index.php?title=Poniard)  

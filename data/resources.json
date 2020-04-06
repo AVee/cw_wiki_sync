@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-06T17:11:07.434689+00:00",
+    "timestamp": "2020-04-06T19:11:08.569059+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -19464,6 +19464,36 @@
             "lastModified": "2020-03-31T17:44:06Z",
             "revision": 14524,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow"
+        },
+        {
+            "id": "??",
+            "eventItem": false,
+            "name": "Poniard",
+            "type": "Weapon",
+            "subType": "Dagger",
+            "wikiNote": "all info missing",
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "recipe": {
+                "Silver Frame": "3",
+                "Quality Cloth": "2",
+                "Poniard Recipe": "1",
+                "Poniard Part": "5",
+                "Artisan Mold": "3",
+                "Coke": "20",
+                "Metal Plate": "13",
+                "Silver Alloy": "25"
+            },
+            "pagename": "Poniard",
+            "lastModified": "2020-04-06T19:11:05Z",
+            "revision": 14683,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard"
         }
     ]
 }

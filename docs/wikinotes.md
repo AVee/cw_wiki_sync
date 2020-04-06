@@ -765,6 +765,9 @@ _weight, sale price & auction is assumption based on stick of wisdom_
 [Phoenix Sword](https://chatwars-wiki.de/index.php?title=Phoenix Sword)  
 _recipe needs to be checked_  
 
+[Poniard](https://chatwars-wiki.de/index.php?title=Poniard)  
+_all info missing_  
+
 [Potion of Greed](https://chatwars-wiki.de/index.php?title=Potion of Greed)  
 _needs weight, effect added and error checking_  
 

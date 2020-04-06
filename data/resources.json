@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-06T19:11:08.569059+00:00",
+    "timestamp": "2020-04-06T19:35:20.748691+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1141,7 +1141,7 @@
             "attack": 25,
             "defense": 29,
             "mana": 0,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -1164,8 +1164,8 @@
                 "Blacksmith Frame": "6"
             },
             "pagename": "Brutalizer Flail",
-            "lastModified": "2020-04-01T21:05:14Z",
-            "revision": 14552,
+            "lastModified": "2020-04-06T19:28:14Z",
+            "revision": 14691,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail"
         },
         {
@@ -1174,7 +1174,7 @@
             "name": "Brutalizer Flail part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -1183,8 +1183,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Brutalizer Flail Part",
-            "lastModified": "2020-03-30T03:29:20Z",
-            "revision": 14489,
+            "lastModified": "2020-04-06T19:28:14Z",
+            "revision": 14692,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail Part"
         },
         {
@@ -1193,7 +1193,7 @@
             "name": "Brutalizer Flail recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -1203,8 +1203,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Brutalizer Flail Recipe",
-            "lastModified": "2020-03-30T03:29:42Z",
-            "revision": 14490,
+            "lastModified": "2020-04-06T19:28:18Z",
+            "revision": 14693,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer Flail Recipe"
         },
         {
@@ -4304,15 +4304,15 @@
             "name": "Decimation Harpoon recipe",
             "type": "Recipe (Item)",
             "weight": 10,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
             "recipe": {},
             "pagename": "Decimation Harpoon Recipe",
-            "lastModified": "2020-04-05T11:05:31Z",
-            "revision": 14590,
+            "lastModified": "2020-04-06T19:28:25Z",
+            "revision": 14696,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation Harpoon Recipe"
         },
         {
@@ -4904,7 +4904,7 @@
             "name": "Discarnate Bracers part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -4913,8 +4913,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Bracers Part",
-            "lastModified": "2020-03-29T20:44:25Z",
-            "revision": 14468,
+            "lastModified": "2020-04-06T19:28:31Z",
+            "revision": 14698,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers Part"
         },
         {
@@ -4923,7 +4923,7 @@
             "name": "Discarnate Bracers recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -4931,8 +4931,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Bracers Recipe",
-            "lastModified": "2020-03-29T21:22:48Z",
-            "revision": 14471,
+            "lastModified": "2020-04-06T19:28:32Z",
+            "revision": 14699,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers Recipe"
         },
         {
@@ -4940,7 +4940,7 @@
             "eventItem": false,
             "name": "Discarnate Circlet part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -4949,8 +4949,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Circlet Part",
-            "lastModified": "2020-03-29T19:50:28Z",
-            "revision": 14456,
+            "lastModified": "2020-04-06T19:28:38Z",
+            "revision": 14701,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet Part"
         },
         {
@@ -4958,7 +4958,7 @@
             "eventItem": false,
             "name": "Discarnate Circlet recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -4967,8 +4967,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Circlet Recipe",
-            "lastModified": "2020-03-29T16:20:47Z",
-            "revision": 14437,
+            "lastModified": "2020-04-06T19:28:39Z",
+            "revision": 14702,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet Recipe"
         },
         {
@@ -4984,7 +4984,7 @@
             "mana": 240,
             "weight": 530,
             "wrapping": 1,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5007,8 +5007,8 @@
                 "Sapphire": "20"
             },
             "pagename": "Discarnate Robe",
-            "lastModified": "2020-04-05T11:46:03Z",
-            "revision": 14597,
+            "lastModified": "2020-04-06T19:28:43Z",
+            "revision": 14703,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Robe"
         },
         {
@@ -5016,7 +5016,7 @@
             "eventItem": false,
             "name": "Discarnate Robe part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5026,8 +5026,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Robe Part",
-            "lastModified": "2020-03-29T19:39:59Z",
-            "revision": 14451,
+            "lastModified": "2020-04-06T19:28:44Z",
+            "revision": 14704,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Robe Part"
         },
         {
@@ -5036,7 +5036,7 @@
             "name": "Discarnate Robe recipe",
             "type": "Recipe (Item)",
             "weight": 10,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5045,8 +5045,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Robe Recipe",
-            "lastModified": "2020-03-30T17:57:34Z",
-            "revision": 14510,
+            "lastModified": "2020-04-06T19:28:46Z",
+            "revision": 14705,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Robe Recipe"
         },
         {
@@ -5060,7 +5060,7 @@
             "defense": 15,
             "mana": 90,
             "wrapping": 1,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5085,8 +5085,8 @@
                 "Quality Cloth": "2"
             },
             "pagename": "Discarnate Shoes",
-            "lastModified": "2020-04-02T16:35:36Z",
-            "revision": 14562,
+            "lastModified": "2020-04-06T19:28:50Z",
+            "revision": 14706,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes"
         },
         {
@@ -5094,14 +5094,14 @@
             "eventItem": false,
             "name": "Discarnate Shoes part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "quest": true,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Shoes Part",
-            "lastModified": "2020-03-29T22:09:49Z",
-            "revision": 14475,
+            "lastModified": "2020-04-06T19:28:52Z",
+            "revision": 14707,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes Part"
         },
         {
@@ -5642,7 +5642,7 @@
             "attack": 55,
             "defense": 0,
             "mana": 0,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5670,8 +5670,8 @@
                 "Cord": "28"
             },
             "pagename": "Doom Warglaive",
-            "lastModified": "2020-04-05T10:42:46Z",
-            "revision": 14588,
+            "lastModified": "2020-04-06T19:28:55Z",
+            "revision": 14708,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive"
         },
         {
@@ -5680,7 +5680,7 @@
             "name": "Doom Warglaive part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5689,8 +5689,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Doom Warglaive Part",
-            "lastModified": "2020-03-30T02:28:51Z",
-            "revision": 14477,
+            "lastModified": "2020-04-06T19:28:57Z",
+            "revision": 14709,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive Part"
         },
         {
@@ -5698,14 +5698,14 @@
             "eventItem": false,
             "name": "Doom Warglaive recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "quest": true,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Doom Warglaive Recipe",
-            "lastModified": "2020-03-29T19:58:12Z",
-            "revision": 14460,
+            "lastModified": "2020-04-06T19:28:58Z",
+            "revision": 14710,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive Recipe"
         },
         {
@@ -8640,7 +8640,7 @@
             "name": "Heartstriker Bow part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -8649,8 +8649,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Heartstriker Bow Part",
-            "lastModified": "2020-03-29T13:51:08Z",
-            "revision": 14416,
+            "lastModified": "2020-04-06T19:29:04Z",
+            "revision": 14712,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker Bow Part"
         },
         {
@@ -8659,7 +8659,7 @@
             "name": "Heartstriker Bow recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -8668,8 +8668,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Heartstriker Bow Recipe",
-            "lastModified": "2020-03-29T12:38:58Z",
-            "revision": 14398,
+            "lastModified": "2020-04-06T19:29:06Z",
+            "revision": 14713,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker Bow Recipe"
         },
         {
@@ -10393,7 +10393,7 @@
             "mana": 0,
             "weight": 220,
             "wrapping": 1,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "shopSellPrice": 3000,
             "exchange": false,
@@ -10422,8 +10422,8 @@
                 "Hardener": "7"
             },
             "pagename": "Lightbane Katana",
-            "lastModified": "2020-04-02T15:39:50Z",
-            "revision": 14559,
+            "lastModified": "2020-04-06T19:29:10Z",
+            "revision": 14714,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane Katana"
         },
         {
@@ -10432,7 +10432,7 @@
             "name": "Lightbane Katana part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known. night is correct, forest is not entirely sure",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -10443,8 +10443,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lightbane Katana Part",
-            "lastModified": "2020-03-30T03:32:11Z",
-            "revision": 14491,
+            "lastModified": "2020-04-06T19:29:11Z",
+            "revision": 14715,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane Katana Part"
         },
         {
@@ -10453,7 +10453,7 @@
             "name": "Lightbane Katana recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -10462,8 +10462,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lightbane Katana Recipe",
-            "lastModified": "2020-03-30T03:32:18Z",
-            "revision": 14492,
+            "lastModified": "2020-04-06T19:29:13Z",
+            "revision": 14716,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane Katana Recipe"
         },
         {
@@ -11546,7 +11546,7 @@
             "eventItem": false,
             "name": "Malificent Maul part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11555,8 +11555,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Malificent Maul Part",
-            "lastModified": "2020-03-29T14:42:29Z",
-            "revision": 14430,
+            "lastModified": "2020-04-06T19:29:18Z",
+            "revision": 14718,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul Part"
         },
         {
@@ -11564,7 +11564,7 @@
             "eventItem": false,
             "name": "Malificent Maul recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11574,8 +11574,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Malificent Maul Recipe",
-            "lastModified": "2020-03-29T14:39:23Z",
-            "revision": 14428,
+            "lastModified": "2020-04-06T19:29:19Z",
+            "revision": 14719,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul Recipe"
         },
         {
@@ -11625,7 +11625,7 @@
             "mana": 0,
             "weight": 530,
             "wrapping": 1,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "shopSellPrice": 1552,
             "exchange": false,
@@ -11653,8 +11653,8 @@
                 "Ruby": "15"
             },
             "pagename": "Manticore Armor",
-            "lastModified": "2020-04-02T15:45:49Z",
-            "revision": 14560,
+            "lastModified": "2020-04-06T19:29:25Z",
+            "revision": 14720,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Armor"
         },
         {
@@ -11663,7 +11663,7 @@
             "name": "Manticore Armor part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11675,8 +11675,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Armor Part",
-            "lastModified": "2020-03-30T03:32:44Z",
-            "revision": 14493,
+            "lastModified": "2020-04-06T19:29:26Z",
+            "revision": 14721,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Armor Part"
         },
         {
@@ -11684,7 +11684,7 @@
             "eventItem": false,
             "name": "Manticore Armor recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11693,8 +11693,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Armor Recipe",
-            "lastModified": "2020-03-30T03:32:49Z",
-            "revision": 14494,
+            "lastModified": "2020-04-06T19:29:27Z",
+            "revision": 14722,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Armor Recipe"
         },
         {
@@ -11708,7 +11708,7 @@
             "attack": 12,
             "defense": 15,
             "mana": 0,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11737,8 +11737,8 @@
                 "Silver Mold": "6"
             },
             "pagename": "Manticore Boots",
-            "lastModified": "2020-04-05T10:49:34Z",
-            "revision": 14589,
+            "lastModified": "2020-04-06T19:29:34Z",
+            "revision": 14723,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots"
         },
         {
@@ -11747,7 +11747,7 @@
             "name": "Manticore Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11756,8 +11756,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Boots Part",
-            "lastModified": "2020-03-30T03:34:28Z",
-            "revision": 14501,
+            "lastModified": "2020-04-06T19:29:35Z",
+            "revision": 14724,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots Part"
         },
         {
@@ -11766,7 +11766,7 @@
             "name": "Manticore Boots recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11777,8 +11777,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Boots Recipe",
-            "lastModified": "2020-03-30T03:33:36Z",
-            "revision": 14495,
+            "lastModified": "2020-04-06T19:29:36Z",
+            "revision": 14725,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Boots Recipe"
         },
         {
@@ -11792,7 +11792,7 @@
             "attack": 11,
             "defense": 15,
             "mana": 0,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11818,8 +11818,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Manticore Gloves",
-            "lastModified": "2020-04-02T15:21:59Z",
-            "revision": 14557,
+            "lastModified": "2020-04-06T19:29:41Z",
+            "revision": 14726,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves"
         },
         {
@@ -11827,7 +11827,7 @@
             "eventItem": false,
             "name": "Manticore Gloves part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11837,8 +11837,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Gloves Part",
-            "lastModified": "2020-03-29T19:53:30Z",
-            "revision": 14459,
+            "lastModified": "2020-04-06T19:29:42Z",
+            "revision": 14727,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves Part"
         },
         {
@@ -11846,7 +11846,7 @@
             "eventItem": false,
             "name": "Manticore Gloves recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11855,8 +11855,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Gloves Recipe",
-            "lastModified": "2020-03-29T20:00:13Z",
-            "revision": 14461,
+            "lastModified": "2020-04-06T19:29:44Z",
+            "revision": 14728,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Gloves Recipe"
         },
         {
@@ -11870,7 +11870,7 @@
             "attack": 14,
             "defense": 24,
             "mana": 0,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11896,8 +11896,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Manticore Helmet",
-            "lastModified": "2020-04-01T19:38:49Z",
-            "revision": 14550,
+            "lastModified": "2020-04-06T19:29:49Z",
+            "revision": 14729,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet"
         },
         {
@@ -11906,7 +11906,7 @@
             "name": "Manticore Helmet part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, no data known yet",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11916,8 +11916,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Helmet Part",
-            "lastModified": "2020-03-30T03:33:58Z",
-            "revision": 14496,
+            "lastModified": "2020-04-06T19:29:50Z",
+            "revision": 14730,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Part"
         },
         {
@@ -11926,7 +11926,7 @@
             "name": "Manticore Helmet recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11935,8 +11935,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Helmet Recipe",
-            "lastModified": "2020-03-30T03:34:04Z",
-            "revision": 14497,
+            "lastModified": "2020-04-06T19:29:52Z",
+            "revision": 14731,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore Helmet Recipe"
         },
         {
@@ -13465,7 +13465,7 @@
             "name": "Overseer Armor part",
             "type": "Piece of Equipment",
             "wikiNote": "all incomplete",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13474,8 +13474,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Armor Part",
-            "lastModified": "2020-04-03T23:52:52Z",
-            "revision": 14577,
+            "lastModified": "2020-04-06T19:29:58Z",
+            "revision": 14733,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Armor Part"
         },
         {
@@ -13483,7 +13483,7 @@
             "eventItem": false,
             "name": "Overseer Armor recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13492,8 +13492,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Armor Recipe",
-            "lastModified": "2020-04-03T23:53:05Z",
-            "revision": 14578,
+            "lastModified": "2020-04-06T19:30:00Z",
+            "revision": 14734,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Armor Recipe"
         },
         {
@@ -13501,7 +13501,7 @@
             "eventItem": false,
             "name": "Overseer Boots part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13510,8 +13510,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Boots Part",
-            "lastModified": "2020-04-03T23:53:20Z",
-            "revision": 14580,
+            "lastModified": "2020-04-06T19:30:06Z",
+            "revision": 14736,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots Part"
         },
         {
@@ -13519,7 +13519,7 @@
             "eventItem": false,
             "name": "Overseer Boots recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13528,8 +13528,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Boots Recipe",
-            "lastModified": "2020-04-03T23:53:37Z",
-            "revision": 14504,
+            "lastModified": "2020-04-06T19:30:07Z",
+            "revision": 14737,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots Recipe"
         },
         {
@@ -13537,7 +13537,7 @@
             "eventItem": false,
             "name": "Overseer Gauntlets part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13546,8 +13546,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Gauntlets Part",
-            "lastModified": "2020-04-03T23:52:08Z",
-            "revision": 14464,
+            "lastModified": "2020-04-06T19:30:12Z",
+            "revision": 14739,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Gauntlets Part"
         },
         {
@@ -13555,7 +13555,7 @@
             "eventItem": false,
             "name": "Overseer Gauntlets recipe",
             "type": "Recipe (Item)",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13564,8 +13564,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Gauntlets Recipe",
-            "lastModified": "2020-04-03T23:29:23Z",
-            "revision": 14575,
+            "lastModified": "2020-04-06T19:30:13Z",
+            "revision": 14740,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Gauntlets Recipe"
         },
         {
@@ -13575,7 +13575,7 @@
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known. BUMP",
             "weight": 10,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13583,8 +13583,8 @@
             "questPerceptionLevel": 5,
             "recipe": {},
             "pagename": "Overseer Helmet Part",
-            "lastModified": "2020-04-03T23:52:28Z",
-            "revision": 14579,
+            "lastModified": "2020-04-06T19:30:20Z",
+            "revision": 14742,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Helmet Part"
         },
         {
@@ -13594,7 +13594,7 @@
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known.",
             "weight": 10,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13602,8 +13602,8 @@
             "questPerceptionLevel": 5,
             "recipe": {},
             "pagename": "Overseer Helmet Recipe",
-            "lastModified": "2020-04-05T21:31:46Z",
-            "revision": 14599,
+            "lastModified": "2020-04-06T19:30:22Z",
+            "revision": 14743,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Helmet Recipe"
         },
         {
@@ -13611,7 +13611,7 @@
             "eventItem": false,
             "name": "Overseer Shield part",
             "type": "Piece of Equipment",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13621,8 +13621,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Part",
-            "lastModified": "2020-04-03T23:51:44Z",
-            "revision": 14498,
+            "lastModified": "2020-04-06T19:30:28Z",
+            "revision": 14745,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Part"
         },
         {
@@ -13631,7 +13631,7 @@
             "name": "Overseer Shield recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -13641,8 +13641,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Recipe",
-            "lastModified": "2020-04-03T23:51:56Z",
-            "revision": 14574,
+            "lastModified": "2020-04-06T19:30:29Z",
+            "revision": 14746,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield Recipe"
         },
         {
@@ -16223,15 +16223,15 @@
             "name": "Sinister Ranseur part",
             "type": "Piece of Equipment",
             "weight": 10,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
             "recipe": {},
             "pagename": "Sinister Ranseur Part",
-            "lastModified": "2020-04-05T11:09:32Z",
-            "revision": 14592,
+            "lastModified": "2020-04-06T19:30:37Z",
+            "revision": 14749,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister Ranseur Part"
         },
         {
@@ -16240,15 +16240,15 @@
             "name": "Sinister Ranseur recipe",
             "type": "Recipe (Item)",
             "weight": 10,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
             "recipe": {},
             "pagename": "Sinister Ranseur Recipe",
-            "lastModified": "2020-04-04T21:55:04Z",
-            "revision": 14583,
+            "lastModified": "2020-04-06T19:30:38Z",
+            "revision": 14750,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister Ranseur Recipe"
         },
         {
@@ -18415,7 +18415,7 @@
             "name": "Windstalker Bow part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -18424,8 +18424,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Windstalker Bow Part",
-            "lastModified": "2020-03-30T03:34:16Z",
-            "revision": 14499,
+            "lastModified": "2020-04-06T19:30:42Z",
+            "revision": 14752,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow Part"
         },
         {
@@ -18434,7 +18434,7 @@
             "name": "Windstalker Bow recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -18444,8 +18444,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Windstalker Bow Recipe",
-            "lastModified": "2020-03-30T03:34:22Z",
-            "revision": 14500,
+            "lastModified": "2020-04-06T19:30:43Z",
+            "revision": 14753,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow Recipe"
         },
         {
@@ -19041,6 +19041,44 @@
             "lastModified": "2020-03-28T22:12:03Z",
             "revision": 13091,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie Shield (Event Gear)"
+        },
+        {
+            "id": "k103",
+            "eventItem": false,
+            "name": "Poniard part",
+            "type": "Piece of Equipment",
+            "wikiNote": "all info missing",
+            "levelRequirement": 60,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Poniard Part",
+            "lastModified": "2020-04-06T19:30:31Z",
+            "revision": 14747,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard Part"
+        },
+        {
+            "id": "r103",
+            "eventItem": false,
+            "name": "Poniard recipe",
+            "type": "Recipe (Item)",
+            "wikiNote": "all info missing",
+            "levelRequirement": 60,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Poniard Recipe",
+            "lastModified": "2020-04-06T19:24:22Z",
+            "revision": 14688,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard Recipe"
         }
     ],
     "incomplete": [
@@ -19051,7 +19089,7 @@
             "type": "Weapon",
             "subType": "Spear",
             "wikiNote": "stub page, missing detailed info",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19075,8 +19113,8 @@
                 "Hardener": "8"
             },
             "pagename": "Decimation Harpoon",
-            "lastModified": "2020-04-05T11:24:32Z",
-            "revision": 14595,
+            "lastModified": "2020-04-06T19:28:23Z",
+            "revision": 14694,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation Harpoon"
         },
         {
@@ -19086,15 +19124,15 @@
             "type": "Piece of Equipment",
             "wikiNote": "need id confirmation",
             "weight": 10,
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
             "recipe": {},
             "pagename": "Decimation Harpoon Part",
-            "lastModified": "2020-04-05T10:31:56Z",
-            "revision": 14587,
+            "lastModified": "2020-04-06T19:28:24Z",
+            "revision": 14695,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation Harpoon Part"
         },
         {
@@ -19105,7 +19143,7 @@
             "subType": "Gloves",
             "armorClass": "Robe Armor",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19128,8 +19166,8 @@
                 "Solvent": "2"
             },
             "pagename": "Discarnate Bracers",
-            "lastModified": "2020-03-31T17:50:14Z",
-            "revision": 14527,
+            "lastModified": "2020-04-06T19:28:30Z",
+            "revision": 14697,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers"
         },
         {
@@ -19139,7 +19177,7 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19161,8 +19199,8 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-04-03T17:25:21Z",
-            "revision": 14568,
+            "lastModified": "2020-04-06T19:28:37Z",
+            "revision": 14700,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet"
         },
         {
@@ -19172,7 +19210,7 @@
             "type": "Weapon",
             "subType": "Bow",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19192,8 +19230,8 @@
                 "Heartstriker Bow Recipe": "1"
             },
             "pagename": "Heartstriker Bow",
-            "lastModified": "2020-03-31T17:50:41Z",
-            "revision": 14530,
+            "lastModified": "2020-04-06T19:29:03Z",
+            "revision": 14711,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker Bow"
         },
         {
@@ -19203,7 +19241,7 @@
             "type": "Weapon",
             "subType": "Blunt",
             "wikiNote": "info incomplete",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19221,8 +19259,8 @@
                 "Silver Frame": "12"
             },
             "pagename": "Malificent Maul",
-            "lastModified": "2020-03-31T17:51:23Z",
-            "revision": 14535,
+            "lastModified": "2020-04-06T19:29:16Z",
+            "revision": 14717,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent Maul"
         },
         {
@@ -19232,7 +19270,7 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Heavy Armor",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19251,8 +19289,8 @@
                 "Sapphire": "10"
             },
             "pagename": "Overseer Armor",
-            "lastModified": "2020-03-31T17:50:33Z",
-            "revision": 14529,
+            "lastModified": "2020-04-06T19:29:57Z",
+            "revision": 14732,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Armor"
         },
         {
@@ -19262,7 +19300,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Heavy Armor",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19274,8 +19312,8 @@
                 "Overseer Boots Recipe": "1"
             },
             "pagename": "Overseer Boots",
-            "lastModified": "2020-03-31T17:51:46Z",
-            "revision": 14538,
+            "lastModified": "2020-04-06T19:30:05Z",
+            "revision": 14735,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots"
         },
         {
@@ -19285,7 +19323,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19297,8 +19335,8 @@
                 "Overseer Gauntlets Recipe": "1"
             },
             "pagename": "Overseer Gauntlets",
-            "lastModified": "2020-03-29T20:10:02Z",
-            "revision": 14466,
+            "lastModified": "2020-04-06T19:30:11Z",
+            "revision": 14738,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Gauntlets"
         },
         {
@@ -19309,7 +19347,7 @@
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19334,8 +19372,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Overseer Helmet",
-            "lastModified": "2020-04-03T21:05:59Z",
-            "revision": 14571,
+            "lastModified": "2020-04-06T19:30:19Z",
+            "revision": 14741,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Helmet"
         },
         {
@@ -19345,7 +19383,7 @@
             "type": "Protective Gear",
             "subType": "Shield",
             "wikiNote": "new item, not much data known yet",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19365,8 +19403,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Overseer Shield",
-            "lastModified": "2020-04-03T21:36:26Z",
-            "revision": 14525,
+            "lastModified": "2020-04-06T19:30:27Z",
+            "revision": 14744,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Shield"
         },
         {
@@ -19408,7 +19446,7 @@
             "type": "Weapon",
             "subType": "Spear",
             "wikiNote": "shell page, missing info",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19430,8 +19468,8 @@
                 "Quality Cloth": "4"
             },
             "pagename": "Sinister Ranseur",
-            "lastModified": "2020-04-04T22:02:43Z",
-            "revision": 14584,
+            "lastModified": "2020-04-06T19:30:36Z",
+            "revision": 14748,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister Ranseur"
         },
         {
@@ -19441,7 +19479,7 @@
             "type": "Weapon",
             "subType": "Bow",
             "wikiNote": "new item, not much data known",
-            "levelRequirement": 55,
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19461,8 +19499,8 @@
                 "Hardener": "7"
             },
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-03-31T17:44:06Z",
-            "revision": 14524,
+            "lastModified": "2020-04-06T19:30:41Z",
+            "revision": 14751,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker Bow"
         },
         {
@@ -19472,6 +19510,7 @@
             "type": "Weapon",
             "subType": "Dagger",
             "wikiNote": "all info missing",
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -19491,8 +19530,8 @@
                 "Silver Alloy": "25"
             },
             "pagename": "Poniard",
-            "lastModified": "2020-04-06T19:11:05Z",
-            "revision": 14683,
+            "lastModified": "2020-04-06T19:23:53Z",
+            "revision": 14687,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard"
         }
     ]

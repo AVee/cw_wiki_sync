@@ -768,6 +768,12 @@ _recipe needs to be checked_
 [Poniard](https://chatwars-wiki.de/index.php?title=Poniard)  
 _all info missing_  
 
+[Poniard Part](https://chatwars-wiki.de/index.php?title=Poniard Part)  
+_all info missing_  
+
+[Poniard Recipe](https://chatwars-wiki.de/index.php?title=Poniard Recipe)  
+_all info missing_  
+
 [Potion of Greed](https://chatwars-wiki.de/index.php?title=Potion of Greed)  
 _needs weight, effect added and error checking_  
 

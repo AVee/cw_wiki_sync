@@ -1,5 +1,5 @@
 # Chatwars Wiki Items
-This site contains a json file containing all known information of the items in Chatwars as found ond the [chatwars wiki](https://chatwars-wiki.de/). Updates are run hourly and the latest file can be found in [resources.json](https://raw.githubusercontent.com/AVee/cw_wiki_sync/master/data/resources.json).
+This site contains a json file containing all known information of the items in Chatwars as found on the [chatwars wiki](https://chatwars-wiki.de/). Updates are run hourly and the latest file can be found in [resources.json](https://raw.githubusercontent.com/AVee/cw_wiki_sync/master/data/resources.json).
 
 If any item data is missing or incomplete please just edit the wiki, it has a really nice form for editing item information ;-) Really, just go and improve what is on the wiki, the quality of this data depends on contributions to the wiki from users like you...
 
@@ -12,6 +12,7 @@ There are two collections in the file, the first being 'items', which contains a
 
 ## Issue lists
 Apart from the json file a few lists are generated with items which might need attention:  
+
 [Items without ID](missingid.md)  
 [Items with notes](wikinotes.md)  
 

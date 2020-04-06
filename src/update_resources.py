@@ -7,6 +7,7 @@ import mwclient
 from items import item
 from items.item import Item
 import io
+from html.parser import incomplete
 
 def run():
     site = mwclient.Site('chatwars-wiki.de', path='/')
@@ -30,13 +31,17 @@ def run():
         if not lastrev:
             lastrev = change['revid']
         
-        page = next((i for i in items['items'] if i.pagename == change['title']), None)
-        
+        allitems = items['items'] + items['incomplete']
+        page = next((i for i in allitems if i.pagename == change['title']), None)
+
         if page: # We had this item already, update.
             if page.revision < change['revid']:
                 page.load(site)
                 if not page._has_item: # No longer an item page (could be a page move/rename).
-                    items.remove()
+                    if page in items['items']:
+                        items['items'].remove(page)
+                    if page in items['incomplete']:
+                        items['incomplete'].remove(page)
         else:
             if not pages: # Lazy load list of item pages
                 pages = list(site.ask('[[ItemID::+]]'))
@@ -47,8 +52,10 @@ def run():
                 
                 if not itm._has_item:
                     continue
-                 
-                items['items'].append(itm)
+                if itm.ItemID.value != '' and itm.ItemID.value != '??':
+                    items['items'].append(itm)
+                else:
+                    items['incomplete'].append(itm)
 
     # Only save if there are changes
     if any(i for i in items['items'] if i.revision > maxrev):

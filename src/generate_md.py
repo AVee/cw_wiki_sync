@@ -18,6 +18,7 @@ def write_links(f, items, extra = None):
 def run():
     items = item.load_from_file('../data/resources.json')
     allitems = items['items'] + items['incomplete']
+    allitems.sort(key = lambda i : i.pagename)
     
     with io.open('../docs/missingid.md', 'w') as f:
         f.write('## Items with missing IDs\n\n')

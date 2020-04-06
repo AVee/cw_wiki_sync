@@ -29,13 +29,13 @@ def run():
                 
     with io.open('../docs/recipestatus.md', 'w') as f:
         f.write('## Craftable items without recipe\n\n')
-        write_links(f, [i for i in allitems if i.BoolCraft == True and not i.recipe])
+        write_links(f, [i for i in allitems if i.BoolCraft.value == True and not i.recipe])
 
         f.write('## Items with recipe marked incomplete\n\n')
         write_links(f, [i for i in allitems if i.BoolRecipeIncomplete.value == True])
 
         f.write('## Items with RecipeIncomplete unset\n\n')
-        write_links(f, [i for i in allitems if i.BoolRecipeIncomplete.value == None])
+        write_links(f, [i for i in allitems if i.BoolCraft.value == True and i.BoolRecipeIncomplete.value == None])
         
 if __name__ == '__main__':
     run()

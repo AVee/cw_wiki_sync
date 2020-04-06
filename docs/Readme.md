@@ -15,4 +15,5 @@ Apart from the json file a few lists are generated with items which might need a
 
 [Items without ID](missingid.md)  
 [Items with notes](wikinotes.md)  
+[Recipe status](recipestatus.md)  
 

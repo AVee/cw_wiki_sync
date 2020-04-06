@@ -1,0 +1,17 @@
+## Items with missing IDs
+
+[Decimation Harpoon](https://chatwars-wiki.de/index.php?title=Decimation Harpoon)  
+[Decimation Harpoon Part](https://chatwars-wiki.de/index.php?title=Decimation Harpoon Part)  
+[Discarnate Bracers](https://chatwars-wiki.de/index.php?title=Discarnate Bracers)  
+[Discarnate Circlet](https://chatwars-wiki.de/index.php?title=Discarnate Circlet)  
+[Heartstriker Bow](https://chatwars-wiki.de/index.php?title=Heartstriker Bow)  
+[Malificent Maul](https://chatwars-wiki.de/index.php?title=Malificent Maul)  
+[Overseer Armor](https://chatwars-wiki.de/index.php?title=Overseer Armor)  
+[Overseer Boots](https://chatwars-wiki.de/index.php?title=Overseer Boots)  
+[Overseer Gauntlets](https://chatwars-wiki.de/index.php?title=Overseer Gauntlets)  
+[Overseer Helmet](https://chatwars-wiki.de/index.php?title=Overseer Helmet)  
+[Overseer Shield](https://chatwars-wiki.de/index.php?title=Overseer Shield)  
+[Scroll of Peace (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Peace (Yellow))  
+[Scroll of Rage (Yellow)](https://chatwars-wiki.de/index.php?title=Scroll of Rage (Yellow))  
+[Sinister Ranseur](https://chatwars-wiki.de/index.php?title=Sinister Ranseur)  
+[Windstalker Bow](https://chatwars-wiki.de/index.php?title=Windstalker Bow)  

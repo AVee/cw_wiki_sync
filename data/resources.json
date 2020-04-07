@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T17:29:24.025198+00:00",
+    "timestamp": "2020-04-07T18:03:47.933764+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -525,6 +525,8 @@
             "weight": 3,
             "depositable": true,
             "exchange": false,
+            "auction": false,
+            "quest": false,
             "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
@@ -539,8 +541,8 @@
                 "Silver Alloy": "5"
             },
             "pagename": "Blacksmith Mold",
-            "lastModified": "2020-04-07T17:22:51Z",
-            "revision": 14977,
+            "lastModified": "2020-04-07T17:31:33Z",
+            "revision": 15138,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blacksmith+Mold"
         },
         {
@@ -1422,11 +1424,12 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Robe Armor",
-            "wikiNote": "recipe needs checking, rest completely missing",
+            "wikiNote": "Enchantment missing",
             "attack": 5,
             "defense": 13,
             "mana": 65,
             "weight": 155,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 372,
@@ -1454,8 +1457,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Boots",
-            "lastModified": "2020-04-06T23:03:00Z",
-            "revision": 14268,
+            "lastModified": "2020-04-07T17:43:52Z",
+            "revision": 15139,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Boots"
         },
         {
@@ -1651,6 +1654,7 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
+            "wikiNote": "Enchantment info still missing",
             "attack": 6,
             "defense": 20,
             "mana": 125,
@@ -1662,6 +1666,7 @@
             "exchange": false,
             "auction": true,
             "quest": false,
+            "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a88",
@@ -1682,8 +1687,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Celestial Helmet",
-            "lastModified": "2020-04-06T23:10:13Z",
-            "revision": 13079,
+            "lastModified": "2020-04-07T17:44:57Z",
+            "revision": 15140,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet"
         },
         {
@@ -2729,6 +2734,7 @@
             "dropForayNight": true,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_23",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -2738,8 +2744,8 @@
                 "Coal": "3"
             },
             "pagename": "Coke",
-            "lastModified": "2020-04-06T19:27:15Z",
-            "revision": 13657,
+            "lastModified": "2020-04-07T17:53:42Z",
+            "revision": 15141,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Coke"
         },
         {
@@ -4285,6 +4291,7 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a49",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -4300,8 +4307,8 @@
                 "Metal Plate": "15"
             },
             "pagename": "Crusader Shield",
-            "lastModified": "2020-04-06T22:52:14Z",
-            "revision": 13041,
+            "lastModified": "2020-04-07T17:46:21Z",
+            "revision": 15142,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Shield"
         },
         {
@@ -4461,6 +4468,7 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a66",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -4476,8 +4484,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Demon Bracers",
-            "lastModified": "2020-04-06T21:17:22Z",
-            "revision": 13058,
+            "lastModified": "2020-04-07T17:46:54Z",
+            "revision": 15143,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers"
         },
         {
@@ -5229,6 +5237,7 @@
             "eventItem": false,
             "name": "Discarnate Shoes recipe",
             "type": "Recipe (Item)",
+            "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5237,8 +5246,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Shoes Recipe",
-            "lastModified": "2020-04-07T17:23:50Z",
-            "revision": 15019,
+            "lastModified": "2020-04-07T17:48:35Z",
+            "revision": 15144,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Shoes+Recipe"
         },
         {
@@ -6553,6 +6562,7 @@
         {
             "id": "est",
             "eventItem": true,
+            "eventPage": "Halloween Event 2018",
             "name": "👹Evil Spirits Totem",
             "type": "Special Equippable",
             "attack": 0,
@@ -6567,6 +6577,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_est",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -6579,8 +6590,8 @@
                 "Coke": "1"
             },
             "pagename": "Evil Spirits Totem",
-            "lastModified": "2020-04-06T21:51:57Z",
-            "revision": 13102,
+            "lastModified": "2020-04-07T17:49:39Z",
+            "revision": 15145,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Evil+Spirits+Totem"
         },
         {
@@ -14243,6 +14254,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p14",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
@@ -14255,8 +14267,8 @@
                 "Powder": "3"
             },
             "pagename": "Potion of Mana",
-            "lastModified": "2020-04-07T17:25:35Z",
-            "revision": 15084,
+            "lastModified": "2020-04-07T17:53:48Z",
+            "revision": 15147,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Mana"
         },
         {
@@ -14308,6 +14320,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p11",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -14319,8 +14332,8 @@
                 "Bone Powder": "3"
             },
             "pagename": "Potion of Nature",
-            "lastModified": "2020-04-07T17:25:38Z",
-            "revision": 15086,
+            "lastModified": "2020-04-07T17:54:30Z",
+            "revision": 15150,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Nature"
         },
         {
@@ -14369,6 +14382,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p02",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -14379,8 +14393,8 @@
                 "Plasma of Abyss": "1"
             },
             "pagename": "Potion of Rage",
-            "lastModified": "2020-04-07T17:25:41Z",
-            "revision": 15088,
+            "lastModified": "2020-04-07T17:54:02Z",
+            "revision": 15148,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Rage"
         },
         {
@@ -14399,6 +14413,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p17",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
@@ -14411,8 +14426,8 @@
                 "Astrulic": "1"
             },
             "pagename": "Potion of Twilight",
-            "lastModified": "2020-04-07T17:25:43Z",
-            "revision": 15089,
+            "lastModified": "2020-04-07T17:54:22Z",
+            "revision": 15149,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Twilight"
         },
         {
@@ -14426,7 +14441,9 @@
             "auction": false,
             "freeText": "It is made from Gold, [[Thread]] and [[Leather]]. While being crafted out of 120 :Gold:, opening a Pouch of Gold returns 100 :Gold:. With this feature, Pouches of Gold are a currency in the game. All [[Auction|auctions]] are done with the currency Pouch of Gold.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_100",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -14437,8 +14454,8 @@
                 "Gold": "120"
             },
             "pagename": "Pouch of Gold",
-            "lastModified": "2020-04-06T22:30:34Z",
-            "revision": 13391,
+            "lastModified": "2020-04-07T17:54:56Z",
+            "revision": 15151,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pouch+of+Gold"
         },
         {
@@ -15002,7 +15019,6 @@
             "eventItem": false,
             "name": "Rope",
             "type": "Resource",
-            "wikiNote": "needs error checking",
             "weight": 1,
             "depositable": true,
             "exchange": true,
@@ -15038,8 +15054,8 @@
                 "String": "1"
             },
             "pagename": "Rope",
-            "lastModified": "2020-04-07T17:26:03Z",
-            "revision": 15093,
+            "lastModified": "2020-04-07T17:56:48Z",
+            "revision": 15152,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rope"
         },
         {
@@ -15310,6 +15326,7 @@
             "mana": 0,
             "weight": 140,
             "levelRequirement": 35,
+            "depositable": true,
             "shopSellPrice": 288,
             "exchange": false,
             "auction": true,
@@ -15344,8 +15361,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Royal Gauntlets",
-            "lastModified": "2020-04-06T22:44:08Z",
-            "revision": 13703,
+            "lastModified": "2020-04-07T17:56:41Z",
+            "revision": 15153,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Gauntlets"
         },
         {
@@ -15795,7 +15812,6 @@
             "eventItem": false,
             "name": "Sapphire",
             "type": "Resource",
-            "wikiNote": "Double check the legacy list + maybe mouse?",
             "weight": 2,
             "depositable": true,
             "exchange": true,
@@ -15816,8 +15832,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Sapphire",
-            "lastModified": "2020-04-07T17:26:35Z",
-            "revision": 15101,
+            "lastModified": "2020-04-07T18:01:00Z",
+            "revision": 15154,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sapphire"
         },
         {
@@ -16132,6 +16148,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_25",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 2,
@@ -16142,8 +16159,8 @@
                 "Silver Ore": "1"
             },
             "pagename": "Silver Alloy",
-            "lastModified": "2020-04-07T17:26:41Z",
-            "revision": 15102,
+            "lastModified": "2020-04-07T18:01:13Z",
+            "revision": 15155,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Alloy"
         },
         {
@@ -16822,6 +16839,7 @@
             "dropValleyNight": true,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_19",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -16831,8 +16849,8 @@
                 "Iron Ore": "2"
             },
             "pagename": "Steel",
-            "lastModified": "2020-04-07T17:27:15Z",
-            "revision": 15111,
+            "lastModified": "2020-04-07T18:02:26Z",
+            "revision": 15157,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel"
         },
         {
@@ -16870,6 +16888,7 @@
             "auction": false,
             "freeText": "When opened with /use_511 it yields 100 [[Steel Arrow|Steel Arrows]]. Arrow packs can only be crafted and not traded in any way.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_511",
@@ -16881,8 +16900,8 @@
                 "Steel": "1"
             },
             "pagename": "Steel Arrows Pack",
-            "lastModified": "2020-04-06T23:16:09Z",
-            "revision": 13426,
+            "lastModified": "2020-04-07T18:02:07Z",
+            "revision": 15156,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Arrows+Pack"
         },
         {

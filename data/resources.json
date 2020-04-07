@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T13:11:15.762359+00:00",
+    "timestamp": "2020-04-07T14:11:10.445602+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -15,6 +15,7 @@
             "auction": false,
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]] and is used in crafting tier 3 :Bookblue: equipment.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_30",
@@ -27,8 +28,8 @@
                 "Steel Mold": "1"
             },
             "pagename": "Artisan Frame",
-            "lastModified": "2020-04-07T10:48:17Z",
-            "revision": 14906,
+            "lastModified": "2020-04-07T13:58:40Z",
+            "revision": 14961,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artisan+Frame"
         },
         {
@@ -89,11 +90,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Ash Rosemary",
-            "lastModified": "2020-04-06T19:31:24Z",
-            "revision": 13487,
+            "lastModified": "2020-04-07T13:59:14Z",
+            "revision": 14962,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ash+Rosemary"
         },
         {
@@ -107,7 +109,9 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_63",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -117,8 +121,8 @@
                 "Sanguine Parsley": "1"
             },
             "pagename": "Assassin Vine",
-            "lastModified": "2020-04-06T23:16:14Z",
-            "revision": 12986,
+            "lastModified": "2020-04-07T13:59:26Z",
+            "revision": 14963,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assassin+Vine"
         },
         {
@@ -273,11 +277,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Astrulic",
-            "lastModified": "2020-04-06T19:23:19Z",
-            "revision": 13493,
+            "lastModified": "2020-04-07T14:00:36Z",
+            "revision": 14964,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Astrulic"
         },
         {
@@ -300,8 +305,8 @@
             "wikiFreeText": "=Acquisition=\nThe devs gave this cape to some of the lucky players, as thanks for their successful contribution of quest texts. The quest texts were eventually used in the game.\n\nThese lucky players were greeted with the following message in their ChatWarsBot.\n Tonight is the night. This night you were blessed by the gods. They decided to come down and gift you, PlayerName, with a cheese basket. The catch is, this basket is not made out of cheese and it's not even a basket.\n  \n Right now it includes:\n :Present: Assistant box x 1\n Bard's Cape x 1",
             "recipe": {},
             "pagename": "Bard's Cape",
-            "lastModified": "2020-04-06T21:35:12Z",
-            "revision": 14283,
+            "lastModified": "2020-04-07T14:01:04Z",
+            "revision": 14966,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bard%27s+Cape"
         },
         {
@@ -360,11 +365,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Bauxite",
-            "lastModified": "2020-04-06T19:17:30Z",
-            "revision": 14360,
+            "lastModified": "2020-04-07T14:01:37Z",
+            "revision": 14967,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bauxite"
         },
         {
@@ -783,7 +789,9 @@
             "auction": false,
             "freeText": "It increases the amount of resources found in [[Quest|quests]].",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p09",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
@@ -795,8 +803,8 @@
                 "Spring Bay Leaf": "1"
             },
             "pagename": "Bottle of Greed",
-            "lastModified": "2020-04-06T23:04:18Z",
-            "revision": 13197,
+            "lastModified": "2020-04-07T14:01:59Z",
+            "revision": 14968,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Greed"
         },
         {
@@ -12216,7 +12224,9 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_33",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -12227,8 +12237,8 @@
                 "Powder": "3"
             },
             "pagename": "Metal Plate",
-            "lastModified": "2020-04-06T19:41:21Z",
-            "revision": 13662,
+            "lastModified": "2020-04-07T13:14:39Z",
+            "revision": 14960,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Metal+Plate"
         },
         {
@@ -12262,6 +12272,7 @@
             "dropForayEvening": false,
             "dropForayNight": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_34",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -12271,8 +12282,8 @@
                 "Cord": "2"
             },
             "pagename": "Metallic Fiber",
-            "lastModified": "2020-04-06T19:39:06Z",
-            "revision": 13472,
+            "lastModified": "2020-04-07T13:12:41Z",
+            "revision": 14957,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Metallic+Fiber"
         },
         {
@@ -12291,7 +12302,9 @@
             "ammunition": "Broad Arrow, Compound Arrow, Heavy Arrow",
             "depositable": true,
             "shopSellPrice": 2160,
+            "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 2,
             "enchantDef1": 2,
@@ -12314,8 +12327,8 @@
                 "Ruby": "3"
             },
             "pagename": "Meteor Bow",
-            "lastModified": "2020-04-06T21:02:57Z",
-            "revision": 13441,
+            "lastModified": "2020-04-07T13:13:53Z",
+            "revision": 14959,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Meteor+Bow"
         },
         {
@@ -12346,11 +12359,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Meteor Bow Part",
-            "lastModified": "2020-04-06T20:12:14Z",
-            "revision": 14173,
+            "lastModified": "2020-04-07T13:13:26Z",
+            "revision": 14958,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Meteor+Bow+Part"
         },
         {

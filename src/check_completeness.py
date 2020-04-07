@@ -67,8 +67,6 @@ def run():
     f.write("'''Please note:''' These checks run every hour, if you fixed something it might take a while before it shows here. Also, there is no point in editing this page, it will be overwritten automatically.\n\n")
     f.write("'''Please note:''' This is work in progress. All checks done should be valid, but the checks are far from complete.\n\n")
     
-    print( set([i.ItemType.value for i in allitems]) )
-    
     for i in allitems:
         result = f"{i.pagename}:"
         errors = []
@@ -103,8 +101,7 @@ def run():
         if i.ItemType.value == 'Weapon':
             must_have_value(i, 'ItemSubType', 'Must be set on Weapons')
             must_have_value(i, 'Weight', 'Must be set on Weapons')
-            must_have_value(i, 'LevelEquipRequirement', 'Must be set on Weapons')
-            
+            must_have_value(i, 'Wrapping', 'Must be set on Weapons')
         
         if i.BoolCraft.value:
             must_have_value(i, 'BoolRecipeIncomplete', 'Must be set on Craftable items')

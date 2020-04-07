@@ -57,13 +57,16 @@ def run():
 #     for page in tofix:
 #         page.BoolDepositGuild.value = True
 
+    # Most things cannot be enchanted
+    tofix = [i for i in allitems if (i.ItemType.value == 'Recipe (Item)' or i.ItemType.value == 'Piece of Equipment' or i.ItemType.value == 'Consumable' or i.ItemType.value == 'Resource' or i.ItemType.value == 'Pet Food') and i.BoolEnchantment.value != False]
+    print([i.pagename for i in tofix])
+    for page in tofix:
+        page.BoolEnchantment.value = False
 
-
-
-#     for page in allitems:
-#         if page.dirty:
-#             print(f'Saving {page.pagename}')
-#             page.save(site, 'Fixing thing that can never be true (Round 4)')
+    for page in allitems:
+        if page.dirty:
+            print(f'Saving {page.pagename}')
+            page.save(site, 'Fixing thing that can never be true (Round 4)')
             
 if __name__ == '__main__':
     run()

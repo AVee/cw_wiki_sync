@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T14:11:10.445602+00:00",
+    "timestamp": "2020-04-07T17:11:05.015312+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -458,6 +458,7 @@
             "name": "Black Morningstar recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -483,8 +484,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Black Morningstar Recipe",
-            "lastModified": "2020-04-06T20:16:06Z",
-            "revision": 14754,
+            "lastModified": "2020-04-07T16:30:29Z",
+            "revision": 14970,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar+Recipe"
         },
         {
@@ -524,6 +525,9 @@
             "weight": 3,
             "depositable": true,
             "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_37",
@@ -537,8 +541,8 @@
                 "Silver Alloy": "5"
             },
             "pagename": "Blacksmith Mold",
-            "lastModified": "2020-04-06T20:32:44Z",
-            "revision": 12943,
+            "lastModified": "2020-04-07T16:31:09Z",
+            "revision": 14971,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blacksmith+Mold"
         },
         {
@@ -844,6 +848,7 @@
             "auction": false,
             "freeText": "This potion does not work for Esquire classes, as they do not possess any mana.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p15",
@@ -858,8 +863,8 @@
                 "Plexisop": "1"
             },
             "pagename": "Bottle of Mana",
-            "lastModified": "2020-04-07T13:08:13Z",
-            "revision": 14950,
+            "lastModified": "2020-04-07T16:31:25Z",
+            "revision": 14972,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Mana"
         },
         {

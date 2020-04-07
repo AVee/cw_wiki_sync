@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T12:11:09.375224+00:00",
+    "timestamp": "2020-04-07T13:11:15.762359+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -382,6 +382,7 @@
             "shopSellPrice": 2160,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 2,
             "enchantDef1": 2,
@@ -404,8 +405,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Black Morningstar",
-            "lastModified": "2020-04-06T22:36:36Z",
-            "revision": 13350,
+            "lastModified": "2020-04-07T13:07:39Z",
+            "revision": 14949,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar"
         },
         {
@@ -836,6 +837,7 @@
             "freeText": "This potion does not work for Esquire classes, as they do not possess any mana.",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p15",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 4,
@@ -848,8 +850,8 @@
                 "Plexisop": "1"
             },
             "pagename": "Bottle of Mana",
-            "lastModified": "2020-04-06T20:46:05Z",
-            "revision": 13203,
+            "lastModified": "2020-04-07T13:08:13Z",
+            "revision": 14950,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Mana"
         },
         {
@@ -866,6 +868,7 @@
             "auction": false,
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p21",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 4,
@@ -881,8 +884,8 @@
                 "Mercy Sassafras": "2"
             },
             "pagename": "Bottle of Morph",
-            "lastModified": "2020-04-06T20:00:44Z",
-            "revision": 13209,
+            "lastModified": "2020-04-07T13:08:20Z",
+            "revision": 14951,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Morph"
         },
         {
@@ -899,6 +902,7 @@
             "auction": false,
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p12",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
@@ -909,8 +913,8 @@
                 "Kloliarway": "1"
             },
             "pagename": "Bottle of Nature",
-            "lastModified": "2020-04-06T19:53:52Z",
-            "revision": 13200,
+            "lastModified": "2020-04-07T13:08:32Z",
+            "revision": 14952,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Nature"
         },
         {
@@ -928,6 +932,7 @@
             "auction": false,
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p06",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
@@ -939,8 +944,8 @@
                 "Dragon Seed": "1"
             },
             "pagename": "Bottle of Peace",
-            "lastModified": "2020-04-06T20:46:56Z",
-            "revision": 13194,
+            "lastModified": "2020-04-07T13:08:36Z",
+            "revision": 14953,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Peace"
         },
         {
@@ -976,6 +981,7 @@
             "auction": false,
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p03",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
@@ -987,8 +993,8 @@
                 "Spring Bay Leaf": "1"
             },
             "pagename": "Bottle of Rage",
-            "lastModified": "2020-04-06T21:39:59Z",
-            "revision": 13191,
+            "lastModified": "2020-04-07T13:09:05Z",
+            "revision": 14954,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Rage"
         },
         {
@@ -1025,6 +1031,7 @@
             "freeText": "When using the potion you have a chance of obtaining resources that otherwise only drop at night at any time of day.",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p18",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 4,
@@ -1038,8 +1045,8 @@
                 "Maccunut": "3"
             },
             "pagename": "Bottle of Twilight",
-            "lastModified": "2020-04-06T20:16:20Z",
-            "revision": 13206,
+            "lastModified": "2020-04-07T13:09:13Z",
+            "revision": 14955,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Twilight"
         },
         {
@@ -3576,7 +3583,9 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_35",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -3587,8 +3596,8 @@
                 "Cord": "1"
             },
             "pagename": "Crafted Leather",
-            "lastModified": "2020-04-06T22:06:37Z",
-            "revision": 13473,
+            "lastModified": "2020-04-07T12:37:43Z",
+            "revision": 14920,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crafted+Leather"
         },
         {
@@ -3735,6 +3744,7 @@
             "exchange": false,
             "auction": true,
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
+            "quest": false,
             "enchantable": true,
             "enchantDef1": 1,
             "enchantDef2": 1,
@@ -3757,8 +3767,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Crusader Armor",
-            "lastModified": "2020-04-06T22:49:38Z",
-            "revision": 13687,
+            "lastModified": "2020-04-07T12:38:03Z",
+            "revision": 14921,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor"
         },
         {
@@ -3767,6 +3777,7 @@
             "name": "Crusader Armor piece",
             "type": "Piece of Equipment",
             "weight": 10,
+            "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3793,8 +3804,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Armor Piece",
-            "lastModified": "2020-04-06T22:51:44Z",
-            "revision": 14087,
+            "lastModified": "2020-04-07T12:39:06Z",
+            "revision": 14922,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor+Piece"
         },
         {
@@ -3803,6 +3814,7 @@
             "name": "Crusader Armor recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3828,8 +3840,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Armor Recipe",
-            "lastModified": "2020-04-06T20:27:01Z",
-            "revision": 14126,
+            "lastModified": "2020-04-07T12:39:15Z",
+            "revision": 14923,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor+Recipe"
         },
         {
@@ -4675,6 +4687,7 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a63",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -4690,8 +4703,8 @@
                 "Blacksmith Frame": "5"
             },
             "pagename": "Demon Robe",
-            "lastModified": "2020-04-06T22:47:01Z",
-            "revision": 13055,
+            "lastModified": "2020-04-07T12:42:17Z",
+            "revision": 14924,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Robe"
         },
         {
@@ -4819,6 +4832,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a65",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -4834,8 +4848,8 @@
                 "Sapphire": "5"
             },
             "pagename": "Demon Shoes",
-            "lastModified": "2020-04-06T22:08:49Z",
-            "revision": 13057,
+            "lastModified": "2020-04-07T12:42:49Z",
+            "revision": 14925,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes"
         },
         {
@@ -5580,6 +5594,7 @@
             "luck": 0,
             "weight": 140,
             "levelRequirement": 35,
+            "depositable": true,
             "shopSellPrice": 252,
             "exchange": false,
             "auction": true,
@@ -5615,8 +5630,8 @@
                 "Sapphire": "5"
             },
             "pagename": "Divine Shoes",
-            "lastModified": "2020-04-06T20:25:48Z",
-            "revision": 13061,
+            "lastModified": "2020-04-07T12:43:52Z",
+            "revision": 14926,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Shoes"
         },
         {
@@ -5834,6 +5849,7 @@
             "enchantAtk3": 3,
             "enchantAtk4": 3,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w34",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -5849,8 +5865,8 @@
                 "Ruby": "3"
             },
             "pagename": "Doomblade Sword",
-            "lastModified": "2020-04-06T21:38:08Z",
-            "revision": 13330,
+            "lastModified": "2020-04-07T12:44:13Z",
+            "revision": 14927,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doomblade+Sword"
         },
         {
@@ -6888,6 +6904,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a57",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -6903,8 +6920,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Ghost Boots",
-            "lastModified": "2020-04-06T21:35:29Z",
-            "revision": 13049,
+            "lastModified": "2020-04-07T12:44:51Z",
+            "revision": 14928,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Boots"
         },
         {
@@ -8064,6 +8081,7 @@
             "shopSellPrice": 310,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 3,
             "craftable": true,
@@ -8086,8 +8104,8 @@
                 "Hardener": "3"
             },
             "pagename": "Griffin Knife",
-            "lastModified": "2020-04-06T22:39:16Z",
-            "revision": 14278,
+            "lastModified": "2020-04-07T12:45:29Z",
+            "revision": 14929,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Knife"
         },
         {
@@ -8647,10 +8665,10 @@
             "name": "Hat",
             "type": "Protective Gear",
             "subType": "Helmet",
-            "wikiNote": "needs weight added",
             "attack": 0,
             "defense": 1,
             "mana": 0,
+            "weight": 190,
             "wrapping": 1,
             "levelRequirement": 0,
             "depositable": true,
@@ -8663,8 +8681,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Hat",
-            "lastModified": "2020-04-06T19:22:49Z",
-            "revision": 12998,
+            "lastModified": "2020-04-07T12:52:40Z",
+            "revision": 14930,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hat"
         },
         {
@@ -10700,6 +10718,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a59",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -10715,8 +10734,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Lion Armor",
-            "lastModified": "2020-04-06T19:45:25Z",
-            "revision": 13051,
+            "lastModified": "2020-04-07T12:54:08Z",
+            "revision": 14931,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor"
         },
         {
@@ -14049,6 +14068,7 @@
             "freeText": "It increases the amount of resources found in [[Quest|quests]].",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p08",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -14058,8 +14078,8 @@
                 "Kloliarway": "1"
             },
             "pagename": "Potion of Greed",
-            "lastModified": "2020-04-06T19:51:05Z",
-            "revision": 13196,
+            "lastModified": "2020-04-07T12:55:59Z",
+            "revision": 14932,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Greed"
         },
         {
@@ -14193,6 +14213,7 @@
             "auction": false,
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p05",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -14203,8 +14224,8 @@
                 "Itacory": "1"
             },
             "pagename": "Potion of Peace",
-            "lastModified": "2020-04-06T22:09:45Z",
-            "revision": 13193,
+            "lastModified": "2020-04-07T12:56:05Z",
+            "revision": 14933,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Peace"
         },
         {
@@ -14375,6 +14396,9 @@
             "weight": 2,
             "depositable": true,
             "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_36",
@@ -14386,8 +14410,8 @@
                 "Powder": "3"
             },
             "pagename": "Quality Cloth",
-            "lastModified": "2020-04-06T21:17:14Z",
-            "revision": 12942,
+            "lastModified": "2020-04-07T12:56:54Z",
+            "revision": 14934,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Quality+Cloth"
         },
         {
@@ -14818,7 +14842,6 @@
             "eventItem": false,
             "name": "Resurrection Mix",
             "type": "Misc",
-            "wikiNote": "mana crafting needed",
             "weight": 1,
             "depositable": false,
             "exchange": false,
@@ -14839,8 +14862,8 @@
                 "Purified Powder": "1"
             },
             "pagename": "Resurrection Mix",
-            "lastModified": "2020-04-06T20:24:53Z",
-            "revision": 13417,
+            "lastModified": "2020-04-07T12:58:48Z",
+            "revision": 14935,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Resurrection+Mix"
         },
         {
@@ -15839,6 +15862,7 @@
         {
             "id": "hw104",
             "eventItem": true,
+            "eventPage": "Halloween Event 2018",
             "name": "Shadow Bloodstone",
             "type": "Misc",
             "wikiNote": "Halloween event item",
@@ -15868,8 +15892,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Shadow Bloodstone",
-            "lastModified": "2020-04-06T23:06:19Z",
-            "revision": 14192,
+            "lastModified": "2020-04-07T13:01:14Z",
+            "revision": 14940,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Shadow+Bloodstone"
         },
         {
@@ -17591,6 +17615,7 @@
         {
             "id": "hw102",
             "eventItem": true,
+            "eventPage": "Halloween Event 2018",
             "name": "Timeless Jade",
             "type": "Misc",
             "wikiNote": "Halloween event item",
@@ -17620,8 +17645,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Timeless Jade",
-            "lastModified": "2020-04-06T21:15:26Z",
-            "revision": 14194,
+            "lastModified": "2020-04-07T13:00:16Z",
+            "revision": 14937,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Timeless+Jade"
         },
         {
@@ -17638,6 +17663,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_tch",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -17647,8 +17673,8 @@
                 "Coke": "1"
             },
             "pagename": "Torch",
-            "lastModified": "2020-04-06T22:03:40Z",
-            "revision": 13296,
+            "lastModified": "2020-04-07T12:59:36Z",
+            "revision": 14936,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Torch"
         },
         {
@@ -17784,6 +17810,7 @@
             "exchange": true,
             "auction": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_60",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 1,
@@ -17794,8 +17821,8 @@
                 "Storm Hyssop": "1"
             },
             "pagename": "Ultramarine Dust",
-            "lastModified": "2020-04-06T23:00:25Z",
-            "revision": 12973,
+            "lastModified": "2020-04-07T13:00:47Z",
+            "revision": 14938,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ultramarine+Dust"
         },
         {
@@ -17840,6 +17867,7 @@
             "freeText": "It increases the amount of resources found in [[Quest|quests]].",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p07",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 1,
@@ -17849,8 +17877,8 @@
                 "Ilaves": "1"
             },
             "pagename": "Vial of Greed",
-            "lastModified": "2020-04-06T22:36:57Z",
-            "revision": 13195,
+            "lastModified": "2020-04-07T13:00:50Z",
+            "revision": 14939,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Greed"
         },
         {
@@ -17951,6 +17979,7 @@
             "auction": false,
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p10",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 1,
@@ -17961,8 +17990,8 @@
                 "Ephijora": "1"
             },
             "pagename": "Vial of Nature",
-            "lastModified": "2020-04-06T19:55:18Z",
-            "revision": 13198,
+            "lastModified": "2020-04-07T13:03:22Z",
+            "revision": 14942,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Nature"
         },
         {
@@ -17981,6 +18010,7 @@
             "freeText": "It is brewed by [[Alchemist|alchemists]] and increases the defensive stats of the player.",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p04",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 1,
@@ -17990,8 +18020,8 @@
                 "Cave Garlic": "1"
             },
             "pagename": "Vial of Peace",
-            "lastModified": "2020-04-06T19:46:09Z",
-            "revision": 13192,
+            "lastModified": "2020-04-07T13:03:29Z",
+            "revision": 14943,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Peace"
         },
         {
@@ -18008,6 +18038,7 @@
             "auction": false,
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p01",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 1,
@@ -18017,8 +18048,8 @@
                 "Storm Hyssop": "1"
             },
             "pagename": "Vial of Rage",
-            "lastModified": "2020-04-06T19:36:46Z",
-            "revision": 13189,
+            "lastModified": "2020-04-07T13:03:46Z",
+            "revision": 14944,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Rage"
         },
         {
@@ -18037,6 +18068,7 @@
             "freeText": "When using the potion you have a chance of obtaining resources that otherwise only drop at night at any time of day.",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p16",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -18048,13 +18080,14 @@
                 "Love Creeper": "1"
             },
             "pagename": "Vial of Twilight",
-            "lastModified": "2020-04-06T21:17:13Z",
-            "revision": 13204,
+            "lastModified": "2020-04-07T13:03:53Z",
+            "revision": 14945,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Twilight"
         },
         {
             "id": "hw107",
             "eventItem": true,
+            "eventPage": "Halloween Event 2018",
             "name": "Void Emerald",
             "type": "Misc",
             "wikiNote": "HW Event Item",
@@ -18068,8 +18101,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Void Emerald",
-            "lastModified": "2020-04-06T20:48:55Z",
-            "revision": 14195,
+            "lastModified": "2020-04-07T13:01:52Z",
+            "revision": 14941,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Void+Emerald"
         },
         {
@@ -18297,6 +18330,7 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w31",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -18312,8 +18346,8 @@
                 "Ruby": "1"
             },
             "pagename": "War Hammer",
-            "lastModified": "2020-04-06T20:49:42Z",
-            "revision": 13407,
+            "lastModified": "2020-04-07T13:04:59Z",
+            "revision": 14946,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War+Hammer"
         },
         {
@@ -18972,7 +19006,6 @@
             "eventItem": false,
             "name": "Wrapping",
             "type": "Resource",
-            "wikiNote": "needs checking",
             "weight": 2,
             "depositable": false,
             "exchange": false,
@@ -18980,6 +19013,7 @@
             "freeText": "It is required to [[Wrap|wrap]] items for [[Auction|auctions]]",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_501",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -18989,8 +19023,8 @@
                 "String": "3"
             },
             "pagename": "Wrapping",
-            "lastModified": "2020-04-06T21:31:22Z",
-            "revision": 12957,
+            "lastModified": "2020-04-07T13:05:36Z",
+            "revision": 14947,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wrapping"
         },
         {
@@ -19066,13 +19100,9 @@
             "name": "🧟‍♂️ Zombie Boots",
             "type": "Protective Gear",
             "subType": "Boots",
-            "wikiNote": "needs weight",
             "attack": 4,
             "defense": 13,
             "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 140,
             "wrapping": 1,
             "levelRequirement": 35,
@@ -19086,8 +19116,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Zombie Boots (Event Gear)",
-            "lastModified": "2020-04-06T21:31:42Z",
-            "revision": 13089,
+            "lastModified": "2020-04-07T13:06:42Z",
+            "revision": 14948,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie+Boots+%28Event+Gear%29"
         },
         {

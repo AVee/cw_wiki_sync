@@ -1,7 +1,6 @@
 ## Items with missing IDs
 
 [Decimation Harpoon](https://chatwars-wiki.de/index.php?title=Decimation Harpoon)  
-[Decimation Harpoon Part](https://chatwars-wiki.de/index.php?title=Decimation Harpoon Part)  
 [Discarnate Bracers](https://chatwars-wiki.de/index.php?title=Discarnate Bracers)  
 [Discarnate Circlet](https://chatwars-wiki.de/index.php?title=Discarnate Circlet)  
 [Heartstriker Bow](https://chatwars-wiki.de/index.php?title=Heartstriker Bow)  

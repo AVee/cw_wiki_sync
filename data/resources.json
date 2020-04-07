@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T19:23:21.070363+00:00",
+    "timestamp": "2020-04-07T19:38:52.129045+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -4507,6 +4507,7 @@
         {
             "id": "e126",
             "eventItem": true,
+            "eventPage": "Monster Hunt 2018",
             "name": "🧟‍♂️ Demon Bracers",
             "type": "Protective Gear",
             "subType": "Gloves",
@@ -4520,8 +4521,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Bracers (Event Item)",
-            "lastModified": "2020-04-07T18:56:58Z",
-            "revision": 15217,
+            "lastModified": "2020-04-07T19:32:09Z",
+            "revision": 15243,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers+%28Event+Item%29"
         },
         {
@@ -4941,6 +4942,7 @@
         {
             "id": "e125",
             "eventItem": true,
+            "eventPage": "Monster Hunt 2018",
             "name": "🧟‍♂️ Demon Shoes",
             "type": "Protective Gear",
             "subType": "Boots",
@@ -4954,8 +4956,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Shoes (Event Item)",
-            "lastModified": "2020-04-07T18:59:13Z",
-            "revision": 15220,
+            "lastModified": "2020-04-07T19:32:12Z",
+            "revision": 15244,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes+%28Event+Item%29"
         },
         {

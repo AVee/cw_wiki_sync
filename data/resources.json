@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T19:43:20.695341+00:00",
+    "timestamp": "2020-04-07T22:11:04.459692+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1178,6 +1178,8 @@
             "attack": 25,
             "defense": 29,
             "mana": 0,
+            "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -1201,8 +1203,8 @@
                 "Blacksmith Frame": "6"
             },
             "pagename": "Brutalizer Flail",
-            "lastModified": "2020-04-06T19:28:14Z",
-            "revision": 14691,
+            "lastModified": "2020-04-07T21:59:27Z",
+            "revision": 15285,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer+Flail"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T11:31:59.489800+00:00",
+    "timestamp": "2020-04-07T11:48:48.213653+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -40,6 +40,9 @@
             "weight": 3,
             "depositable": true,
             "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_38",
@@ -53,8 +56,8 @@
                 "Silver Alloy": "5"
             },
             "pagename": "Artisan Mold",
-            "lastModified": "2020-04-06T21:25:20Z",
-            "revision": 14221,
+            "lastModified": "2020-04-07T11:43:54Z",
+            "revision": 14912,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artisan+Mold"
         },
         {

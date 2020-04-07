@@ -135,7 +135,7 @@ def run():
     f2.close()
     
     if oldtext2 != newtext2:
-        page2.save(newtext, 'Automatic item checks')
+        page2.save(newtext2, 'Automatic item checks')
 
 if __name__ == '__main__':
     run()

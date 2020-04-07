@@ -81,6 +81,7 @@ def run():
         must_have_value(i, 'BoolExchange')
         must_have_value(i, 'BoolAuction')
         must_have_value(i, 'BoolQuest')
+        must_have_value(i, 'BoolEnchantment')
         must_have_value(i, 'BoolCraft')
         
         if i.BoolEventItem.value:

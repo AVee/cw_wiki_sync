@@ -60,12 +60,16 @@ def run():
     site.login(secrets.wiki_username, secrets.wiki_password)
     page = site.pages['Items needing attention']
     oldtext = page.text()
+
+    page2 = site.pages['Items needing attention (without notes)']
+    oldtext2 = page2.text()
     
     f = io.StringIO()
-    f.write('=Items needing attention=\n')
     f.write('This is an automatically generated page which list item pages where issues where detected. You can use this page to find things that might need to be fixed.\n\n')
     f.write("'''Please note:''' These checks run every hour, if you fixed something it might take a while before it shows here. Also, there is no point in editing this page, it will be overwritten automatically.\n\n")
     f.write("'''Please note:''' This is work in progress. All checks done should be valid, but the checks are far from complete.\n\n")
+    
+    f2 = io.StringIO()
     
     for i in allitems:
         result = f"{i.pagename}:"
@@ -114,12 +118,24 @@ def run():
                 f.write(f"* Note: ''{i.note.value}''\n")
             for e in errors:
                 f.write(f"* {e.field}: {e.message}\n")
+                
+        if any(errors):
+            f2.write(f"'''[[{i.pagename}]]''' ([{i.wikiUrl}&action=formedit edit])\n")
+            for e in errors:
+                f2.write(f"* {e.field}: {e.message}\n")
+            
 
     newtext = f.getvalue().strip()
     f.close()
     
     if oldtext != newtext:
         page.save(newtext, 'Automatic item checks')
+
+    newtext2 = f2.getvalue().strip()
+    f2.close()
+    
+    if oldtext2 != newtext2:
+        page2.save(newtext, 'Automatic item checks')
 
 if __name__ == '__main__':
     run()

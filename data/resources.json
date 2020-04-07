@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T11:48:48.213653+00:00",
+    "timestamp": "2020-04-07T12:11:09.375224+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -566,6 +566,7 @@
             "enchantMana3": 5,
             "enchantMana4": 5,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a73",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -581,8 +582,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Blessed Cloak",
-            "lastModified": "2020-04-06T19:44:00Z",
-            "revision": 13065,
+            "lastModified": "2020-04-07T12:00:21Z",
+            "revision": 14914,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blessed+Cloak"
         },
         {
@@ -2715,6 +2716,7 @@
             "shopSellPrice": 1734,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 3,
             "enchantAtk2": 2,
@@ -2725,6 +2727,7 @@
             "enchantDef3": 2,
             "enchantDef4": 0,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w39",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 4,
@@ -2740,8 +2743,8 @@
                 "Ruby": "3"
             },
             "pagename": "Composite Bow",
-            "lastModified": "2020-04-06T23:06:15Z",
-            "revision": 13335,
+            "lastModified": "2020-04-07T12:03:52Z",
+            "revision": 14916,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite+Bow"
         },
         {
@@ -2845,7 +2848,11 @@
             "eventItem": false,
             "name": "Compound arrows pack",
             "type": "Misc",
+            "exchange": false,
+            "auction": false,
             "freeText": "When opened with /use_519 it yields 100 [[Compound Arrow|Compound Arrows]]. Arrow packs can only be crafted and not traded in any way.",
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_519",
@@ -2861,8 +2868,8 @@
                 "Iron Ore": "2"
             },
             "pagename": "Compound Arrows Pack",
-            "lastModified": "2020-04-06T22:50:41Z",
-            "revision": 13437,
+            "lastModified": "2020-04-07T12:04:49Z",
+            "revision": 14917,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Compound+Arrows+Pack"
         },
         {
@@ -2875,6 +2882,8 @@
             "exchange": false,
             "auction": false,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]], and is used in crafting tier 3 :Bookblue: equipment.",
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_12",
@@ -2886,8 +2895,8 @@
                 "Steel": "1"
             },
             "pagename": "Cord",
-            "lastModified": "2020-04-06T22:52:25Z",
-            "revision": 14657,
+            "lastModified": "2020-04-07T12:03:24Z",
+            "revision": 14915,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cord"
         },
         {
@@ -3507,6 +3516,7 @@
             "name": "Council Shield recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3532,8 +3542,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Shield Recipe",
-            "lastModified": "2020-04-06T20:18:20Z",
-            "revision": 14767,
+            "lastModified": "2020-04-07T12:05:39Z",
+            "revision": 14918,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Shield+Recipe"
         },
         {

@@ -17,6 +17,7 @@ from mwclient import page
 import io
 from typing import List, Union
 from datetime import datetime, timezone
+import urllib
 
 class Item(object):
     def __init__(self, pagename:str=None, page:Page=None, **kwargs):
@@ -108,7 +109,7 @@ class Item(object):
         self.pagename = page.page_title
         self.revision = page.revision
         self.lastModified = page._info.get('touched')
-        self.wikiUrl = 'https://chatwars-wiki.de/index.php?title=' + self.pagename
+        self.wikiUrl = 'https://chatwars-wiki.de/index.php?title=' + urllib.parse.quote_plus(self.pagename)
 
     def save(self, site: Site, summary: str, allow_new = False):
         self._page = site.pages[self.pagename]

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T06:11:04.288078+00:00",
+    "timestamp": "2020-04-07T11:11:08.433099+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -16,6 +16,7 @@
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]] and is used in crafting tier 3 :Bookblue: equipment.",
             "quest": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_30",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 4,
@@ -26,8 +27,8 @@
                 "Steel Mold": "1"
             },
             "pagename": "Artisan Frame",
-            "lastModified": "2020-03-28T20:55:49Z",
-            "revision": 12937,
+            "lastModified": "2020-04-07T10:48:17Z",
+            "revision": 14906,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artisan Frame"
         },
         {
@@ -1313,7 +1314,6 @@
             "eventItem": false,
             "name": "Celestial Armor part",
             "type": "Piece of Equipment",
-            "subType": "Armor",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -1341,8 +1341,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Armor Part",
-            "lastModified": "2020-04-06T20:34:21Z",
-            "revision": 14833,
+            "lastModified": "2020-04-07T10:32:34Z",
+            "revision": 14897,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Armor Part"
         },
         {
@@ -1657,7 +1657,6 @@
             "eventItem": false,
             "name": "Celestial Helmet part",
             "type": "Piece of Equipment",
-            "subType": "Helmet",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -1686,8 +1685,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Helmet Part",
-            "lastModified": "2020-03-28T22:59:23Z",
-            "revision": 14117,
+            "lastModified": "2020-04-07T10:32:36Z",
+            "revision": 14898,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial Helmet Part"
         },
         {
@@ -4943,6 +4942,7 @@
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 60,
+            "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -4950,8 +4950,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Bracers Recipe",
-            "lastModified": "2020-04-06T19:28:32Z",
-            "revision": 14699,
+            "lastModified": "2020-04-07T10:32:37Z",
+            "revision": 14899,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Bracers Recipe"
         },
         {
@@ -4960,6 +4960,7 @@
             "name": "Discarnate Circlet part",
             "type": "Piece of Equipment",
             "levelRequirement": 60,
+            "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -4968,8 +4969,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Circlet Part",
-            "lastModified": "2020-04-06T19:28:38Z",
-            "revision": 14701,
+            "lastModified": "2020-04-07T10:32:38Z",
+            "revision": 14900,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Circlet Part"
         },
         {
@@ -5113,7 +5114,6 @@
             "eventItem": false,
             "name": "Discarnate Shoes part",
             "type": "Piece of Equipment",
-            "subType": "Boots",
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -5123,8 +5123,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Shoes Part",
-            "lastModified": "2020-04-06T22:51:41Z",
-            "revision": 14890,
+            "lastModified": "2020-04-07T10:32:39Z",
+            "revision": 14901,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes Part"
         },
         {
@@ -5132,14 +5132,15 @@
             "eventItem": false,
             "name": "Discarnate Shoes recipe",
             "type": "Recipe (Item)",
+            "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Shoes Recipe",
-            "lastModified": "2020-04-06T20:35:09Z",
-            "revision": 14849,
+            "lastModified": "2020-04-07T10:32:40Z",
+            "revision": 14902,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate Shoes Recipe"
         },
         {
@@ -5729,6 +5730,7 @@
             "name": "Doom Warglaive recipe",
             "type": "Recipe (Item)",
             "levelRequirement": 60,
+            "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -5736,8 +5738,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Doom Warglaive Recipe",
-            "lastModified": "2020-04-06T20:18:39Z",
-            "revision": 14782,
+            "lastModified": "2020-04-07T10:32:41Z",
+            "revision": 14903,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom Warglaive Recipe"
         },
         {
@@ -8322,7 +8324,6 @@
             "eventItem": false,
             "name": "Guisarme part",
             "type": "Piece of Equipment",
-            "subType": "Spear",
             "wikiNote": "absolutely all info missing",
             "weight": 10,
             "levelRequirement": 45,
@@ -8351,8 +8352,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Guisarme Part",
-            "lastModified": "2020-03-28T22:14:17Z",
-            "revision": 14123,
+            "lastModified": "2020-04-07T10:32:42Z",
+            "revision": 14904,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guisarme Part"
         },
         {
@@ -8708,6 +8709,7 @@
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
             "levelRequirement": 60,
+            "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
@@ -8716,8 +8718,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Heartstriker Bow Recipe",
-            "lastModified": "2020-04-06T19:29:06Z",
-            "revision": 14713,
+            "lastModified": "2020-04-07T10:32:43Z",
+            "revision": 14905,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker Bow Recipe"
         },
         {

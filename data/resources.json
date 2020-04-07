@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T00:11:03.689431+00:00",
+    "timestamp": "2020-04-07T06:11:04.288078+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -19387,13 +19387,23 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "recipe": {
-                "Overseer Boots Recipe": "1"
+                "Overseer Boots Recipe": "1",
+                "Overseer Boots Part": "8",
+                "String": "6",
+                "Crafted Leather": "11",
+                "Solvent": "3",
+                "Blacksmith Mold": "2",
+                "Rope": "1",
+                "Quality Cloth": "2",
+                "Steel Mold": "6",
+                "Ruby": "1",
+                "Sapphire": "8"
             },
             "pagename": "Overseer Boots",
-            "lastModified": "2020-04-06T19:30:05Z",
-            "revision": 14735,
+            "lastModified": "2020-04-07T05:20:10Z",
+            "revision": 14894,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Boots"
         },
         {
@@ -19410,13 +19420,23 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "recipe": {
-                "Overseer Gauntlets Recipe": "1"
+                "Overseer Gauntlets Recipe": "1",
+                "Overseer Gauntlets Part": "8",
+                "Rope": "3",
+                "Quality Cloth": "1",
+                "Crafted Leather": "7",
+                "Steel Mold": "13",
+                "Ruby": "1",
+                "Sapphire": "9",
+                "Blacksmith Mold": "2",
+                "String": "15",
+                "Solvent": "2"
             },
             "pagename": "Overseer Gauntlets",
-            "lastModified": "2020-04-06T19:30:11Z",
-            "revision": 14738,
+            "lastModified": "2020-04-07T05:22:35Z",
+            "revision": 14896,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer Gauntlets"
         },
         {

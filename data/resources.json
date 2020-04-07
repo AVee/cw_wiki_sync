@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T17:11:05.015312+00:00",
+    "timestamp": "2020-04-07T17:29:24.025198+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -525,8 +525,6 @@
             "weight": 3,
             "depositable": true,
             "exchange": false,
-            "auction": false,
-            "quest": false,
             "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
@@ -541,8 +539,8 @@
                 "Silver Alloy": "5"
             },
             "pagename": "Blacksmith Mold",
-            "lastModified": "2020-04-07T16:31:09Z",
-            "revision": 14971,
+            "lastModified": "2020-04-07T17:22:51Z",
+            "revision": 14977,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blacksmith+Mold"
         },
         {
@@ -628,11 +626,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Blessed Cloak Part",
-            "lastModified": "2020-04-06T20:17:14Z",
-            "revision": 14755,
+            "lastModified": "2020-04-07T17:22:52Z",
+            "revision": 14978,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blessed+Cloak+Part"
         },
         {
@@ -701,11 +700,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Bone",
-            "lastModified": "2020-04-06T21:37:02Z",
-            "revision": 14650,
+            "lastModified": "2020-04-07T17:22:53Z",
+            "revision": 14979,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bone"
         },
         {
@@ -765,6 +765,7 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_21",
@@ -775,8 +776,8 @@
                 "Bone": "4"
             },
             "pagename": "Bone Powder",
-            "lastModified": "2020-04-06T19:31:00Z",
-            "revision": 14646,
+            "lastModified": "2020-04-07T17:22:57Z",
+            "revision": 14980,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bone+Powder"
         },
         {
@@ -863,8 +864,8 @@
                 "Plexisop": "1"
             },
             "pagename": "Bottle of Mana",
-            "lastModified": "2020-04-07T16:31:25Z",
-            "revision": 14972,
+            "lastModified": "2020-04-07T17:22:59Z",
+            "revision": 14981,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Mana"
         },
         {
@@ -880,6 +881,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p21",
@@ -897,8 +899,8 @@
                 "Mercy Sassafras": "2"
             },
             "pagename": "Bottle of Morph",
-            "lastModified": "2020-04-07T13:08:20Z",
-            "revision": 14951,
+            "lastModified": "2020-04-07T17:23:01Z",
+            "revision": 14982,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Morph"
         },
         {
@@ -914,6 +916,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p12",
@@ -926,8 +929,8 @@
                 "Kloliarway": "1"
             },
             "pagename": "Bottle of Nature",
-            "lastModified": "2020-04-07T13:08:32Z",
-            "revision": 14952,
+            "lastModified": "2020-04-07T17:23:03Z",
+            "revision": 14983,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Nature"
         },
         {
@@ -944,6 +947,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p06",
@@ -957,8 +961,8 @@
                 "Dragon Seed": "1"
             },
             "pagename": "Bottle of Peace",
-            "lastModified": "2020-04-07T13:08:36Z",
-            "revision": 14953,
+            "lastModified": "2020-04-07T17:23:05Z",
+            "revision": 14984,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Peace"
         },
         {
@@ -973,11 +977,12 @@
             "auction": false,
             "freeText": "To create the {{PAGENAME}} alchemists can craft and use a [[Poison Pack]] to receive 5 bottles.",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Bottle of Poison",
-            "lastModified": "2020-04-06T20:14:22Z",
-            "revision": 13361,
+            "lastModified": "2020-04-07T17:23:06Z",
+            "revision": 14985,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Poison"
         },
         {
@@ -993,6 +998,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p03",
@@ -1006,8 +1012,8 @@
                 "Spring Bay Leaf": "1"
             },
             "pagename": "Bottle of Rage",
-            "lastModified": "2020-04-07T13:09:05Z",
-            "revision": 14954,
+            "lastModified": "2020-04-07T17:23:07Z",
+            "revision": 14986,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Rage"
         },
         {
@@ -1022,11 +1028,12 @@
             "auction": false,
             "freeText": "To create the {{PAGENAME}} alchemists can craft and use a [[Remedy Pack]] to receive 5 bottles.",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Bottle of Remedy",
-            "lastModified": "2020-04-06T22:33:07Z",
-            "revision": 13362,
+            "lastModified": "2020-04-07T17:23:08Z",
+            "revision": 14987,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Remedy"
         },
         {
@@ -1043,6 +1050,7 @@
             "auction": false,
             "freeText": "When using the potion you have a chance of obtaining resources that otherwise only drop at night at any time of day.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p18",
@@ -1058,8 +1066,8 @@
                 "Maccunut": "3"
             },
             "pagename": "Bottle of Twilight",
-            "lastModified": "2020-04-07T13:09:13Z",
-            "revision": 14955,
+            "lastModified": "2020-04-07T17:23:10Z",
+            "revision": 14988,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Twilight"
         },
         {
@@ -1286,11 +1294,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Cave Garlic",
-            "lastModified": "2020-04-06T19:17:17Z",
-            "revision": 13483,
+            "lastModified": "2020-04-07T17:23:12Z",
+            "revision": 14989,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cave+Garlic"
         },
         {
@@ -1362,11 +1371,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Armor Part",
-            "lastModified": "2020-04-07T10:32:34Z",
-            "revision": 14897,
+            "lastModified": "2020-04-07T17:23:13Z",
+            "revision": 14990,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor+Part"
         },
         {
@@ -1920,11 +1930,12 @@
             "dropValleyDay": false,
             "dropValleyEvening": false,
             "dropValleyNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Charcoal",
-            "lastModified": "2020-04-06T20:50:08Z",
-            "revision": 14653,
+            "lastModified": "2020-04-07T17:23:14Z",
+            "revision": 14991,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Charcoal"
         },
         {
@@ -1955,11 +1966,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Cheese",
-            "lastModified": "2020-04-06T20:19:39Z",
-            "revision": 12981,
+            "lastModified": "2020-04-07T17:23:15Z",
+            "revision": 14992,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cheese"
         },
         {
@@ -2071,11 +2083,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Bracers Part",
-            "lastModified": "2020-04-06T20:34:44Z",
-            "revision": 14834,
+            "lastModified": "2020-04-07T17:23:16Z",
+            "revision": 14993,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers+Part"
         },
         {
@@ -2108,11 +2121,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Bracers Recipe",
-            "lastModified": "2020-04-06T20:18:10Z",
-            "revision": 14759,
+            "lastModified": "2020-04-07T17:23:18Z",
+            "revision": 14994,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers+Recipe"
         },
         {
@@ -2200,11 +2214,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Circlet Fragment",
-            "lastModified": "2020-04-06T20:34:51Z",
-            "revision": 14835,
+            "lastModified": "2020-04-07T17:23:19Z",
+            "revision": 14995,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Circlet+Fragment"
         },
         {
@@ -2237,11 +2252,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Circlet Recipe",
-            "lastModified": "2020-04-06T20:18:12Z",
-            "revision": 14761,
+            "lastModified": "2020-04-07T17:23:20Z",
+            "revision": 14996,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Circlet+Recipe"
         },
         {
@@ -2324,11 +2340,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Robe Piece",
-            "lastModified": "2020-04-06T20:34:52Z",
-            "revision": 14836,
+            "lastModified": "2020-04-07T17:23:21Z",
+            "revision": 14997,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe+Piece"
         },
         {
@@ -2361,11 +2378,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Robe Recipe",
-            "lastModified": "2020-04-06T20:18:15Z",
-            "revision": 14763,
+            "lastModified": "2020-04-07T17:23:22Z",
+            "revision": 14998,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe+Recipe"
         },
         {
@@ -2452,11 +2470,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Shoes Part",
-            "lastModified": "2020-04-06T20:34:53Z",
-            "revision": 14837,
+            "lastModified": "2020-04-07T17:23:24Z",
+            "revision": 14999,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Shoes+Part"
         },
         {
@@ -2489,11 +2508,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Shoes Recipe",
-            "lastModified": "2020-04-06T20:18:17Z",
-            "revision": 14765,
+            "lastModified": "2020-04-07T17:23:25Z",
+            "revision": 15000,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Shoes+Recipe"
         },
         {
@@ -2525,11 +2545,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Cliff Rue",
-            "lastModified": "2020-04-06T20:46:10Z",
-            "revision": 13476,
+            "lastModified": "2020-04-07T17:23:27Z",
+            "revision": 15001,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cliff+Rue"
         },
         {
@@ -2560,11 +2581,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Cloth",
-            "lastModified": "2020-04-06T22:33:39Z",
-            "revision": 14656,
+            "lastModified": "2020-04-07T17:23:29Z",
+            "revision": 15002,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cloth"
         },
         {
@@ -2647,11 +2669,12 @@
             "dropValleyDay": true,
             "dropValleyEvening": true,
             "dropValleyNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Coal",
-            "lastModified": "2020-04-06T21:42:31Z",
-            "revision": 13670,
+            "lastModified": "2020-04-07T17:23:31Z",
+            "revision": 15003,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Coal"
         },
         {
@@ -2668,11 +2691,12 @@
             "quest": true,
             "questMinLevel": 1,
             "questPerceptionLevel": 0,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Cocoa Powder",
-            "lastModified": "2020-04-06T20:44:59Z",
-            "revision": 14187,
+            "lastModified": "2020-04-07T17:23:32Z",
+            "revision": 15004,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cocoa+Powder"
         },
         {
@@ -2836,11 +2860,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Composite Bow Shaft",
-            "lastModified": "2020-04-06T20:34:55Z",
-            "revision": 14838,
+            "lastModified": "2020-04-07T17:23:34Z",
+            "revision": 15005,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite+Bow+Shaft"
         },
         {
@@ -2943,12 +2968,13 @@
             "dropForayDay": true,
             "dropForayEvening": true,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "wikiFreeText": "'''{{PAGENAME}}''' is a consumable item that is needed to feed [[Pet|pets]] of the type [[Pig]]. \n\n=Acquisition=\n{{PAGENAME}} can be bought in the :Paws: Menagerie of the [[Shop]] for 1 :Gem: with the commande <code>/buy_{{#show: {{PAGENAME}}| ?ItemID}}</code> or can be possible loot for succesful [[Foray|forays]]. {{PAGENAME}} can also be traded in the exchange with <code>/t_{{#show: {{PAGENAME}}| ?ItemID}}</code>",
             "recipe": {},
             "pagename": "Corn",
-            "lastModified": "2020-04-06T21:25:46Z",
-            "revision": 13447,
+            "lastModified": "2020-04-07T17:23:35Z",
+            "revision": 15006,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Corn"
         },
         {
@@ -3184,11 +3210,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Council Boots Recipe",
-            "lastModified": "2020-04-06T20:11:05Z",
-            "revision": 14130,
+            "lastModified": "2020-04-07T17:23:36Z",
+            "revision": 15007,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots+Recipe"
         },
         {
@@ -3850,11 +3877,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Armor Recipe",
-            "lastModified": "2020-04-07T12:39:15Z",
-            "revision": 14923,
+            "lastModified": "2020-04-07T17:23:37Z",
+            "revision": 15008,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor+Recipe"
         },
         {
@@ -3939,11 +3967,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Boots Part",
-            "lastModified": "2020-04-06T20:34:56Z",
-            "revision": 14839,
+            "lastModified": "2020-04-07T17:23:38Z",
+            "revision": 15009,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Boots+Part"
         },
         {
@@ -4066,11 +4095,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Gauntlets Part",
-            "lastModified": "2020-04-06T20:34:57Z",
-            "revision": 14840,
+            "lastModified": "2020-04-07T17:23:40Z",
+            "revision": 15010,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Gauntlets+Part"
         },
         {
@@ -4185,11 +4215,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Helmet Fragment",
-            "lastModified": "2020-04-06T20:34:58Z",
-            "revision": 14841,
+            "lastModified": "2020-04-07T17:23:41Z",
+            "revision": 15011,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Helmet+Fragment"
         },
         {
@@ -4304,11 +4335,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Crusader Shield Part",
-            "lastModified": "2020-04-06T20:35:00Z",
-            "revision": 14842,
+            "lastModified": "2020-04-07T17:23:42Z",
+            "revision": 15012,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Shield+Part"
         },
         {
@@ -4361,11 +4393,12 @@
             "exchange": false,
             "auction": true,
             "quest": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Decimation Harpoon Part",
-            "lastModified": "2020-04-07T00:03:35Z",
-            "revision": 14891,
+            "lastModified": "2020-04-07T17:23:43Z",
+            "revision": 15013,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation+Harpoon+Part"
         },
         {
@@ -4379,11 +4412,12 @@
             "exchange": false,
             "auction": true,
             "quest": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Decimation Harpoon Recipe",
-            "lastModified": "2020-04-06T20:35:03Z",
-            "revision": 14844,
+            "lastModified": "2020-04-07T17:23:44Z",
+            "revision": 15014,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation+Harpoon+Recipe"
         },
         {
@@ -4494,11 +4528,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Bracers Part",
-            "lastModified": "2020-04-06T20:35:04Z",
-            "revision": 14845,
+            "lastModified": "2020-04-07T17:23:45Z",
+            "revision": 15015,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers+Part"
         },
         {
@@ -4631,11 +4666,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Circlet Fragment",
-            "lastModified": "2020-04-06T20:35:05Z",
-            "revision": 14846,
+            "lastModified": "2020-04-07T17:23:47Z",
+            "revision": 15016,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet+Fragment"
         },
         {
@@ -4768,11 +4804,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Robe Piece",
-            "lastModified": "2020-04-06T20:35:06Z",
-            "revision": 14847,
+            "lastModified": "2020-04-07T17:23:48Z",
+            "revision": 15017,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Robe+Piece"
         },
         {
@@ -4913,11 +4950,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Shoes Part",
-            "lastModified": "2020-04-06T20:35:08Z",
-            "revision": 14848,
+            "lastModified": "2020-04-07T17:23:49Z",
+            "revision": 15018,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes+Part"
         },
         {
@@ -5195,11 +5233,12 @@
             "exchange": false,
             "auction": true,
             "quest": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Shoes Recipe",
-            "lastModified": "2020-04-07T10:32:40Z",
-            "revision": 14902,
+            "lastModified": "2020-04-07T17:23:50Z",
+            "revision": 15019,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Shoes+Recipe"
         },
         {
@@ -5289,11 +5328,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Divine Bracers Part",
-            "lastModified": "2020-04-06T20:56:53Z",
-            "revision": 14850,
+            "lastModified": "2020-04-07T17:23:51Z",
+            "revision": 15020,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Bracers+Part"
         },
         {
@@ -5414,11 +5454,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Divine Circlet Fragment",
-            "lastModified": "2020-04-06T20:35:11Z",
-            "revision": 14851,
+            "lastModified": "2020-04-07T17:23:52Z",
+            "revision": 15021,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Circlet+Fragment"
         },
         {
@@ -5546,11 +5587,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Divine Robe Piece",
-            "lastModified": "2020-04-06T20:35:12Z",
-            "revision": 14852,
+            "lastModified": "2020-04-07T17:23:53Z",
+            "revision": 15022,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Robe+Piece"
         },
         {
@@ -5678,11 +5720,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Divine Shoes Part",
-            "lastModified": "2020-04-06T20:35:13Z",
-            "revision": 14853,
+            "lastModified": "2020-04-07T17:23:54Z",
+            "revision": 15023,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Shoes+Part"
         },
         {
@@ -5832,11 +5875,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Doomblade Blade",
-            "lastModified": "2020-04-06T20:35:15Z",
-            "revision": 14854,
+            "lastModified": "2020-04-07T17:23:55Z",
+            "revision": 15024,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doomblade+Blade"
         },
         {
@@ -6000,11 +6044,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Dragon Mace Head",
-            "lastModified": "2020-04-06T20:35:16Z",
-            "revision": 14855,
+            "lastModified": "2020-04-07T17:23:57Z",
+            "revision": 15025,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon+Mace+Head"
         },
         {
@@ -6074,11 +6119,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Dragon Seed",
-            "lastModified": "2020-04-06T19:53:15Z",
-            "revision": 13491,
+            "lastModified": "2020-04-07T17:23:58Z",
+            "revision": 15026,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon+Seed"
         },
         {
@@ -6162,11 +6208,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Durable Cloak Part",
-            "lastModified": "2020-04-06T20:35:17Z",
-            "revision": 14856,
+            "lastModified": "2020-04-07T17:23:59Z",
+            "revision": 15027,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable+Cloak+Part"
         },
         {
@@ -6282,11 +6329,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Eclipse Blade",
-            "lastModified": "2020-04-06T20:35:18Z",
-            "revision": 14857,
+            "lastModified": "2020-04-07T17:24:01Z",
+            "revision": 15028,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse+Blade"
         },
         {
@@ -6341,11 +6389,12 @@
             "quest": true,
             "questMinLevel": 1,
             "questPerceptionLevel": 0,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Egg",
-            "lastModified": "2020-04-06T19:51:20Z",
-            "revision": 14188,
+            "lastModified": "2020-04-07T17:24:03Z",
+            "revision": 15029,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Egg"
         },
         {
@@ -6464,12 +6513,13 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "wikiFreeText": "==Legacy Usage List==\n* [[Ethereal Bone]]\n* [[Vial of Nature]]\n* [[Potion of Nature]]\n* [[Poison Pack]]",
             "recipe": {},
             "pagename": "Ephijora",
-            "lastModified": "2020-04-06T19:51:14Z",
-            "revision": 13482,
+            "lastModified": "2020-04-07T17:24:06Z",
+            "revision": 15030,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ephijora"
         },
         {
@@ -6483,6 +6533,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_61",
             "craftSkill": "Alchemy (Skill)",
@@ -6495,8 +6546,8 @@
                 "Maccunut": "1"
             },
             "pagename": "Ethereal Bone",
-            "lastModified": "2020-04-06T22:09:29Z",
-            "revision": 12974,
+            "lastModified": "2020-04-07T17:24:08Z",
+            "revision": 15031,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ethereal+Bone"
         },
         {
@@ -6561,11 +6612,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Flammia Nut",
-            "lastModified": "2020-04-06T21:41:17Z",
-            "revision": 13494,
+            "lastModified": "2020-04-07T17:24:10Z",
+            "revision": 15032,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Flammia+Nut"
         },
         {
@@ -6667,11 +6719,12 @@
             "quest": true,
             "questMinLevel": 1,
             "questPerceptionLevel": 0,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Flour",
-            "lastModified": "2020-04-06T19:35:51Z",
-            "revision": 14189,
+            "lastModified": "2020-04-07T17:24:11Z",
+            "revision": 15033,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Flour"
         },
         {
@@ -6802,11 +6855,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Ghost Armor Part",
-            "lastModified": "2020-04-06T20:35:19Z",
-            "revision": 14858,
+            "lastModified": "2020-04-07T17:24:12Z",
+            "revision": 15034,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Armor+Part"
         },
         {
@@ -6878,11 +6932,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Ghost Blade",
-            "lastModified": "2020-04-06T20:35:20Z",
-            "revision": 14859,
+            "lastModified": "2020-04-07T17:24:13Z",
+            "revision": 15035,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Blade"
         },
         {
@@ -6968,11 +7023,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Ghost Boots Part",
-            "lastModified": "2020-04-06T20:35:21Z",
-            "revision": 14860,
+            "lastModified": "2020-04-07T17:24:14Z",
+            "revision": 15036,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Boots+Part"
         },
         {
@@ -7187,11 +7243,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Ghost Gloves Part",
-            "lastModified": "2020-04-06T20:35:23Z",
-            "revision": 14861,
+            "lastModified": "2020-04-07T17:24:16Z",
+            "revision": 15037,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Gloves+Part"
         },
         {
@@ -7309,11 +7366,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Ghost Helmet Fragment",
-            "lastModified": "2020-04-06T20:35:24Z",
-            "revision": 14862,
+            "lastModified": "2020-04-07T17:24:17Z",
+            "revision": 15038,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Helmet+Fragment"
         },
         {
@@ -8571,11 +8629,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hailstorm Bow Shaft",
-            "lastModified": "2020-04-06T20:35:25Z",
-            "revision": 14863,
+            "lastModified": "2020-04-07T17:24:18Z",
+            "revision": 15039,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hailstorm+Bow+Shaft"
         },
         {
@@ -8665,11 +8724,12 @@
             "dropValleyDay": false,
             "dropValleyEvening": false,
             "dropValleyNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hardener",
-            "lastModified": "2020-04-06T20:45:08Z",
-            "revision": 13667,
+            "lastModified": "2020-04-07T17:24:26Z",
+            "revision": 15040,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hardener"
         },
         {
@@ -8738,12 +8798,13 @@
             "dropForayDay": true,
             "dropForayEvening": true,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "wikiFreeText": "'''{{PAGENAME}}''' is a consumable item that is needed to feed [[Pet|pets]] of the type [[Horse]]. \n\n=Acquisition=\n{{PAGENAME}} can be bought in the :Paws: Menagerie of the [[Shop]] for 1 :Gem: with the commande <code>/buy_{{#show: {{PAGENAME}}| ?ItemID}}</code> or can be possible loot for succesful [[Foray|forays]]. {{PAGENAME}} can also be traded in the exchange with <code>/t_{{#show: {{PAGENAME}}| ?ItemID}}</code>",
             "recipe": {},
             "pagename": "Hay",
-            "lastModified": "2020-04-06T20:24:20Z",
-            "revision": 14365,
+            "lastModified": "2020-04-07T17:24:27Z",
+            "revision": 15041,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hay"
         },
         {
@@ -9099,11 +9160,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Armor Part",
-            "lastModified": "2020-04-06T20:18:56Z",
-            "revision": 14797,
+            "lastModified": "2020-04-07T17:24:28Z",
+            "revision": 15042,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Armor+Part"
         },
         {
@@ -9136,11 +9198,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Armor Recipe",
-            "lastModified": "2020-04-06T20:18:57Z",
-            "revision": 14798,
+            "lastModified": "2020-04-07T17:24:30Z",
+            "revision": 15043,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Armor+Recipe"
         },
         {
@@ -9174,11 +9237,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Blade",
-            "lastModified": "2020-04-06T20:35:26Z",
-            "revision": 14864,
+            "lastModified": "2020-04-07T17:24:31Z",
+            "revision": 15044,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Blade"
         },
         {
@@ -9263,11 +9327,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Boots Part",
-            "lastModified": "2020-04-06T20:15:23Z",
-            "revision": 13883,
+            "lastModified": "2020-04-07T17:24:32Z",
+            "revision": 15045,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Boots+Part"
         },
         {
@@ -9300,11 +9365,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Boots Recipe",
-            "lastModified": "2020-04-06T20:18:59Z",
-            "revision": 14800,
+            "lastModified": "2020-04-07T17:24:33Z",
+            "revision": 15046,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Boots+Recipe"
         },
         {
@@ -9550,11 +9616,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Gloves Part",
-            "lastModified": "2020-04-06T20:19:00Z",
-            "revision": 14801,
+            "lastModified": "2020-04-07T17:24:34Z",
+            "revision": 15047,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Gloves+Part"
         },
         {
@@ -9587,11 +9654,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Hunter Gloves Recipe",
-            "lastModified": "2020-04-06T20:19:02Z",
-            "revision": 14802,
+            "lastModified": "2020-04-07T17:24:35Z",
+            "revision": 15048,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Gloves+Recipe"
         },
         {
@@ -9782,11 +9850,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Ilaves",
-            "lastModified": "2020-04-06T21:41:20Z",
-            "revision": 13481,
+            "lastModified": "2020-04-07T17:24:37Z",
+            "revision": 15049,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ilaves"
         },
         {
@@ -9976,11 +10045,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Imperial Axe Head",
-            "lastModified": "2020-04-06T20:35:27Z",
-            "revision": 14865,
+            "lastModified": "2020-04-07T17:24:38Z",
+            "revision": 15050,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial+Axe+Head"
         },
         {
@@ -10046,11 +10116,12 @@
             "dropValleyDay": true,
             "dropValleyEvening": true,
             "dropValleyNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Iron Ore",
-            "lastModified": "2020-04-06T22:35:57Z",
-            "revision": 14663,
+            "lastModified": "2020-04-07T17:24:40Z",
+            "revision": 15051,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Iron+Ore"
         },
         {
@@ -10064,6 +10135,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_62",
             "craftSkill": "Alchemy (Skill)",
@@ -10074,8 +10146,8 @@
                 "Ash Rosemary": "1"
             },
             "pagename": "Itacory",
-            "lastModified": "2020-04-06T22:35:36Z",
-            "revision": 12979,
+            "lastModified": "2020-04-07T17:24:43Z",
+            "revision": 15052,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Itacory"
         },
         {
@@ -10194,11 +10266,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "King's Defender Recipe",
-            "lastModified": "2020-04-06T20:13:32Z",
-            "revision": 13235,
+            "lastModified": "2020-04-07T17:24:44Z",
+            "revision": 15053,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=King%27s+Defender+Recipe"
         },
         {
@@ -10241,6 +10314,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_64",
             "craftSkill": "Alchemy (Skill)",
@@ -10251,8 +10325,8 @@
                 "Queen's Pepper": "1"
             },
             "pagename": "Kloliarway",
-            "lastModified": "2020-04-06T20:01:09Z",
-            "revision": 12987,
+            "lastModified": "2020-04-07T17:24:46Z",
+            "revision": 15054,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Kloliarway"
         },
         {
@@ -10323,6 +10397,7 @@
             "auction": false,
             "freeText": "With a leash you can put your [[Pet|pet]] into [[Pet#Sheltering|shelter]].",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_502",
@@ -10335,8 +10410,8 @@
                 "String": "10"
             },
             "pagename": "Leash",
-            "lastModified": "2020-04-06T20:48:58Z",
-            "revision": 14219,
+            "lastModified": "2020-04-07T17:24:48Z",
+            "revision": 15055,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leash"
         },
         {
@@ -10369,6 +10444,7 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/craft_20",
             "craftSkill": "Crafting (Skill)",
@@ -10378,8 +10454,8 @@
                 "Pelt": "4"
             },
             "pagename": "Leather",
-            "lastModified": "2020-04-06T21:11:47Z",
-            "revision": 13665,
+            "lastModified": "2020-04-07T17:24:51Z",
+            "revision": 15056,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather"
         },
         {
@@ -10693,11 +10769,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Lightning Bow Shaft",
-            "lastModified": "2020-04-06T20:35:28Z",
-            "revision": 14866,
+            "lastModified": "2020-04-07T17:24:52Z",
+            "revision": 15057,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightning+Bow+Shaft"
         },
         {
@@ -10782,11 +10859,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Lion Armor Part",
-            "lastModified": "2020-04-06T20:35:30Z",
-            "revision": 14867,
+            "lastModified": "2020-04-07T17:24:53Z",
+            "revision": 15058,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor+Part"
         },
         {
@@ -10857,11 +10935,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Lion Blade",
-            "lastModified": "2020-04-06T20:35:31Z",
-            "revision": 14868,
+            "lastModified": "2020-04-07T17:24:54Z",
+            "revision": 15059,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Blade"
         },
         {
@@ -10946,11 +11025,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Lion Boots Part",
-            "lastModified": "2020-04-06T20:35:32Z",
-            "revision": 14869,
+            "lastModified": "2020-04-07T17:24:55Z",
+            "revision": 15060,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Boots+Part"
         },
         {
@@ -11074,11 +11154,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Lion Gloves Part",
-            "lastModified": "2020-04-06T20:35:33Z",
-            "revision": 14870,
+            "lastModified": "2020-04-07T17:24:56Z",
+            "revision": 15061,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Gloves+Part"
         },
         {
@@ -11195,11 +11276,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Lion Helmet Fragment",
-            "lastModified": "2020-04-06T19:54:05Z",
-            "revision": 14098,
+            "lastModified": "2020-04-07T17:24:57Z",
+            "revision": 15062,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Helmet+Fragment"
         },
         {
@@ -11444,11 +11526,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Love Creeper",
-            "lastModified": "2020-04-06T21:48:16Z",
-            "revision": 13477,
+            "lastModified": "2020-04-07T17:24:59Z",
+            "revision": 15063,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Love+Creeper"
         },
         {
@@ -11499,11 +11582,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Maccunut",
-            "lastModified": "2020-04-06T20:17:13Z",
-            "revision": 13490,
+            "lastModified": "2020-04-07T17:25:01Z",
+            "revision": 15064,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maccunut"
         },
         {
@@ -11528,11 +11612,12 @@
             "dropValleyEvening": true,
             "dropValleyNight": true,
             "dropForayNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Magic Stone",
-            "lastModified": "2020-04-06T21:42:35Z",
-            "revision": 13462,
+            "lastModified": "2020-04-07T17:25:05Z",
+            "revision": 15065,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Magic+Stone"
         },
         {
@@ -11616,11 +11701,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Maiming Bulawa Part",
-            "lastModified": "2020-04-06T22:23:30Z",
-            "revision": 14175,
+            "lastModified": "2020-04-07T17:25:06Z",
+            "revision": 15066,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maiming+Bulawa+Part"
         },
         {
@@ -11725,11 +11811,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Mammoth Dill",
-            "lastModified": "2020-04-06T19:16:47Z",
-            "revision": 13495,
+            "lastModified": "2020-04-07T17:25:08Z",
+            "revision": 15067,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mammoth+Dill"
         },
         {
@@ -12192,11 +12279,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Mercy Sassafras",
-            "lastModified": "2020-04-06T19:51:26Z",
-            "revision": 13475,
+            "lastModified": "2020-04-07T17:25:10Z",
+            "revision": 15068,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mercy+Sassafras"
         },
         {
@@ -12276,6 +12364,7 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_34",
@@ -12287,8 +12376,8 @@
                 "Cord": "2"
             },
             "pagename": "Metallic Fiber",
-            "lastModified": "2020-04-07T13:12:41Z",
-            "revision": 14957,
+            "lastModified": "2020-04-07T17:25:14Z",
+            "revision": 15069,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Metallic+Fiber"
         },
         {
@@ -12421,11 +12510,12 @@
             "quest": true,
             "questMinLevel": 1,
             "questPerceptionLevel": 0,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Milk",
-            "lastModified": "2020-04-06T22:21:13Z",
-            "revision": 14190,
+            "lastModified": "2020-04-07T17:25:16Z",
+            "revision": 15070,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Milk"
         },
         {
@@ -13060,11 +13150,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Order Armor Piece",
-            "lastModified": "2020-04-06T20:35:34Z",
-            "revision": 14871,
+            "lastModified": "2020-04-07T17:25:17Z",
+            "revision": 15071,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Armor+Piece"
         },
         {
@@ -13097,11 +13188,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Order Armor Recipe",
-            "lastModified": "2020-04-06T20:19:19Z",
-            "revision": 14815,
+            "lastModified": "2020-04-07T17:25:18Z",
+            "revision": 15072,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Armor+Recipe"
         },
         {
@@ -13186,11 +13278,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Order Boots Part",
-            "lastModified": "2020-04-06T20:35:35Z",
-            "revision": 14872,
+            "lastModified": "2020-04-07T17:25:19Z",
+            "revision": 15073,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Boots+Part"
         },
         {
@@ -13223,11 +13316,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Order Boots Recipe",
-            "lastModified": "2020-04-06T19:42:08Z",
-            "revision": 13876,
+            "lastModified": "2020-04-07T17:25:20Z",
+            "revision": 15074,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Boots+Recipe"
         },
         {
@@ -13313,11 +13407,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Order Gauntlets Part",
-            "lastModified": "2020-04-06T20:35:36Z",
-            "revision": 14873,
+            "lastModified": "2020-04-07T17:25:21Z",
+            "revision": 15075,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Gauntlets+Part"
         },
         {
@@ -13350,11 +13445,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Order Gauntlets Recipe",
-            "lastModified": "2020-04-06T20:19:23Z",
-            "revision": 14818,
+            "lastModified": "2020-04-07T17:25:22Z",
+            "revision": 15076,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Gauntlets+Recipe"
         },
         {
@@ -13546,11 +13642,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Order Shield Part",
-            "lastModified": "2020-04-06T20:35:37Z",
-            "revision": 14874,
+            "lastModified": "2020-04-07T17:25:23Z",
+            "revision": 15077,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Shield+Part"
         },
         {
@@ -13713,11 +13810,12 @@
             "auction": true,
             "quest": true,
             "questPerceptionLevel": 5,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Helmet Part",
-            "lastModified": "2020-04-06T20:35:39Z",
-            "revision": 14875,
+            "lastModified": "2020-04-07T17:25:24Z",
+            "revision": 15078,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet+Part"
         },
         {
@@ -13733,11 +13831,12 @@
             "auction": true,
             "quest": true,
             "questPerceptionLevel": 5,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Helmet Recipe",
-            "lastModified": "2020-04-06T20:35:40Z",
-            "revision": 14876,
+            "lastModified": "2020-04-07T17:25:26Z",
+            "revision": 15079,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet+Recipe"
         },
         {
@@ -13803,11 +13902,12 @@
             "dropValleyDay": false,
             "dropValleyEvening": false,
             "dropValleyNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Pelt",
-            "lastModified": "2020-04-06T21:57:38Z",
-            "revision": 14668,
+            "lastModified": "2020-04-07T17:25:28Z",
+            "revision": 15080,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pelt"
         },
         {
@@ -13963,6 +14063,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_59",
             "craftSkill": "Alchemy (Skill)",
@@ -13974,8 +14075,8 @@
                 "Cave Garlic": "1"
             },
             "pagename": "Plasma of Abyss",
-            "lastModified": "2020-04-06T22:41:58Z",
-            "revision": 12972,
+            "lastModified": "2020-04-07T17:25:30Z",
+            "revision": 15081,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Plasma+of+Abyss"
         },
         {
@@ -14006,11 +14107,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Plexisop",
-            "lastModified": "2020-04-06T20:50:58Z",
-            "revision": 12990,
+            "lastModified": "2020-04-07T17:25:32Z",
+            "revision": 15082,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Plexisop"
         },
         {
@@ -14086,6 +14188,7 @@
             "auction": false,
             "freeText": "It increases the amount of resources found in [[Quest|quests]].",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p08",
@@ -14097,8 +14200,8 @@
                 "Kloliarway": "1"
             },
             "pagename": "Potion of Greed",
-            "lastModified": "2020-04-07T12:55:59Z",
-            "revision": 14932,
+            "lastModified": "2020-04-07T17:25:33Z",
+            "revision": 15083,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Greed"
         },
         {
@@ -14138,6 +14241,7 @@
             "auction": false,
             "freeText": "This potion does not work for Esquire classes, as they do not possess any mana.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_p14",
             "craftSkill": "Alchemy (Skill)",
@@ -14151,8 +14255,8 @@
                 "Powder": "3"
             },
             "pagename": "Potion of Mana",
-            "lastModified": "2020-04-06T20:33:30Z",
-            "revision": 13202,
+            "lastModified": "2020-04-07T17:25:35Z",
+            "revision": 15084,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Mana"
         },
         {
@@ -14168,6 +14272,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p20",
@@ -14184,8 +14289,8 @@
                 "Mammoth Dill": "1"
             },
             "pagename": "Potion of Morph",
-            "lastModified": "2020-04-06T22:08:34Z",
-            "revision": 13208,
+            "lastModified": "2020-04-07T17:25:37Z",
+            "revision": 15085,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Morph"
         },
         {
@@ -14201,6 +14306,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_p11",
             "craftSkill": "Alchemy (Skill)",
@@ -14213,8 +14319,8 @@
                 "Bone Powder": "3"
             },
             "pagename": "Potion of Nature",
-            "lastModified": "2020-04-06T19:39:28Z",
-            "revision": 13199,
+            "lastModified": "2020-04-07T17:25:38Z",
+            "revision": 15086,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Nature"
         },
         {
@@ -14231,6 +14337,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p05",
@@ -14243,8 +14350,8 @@
                 "Itacory": "1"
             },
             "pagename": "Potion of Peace",
-            "lastModified": "2020-04-07T12:56:05Z",
-            "revision": 14933,
+            "lastModified": "2020-04-07T17:25:40Z",
+            "revision": 15087,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Peace"
         },
         {
@@ -14260,6 +14367,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_p02",
             "craftSkill": "Alchemy (Skill)",
@@ -14271,8 +14379,8 @@
                 "Plasma of Abyss": "1"
             },
             "pagename": "Potion of Rage",
-            "lastModified": "2020-04-06T19:45:51Z",
-            "revision": 13190,
+            "lastModified": "2020-04-07T17:25:41Z",
+            "revision": 15088,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Rage"
         },
         {
@@ -14289,6 +14397,7 @@
             "auction": false,
             "freeText": "When using the potion you have a chance of obtaining resources that otherwise only drop at night at any time of day.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_p17",
             "craftSkill": "Alchemy (Skill)",
@@ -14302,8 +14411,8 @@
                 "Astrulic": "1"
             },
             "pagename": "Potion of Twilight",
-            "lastModified": "2020-04-06T21:01:49Z",
-            "revision": 13205,
+            "lastModified": "2020-04-07T17:25:43Z",
+            "revision": 15089,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Twilight"
         },
         {
@@ -14356,11 +14465,12 @@
             "dropValleyDay": true,
             "dropValleyEvening": true,
             "dropValleyNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Powder",
-            "lastModified": "2020-04-06T20:05:19Z",
-            "revision": 14669,
+            "lastModified": "2020-04-07T17:25:46Z",
+            "revision": 15090,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Powder"
         },
         {
@@ -14391,6 +14501,7 @@
             "exchange": false,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/craft_24",
             "craftSkill": "Crafting (Skill)",
@@ -14402,8 +14513,8 @@
                 "Magic Stone": "1"
             },
             "pagename": "Purified Powder",
-            "lastModified": "2020-04-06T20:29:31Z",
-            "revision": 12932,
+            "lastModified": "2020-04-07T17:25:49Z",
+            "revision": 15091,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Purified+Powder"
         },
         {
@@ -14544,11 +14655,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Raging Lance Blade",
-            "lastModified": "2020-04-06T20:35:41Z",
-            "revision": 14877,
+            "lastModified": "2020-04-07T17:25:50Z",
+            "revision": 15092,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging+Lance+Blade"
         },
         {
@@ -14914,6 +15026,7 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_31",
@@ -14925,8 +15038,8 @@
                 "String": "1"
             },
             "pagename": "Rope",
-            "lastModified": "2020-04-06T22:58:48Z",
-            "revision": 13663,
+            "lastModified": "2020-04-07T17:26:03Z",
+            "revision": 15093,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rope"
         },
         {
@@ -15012,11 +15125,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Royal Armor Piece",
-            "lastModified": "2020-04-06T20:35:42Z",
-            "revision": 14878,
+            "lastModified": "2020-04-07T17:26:05Z",
+            "revision": 15094,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Armor+Piece"
         },
         {
@@ -15138,11 +15252,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Royal Boots Part",
-            "lastModified": "2020-04-06T20:35:43Z",
-            "revision": 14879,
+            "lastModified": "2020-04-07T17:26:06Z",
+            "revision": 15095,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Boots+Part"
         },
         {
@@ -15264,11 +15379,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Royal Gauntlets Part",
-            "lastModified": "2020-04-06T20:35:44Z",
-            "revision": 14880,
+            "lastModified": "2020-04-07T17:26:07Z",
+            "revision": 15096,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Gauntlets+Part"
         },
         {
@@ -15411,11 +15527,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Royal Helmet Fragment",
-            "lastModified": "2020-04-06T20:35:45Z",
-            "revision": 14881,
+            "lastModified": "2020-04-07T17:26:08Z",
+            "revision": 15097,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Helmet+Fragment"
         },
         {
@@ -15531,11 +15648,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Royal Shield Part",
-            "lastModified": "2020-04-06T20:35:47Z",
-            "revision": 14882,
+            "lastModified": "2020-04-07T17:26:09Z",
+            "revision": 15098,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Shield+Part"
         },
         {
@@ -15597,12 +15715,13 @@
             "dropValleyDay": false,
             "dropValleyEvening": false,
             "dropValleyNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Ruby",
-            "lastModified": "2020-04-06T19:27:12Z",
-            "revision": 13465,
+            "lastModified": "2020-04-07T17:26:19Z",
+            "revision": 15099,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ruby"
         },
         {
@@ -15663,11 +15782,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Sanguine Parsley",
-            "lastModified": "2020-04-06T19:23:33Z",
-            "revision": 13488,
+            "lastModified": "2020-04-07T17:26:21Z",
+            "revision": 15100,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sanguine+Parsley"
         },
         {
@@ -15692,11 +15812,12 @@
             "dropValleyDay": true,
             "dropValleyEvening": true,
             "dropValleyNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Sapphire",
-            "lastModified": "2020-04-06T21:56:31Z",
-            "revision": 13463,
+            "lastModified": "2020-04-07T17:26:35Z",
+            "revision": 15101,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sapphire"
         },
         {
@@ -16009,6 +16130,7 @@
             "exchange": false,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/craft_25",
             "craftSkill": "Crafting (Skill)",
@@ -16020,8 +16142,8 @@
                 "Silver Ore": "1"
             },
             "pagename": "Silver Alloy",
-            "lastModified": "2020-04-06T22:50:50Z",
-            "revision": 12933,
+            "lastModified": "2020-04-07T17:26:41Z",
+            "revision": 15102,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Alloy"
         },
         {
@@ -16194,6 +16316,7 @@
             "exchange": true,
             "auction": false,
             "freeText": "It was added to the game with the [[Game updates/2018-06-16 | June 16th, 2018 game update]].",
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_69",
             "craftSkill": "Alchemy (Skill)",
@@ -16205,8 +16328,8 @@
                 "Tecceagrass": "1"
             },
             "pagename": "Silver Dust",
-            "lastModified": "2020-04-06T22:30:47Z",
-            "revision": 12992,
+            "lastModified": "2020-04-07T17:26:43Z",
+            "revision": 15103,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Dust"
         },
         {
@@ -16220,6 +16343,7 @@
             "auction": false,
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]]. It is used in crafting tier 3 :Bookblue: equipment.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/craft_32",
             "craftSkill": "Crafting (Skill)",
@@ -16231,8 +16355,8 @@
                 "Silver Alloy": "3"
             },
             "pagename": "Silver Frame",
-            "lastModified": "2020-04-06T23:07:27Z",
-            "revision": 12938,
+            "lastModified": "2020-04-07T17:26:50Z",
+            "revision": 15104,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Frame"
         },
         {
@@ -16354,11 +16478,12 @@
             "dropValleyDay": true,
             "dropValleyEvening": true,
             "dropValleyNight": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Silver Ore",
-            "lastModified": "2020-04-06T20:10:26Z",
-            "revision": 14672,
+            "lastModified": "2020-04-07T17:26:52Z",
+            "revision": 15105,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Ore"
         },
         {
@@ -16415,11 +16540,12 @@
             "exchange": false,
             "auction": true,
             "quest": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Sinister Ranseur Part",
-            "lastModified": "2020-04-06T20:35:48Z",
-            "revision": 14883,
+            "lastModified": "2020-04-07T17:26:53Z",
+            "revision": 15106,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister+Ranseur+Part"
         },
         {
@@ -16433,11 +16559,12 @@
             "exchange": false,
             "auction": true,
             "quest": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Sinister Ranseur Recipe",
-            "lastModified": "2020-04-06T20:35:49Z",
-            "revision": 14884,
+            "lastModified": "2020-04-07T17:26:54Z",
+            "revision": 15107,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister+Ranseur+Recipe"
         },
         {
@@ -16547,11 +16674,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Skull Crusher Head",
-            "lastModified": "2020-04-06T20:35:50Z",
-            "revision": 14885,
+            "lastModified": "2020-04-07T17:26:55Z",
+            "revision": 15108,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull+Crusher+Head"
         },
         {
@@ -16622,11 +16750,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Solvent",
-            "lastModified": "2020-04-06T21:49:26Z",
-            "revision": 13668,
+            "lastModified": "2020-04-07T17:27:11Z",
+            "revision": 15109,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Solvent"
         },
         {
@@ -16658,11 +16787,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Spring Bay Leaf",
-            "lastModified": "2020-04-06T19:16:06Z",
-            "revision": 13486,
+            "lastModified": "2020-04-07T17:27:12Z",
+            "revision": 15110,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Spring+Bay+Leaf"
         },
         {
@@ -16690,6 +16820,7 @@
             "dropValleyDay": true,
             "dropValleyEvening": true,
             "dropValleyNight": true,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/craft_19",
             "craftSkill": "Crafting (Skill)",
@@ -16700,8 +16831,8 @@
                 "Iron Ore": "2"
             },
             "pagename": "Steel",
-            "lastModified": "2020-04-06T21:17:13Z",
-            "revision": 13666,
+            "lastModified": "2020-04-07T17:27:15Z",
+            "revision": 15111,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel"
         },
         {
@@ -16908,6 +17039,7 @@
             "auction": false,
             "freeText": "It is used in various recipes for the Tier 2 :Bookgreen: equipment.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_27",
@@ -16920,8 +17052,8 @@
                 "Powder": "2"
             },
             "pagename": "Steel Mold",
-            "lastModified": "2020-04-06T19:45:26Z",
-            "revision": 12934,
+            "lastModified": "2020-04-07T17:27:20Z",
+            "revision": 15112,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Mold"
         },
         {
@@ -17017,11 +17149,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Stinky Sumac",
-            "lastModified": "2020-04-06T22:20:03Z",
-            "revision": 13474,
+            "lastModified": "2020-04-07T17:27:22Z",
+            "revision": 15113,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stinky+Sumac"
         },
         {
@@ -17229,11 +17362,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Storm Cloak Part",
-            "lastModified": "2020-04-06T20:35:51Z",
-            "revision": 14886,
+            "lastModified": "2020-04-07T17:27:24Z",
+            "revision": 15114,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm+Cloak+Part"
         },
         {
@@ -17302,11 +17436,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Storm Hyssop",
-            "lastModified": "2020-04-06T22:33:57Z",
-            "revision": 12954,
+            "lastModified": "2020-04-07T17:27:26Z",
+            "revision": 15115,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm+Hyssop"
         },
         {
@@ -17334,6 +17469,7 @@
             "dropValleyDay": true,
             "dropValleyEvening": true,
             "dropValleyNight": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_22",
@@ -17344,8 +17480,8 @@
                 "Stick": "3"
             },
             "pagename": "String",
-            "lastModified": "2020-04-06T19:57:30Z",
-            "revision": 13658,
+            "lastModified": "2020-04-07T17:27:31Z",
+            "revision": 15116,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=String"
         },
         {
@@ -17361,11 +17497,12 @@
             "quest": true,
             "questMinLevel": 1,
             "questPerceptionLevel": 0,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Sugar",
-            "lastModified": "2020-04-06T19:47:05Z",
-            "revision": 14193,
+            "lastModified": "2020-04-07T17:27:33Z",
+            "revision": 15117,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sugar"
         },
         {
@@ -17397,11 +17534,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Sun Tarragon",
-            "lastModified": "2020-04-06T21:31:50Z",
-            "revision": 13489,
+            "lastModified": "2020-04-07T17:27:35Z",
+            "revision": 15118,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sun+Tarragon"
         },
         {
@@ -17433,11 +17571,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Swamp Lavender",
-            "lastModified": "2020-04-06T20:49:08Z",
-            "revision": 13479,
+            "lastModified": "2020-04-07T17:27:36Z",
+            "revision": 15119,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Swamp+Lavender"
         },
         {
@@ -17469,11 +17608,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Tecceagrass",
-            "lastModified": "2020-04-06T20:13:07Z",
-            "revision": 13485,
+            "lastModified": "2020-04-07T17:27:39Z",
+            "revision": 15120,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Tecceagrass"
         },
         {
@@ -17542,11 +17682,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Thundersoul Blade",
-            "lastModified": "2020-04-06T20:35:52Z",
-            "revision": 14887,
+            "lastModified": "2020-04-07T17:27:40Z",
+            "revision": 15121,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Thundersoul+Blade"
         },
         {
@@ -17773,11 +17914,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Trident Blade",
-            "lastModified": "2020-04-06T20:35:53Z",
-            "revision": 14888,
+            "lastModified": "2020-04-07T17:27:41Z",
+            "revision": 15122,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident+Blade"
         },
         {
@@ -17828,6 +17970,7 @@
             "depositable": true,
             "exchange": true,
             "auction": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_60",
@@ -17840,8 +17983,8 @@
                 "Storm Hyssop": "1"
             },
             "pagename": "Ultramarine Dust",
-            "lastModified": "2020-04-07T13:00:47Z",
-            "revision": 14938,
+            "lastModified": "2020-04-07T17:27:43Z",
+            "revision": 15123,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ultramarine+Dust"
         },
         {
@@ -17885,6 +18028,7 @@
             "auction": false,
             "freeText": "It increases the amount of resources found in [[Quest|quests]].",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p07",
@@ -17896,8 +18040,8 @@
                 "Ilaves": "1"
             },
             "pagename": "Vial of Greed",
-            "lastModified": "2020-04-07T13:00:50Z",
-            "revision": 14939,
+            "lastModified": "2020-04-07T17:27:44Z",
+            "revision": 15124,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Greed"
         },
         {
@@ -17937,6 +18081,7 @@
             "auction": false,
             "freeText": "This potion does not work for Esquire classes, as they do not possess any mana.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "craftCommand": "/brew_p13",
             "craftSkill": "Alchemy (Skill)",
@@ -17949,8 +18094,8 @@
                 "Powder": "3"
             },
             "pagename": "Vial of Mana",
-            "lastModified": "2020-04-06T21:31:49Z",
-            "revision": 13201,
+            "lastModified": "2020-04-07T17:27:46Z",
+            "revision": 15125,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Mana"
         },
         {
@@ -17966,6 +18111,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p19",
@@ -17980,8 +18126,8 @@
                 "Flammia Nut": "1"
             },
             "pagename": "Vial of Morph",
-            "lastModified": "2020-04-06T20:41:01Z",
-            "revision": 13207,
+            "lastModified": "2020-04-07T17:27:47Z",
+            "revision": 15126,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Morph"
         },
         {
@@ -17997,6 +18143,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p10",
@@ -18009,8 +18156,8 @@
                 "Ephijora": "1"
             },
             "pagename": "Vial of Nature",
-            "lastModified": "2020-04-07T13:03:22Z",
-            "revision": 14942,
+            "lastModified": "2020-04-07T17:27:49Z",
+            "revision": 15127,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Nature"
         },
         {
@@ -18028,6 +18175,7 @@
             "auction": false,
             "freeText": "It is brewed by [[Alchemist|alchemists]] and increases the defensive stats of the player.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p04",
@@ -18039,8 +18187,8 @@
                 "Cave Garlic": "1"
             },
             "pagename": "Vial of Peace",
-            "lastModified": "2020-04-07T13:03:29Z",
-            "revision": 14943,
+            "lastModified": "2020-04-07T17:27:50Z",
+            "revision": 15128,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Peace"
         },
         {
@@ -18056,6 +18204,7 @@
             "exchange": true,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p01",
@@ -18067,8 +18216,8 @@
                 "Storm Hyssop": "1"
             },
             "pagename": "Vial of Rage",
-            "lastModified": "2020-04-07T13:03:46Z",
-            "revision": 14944,
+            "lastModified": "2020-04-07T17:27:51Z",
+            "revision": 15129,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Rage"
         },
         {
@@ -18086,6 +18235,7 @@
             "auction": false,
             "freeText": "When using the potion you have a chance of obtaining resources that otherwise only drop at night at any time of day.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_p16",
@@ -18099,8 +18249,8 @@
                 "Love Creeper": "1"
             },
             "pagename": "Vial of Twilight",
-            "lastModified": "2020-04-07T13:03:53Z",
-            "revision": 14945,
+            "lastModified": "2020-04-07T17:27:52Z",
+            "revision": 15130,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Twilight"
         },
         {
@@ -18400,11 +18550,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "War Hammer Head",
-            "lastModified": "2020-04-06T20:35:54Z",
-            "revision": 14889,
+            "lastModified": "2020-04-07T17:27:54Z",
+            "revision": 15131,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War+Hammer+Head"
         },
         {
@@ -18580,11 +18731,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "White Blossom",
-            "lastModified": "2020-04-06T20:05:53Z",
-            "revision": 13480,
+            "lastModified": "2020-04-07T17:27:55Z",
+            "revision": 15132,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=White+Blossom"
         },
         {
@@ -18851,11 +19003,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Wolf Root",
-            "lastModified": "2020-04-06T22:19:37Z",
-            "revision": 13478,
+            "lastModified": "2020-04-07T17:27:57Z",
+            "revision": 15133,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wolf+Root"
         },
         {
@@ -18952,6 +19105,7 @@
             "auction": false,
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_14",
@@ -18963,8 +19117,8 @@
                 "Powder": "1"
             },
             "pagename": "Wooden Shaft",
-            "lastModified": "2020-04-06T22:24:01Z",
-            "revision": 14677,
+            "lastModified": "2020-04-07T17:28:03Z",
+            "revision": 15134,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Shaft"
         },
         {
@@ -19031,6 +19185,7 @@
             "auction": false,
             "freeText": "It is required to [[Wrap|wrap]] items for [[Auction|auctions]]",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_501",
@@ -19042,8 +19197,8 @@
                 "String": "3"
             },
             "pagename": "Wrapping",
-            "lastModified": "2020-04-07T13:05:36Z",
-            "revision": 14947,
+            "lastModified": "2020-04-07T17:28:04Z",
+            "revision": 15135,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wrapping"
         },
         {
@@ -19075,11 +19230,12 @@
             "dropForayDay": false,
             "dropForayEvening": false,
             "dropForayNight": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Yellow Seed",
-            "lastModified": "2020-04-06T22:45:30Z",
-            "revision": 13484,
+            "lastModified": "2020-04-07T17:28:06Z",
+            "revision": 15136,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Yellow+Seed"
         },
         {
@@ -19241,6 +19397,91 @@
             "lastModified": "2020-04-06T22:35:54Z",
             "revision": 13091,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie+Shield+%28Event+Gear%29"
+        },
+        {
+            "id": "a104",
+            "eventItem": false,
+            "name": "Overseer Armor",
+            "type": "Protective Gear",
+            "subType": "Armor",
+            "armorClass": "Heavy Armor",
+            "attack": 18,
+            "defense": 60,
+            "mana": 0,
+            "weight": 530,
+            "wrapping": 1,
+            "levelRequirement": 60,
+            "depositable": true,
+            "shopSellPrice": 1989,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/craft_a104",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
+            "recipe": {
+                "Overseer Armor Recipe": "1",
+                "Overseer Armor Part": "8",
+                "Bone Powder": "15",
+                "Quality Cloth": "3",
+                "Blacksmith Mold": "4",
+                "Steel Mold": "17",
+                "Silver Mold": "3",
+                "Ruby": "3",
+                "Sapphire": "10"
+            },
+            "pagename": "Overseer Armor",
+            "lastModified": "2020-04-07T17:13:28Z",
+            "revision": 14975,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Armor"
+        },
+        {
+            "id": "a115",
+            "eventItem": false,
+            "name": "Overseer Boots",
+            "type": "Protective Gear",
+            "subType": "Boots",
+            "armorClass": "Heavy Armor",
+            "attack": 6,
+            "defense": 20,
+            "mana": 0,
+            "weight": 168,
+            "wrapping": 1,
+            "levelRequirement": 60,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantDef1": 2,
+            "enchantMana1": 0,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/craft_a115",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
+            "recipe": {
+                "Overseer Boots Recipe": "1",
+                "Overseer Boots Part": "8",
+                "String": "6",
+                "Crafted Leather": "11",
+                "Solvent": "3",
+                "Blacksmith Mold": "2",
+                "Rope": "1",
+                "Quality Cloth": "2",
+                "Steel Mold": "6",
+                "Ruby": "1",
+                "Sapphire": "8"
+            },
+            "pagename": "Overseer Boots",
+            "lastModified": "2020-04-07T17:16:50Z",
+            "revision": 14976,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Boots"
         }
     ],
     "incomplete": [
@@ -19406,69 +19647,6 @@
             "lastModified": "2020-04-06T19:29:16Z",
             "revision": 14717,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent+Maul"
-        },
-        {
-            "id": "??",
-            "eventItem": false,
-            "name": "Overseer Armor",
-            "type": "Protective Gear",
-            "subType": "Armor",
-            "armorClass": "Heavy Armor",
-            "levelRequirement": 60,
-            "depositable": true,
-            "exchange": false,
-            "auction": true,
-            "quest": false,
-            "craftable": true,
-            "recipeIncomplete": false,
-            "recipe": {
-                "Overseer Armor Recipe": "1",
-                "Overseer Armor Part": "8",
-                "Bone Powder": "15",
-                "Quality Cloth": "3",
-                "Blacksmith Mold": "4",
-                "Steel Mold": "17",
-                "Silver Mold": "3",
-                "Ruby": "3",
-                "Sapphire": "10"
-            },
-            "pagename": "Overseer Armor",
-            "lastModified": "2020-04-06T19:29:57Z",
-            "revision": 14732,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Armor"
-        },
-        {
-            "id": "??",
-            "eventItem": false,
-            "name": "Overseer Boots",
-            "type": "Protective Gear",
-            "subType": "Boots",
-            "armorClass": "Heavy Armor",
-            "levelRequirement": 60,
-            "depositable": true,
-            "exchange": false,
-            "auction": true,
-            "quest": false,
-            "enchantable": true,
-            "craftable": true,
-            "recipeIncomplete": false,
-            "recipe": {
-                "Overseer Boots Recipe": "1",
-                "Overseer Boots Part": "8",
-                "String": "6",
-                "Crafted Leather": "11",
-                "Solvent": "3",
-                "Blacksmith Mold": "2",
-                "Rope": "1",
-                "Quality Cloth": "2",
-                "Steel Mold": "6",
-                "Ruby": "1",
-                "Sapphire": "8"
-            },
-            "pagename": "Overseer Boots",
-            "lastModified": "2020-04-07T05:20:10Z",
-            "revision": 14894,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Boots"
         },
         {
             "id": "??",

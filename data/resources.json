@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T18:11:11.237719+00:00",
+    "timestamp": "2020-04-07T18:15:41.351096+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -4610,6 +4610,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a64",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -4625,8 +4626,8 @@
                 "Blacksmith Frame": "3"
             },
             "pagename": "Demon Circlet",
-            "lastModified": "2020-04-06T23:03:25Z",
-            "revision": 13056,
+            "lastModified": "2020-04-07T18:11:13Z",
+            "revision": 15172,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet"
         },
         {
@@ -6291,6 +6292,7 @@
             "enchantAtk3": 3,
             "enchantAtk4": 3,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w35",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -6306,8 +6308,8 @@
                 "Ruby": "3"
             },
             "pagename": "Eclipse",
-            "lastModified": "2020-04-06T22:19:37Z",
-            "revision": 13331,
+            "lastModified": "2020-04-07T18:11:31Z",
+            "revision": 15174,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse"
         },
         {
@@ -6547,6 +6549,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_61",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 1,
@@ -6558,8 +6561,8 @@
                 "Maccunut": "1"
             },
             "pagename": "Ethereal Bone",
-            "lastModified": "2020-04-07T17:24:08Z",
-            "revision": 15031,
+            "lastModified": "2020-04-07T18:11:35Z",
+            "revision": 15175,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ethereal+Bone"
         },
         {
@@ -9125,6 +9128,7 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a32",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -9140,8 +9144,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Hunter Armor",
-            "lastModified": "2020-04-06T20:48:48Z",
-            "revision": 13027,
+            "lastModified": "2020-04-07T18:11:54Z",
+            "revision": 15176,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Armor"
         },
         {
@@ -9406,6 +9410,7 @@
             "shopSellPrice": 1163,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 2,
             "enchantAtk2": 1,
@@ -9416,6 +9421,7 @@
             "enchantDef3": 1,
             "enchantDef4": 0,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w30",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -9431,8 +9437,8 @@
                 "Hardener": "3"
             },
             "pagename": "Hunter Bow",
-            "lastModified": "2020-04-06T20:56:32Z",
-            "revision": 13326,
+            "lastModified": "2020-04-07T18:12:32Z",
+            "revision": 15177,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Bow"
         },
         {
@@ -9496,6 +9502,7 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w32",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -9509,8 +9516,8 @@
                 "Steel Mold": "1"
             },
             "pagename": "Hunter Dagger",
-            "lastModified": "2020-04-06T20:05:43Z",
-            "revision": 13375,
+            "lastModified": "2020-04-07T18:12:56Z",
+            "revision": 15178,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Dagger"
         },
         {
@@ -9572,7 +9579,6 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game_updates/2018-04-03|April 3, 2018 update]].",
             "quest": false,
-            "questPerceptionLevel": 0,
             "enchantable": true,
             "enchantAtk1": 0,
             "enchantAtk2": 0,
@@ -9583,6 +9589,7 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a35",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -9597,8 +9604,8 @@
                 "Leather": "12"
             },
             "pagename": "Hunter Gloves",
-            "lastModified": "2020-04-06T20:13:43Z",
-            "revision": 13030,
+            "lastModified": "2020-04-07T18:13:07Z",
+            "revision": 15179,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Gloves"
         },
         {
@@ -10152,6 +10159,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_62",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -10161,8 +10169,8 @@
                 "Ash Rosemary": "1"
             },
             "pagename": "Itacory",
-            "lastModified": "2020-04-07T17:24:43Z",
-            "revision": 15052,
+            "lastModified": "2020-04-07T18:13:23Z",
+            "revision": 15180,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Itacory"
         },
         {
@@ -10331,6 +10339,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_64",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -10340,8 +10349,8 @@
                 "Queen's Pepper": "1"
             },
             "pagename": "Kloliarway",
-            "lastModified": "2020-04-07T17:24:46Z",
-            "revision": 15054,
+            "lastModified": "2020-04-07T18:13:29Z",
+            "revision": 15181,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Kloliarway"
         },
         {
@@ -10434,7 +10443,6 @@
             "eventItem": false,
             "name": "Leather",
             "type": "Resource",
-            "wikiNote": "should be fine",
             "weight": 1,
             "depositable": true,
             "exchange": true,
@@ -10461,6 +10469,7 @@
             "dropForayNight": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_20",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -10469,8 +10478,8 @@
                 "Pelt": "4"
             },
             "pagename": "Leather",
-            "lastModified": "2020-04-07T17:24:51Z",
-            "revision": 15056,
+            "lastModified": "2020-04-07T18:13:57Z",
+            "revision": 15182,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather"
         },
         {
@@ -10687,6 +10696,7 @@
             "shopSellPrice": 1785,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 3,
             "enchantAtk2": 2,
@@ -10697,6 +10707,7 @@
             "enchantDef3": 2,
             "enchantDef4": 0,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w40",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -10712,8 +10723,8 @@
                 "Ruby": "3"
             },
             "pagename": "Lightning Bow",
-            "lastModified": "2020-04-06T20:03:31Z",
-            "revision": 13336,
+            "lastModified": "2020-04-07T18:14:23Z",
+            "revision": 15183,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightning+Bow"
         },
         {
@@ -13493,6 +13504,7 @@
             "quest": false,
             "enchantable": true,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a28",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -13508,8 +13520,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Order Helmet",
-            "lastModified": "2020-04-06T20:23:42Z",
-            "revision": 13023,
+            "lastModified": "2020-04-07T18:14:47Z",
+            "revision": 15184,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Helmet"
         },
         {
@@ -13611,6 +13623,7 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a31",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -13624,8 +13637,8 @@
                 "Silver Mold": "1"
             },
             "pagename": "Order Shield",
-            "lastModified": "2020-04-06T20:56:58Z",
-            "revision": 13026,
+            "lastModified": "2020-04-07T18:14:53Z",
+            "revision": 15185,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Shield"
         },
         {
@@ -14083,6 +14096,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_59",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 1,
@@ -14093,8 +14107,8 @@
                 "Cave Garlic": "1"
             },
             "pagename": "Plasma of Abyss",
-            "lastModified": "2020-04-07T17:25:30Z",
-            "revision": 15081,
+            "lastModified": "2020-04-07T18:15:21Z",
+            "revision": 15186,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Plasma+of+Abyss"
         },
         {

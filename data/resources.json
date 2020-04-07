@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T18:03:47.933764+00:00",
+    "timestamp": "2020-04-07T18:11:11.237719+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -3923,6 +3923,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a47",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -3938,8 +3939,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Crusader Boots",
-            "lastModified": "2020-04-06T22:56:58Z",
-            "revision": 13039,
+            "lastModified": "2020-04-07T18:10:14Z",
+            "revision": 15169,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Boots"
         },
         {
@@ -4051,6 +4052,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a48",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -4066,8 +4068,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Crusader Gauntlets",
-            "lastModified": "2020-04-06T20:06:05Z",
-            "revision": 13040,
+            "lastModified": "2020-04-07T18:10:33Z",
+            "revision": 15170,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Gauntlets"
         },
         {
@@ -4171,6 +4173,7 @@
             "enchantDef3": 2,
             "enchantDef4": 1,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a46",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
@@ -4186,8 +4189,8 @@
                 "Blacksmith Frame": "3"
             },
             "pagename": "Crusader Helmet",
-            "lastModified": "2020-04-06T22:09:53Z",
-            "revision": 13038,
+            "lastModified": "2020-04-07T18:10:47Z",
+            "revision": 15171,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Helmet"
         },
         {
@@ -9011,6 +9014,7 @@
             "name": "Heavy Fauchard recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -9036,8 +9040,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Heavy Fauchard Recipe",
-            "lastModified": "2020-04-06T20:18:54Z",
-            "revision": 14796,
+            "lastModified": "2020-04-07T18:05:44Z",
+            "revision": 15159,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Fauchard+Recipe"
         },
         {
@@ -12611,6 +12615,7 @@
             "name": "Minotaur Sword recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -12636,8 +12641,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Minotaur Sword Recipe",
-            "lastModified": "2020-04-06T23:13:54Z",
-            "revision": 14170,
+            "lastModified": "2020-04-07T18:06:24Z",
+            "revision": 15160,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Minotaur+Sword+Recipe"
         },
         {
@@ -12965,6 +12970,7 @@
             "name": "Nightfall Bow recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -12990,8 +12996,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nightfall Bow Recipe",
-            "lastModified": "2020-04-06T20:19:17Z",
-            "revision": 14813,
+            "lastModified": "2020-04-07T18:06:52Z",
+            "revision": 15161,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nightfall+Bow+Recipe"
         },
         {
@@ -14034,6 +14040,7 @@
             "name": "Phoenix Sword recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -14059,8 +14066,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Phoenix Sword Recipe",
-            "lastModified": "2020-04-06T20:19:27Z",
-            "revision": 14821,
+            "lastModified": "2020-04-07T18:07:18Z",
+            "revision": 15162,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Phoenix+Sword+Recipe"
         },
         {
@@ -14520,6 +14527,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_24",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
@@ -14530,8 +14538,8 @@
                 "Magic Stone": "1"
             },
             "pagename": "Purified Powder",
-            "lastModified": "2020-04-07T17:25:49Z",
-            "revision": 15091,
+            "lastModified": "2020-04-07T18:08:06Z",
+            "revision": 15163,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Purified+Powder"
         },
         {
@@ -16210,7 +16218,9 @@
             "auction": false,
             "freeText": "When opened with /use_513 it yields 100 [[Silver Arrow|Silver Arrows]]. Arrow packs can only be crafted and not traded in any way.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_513",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -16221,8 +16231,8 @@
                 "Powder": "5"
             },
             "pagename": "Silver Arrows Pack",
-            "lastModified": "2020-04-06T20:03:35Z",
-            "revision": 13422,
+            "lastModified": "2020-04-07T18:08:19Z",
+            "revision": 15164,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Arrows+Pack"
         },
         {
@@ -16333,8 +16343,10 @@
             "exchange": true,
             "auction": false,
             "freeText": "It was added to the game with the [[Game updates/2018-06-16 | June 16th, 2018 game update]].",
+            "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_69",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
@@ -16345,8 +16357,8 @@
                 "Tecceagrass": "1"
             },
             "pagename": "Silver Dust",
-            "lastModified": "2020-04-07T17:26:43Z",
-            "revision": 15103,
+            "lastModified": "2020-04-07T18:08:46Z",
+            "revision": 15165,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Dust"
         },
         {
@@ -16362,6 +16374,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_32",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -16372,8 +16385,8 @@
                 "Silver Alloy": "3"
             },
             "pagename": "Silver Frame",
-            "lastModified": "2020-04-07T17:26:50Z",
-            "revision": 15104,
+            "lastModified": "2020-04-07T18:09:25Z",
+            "revision": 15166,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Frame"
         },
         {
@@ -17883,6 +17896,7 @@
             "enchantDef3": 2,
             "enchantDef4": 0,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_w29",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
@@ -17898,8 +17912,8 @@
                 "Hardener": "3"
             },
             "pagename": "Trident",
-            "lastModified": "2020-04-06T21:40:12Z",
-            "revision": 13325,
+            "lastModified": "2020-04-07T18:09:29Z",
+            "revision": 15167,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident"
         },
         {
@@ -18102,6 +18116,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
+            "recipeIncomplete": false,
             "craftCommand": "/brew_p13",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
@@ -18113,8 +18128,8 @@
                 "Powder": "3"
             },
             "pagename": "Vial of Mana",
-            "lastModified": "2020-04-07T17:27:46Z",
-            "revision": 15125,
+            "lastModified": "2020-04-07T18:09:49Z",
+            "revision": 15168,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Mana"
         },
         {

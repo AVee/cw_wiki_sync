@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T18:15:41.351096+00:00",
+    "timestamp": "2020-04-07T18:40:28.678251+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1247,6 +1247,7 @@
         {
             "id": "e6",
             "eventItem": true,
+            "eventPage": "Valentines Day 2018",
             "name": "Cake",
             "type": "Misc",
             "freeText": "It is a historical item of ChatWars from the event [[Valentines Day 2018]]. It can be consumed with <code>/use_e6</code>. \n\n=Possible rewards from eating cakes=\n* [[Pouch of Gold]]\n* [[Chocolate]]\n* [[Special Cake]]\n* :Bookred: [[Scroll of Rage (Red)]]\n* :Bookred: [[Scroll of Peace (Red)]]\n* [[Valentine's Card]]",
@@ -1263,8 +1264,8 @@
                 "Egg": "1"
             },
             "pagename": "Cake",
-            "lastModified": "2020-04-06T23:02:15Z",
-            "revision": 14184,
+            "lastModified": "2020-04-07T18:29:36Z",
+            "revision": 15192,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cake"
         },
         {
@@ -1387,6 +1388,7 @@
             "name": "Celestial Armor recipe",
             "type": "Recipe (Item)",
             "weight": 10,
+            "levelRequirement": 45,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -1413,8 +1415,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Celestial Armor Recipe",
-            "lastModified": "2020-04-06T20:18:06Z",
-            "revision": 14756,
+            "lastModified": "2020-04-07T18:24:07Z",
+            "revision": 15191,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor+Recipe"
         },
         {
@@ -1540,6 +1542,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Robe Armor",
+            "wikiNote": "Enchantment info still missing",
             "attack": 5,
             "defense": 13,
             "mana": 65,
@@ -1551,6 +1554,7 @@
             "auction": true,
             "freeText": "This item was renamed to Celestial Bracers from Celestial Gloves shortly after the release of T4 :Bookorange: items.",
             "quest": false,
+            "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a90",
@@ -1571,8 +1575,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Bracers",
-            "lastModified": "2020-04-06T21:40:03Z",
-            "revision": 14270,
+            "lastModified": "2020-04-07T18:24:07Z",
+            "revision": 15190,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Bracers"
         },
         {
@@ -2685,6 +2689,7 @@
         {
             "id": "e1",
             "eventItem": true,
+            "eventPage": "Valentines Day 2018",
             "name": "Cocoa Powder",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
@@ -2700,8 +2705,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Cocoa Powder",
-            "lastModified": "2020-04-07T17:23:32Z",
-            "revision": 15004,
+            "lastModified": "2020-04-07T18:30:45Z",
+            "revision": 15196,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cocoa+Powder"
         },
         {
@@ -2899,6 +2904,7 @@
             "eventItem": false,
             "name": "Compound arrows pack",
             "type": "Misc",
+            "depositable": false,
             "exchange": false,
             "auction": false,
             "freeText": "When opened with /use_519 it yields 100 [[Compound Arrow|Compound Arrows]]. Arrow packs can only be crafted and not traded in any way.",
@@ -2919,8 +2925,8 @@
                 "Iron Ore": "2"
             },
             "pagename": "Compound Arrows Pack",
-            "lastModified": "2020-04-07T12:04:49Z",
-            "revision": 14917,
+            "lastModified": "2020-04-07T18:31:55Z",
+            "revision": 15198,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Compound+Arrows+Pack"
         },
         {
@@ -3128,6 +3134,7 @@
             "exchange": false,
             "auction": true,
             "quest": false,
+            "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a80",
@@ -3146,8 +3153,8 @@
                 "Coke": "11"
             },
             "pagename": "Council Boots",
-            "lastModified": "2020-04-06T21:35:09Z",
-            "revision": 13702,
+            "lastModified": "2020-04-07T18:32:15Z",
+            "revision": 15199,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots"
         },
         {
@@ -6392,6 +6399,7 @@
         {
             "id": "e2",
             "eventItem": true,
+            "eventPage": "Valentines Day 2018",
             "name": "Egg",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
@@ -6407,8 +6415,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Egg",
-            "lastModified": "2020-04-07T17:24:03Z",
-            "revision": 15029,
+            "lastModified": "2020-04-07T18:30:51Z",
+            "revision": 15197,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Egg"
         },
         {
@@ -6725,6 +6733,7 @@
         {
             "id": "e3",
             "eventItem": true,
+            "eventPage": "Valentines Day 2018",
             "name": "Flour",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
@@ -6740,8 +6749,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Flour",
-            "lastModified": "2020-04-07T17:24:11Z",
-            "revision": 15033,
+            "lastModified": "2020-04-07T18:30:36Z",
+            "revision": 15195,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Flour"
         },
         {
@@ -7434,22 +7443,18 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Ants'",
             "type": "Misc",
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "freeText": "The [[Gift Coupon]] can be traded for an [[Ant]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Ant",
-            "lastModified": "2020-04-06T21:38:56Z",
-            "revision": 12982,
+            "lastModified": "2020-04-07T18:33:12Z",
+            "revision": 15200,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Ant"
         },
         {
@@ -7457,22 +7462,18 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Camel'",
             "type": "Misc",
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "freeText": "The [[Gift Coupon]] can be traded for a [[Camel]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Camel",
-            "lastModified": "2020-04-06T20:45:23Z",
-            "revision": 12985,
+            "lastModified": "2020-04-07T18:33:17Z",
+            "revision": 15201,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Camel"
         },
         {
@@ -7498,22 +7499,18 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Haunted'",
             "type": "Misc",
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "freeText": "The [[Gift Coupon]] can be traded for a [[Haunted]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Haunted",
-            "lastModified": "2020-04-06T22:12:00Z",
-            "revision": 12984,
+            "lastModified": "2020-04-07T18:33:23Z",
+            "revision": 15202,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Haunted"
         },
         {
@@ -7521,22 +7518,18 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Horse'",
             "type": "Misc",
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "freeText": "The [[Gift Coupon]] can be traded for a [[Horse]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Horse",
-            "lastModified": "2020-04-06T23:08:41Z",
-            "revision": 12975,
+            "lastModified": "2020-04-07T18:33:30Z",
+            "revision": 15203,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Horse"
         },
         {
@@ -7544,22 +7537,18 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Mouse'",
             "type": "Misc",
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "freeText": "The [[Gift Coupon]] can be traded for a [[Mouse]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Mouse",
-            "lastModified": "2020-04-06T20:47:22Z",
-            "revision": 12976,
+            "lastModified": "2020-04-07T18:33:35Z",
+            "revision": 15204,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Mouse"
         },
         {
@@ -7585,6 +7574,7 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Pig'",
             "type": "Misc",
+            "depositable": true,
             "exchange": false,
             "auction": true,
             "freeText": "The [[Gift Coupon]] can be traded for a [[Pig]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
@@ -7593,8 +7583,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Pig",
-            "lastModified": "2020-04-06T20:16:27Z",
-            "revision": 12860,
+            "lastModified": "2020-04-07T18:34:07Z",
+            "revision": 15206,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Pig"
         },
         {
@@ -7602,22 +7592,18 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Spider'",
             "type": "Misc",
-            "defense": 0,
-            "mana": 0,
-            "stamina": 0,
-            "inventoryIncrease": 0,
-            "luck": 0,
             "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "freeText": "The [[Gift Coupon]] can be traded for a [[Spider]] at the :Paws: [[Menagerie]] in the [[Shop|castle shop]].",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Spider",
-            "lastModified": "2020-04-06T20:43:40Z",
-            "revision": 12983,
+            "lastModified": "2020-04-07T18:33:51Z",
+            "revision": 15205,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Spider"
         },
         {
@@ -8546,7 +8532,9 @@
             "ammunition": "Silver Arrow",
             "depositable": true,
             "shopSellPrice": 1785,
+            "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 3,
             "enchantAtk2": 2,
@@ -8573,8 +8561,8 @@
                 "Ruby": "3"
             },
             "pagename": "Hailstorm Bow",
-            "lastModified": "2020-04-06T22:50:42Z",
-            "revision": 13337,
+            "lastModified": "2020-04-07T18:34:56Z",
+            "revision": 15207,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hailstorm+Bow"
         },
         {
@@ -8943,6 +8931,7 @@
             "name": "Heavy Fauchard",
             "type": "Weapon",
             "subType": "Spear",
+            "wikiNote": "Enchantment info still missing",
             "attack": 21,
             "defense": 19,
             "mana": 0,
@@ -8952,6 +8941,7 @@
             "exchange": false,
             "auction": true,
             "quest": false,
+            "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_w94",
@@ -8970,8 +8960,8 @@
                 "Ruby": "3"
             },
             "pagename": "Heavy Fauchard",
-            "lastModified": "2020-04-06T21:14:59Z",
-            "revision": 13842,
+            "lastModified": "2020-04-07T18:36:02Z",
+            "revision": 15208,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Fauchard"
         },
         {
@@ -12174,6 +12164,7 @@
         {
             "id": "e127",
             "eventItem": true,
+            "eventPage": "Monster Hunt 2018",
             "name": "🧟‍♂️ Manwolf Armor",
             "type": "Protective Gear",
             "subType": "Armor",
@@ -12182,15 +12173,17 @@
             "mana": 0,
             "levelRequirement": 25,
             "quest": false,
+            "craftable": false,
             "recipe": {},
             "pagename": "Manwolf Armor (Event Item)",
-            "lastModified": "2020-04-06T20:53:45Z",
-            "revision": 12882,
+            "lastModified": "2020-04-07T18:38:44Z",
+            "revision": 15209,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manwolf+Armor+%28Event+Item%29"
         },
         {
             "id": "e129",
             "eventItem": true,
+            "eventPage": "Monster Hunt 2018",
             "name": "🧟‍♂️ Manwolf Boots",
             "type": "Protective Gear",
             "subType": "Boots",
@@ -12199,10 +12192,11 @@
             "mana": 0,
             "levelRequirement": 25,
             "quest": false,
+            "craftable": false,
             "recipe": {},
             "pagename": "Manwolf Boots (Event Item)",
-            "lastModified": "2020-04-06T20:39:23Z",
-            "revision": 12883,
+            "lastModified": "2020-04-07T18:39:01Z",
+            "revision": 15210,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manwolf+Boots+%28Event+Item%29"
         },
         {
@@ -12526,6 +12520,7 @@
         {
             "id": "e4",
             "eventItem": true,
+            "eventPage": "Valentines Day 2018",
             "name": "Milk",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
@@ -12540,8 +12535,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Milk",
-            "lastModified": "2020-04-07T17:25:16Z",
-            "revision": 15070,
+            "lastModified": "2020-04-07T18:29:58Z",
+            "revision": 15193,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Milk"
         },
         {
@@ -17533,6 +17528,7 @@
         {
             "id": "e5",
             "eventItem": true,
+            "eventPage": "Valentines Day 2018",
             "name": "Sugar",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
@@ -17547,8 +17543,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Sugar",
-            "lastModified": "2020-04-07T17:27:33Z",
-            "revision": 15117,
+            "lastModified": "2020-04-07T18:30:32Z",
+            "revision": 15194,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sugar"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-07T22:11:04.459692+00:00",
+    "timestamp": "2020-04-08T12:11:06.082207+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1988,7 +1988,7 @@
         {
             "id": "e9",
             "eventItem": true,
-            "eventPage": "Valentines Day 2018, Trade Union Event 2019",
+            "eventPage": "Valentines Day 2018",
             "name": "🍫Chocolate",
             "type": "Consumable",
             "levelRequirement": 1,
@@ -2001,8 +2001,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Chocolate",
-            "lastModified": "2020-04-06T22:55:42Z",
-            "revision": 14186,
+            "lastModified": "2020-04-08T12:07:41Z",
+            "revision": 15295,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chocolate"
         },
         {
@@ -3503,6 +3503,7 @@
             "shopSellPrice": 310,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "enchantAtk1": 0,
             "enchantAtk2": 0,
@@ -3534,8 +3535,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Council Shield",
-            "lastModified": "2020-04-06T20:12:37Z",
-            "revision": 14276,
+            "lastModified": "2020-04-08T11:54:09Z",
+            "revision": 15288,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Shield"
         },
         {
@@ -7870,6 +7871,7 @@
             "shopSellPrice": 393,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
@@ -7889,8 +7891,8 @@
                 "Ruby": "2"
             },
             "pagename": "Griffin Boots",
-            "lastModified": "2020-04-06T20:23:41Z",
-            "revision": 13076,
+            "lastModified": "2020-04-08T11:54:19Z",
+            "revision": 15289,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Boots"
         },
         {
@@ -13134,12 +13136,13 @@
             "depositable": true,
             "exchange": false,
             "auction": true,
+            "quest": false,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Nosferatu Armor (Event Gear)",
-            "lastModified": "2020-04-07T19:15:46Z",
-            "revision": 15240,
+            "lastModified": "2020-04-08T11:55:12Z",
+            "revision": 15290,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nosferatu+Armor+%28Event+Gear%29"
         },
         {
@@ -14656,10 +14659,12 @@
             "auction": false,
             "freeText": "It increases one of the base stats (either, not both) of a player by 10% for 60 minutes. The effect does not stack.\n\nIt was introduced in the [[Halloween Event 2018]] and used again in the [[Pretender Event 2019]]",
             "quest": false,
+            "enchantable": false,
+            "craftable": false,
             "recipe": {},
             "pagename": "Pumpkin",
-            "lastModified": "2020-04-06T22:52:11Z",
-            "revision": 14191,
+            "lastModified": "2020-04-08T12:06:50Z",
+            "revision": 15294,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pumpkin"
         },
         {

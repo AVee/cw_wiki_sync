@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-08T12:11:06.082207+00:00",
+    "timestamp": "2020-04-08T13:11:09.675965+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -301,12 +301,13 @@
             "exchange": false,
             "auction": false,
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "wikiFreeText": "=Acquisition=\nThe devs gave this cape to some of the lucky players, as thanks for their successful contribution of quest texts. The quest texts were eventually used in the game.\n\nThese lucky players were greeted with the following message in their ChatWarsBot.\n Tonight is the night. This night you were blessed by the gods. They decided to come down and gift you, PlayerName, with a cheese basket. The catch is, this basket is not made out of cheese and it's not even a basket.\n  \n Right now it includes:\n :Present: Assistant box x 1\n Bard's Cape x 1",
             "recipe": {},
             "pagename": "Bard's Cape",
-            "lastModified": "2020-04-07T14:01:04Z",
-            "revision": 14966,
+            "lastModified": "2020-04-08T12:54:41Z",
+            "revision": 15304,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bard%27s+Cape"
         },
         {
@@ -1098,7 +1099,12 @@
             "name": "Broad arrows pack",
             "type": "Misc",
             "wikiNote": "new tier, missing lots of info",
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
             "freeText": "When opened with /use_515 it yields 100 [[Broad Arrow|Broad Arrows]]. Arrow packs can only be crafted and not traded in any way.",
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_515",
@@ -1113,8 +1119,8 @@
                 "Bone Powder": "2"
             },
             "pagename": "Broad Arrows Pack",
-            "lastModified": "2020-04-06T20:48:49Z",
-            "revision": 13434,
+            "lastModified": "2020-04-08T12:30:38Z",
+            "revision": 15299,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Broad+Arrows+Pack"
         },
         {
@@ -1252,7 +1258,11 @@
             "eventPage": "Valentines Day 2018",
             "name": "Cake",
             "type": "Misc",
+            "exchange": false,
+            "auction": false,
             "freeText": "It is a historical item of ChatWars from the event [[Valentines Day 2018]]. It can be consumed with <code>/use_e6</code>. \n\n=Possible rewards from eating cakes=\n* [[Pouch of Gold]]\n* [[Chocolate]]\n* [[Special Cake]]\n* :Bookred: [[Scroll of Rage (Red)]]\n* :Bookred: [[Scroll of Peace (Red)]]\n* [[Valentine's Card]]",
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_e6",
@@ -1266,8 +1276,8 @@
                 "Egg": "1"
             },
             "pagename": "Cake",
-            "lastModified": "2020-04-07T18:29:36Z",
-            "revision": 15192,
+            "lastModified": "2020-04-08T12:39:10Z",
+            "revision": 15303,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cake"
         },
         {
@@ -8950,7 +8960,12 @@
             "name": "Heavy arrows pack",
             "type": "Misc",
             "wikiNote": "new tier, missing lots of info",
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
             "freeText": "When opened with /use_517 it yields 100 [[Heavy Arrow|Heavy Arrows]]. Arrow packs can only be crafted and not traded in any way.",
+            "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_517",
@@ -8964,8 +8979,8 @@
                 "Quality Cloth": "1"
             },
             "pagename": "Heavy Arrows Pack",
-            "lastModified": "2020-04-06T23:02:18Z",
-            "revision": 13439,
+            "lastModified": "2020-04-08T12:33:45Z",
+            "revision": 15301,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Arrows+Pack"
         },
         {
@@ -18447,7 +18462,6 @@
             "eventPage": "Halloween Event 2018",
             "name": "Void Emerald",
             "type": "Misc",
-            "wikiNote": "HW Event Item",
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -18455,11 +18469,12 @@
             "questMinLevel": 0,
             "questPerceptionLevel": 0,
             "dropForestEvening": true,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Void Emerald",
-            "lastModified": "2020-04-07T13:01:52Z",
-            "revision": 14941,
+            "lastModified": "2020-04-08T12:36:47Z",
+            "revision": 15302,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Void+Emerald"
         },
         {
@@ -19305,15 +19320,14 @@
             "eventItem": false,
             "name": "Wooden arrows pack",
             "type": "Misc",
-            "wikiNote": "needs checking",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": false,
-            "shopSellPrice": 0,
             "exchange": false,
             "auction": false,
             "freeText": "When opened with /use_505 it yields 100 [[Wooden Arrow|Wooden Arrows]]. Arrow packs can only be crafted and not traded in any way.",
             "quest": false,
+            "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_505",
@@ -19325,8 +19339,8 @@
                 "Iron Ore": "1"
             },
             "pagename": "Wooden Arrows Pack",
-            "lastModified": "2020-04-06T19:33:12Z",
-            "revision": 13420,
+            "lastModified": "2020-04-08T12:31:43Z",
+            "revision": 15300,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Arrows+Pack"
         },
         {
@@ -19572,11 +19586,12 @@
             "auction": false,
             "freeText": "It was a possible reward for exchanging [[Ichor]] at the [[Scientist]] during the [[Monster Hunt 2018]] event.\n\n=Possible loot=\n\n* :Coupon: [[Gift Coupon: Horse]]\n* :Coupon: [[Gift Coupon: Pig]]\n* :Coupon: [[Gift Coupon: Mouse]]\n* :Coupon: [[Gift Coupon: Owl]]\n* :Coupon: [[Gift Coupon: Gopher]]\n* :Bookgreen: [[Rare Scroll of Peace (Green)]]\n* :Bookgreen: [[Rare Scroll of Rage (Green)]]\n* :Bookblue: [[Rare Scroll of Peace (Blue)]]\n* :Bookblue: [[Rare Scroll of Rage (Blue)]]",
             "quest": false,
+            "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Zombie Chest",
-            "lastModified": "2020-04-06T22:06:38Z",
-            "revision": 14196,
+            "lastModified": "2020-04-08T12:12:06Z",
+            "revision": 15298,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie+Chest"
         },
         {

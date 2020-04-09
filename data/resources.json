@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-09T16:11:05.074103+00:00",
+    "timestamp": "2020-04-09T19:11:04.263422+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5177,10 +5177,14 @@
             "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 1632,
             "exchange": false,
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantDef1": 2,
+            "enchantMana1": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a105",
@@ -5198,8 +5202,8 @@
                 "Sapphire": "20"
             },
             "pagename": "Discarnate Robe",
-            "lastModified": "2020-04-09T15:23:44Z",
-            "revision": 15319,
+            "lastModified": "2020-04-09T18:42:49Z",
+            "revision": 15321,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Robe"
         },
         {

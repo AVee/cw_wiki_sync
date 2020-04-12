@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-09T19:11:04.263422+00:00",
+    "timestamp": "2020-04-12T17:11:04.295843+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20022,9 +20022,12 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 3,
+            "enchantDef1": 2,
             "craftable": true,
             "recipeIncomplete": false,
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
             "recipe": {
                 "Windstalker Bow Part": "9",
                 "Windstalker Bow Recipe": "1",
@@ -20036,8 +20039,8 @@
                 "Hardener": "7"
             },
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-04-08T17:27:36Z",
-            "revision": 15316,
+            "lastModified": "2020-04-12T17:07:10Z",
+            "revision": 15336,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker+Bow"
         }
     ],

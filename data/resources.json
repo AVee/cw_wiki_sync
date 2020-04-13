@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-13T21:11:07.292538+00:00",
+    "timestamp": "2020-04-13T22:11:05.126879+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20267,11 +20267,13 @@
             "recipe": {
                 "Coke": "1",
                 "Quality Cloth": "1",
-                "Steel": "5"
+                "Steel": "5",
+                "Stick": "9",
+                "Bone Powder": "2"
             },
             "pagename": "Mechblade Arrows Pack",
-            "lastModified": "2020-04-13T20:46:25Z",
-            "revision": 15366,
+            "lastModified": "2020-04-13T21:18:28Z",
+            "revision": 15368,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mechblade+Arrows+Pack"
         },
         {

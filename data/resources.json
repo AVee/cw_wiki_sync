@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-12T17:11:04.295843+00:00",
+    "timestamp": "2020-04-13T07:11:04.886242+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20042,16 +20042,17 @@
             "lastModified": "2020-04-12T17:07:10Z",
             "revision": 15336,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker+Bow"
-        }
-    ],
-    "incomplete": [
+        },
         {
-            "id": "??",
+            "id": "w103",
             "eventItem": false,
             "name": "Decimation Harpoon",
             "type": "Weapon",
             "subType": "Spear",
             "wikiNote": "stub page, missing detailed info",
+            "attack": 26,
+            "defense": 24,
+            "mana": 0,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -20076,17 +20077,20 @@
                 "Hardener": "8"
             },
             "pagename": "Decimation Harpoon",
-            "lastModified": "2020-04-06T19:28:23Z",
-            "revision": 14694,
+            "lastModified": "2020-04-13T07:10:11Z",
+            "revision": 15347,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation+Harpoon"
         },
         {
-            "id": "??",
+            "id": "a108",
             "eventItem": false,
             "name": "Discarnate Circlet",
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
+            "attack": 14,
+            "defense": 30,
+            "mana": 205,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -20095,6 +20099,7 @@
             "craftable": true,
             "recipeIncomplete": false,
             "craftSkill": "Crafting (Skill)",
+            "craftMana": 800,
             "recipe": {
                 "Discarnate Circlet Recipe": "1",
                 "Discarnate Circlet Part": "8",
@@ -20109,17 +20114,20 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-04-06T19:28:37Z",
-            "revision": 14700,
+            "lastModified": "2020-04-13T07:05:59Z",
+            "revision": 15344,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet"
         },
         {
-            "id": "??",
+            "id": "w107",
             "eventItem": false,
             "name": "Malificent Maul",
             "type": "Weapon",
             "subType": "Blunt",
             "wikiNote": "info incomplete",
+            "attack": 24,
+            "defense": 26,
+            "mana": 0,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -20138,18 +20146,21 @@
                 "Silver Frame": "12"
             },
             "pagename": "Malificent Maul",
-            "lastModified": "2020-04-06T19:29:16Z",
-            "revision": 14717,
+            "lastModified": "2020-04-13T07:07:59Z",
+            "revision": 15345,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent+Maul"
         },
         {
-            "id": "??",
+            "id": "a107",
             "eventItem": false,
             "name": "Overseer Helmet",
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
             "wikiNote": "new item, not much data known",
+            "attack": 10,
+            "defense": 33,
+            "mana": 0,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -20175,10 +20186,12 @@
                 "Sapphire": "9"
             },
             "pagename": "Overseer Helmet",
-            "lastModified": "2020-04-06T19:30:19Z",
-            "revision": 14741,
+            "lastModified": "2020-04-13T07:09:03Z",
+            "revision": 15346,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet"
-        },
+        }
+    ],
+    "incomplete": [
         {
             "id": "??",
             "eventItem": false,

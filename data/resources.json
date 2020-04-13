@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-13T07:11:04.886242+00:00",
+    "timestamp": "2020-04-13T08:11:08.848267+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1341,7 +1341,7 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a87",
+            "craftCommand": "/craft_a87",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -1357,8 +1357,8 @@
                 "Quality Cloth": "18"
             },
             "pagename": "Celestial Armor",
-            "lastModified": "2020-04-06T21:37:21Z",
-            "revision": 13841,
+            "lastModified": "2020-04-13T07:24:34Z",
+            "revision": 15355,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor"
         },
         {
@@ -1573,7 +1573,7 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a90",
+            "craftCommand": "/craft_a90",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -1591,8 +1591,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Bracers",
-            "lastModified": "2020-04-07T18:24:07Z",
-            "revision": 15190,
+            "lastModified": "2020-04-13T07:23:58Z",
+            "revision": 15353,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Bracers"
         },
         {
@@ -1689,7 +1689,7 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a88",
+            "craftCommand": "/craft_a88",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -1707,8 +1707,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Celestial Helmet",
-            "lastModified": "2020-04-07T17:44:57Z",
-            "revision": 15140,
+            "lastModified": "2020-04-13T07:24:08Z",
+            "revision": 15354,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet"
         },
         {
@@ -3155,7 +3155,7 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a80",
+            "craftCommand": "/craft_a80",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -3171,8 +3171,8 @@
                 "Coke": "11"
             },
             "pagename": "Council Boots",
-            "lastModified": "2020-04-07T18:32:15Z",
-            "revision": 15199,
+            "lastModified": "2020-04-13T07:22:09Z",
+            "revision": 15351,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots"
         },
         {
@@ -3406,7 +3406,7 @@
             "enchantMana3": 5,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_79",
+            "craftCommand": "/craft_a79",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -3422,8 +3422,8 @@
                 "Quality Cloth": "2"
             },
             "pagename": "Council Helmet",
-            "lastModified": "2020-04-06T22:17:32Z",
-            "revision": 13750,
+            "lastModified": "2020-04-13T07:21:32Z",
+            "revision": 15350,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet"
         },
         {
@@ -7781,7 +7781,7 @@
             "enchantMana4": 0,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a83",
+            "craftCommand": "/craft_a83",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -7797,8 +7797,8 @@
                 "Ruby": "7"
             },
             "pagename": "Griffin Armor",
-            "lastModified": "2020-04-06T22:18:35Z",
-            "revision": 13074,
+            "lastModified": "2020-04-13T07:22:47Z",
+            "revision": 15352,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Armor"
         },
         {
@@ -7894,7 +7894,7 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a85",
+            "craftCommand": "/craft_a85",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -7910,8 +7910,8 @@
                 "Ruby": "2"
             },
             "pagename": "Griffin Boots",
-            "lastModified": "2020-04-08T11:54:19Z",
-            "revision": 15289,
+            "lastModified": "2020-04-13T07:24:28Z",
+            "revision": 15357,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Boots"
         },
         {
@@ -8011,7 +8011,7 @@
             "enchantMana1": 0,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a86",
+            "craftCommand": "/craft_a86",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -8027,8 +8027,8 @@
                 "Ruby": "1"
             },
             "pagename": "Griffin Gloves",
-            "lastModified": "2020-04-06T22:13:09Z",
-            "revision": 13077,
+            "lastModified": "2020-04-13T07:24:42Z",
+            "revision": 15356,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Gloves"
         },
         {
@@ -10326,7 +10326,7 @@
             "enchantDef4": 3,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_w37",
+            "craftCommand": "/craft_w37",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
@@ -10342,8 +10342,8 @@
                 "Hardener": "9"
             },
             "pagename": "King's Defender",
-            "lastModified": "2020-04-06T19:58:12Z",
-            "revision": 14273,
+            "lastModified": "2020-04-13T07:20:31Z",
+            "revision": 15348,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=King%27s+Defender"
         },
         {
@@ -11991,7 +11991,7 @@
             "enchantMana1": 0,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a103",
+            "craftCommand": "/craft_a103",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -12007,8 +12007,8 @@
                 "Ruby": "15"
             },
             "pagename": "Manticore Armor",
-            "lastModified": "2020-04-06T19:29:25Z",
-            "revision": 14720,
+            "lastModified": "2020-04-13T07:27:44Z",
+            "revision": 15361,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Armor"
         },
         {
@@ -20026,6 +20026,7 @@
             "enchantDef1": 2,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_w106",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "recipe": {
@@ -20039,8 +20040,8 @@
                 "Hardener": "7"
             },
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-04-12T17:07:10Z",
-            "revision": 15336,
+            "lastModified": "2020-04-13T07:26:35Z",
+            "revision": 15359,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker+Bow"
         },
         {
@@ -20061,6 +20062,7 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_w103",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -20077,8 +20079,8 @@
                 "Hardener": "8"
             },
             "pagename": "Decimation Harpoon",
-            "lastModified": "2020-04-13T07:10:11Z",
-            "revision": 15347,
+            "lastModified": "2020-04-13T07:25:33Z",
+            "revision": 15358,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation+Harpoon"
         },
         {
@@ -20098,6 +20100,7 @@
             "quest": false,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_a108",
             "craftSkill": "Crafting (Skill)",
             "craftMana": 800,
             "recipe": {
@@ -20114,8 +20117,8 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-04-13T07:05:59Z",
-            "revision": 15344,
+            "lastModified": "2020-04-13T07:29:05Z",
+            "revision": 15364,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet"
         },
         {
@@ -20135,6 +20138,7 @@
             "quest": false,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/craft_w107",
             "recipe": {
                 "Hardener": "16",
                 "Quality Cloth": "4",
@@ -20146,8 +20150,8 @@
                 "Silver Frame": "12"
             },
             "pagename": "Malificent Maul",
-            "lastModified": "2020-04-13T07:07:59Z",
-            "revision": 15345,
+            "lastModified": "2020-04-13T07:26:56Z",
+            "revision": 15360,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent+Maul"
         },
         {
@@ -20169,7 +20173,7 @@
             "enchantable": true,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_??",
+            "craftCommand": "/craft_a107",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
@@ -20186,8 +20190,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Overseer Helmet",
-            "lastModified": "2020-04-13T07:09:03Z",
-            "revision": 15346,
+            "lastModified": "2020-04-13T07:28:26Z",
+            "revision": 15363,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet"
         }
     ],

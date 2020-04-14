@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-13T23:11:03.898560+00:00",
+    "timestamp": "2020-04-14T15:11:05.091516+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20221,6 +20221,35 @@
             "lastModified": "2020-04-13T22:52:33Z",
             "revision": 15370,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mechblade+Arrows+Pack"
+        },
+        {
+            "id": "523",
+            "eventItem": false,
+            "name": "Bodkin arrows pack",
+            "type": "Misc",
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/craft_523",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 5,
+            "craftMana": 500,
+            "recipe": {
+                "Bone Powder": "1",
+                "Stick": "9",
+                "Silver Ore": "6",
+                "Steel": "4",
+                "Coke": "1",
+                "Quality Cloth": "1"
+            },
+            "pagename": "Bodkin Arrows Pack",
+            "lastModified": "2020-04-14T14:43:24Z",
+            "revision": 15375,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bodkin+Arrows+Pack"
         }
     ],
     "incomplete": [
@@ -20277,29 +20306,6 @@
             "lastModified": "2020-04-13T20:48:59Z",
             "revision": 15367,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrows+Pack"
-        },
-        {
-            "id": "??",
-            "eventItem": false,
-            "name": "Bodkin arrows pack",
-            "type": "Misc",
-            "depositable": false,
-            "exchange": false,
-            "auction": false,
-            "quest": false,
-            "enchantable": false,
-            "craftable": true,
-            "recipeIncomplete": true,
-            "craftCommand": "/craft_??",
-            "craftSkill": "Crafting (Skill)",
-            "recipe": {
-                "Bone Powder": "1",
-                "Stick": "9"
-            },
-            "pagename": "Bodkin Arrows Pack",
-            "lastModified": "2020-04-13T20:38:54Z",
-            "revision": 15365,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bodkin+Arrows+Pack"
         }
     ]
 }

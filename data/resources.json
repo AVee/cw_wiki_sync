@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-14T15:11:05.091516+00:00",
+    "timestamp": "2020-04-14T18:11:04.656952+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20250,6 +20250,33 @@
             "lastModified": "2020-04-14T14:43:24Z",
             "revision": 15375,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bodkin+Arrows+Pack"
+        },
+        {
+            "id": "521",
+            "eventItem": false,
+            "name": "Piercing arrows pack",
+            "type": "Misc",
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/craft_521",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 5,
+            "craftMana": 500,
+            "recipe": {
+                "Quality Cloth": "1",
+                "Stick": "9",
+                "Steel": "6",
+                "Coke": "1"
+            },
+            "pagename": "Piercing Arrows Pack",
+            "lastModified": "2020-04-14T17:59:19Z",
+            "revision": 15377,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrows+Pack"
         }
     ],
     "incomplete": [
@@ -20284,28 +20311,6 @@
             "lastModified": "2020-04-06T22:06:27Z",
             "revision": 14303,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Rage+%28Yellow%29"
-        },
-        {
-            "id": "??",
-            "eventItem": false,
-            "name": "Piercing arrows pack",
-            "type": "Misc",
-            "depositable": false,
-            "exchange": false,
-            "auction": false,
-            "quest": false,
-            "enchantable": false,
-            "craftable": true,
-            "recipeIncomplete": false,
-            "craftCommand": "/craft_??",
-            "craftSkill": "Crafting (Skill)",
-            "recipe": {
-                "Quality Cloth": "1"
-            },
-            "pagename": "Piercing Arrows Pack",
-            "lastModified": "2020-04-13T20:48:59Z",
-            "revision": 15367,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrows+Pack"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-14T18:11:04.656952+00:00",
+    "timestamp": "2020-04-17T17:11:07.643463+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -19899,6 +19899,7 @@
             "defense": 14,
             "mana": 0,
             "levelRequirement": 60,
+            "ammunition": "Bodkin Arrow, Mechblade Arrow, Piercing Arrow",
             "depositable": true,
             "shopSellPrice": 3000,
             "exchange": false,
@@ -19922,8 +19923,8 @@
                 "Heartstriker Bow Recipe": "1"
             },
             "pagename": "Heartstriker Bow",
-            "lastModified": "2020-04-08T17:20:28Z",
-            "revision": 15312,
+            "lastModified": "2020-04-17T16:55:24Z",
+            "revision": 15383,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker+Bow"
         },
         {
@@ -20017,6 +20018,7 @@
             "defense": 15,
             "mana": 0,
             "levelRequirement": 60,
+            "ammunition": "Bodkin Arrow, Mechblade Arrow, Piercing Arrow",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -20040,8 +20042,8 @@
                 "Hardener": "7"
             },
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-04-13T07:26:35Z",
-            "revision": 15359,
+            "lastModified": "2020-04-17T16:54:11Z",
+            "revision": 15382,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker+Bow"
         },
         {
@@ -20277,6 +20279,62 @@
             "lastModified": "2020-04-14T17:59:19Z",
             "revision": 15377,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrows+Pack"
+        },
+        {
+            "id": "520",
+            "eventItem": false,
+            "name": "Piercing arrow",
+            "type": "Consumable",
+            "subType": "Ammunition",
+            "shopSellPrice": 0,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Piercing Arrow",
+            "lastModified": "2020-04-17T16:52:19Z",
+            "revision": 15381,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrow"
+        },
+        {
+            "id": "522",
+            "eventItem": false,
+            "name": "Bodkin arrow",
+            "type": "Consumable",
+            "subType": "Ammunition",
+            "depositable": false,
+            "shopSellPrice": 0,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Bodkin Arrow",
+            "lastModified": "2020-04-17T16:51:23Z",
+            "revision": 15380,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bodkin+Arrow"
+        },
+        {
+            "id": "524",
+            "eventItem": false,
+            "name": "Mechblade arrow",
+            "type": "Consumable",
+            "subType": "Ammunition",
+            "depositable": false,
+            "shopSellPrice": 0,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Mechblade Arrow",
+            "lastModified": "2020-04-17T16:48:58Z",
+            "revision": 15379,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mechblade+Arrow"
         }
     ],
     "incomplete": [

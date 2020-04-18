@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-18T00:11:09.883656+00:00",
+    "timestamp": "2020-04-18T23:11:05.891481+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -4470,6 +4470,7 @@
             "defense": 12,
             "mana": 0,
             "levelRequirement": 35,
+            "ammunition": "Silver Arrow",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -4478,8 +4479,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Bow (Event Item)",
-            "lastModified": "2020-04-07T19:39:32Z",
-            "revision": 15247,
+            "lastModified": "2020-04-18T22:37:43Z",
+            "revision": 15439,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bow+%28Event+Item%29"
         },
         {
@@ -9989,6 +9990,7 @@
             "defense": 8,
             "mana": 0,
             "levelRequirement": 25,
+            "ammunition": "Steel Arrow",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -9997,8 +9999,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Imp Bow (Event Item)",
-            "lastModified": "2020-04-07T19:39:51Z",
-            "revision": 15258,
+            "lastModified": "2020-04-18T22:37:08Z",
+            "revision": 15438,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imp+Bow+%28Event+Item%29"
         },
         {
@@ -20047,6 +20049,7 @@
             "levelRequirement": 60,
             "ammunition": "Bodkin Arrow, Mechblade Arrow, Piercing Arrow",
             "depositable": true,
+            "shopSellPrice": 3300,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -20069,8 +20072,8 @@
                 "Hardener": "7"
             },
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-04-17T16:54:11Z",
-            "revision": 15382,
+            "lastModified": "2020-04-18T22:31:18Z",
+            "revision": 15437,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker+Bow"
         },
         {

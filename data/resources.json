@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-20T00:11:09.820281+00:00",
+    "timestamp": "2020-04-21T22:11:04.808576+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5141,6 +5141,7 @@
             "eventItem": false,
             "name": "Discarnate Circlet part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -5152,8 +5153,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Discarnate Circlet Part",
-            "lastModified": "2020-04-17T23:17:28Z",
-            "revision": 15428,
+            "lastModified": "2020-04-21T22:04:42Z",
+            "revision": 15488,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet+Part"
         },
         {
@@ -12149,6 +12150,7 @@
             "name": "Manticore Boots part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -12162,8 +12164,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Boots Part",
-            "lastModified": "2020-04-19T23:52:48Z",
-            "revision": 15467,
+            "lastModified": "2020-04-21T22:08:50Z",
+            "revision": 15489,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Boots+Part"
         },
         {

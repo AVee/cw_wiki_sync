@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-22T00:11:07.236896+00:00",
+    "timestamp": "2020-04-22T01:11:12.124970+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -384,6 +384,7 @@
             "attack": 19,
             "defense": 21,
             "mana": 0,
+            "weight": 220,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 2160,
@@ -412,8 +413,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Black Morningstar",
-            "lastModified": "2020-04-07T13:07:39Z",
-            "revision": 14949,
+            "lastModified": "2020-04-22T00:52:27Z",
+            "revision": 15516,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar"
         },
         {
@@ -792,6 +793,7 @@
             "wikiNote": "needs weight, effect added and error checking",
             "duration": 30,
             "effect": "It increases the amount of resources found in [[Quest|quests]].",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -811,8 +813,8 @@
                 "Spring Bay Leaf": "1"
             },
             "pagename": "Bottle of Greed",
-            "lastModified": "2020-04-07T14:01:59Z",
-            "revision": 14968,
+            "lastModified": "2020-04-22T00:31:11Z",
+            "revision": 15506,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Greed"
         },
         {
@@ -847,6 +849,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "+3 [[Mana]] regeneration per minute over potion duration.",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -867,8 +870,8 @@
                 "Plexisop": "1"
             },
             "pagename": "Bottle of Mana",
-            "lastModified": "2020-04-07T17:22:59Z",
-            "revision": 14981,
+            "lastModified": "2020-04-22T00:32:49Z",
+            "revision": 15512,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Mana"
         },
         {
@@ -880,6 +883,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 480,
             "effect": "Decreases [[Character#Stats|base stats]] by 20% and swaps them (Attack becomes Defense and vice versa)",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -902,8 +906,8 @@
                 "Mercy Sassafras": "2"
             },
             "pagename": "Bottle of Morph",
-            "lastModified": "2020-04-07T17:23:01Z",
-            "revision": 14982,
+            "lastModified": "2020-04-22T00:33:39Z",
+            "revision": 15515,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Morph"
         },
         {
@@ -915,6 +919,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "Increase [[Harvest]] level by 5",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -932,8 +937,8 @@
                 "Kloliarway": "1"
             },
             "pagename": "Bottle of Nature",
-            "lastModified": "2020-04-07T17:23:03Z",
-            "revision": 14983,
+            "lastModified": "2020-04-22T00:31:33Z",
+            "revision": 15507,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Nature"
         },
         {
@@ -997,6 +1002,7 @@
             "wikiNote": "needs weight & error checking",
             "duration": 30,
             "effect": "Increase [[Character#Stats|base attack]] by 15% (floored to next lowest integer)",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -1015,8 +1021,8 @@
                 "Spring Bay Leaf": "1"
             },
             "pagename": "Bottle of Rage",
-            "lastModified": "2020-04-07T17:23:07Z",
-            "revision": 14986,
+            "lastModified": "2020-04-22T00:30:13Z",
+            "revision": 15503,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Rage"
         },
         {
@@ -6878,15 +6884,14 @@
             "depositable": true,
             "exchange": false,
             "auction": true,
-            "freeText": "Used to reroll stats for rings and amulets.",
+            "freeText": "Used to reroll only the stats (values of effects) for rings and amulets. Can also be used to reroll stats for the modifiers of [[Nomenclature|T5 Gear]].\n\nIt can be found by completing guild quests.",
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "wikiFreeText": "Random drop from completing guild quests.\n\nRerolls stats, but not class of a ring/amulet.",
             "recipe": {},
             "pagename": "Force Stone",
-            "lastModified": "2020-04-06T20:48:52Z",
-            "revision": 13867,
+            "lastModified": "2020-04-22T00:22:37Z",
+            "revision": 15500,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Force+Stone"
         },
         {
@@ -7797,6 +7802,7 @@
             "attack": 16,
             "defense": 34,
             "mana": 0,
+            "weight": 510,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 1035,
@@ -7834,8 +7840,8 @@
                 "Ruby": "7"
             },
             "pagename": "Griffin Armor",
-            "lastModified": "2020-04-13T07:22:47Z",
-            "revision": 15352,
+            "lastModified": "2020-04-22T00:52:43Z",
+            "revision": 15517,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Armor"
         },
         {
@@ -14461,6 +14467,7 @@
             "wikiNote": "needs weight, effect added and error checking",
             "duration": 30,
             "effect": "It increases the amount of resources found in [[Quest|quests]].",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -14478,8 +14485,8 @@
                 "Kloliarway": "1"
             },
             "pagename": "Potion of Greed",
-            "lastModified": "2020-04-07T17:25:33Z",
-            "revision": 15083,
+            "lastModified": "2020-04-22T00:30:47Z",
+            "revision": 15505,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Greed"
         },
         {
@@ -14514,6 +14521,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "+2 [[Mana]] regeneration per minute over potion duration.",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -14534,8 +14542,8 @@
                 "Powder": "3"
             },
             "pagename": "Potion of Mana",
-            "lastModified": "2020-04-07T17:53:48Z",
-            "revision": 15147,
+            "lastModified": "2020-04-22T00:32:32Z",
+            "revision": 15511,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Mana"
         },
         {
@@ -14547,6 +14555,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 480,
             "effect": "Decreases [[Character#Stats|base stats]] by 25% and swaps them (Attack becomes Defense and vice versa)",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -14568,8 +14577,8 @@
                 "Mammoth Dill": "1"
             },
             "pagename": "Potion of Morph",
-            "lastModified": "2020-04-07T17:25:37Z",
-            "revision": 15085,
+            "lastModified": "2020-04-22T00:33:23Z",
+            "revision": 15514,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Morph"
         },
         {
@@ -14581,6 +14590,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "Increase [[Harvest]] level by 3",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -14599,8 +14609,8 @@
                 "Bone Powder": "3"
             },
             "pagename": "Potion of Nature",
-            "lastModified": "2020-04-07T17:54:30Z",
-            "revision": 15150,
+            "lastModified": "2020-04-22T00:32:02Z",
+            "revision": 15509,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Nature"
         },
         {
@@ -14643,6 +14653,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "Increase [[Character#Stats|base attack]] by 10% (floored to next lowest integer)",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -14660,8 +14671,8 @@
                 "Plasma of Abyss": "1"
             },
             "pagename": "Potion of Rage",
-            "lastModified": "2020-04-07T17:54:02Z",
-            "revision": 15148,
+            "lastModified": "2020-04-22T00:29:50Z",
+            "revision": 15502,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Rage"
         },
         {
@@ -18323,6 +18334,7 @@
             "wikiNote": "needs weight, effect added and error checking",
             "duration": 30,
             "effect": "It increases the amount of resources found in [[Quest|quests]].",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -18340,8 +18352,8 @@
                 "Ilaves": "1"
             },
             "pagename": "Vial of Greed",
-            "lastModified": "2020-04-07T17:27:44Z",
-            "revision": 15124,
+            "lastModified": "2020-04-22T00:30:35Z",
+            "revision": 15504,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Greed"
         },
         {
@@ -18376,6 +18388,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "+1 [[Mana]] regeneration per minute over potion duration.",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -18395,8 +18408,8 @@
                 "Powder": "3"
             },
             "pagename": "Vial of Mana",
-            "lastModified": "2020-04-07T18:09:49Z",
-            "revision": 15168,
+            "lastModified": "2020-04-22T00:32:17Z",
+            "revision": 15510,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Mana"
         },
         {
@@ -18408,6 +18421,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 480,
             "effect": "Decreases [[Character#Stats|base stats]] by 30% and swaps them (Attack becomes Defense and vice versa)",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -18427,8 +18441,8 @@
                 "Flammia Nut": "1"
             },
             "pagename": "Vial of Morph",
-            "lastModified": "2020-04-07T17:27:47Z",
-            "revision": 15126,
+            "lastModified": "2020-04-22T00:33:09Z",
+            "revision": 15513,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Morph"
         },
         {
@@ -18440,6 +18454,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "Increase [[Harvest]] level by 1",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -18457,8 +18472,8 @@
                 "Ephijora": "1"
             },
             "pagename": "Vial of Nature",
-            "lastModified": "2020-04-07T17:27:49Z",
-            "revision": 15127,
+            "lastModified": "2020-04-22T00:31:46Z",
+            "revision": 15508,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Nature"
         },
         {
@@ -18501,6 +18516,7 @@
             "wikiNote": "needs weight added and error checking",
             "duration": 30,
             "effect": "Increase [[Character#Stats|base attack]] by 5% (floored to next lowest integer)",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -18517,8 +18533,8 @@
                 "Storm Hyssop": "1"
             },
             "pagename": "Vial of Rage",
-            "lastModified": "2020-04-07T17:27:51Z",
-            "revision": 15129,
+            "lastModified": "2020-04-22T00:21:02Z",
+            "revision": 15499,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Rage"
         },
         {
@@ -20470,6 +20486,26 @@
             "lastModified": "2020-04-21T23:53:11Z",
             "revision": 15496,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Engraving+%28Prefix%29"
+        },
+        {
+            "id": "cst",
+            "eventItem": false,
+            "name": "Chaos Stone",
+            "type": "Misc",
+            "wikiNote": "needs maybe extra template stuff for better support",
+            "weight": 1,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "freeText": "Used to reroll the entire stat and effect field (new effect types, as well as classes) for rings and amulets. Can also be used to reroll the modifiers of [[Nomenclature|T5 Gear]].\n\nIt can be found by completing guild quests.",
+            "quest": false,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Chaos Stone",
+            "lastModified": "2020-04-22T00:23:52Z",
+            "revision": 15501,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chaos+Stone"
         }
     ],
     "incomplete": [

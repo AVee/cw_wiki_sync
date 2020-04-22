@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-22T06:11:04.347338+00:00",
+    "timestamp": "2020-04-22T14:11:04.079212+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -12131,6 +12131,7 @@
             "mana": 0,
             "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 687,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -12158,8 +12159,8 @@
                 "Silver Mold": "6"
             },
             "pagename": "Manticore Boots",
-            "lastModified": "2020-04-06T19:29:34Z",
-            "revision": 14723,
+            "lastModified": "2020-04-22T13:51:17Z",
+            "revision": 15546,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Boots"
         },
         {

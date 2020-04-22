@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-22T02:11:12.277872+00:00",
+    "timestamp": "2020-04-22T03:11:06.213739+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -13863,6 +13863,7 @@
             "attack": 0,
             "defense": 10,
             "mana": 0,
+            "weight": 180,
             "levelRequirement": 25,
             "depositable": true,
             "shopSellPrice": 239,
@@ -13890,8 +13891,8 @@
                 "Silver Mold": "1"
             },
             "pagename": "Order Shield",
-            "lastModified": "2020-04-07T18:14:53Z",
-            "revision": 15185,
+            "lastModified": "2020-04-22T02:13:33Z",
+            "revision": 15542,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Shield"
         },
         {

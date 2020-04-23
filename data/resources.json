@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-22T14:11:04.079212+00:00",
+    "timestamp": "2020-04-23T06:11:04.727299+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -14422,6 +14422,7 @@
             "eventItem": false,
             "name": "Poison Pack",
             "type": "Misc",
+            "weight": 3,
             "freeText": "It is a container-item, that yields 5 [[Bottle of Poison]] when opening.",
             "craftable": true,
             "recipeIncomplete": false,
@@ -14434,8 +14435,8 @@
                 "Ephijora": "1"
             },
             "pagename": "Poison Pack",
-            "lastModified": "2020-04-06T19:24:30Z",
-            "revision": 13415,
+            "lastModified": "2020-04-23T05:58:31Z",
+            "revision": 15547,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poison+Pack"
         },
         {
@@ -15270,6 +15271,7 @@
             "eventItem": false,
             "name": "Remedy Pack",
             "type": "Misc",
+            "weight": 3,
             "freeText": "It is a container-item, that yields 5 [[Bottle of Remedy]] when opening.",
             "craftable": true,
             "recipeIncomplete": false,
@@ -15282,8 +15284,8 @@
                 "Tecceagrass": "1"
             },
             "pagename": "Remedy Pack",
-            "lastModified": "2020-04-06T21:17:12Z",
-            "revision": 13416,
+            "lastModified": "2020-04-23T05:59:03Z",
+            "revision": 15548,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Remedy+Pack"
         },
         {
@@ -18145,6 +18147,7 @@
             "name": "Torch",
             "type": "Consumable",
             "wikiNote": "needs weight, wrapping & checking",
+            "weight": 50,
             "levelRequirement": 0,
             "depositable": false,
             "exchange": false,
@@ -18163,8 +18166,8 @@
                 "Coke": "1"
             },
             "pagename": "Torch",
-            "lastModified": "2020-04-07T12:59:36Z",
-            "revision": 14936,
+            "lastModified": "2020-04-23T06:07:55Z",
+            "revision": 15549,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Torch"
         },
         {

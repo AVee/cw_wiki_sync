@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-23T06:11:04.727299+00:00",
+    "timestamp": "2020-04-26T21:11:04.481217+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5303,11 +5303,11 @@
                 "Discarnate Shoes Recipe": "1",
                 "Artisan Mold": "3",
                 "String": "11",
-                "Quality Cloth": "2"
+                "Quality Cloth": "3"
             },
             "pagename": "Discarnate Shoes",
-            "lastModified": "2020-04-06T19:28:50Z",
-            "revision": 14706,
+            "lastModified": "2020-04-26T20:29:10Z",
+            "revision": 15551,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Shoes"
         },
         {

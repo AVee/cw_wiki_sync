@@ -9,6 +9,7 @@ from items.properties import Property
 from mwclient.client import Site
 import secrets
 import io
+from pagegenerators.tools import pagegenerator
 
 errors = []
 
@@ -49,26 +50,15 @@ def must_be_in(i, field, set):
     val = i.__dict__[field]
     if not val.value in set:
         errors.append(ItemValueError(field, f'value must be one of {str(list)}'))
-    
-def run():
+
+@pagegenerator(['Items needing attention', 'Items needing attention (without notes)'], 'Automatic item checks')    
+def run(items):
     global errors
-    items = item.load_from_file('../data/resources.json')
+
     allitems = items['items'] + items['incomplete']
     allitems.sort(key = lambda i : i.pagename)
 
-    site = Site('chatwars-wiki.de', path='/')
-    site.login(secrets.wiki_username, secrets.wiki_password)
-    page = site.pages['Items needing attention']
-    oldtext = page.text()
-
-    page2 = site.pages['Items needing attention (without notes)']
-    oldtext2 = page2.text()
-    
     f = io.StringIO()
-    f.write('This is an automatically generated page which list item pages where issues where detected. You can use this page to find things that might need to be fixed.\n\n')
-    f.write("'''Please note:''' These checks run every hour, if you fixed something it might take a while before it shows here. Also, there is no point in editing this page, it will be overwritten automatically.\n\n")
-    f.write("'''Please note:''' This is work in progress. All checks done should be valid, but the checks are far from complete.\n\n")
-    
     f2 = io.StringIO()
     
     for i in allitems:
@@ -128,14 +118,10 @@ def run():
     newtext = f.getvalue().strip()
     f.close()
     
-    if oldtext != newtext:
-        page.save(newtext, 'Automatic item checks')
-
     newtext2 = f2.getvalue().strip()
     f2.close()
     
-    if oldtext2 != newtext2:
-        page2.save(newtext2, 'Automatic item checks')
+    return [newtext, newtext2]
 
 if __name__ == '__main__':
     run()

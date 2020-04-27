@@ -18,6 +18,8 @@ import io
 from typing import List, Union
 from datetime import datetime, timezone
 import urllib
+from importlib.resources import path
+import os
 
 class Item(object):
     def __init__(self, pagename:str=None, page:Page=None, **kwargs):
@@ -279,7 +281,10 @@ def load_all_items(site: Site):
         
     return items
 
-def load_from_file(path: str):
+def load_from_file(path: str = None):
+    if not path:
+        path = os.path.join(os.path.dirname(__file__), '../../data/resources.json')
+        
     with io.open(path, encoding='utf-8') as f:
         items = json.load(f, object_hook=item_deserialize)
         return items

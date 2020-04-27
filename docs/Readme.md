@@ -11,9 +11,14 @@ All known values for certain fields are included in the file, null values are no
 There are two collections in the file, the first being 'items', which contains all valid items. The second is the 'incomplete' collection which contains all items for which the ID is missing. Separating these allows users of the json file to just work with the complete items and ignore work-in-progress items when new stuff is released in Chatwars.
 
 ## Issue lists
-Apart from the json file a few lists are generated with items which might need attention:  
+Apart from the json file this tool also automatically updates a few wiki pages:  
 
-[Items without ID](missingid.md)  
-[Items with notes](wikinotes.md)  
-[Recipe status](recipestatus.md)  
+Issues pages:
+Several checks are run against the item pages. Anything found to be incomplete and things that cannot be correct is documented on these pages.  
+[Items needing attention](https://chatwars-wiki.de/index.php?title=Items_needing_attention)  
+[Items needing attention](https://chatwars-wiki.de/index.php?title=Items_needing_attention_(without_notes))  
+
+Overview pages:  
+[Piece of Equipment](https://chatwars-wiki.de/index.php?title=Piece_of_Equipment)  
+
 

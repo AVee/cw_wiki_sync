@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-27T22:11:10.738049+00:00",
+    "timestamp": "2020-04-27T23:11:07.088672+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -12170,6 +12170,7 @@
             "eventItem": false,
             "name": "Manticore Armor recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -12181,8 +12182,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manticore Armor Recipe",
-            "lastModified": "2020-04-19T23:45:05Z",
-            "revision": 15461,
+            "lastModified": "2020-04-27T22:15:44Z",
+            "revision": 15658,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Armor+Recipe"
         },
         {
@@ -14085,6 +14086,7 @@
             "eventItem": false,
             "name": "Overseer Boots part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -14096,8 +14098,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Boots Part",
-            "lastModified": "2020-04-19T23:59:18Z",
-            "revision": 15481,
+            "lastModified": "2020-04-27T22:15:52Z",
+            "revision": 15659,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Boots+Part"
         },
         {

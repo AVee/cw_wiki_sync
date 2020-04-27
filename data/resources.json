@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-27T17:11:07.531587+00:00",
+    "timestamp": "2020-04-27T18:11:06.980549+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -130,10 +130,12 @@
             "eventItem": false,
             "name": "Assault Cape",
             "type": "Cape",
-            "wikiNote": "Recipe complete, Additional info missing",
+            "wikiNote": "Finished",
             "attack": 6,
             "defense": 3,
             "mana": 0,
+            "weight": 28,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 228,
@@ -170,8 +172,8 @@
                 "Rope": "3"
             },
             "pagename": "Assault Cape",
-            "lastModified": "2020-04-06T20:43:01Z",
-            "revision": 14280,
+            "lastModified": "2020-04-27T17:24:48Z",
+            "revision": 15567,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assault+Cape"
         },
         {
@@ -17624,7 +17626,8 @@
             "eventItem": false,
             "name": "Storm Cloak",
             "type": "Cape",
-            "wikiNote": "needs wrapping, weight and sale price added & error checking",
+            "description": "Nicknamed the Storm Cloak due to an accident in a thunderstorm, the Storm Cloak is a favorite among assassins. Essentially a reinforced Royal Cape, it has a newly attached hood and metal weave to the inside. Capable of stopping some arrows and most dagger strikes, many people enjoy the added protection.",
+            "wikiNote": "Finished",
             "attack": 4,
             "defense": 3,
             "mana": 0,
@@ -17632,12 +17635,13 @@
             "inventoryIncrease": 0,
             "luck": 0,
             "weight": 30,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 165,
             "exchange": false,
             "auction": true,
-            "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].\n\n Nicknamed the Storm Cloak due to an accident in a thunderstorm, the Storm Cloak is a favorite among assassins. Essentially a reinforced Royal Cape, it has a newly attached hood and metal weave to the inside. Capable of stopping some arrows and most dagger strikes, many people enjoy the added protection.",
+            "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 0,
@@ -17665,8 +17669,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Storm Cloak",
-            "lastModified": "2020-04-06T20:45:22Z",
-            "revision": 14275,
+            "lastModified": "2020-04-27T17:11:29Z",
+            "revision": 15566,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm+Cloak"
         },
         {

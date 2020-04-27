@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-27T00:11:06.396667+00:00",
+    "timestamp": "2020-04-27T17:11:07.531587+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -7811,6 +7811,7 @@
             "defense": 34,
             "mana": 0,
             "weight": 510,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 1035,
@@ -7848,8 +7849,8 @@
                 "Ruby": "7"
             },
             "pagename": "Griffin Armor",
-            "lastModified": "2020-04-22T00:52:43Z",
-            "revision": 15517,
+            "lastModified": "2020-04-27T16:45:50Z",
+            "revision": 15559,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Armor"
         },
         {
@@ -8288,10 +8289,12 @@
             "name": "Griffin Knife",
             "type": "Weapon",
             "subType": "Dagger",
+            "wikiNote": "Finished",
             "attack": 15,
             "defense": 0,
             "mana": 0,
             "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 310,
@@ -8320,8 +8323,8 @@
                 "Hardener": "3"
             },
             "pagename": "Griffin Knife",
-            "lastModified": "2020-04-07T12:45:29Z",
-            "revision": 14929,
+            "lastModified": "2020-04-27T16:49:13Z",
+            "revision": 15561,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Knife"
         },
         {
@@ -8539,11 +8542,12 @@
             "name": "Guisarme",
             "type": "Weapon",
             "subType": "Spear",
-            "wikiNote": "wrap, weight info missing",
+            "wikiNote": "Finished",
             "attack": 23,
             "defense": 21,
             "mana": 0,
             "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 2376,
@@ -8582,8 +8586,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Guisarme",
-            "lastModified": "2020-04-22T01:40:10Z",
-            "revision": 15536,
+            "lastModified": "2020-04-27T16:58:17Z",
+            "revision": 15562,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guisarme"
         },
         {
@@ -10167,7 +10171,8 @@
             "name": "Imperial Axe",
             "type": "Weapon",
             "subType": "Blunt",
-            "wikiNote": "needs weight, sale price & wrapping added",
+            "description": "A standard Steel Axe, except for the ruby edge. The blade end has been flattened and replaced with a ruby edge. Having two sides of flat steel, it allows the user to have some creativity. Whether its a vine, forest scenery, or their own castle, each axe is a weapon up the sleeve of anyone willing to wield it.",
+            "wikiNote": "Finished",
             "attack": 17,
             "defense": 17,
             "mana": 0,
@@ -10175,6 +10180,7 @@
             "inventoryIncrease": 0,
             "luck": 0,
             "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 1734,
@@ -10212,8 +10218,8 @@
                 "Ruby": "3"
             },
             "pagename": "Imperial Axe",
-            "lastModified": "2020-04-22T01:40:24Z",
-            "revision": 15539,
+            "lastModified": "2020-04-27T17:01:58Z",
+            "revision": 15563,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial+Axe"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-28T04:11:04.377136+00:00",
+    "timestamp": "2020-04-28T06:11:07.910584+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -296,6 +296,7 @@
             "attack": 2,
             "defense": 2,
             "mana": 0,
+            "weight": 10,
             "wrapping": 1,
             "levelRequirement": 0,
             "depositable": false,
@@ -308,8 +309,8 @@
             "wikiFreeText": "=Acquisition=\nThe devs gave this cape to some of the lucky players, as thanks for their successful contribution of quest texts. The quest texts were eventually used in the game.\n\nThese lucky players were greeted with the following message in their ChatWarsBot.\n Tonight is the night. This night you were blessed by the gods. They decided to come down and gift you, PlayerName, with a cheese basket. The catch is, this basket is not made out of cheese and it's not even a basket.\n  \n Right now it includes:\n :Present: Assistant box x 1\n Bard's Cape x 1",
             "recipe": {},
             "pagename": "Bard's Cape",
-            "lastModified": "2020-04-08T12:54:41Z",
-            "revision": 15304,
+            "lastModified": "2020-04-28T05:39:23Z",
+            "revision": 15666,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bard%27s+Cape"
         },
         {
@@ -3846,10 +3847,10 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Heavy Armor",
-            "wikiNote": "weight needed and selling price",
             "attack": 10,
             "defense": 32,
             "mana": 0,
+            "weight": 480,
             "wrapping": 3,
             "levelRequirement": 35,
             "depositable": true,
@@ -3880,8 +3881,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Crusader Armor",
-            "lastModified": "2020-04-07T12:38:03Z",
-            "revision": 14921,
+            "lastModified": "2020-04-28T05:40:30Z",
+            "revision": 15667,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor"
         },
         {
@@ -4223,10 +4224,11 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
-            "wikiNote": "needs wrapping, weight and sale price",
             "attack": 6,
             "defense": 19,
             "mana": 0,
+            "weight": 200,
+            "wrapping": 4,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 450,
@@ -4256,8 +4258,8 @@
                 "Blacksmith Frame": "3"
             },
             "pagename": "Crusader Helmet",
-            "lastModified": "2020-04-07T18:10:47Z",
-            "revision": 15171,
+            "lastModified": "2020-04-28T05:41:43Z",
+            "revision": 15668,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Helmet"
         },
         {
@@ -9258,13 +9260,14 @@
             "eventItem": true,
             "name": "Hiking Bag",
             "type": "Special Equippable",
-            "wikiNote": "needs weight added",
             "attack": 0,
             "defense": 0,
             "mana": 0,
             "stamina": 0,
             "inventoryIncrease": 5,
             "luck": 0,
+            "weight": 10,
+            "wrapping": 1,
             "levelRequirement": 1,
             "depositable": false,
             "shopSellPrice": 15,
@@ -9276,8 +9279,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Hiking Bag",
-            "lastModified": "2020-04-06T21:42:57Z",
-            "revision": 14277,
+            "lastModified": "2020-04-28T05:47:27Z",
+            "revision": 15674,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hiking+Bag"
         },
         {
@@ -9285,13 +9288,13 @@
             "eventItem": true,
             "name": "Hiking Jar",
             "type": "Special Equippable",
-            "wikiNote": "needs weight added",
             "attack": 0,
             "defense": 0,
             "mana": 0,
             "stamina": 2,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 10,
             "wrapping": 1,
             "levelRequirement": 1,
             "depositable": false,
@@ -9304,8 +9307,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Hiking Jar",
-            "lastModified": "2020-04-06T22:39:23Z",
-            "revision": 13066,
+            "lastModified": "2020-04-28T05:46:45Z",
+            "revision": 15673,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hiking+Jar"
         },
         {
@@ -10435,6 +10438,8 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 1785,
@@ -10468,8 +10473,8 @@
                 "Hardener": "9"
             },
             "pagename": "King's Defender",
-            "lastModified": "2020-04-13T07:20:31Z",
-            "revision": 15348,
+            "lastModified": "2020-04-28T06:01:38Z",
+            "revision": 15676,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=King%27s+Defender"
         },
         {
@@ -11061,13 +11066,15 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Light Armor",
-            "wikiNote": "needs weight, wrapping and error checking",
+            "wikiNote": "needs error checking",
             "attack": 14,
             "defense": 24,
             "mana": 0,
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 480,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 684,
@@ -11101,8 +11108,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Lion Armor",
-            "lastModified": "2020-04-07T12:54:08Z",
-            "revision": 14931,
+            "lastModified": "2020-04-28T05:45:15Z",
+            "revision": 15671,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor"
         },
         {
@@ -11230,6 +11237,7 @@
             "attack": 6,
             "defense": 9,
             "mana": 0,
+            "weight": 140,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -11267,8 +11275,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Lion Boots",
-            "lastModified": "2020-04-06T19:26:45Z",
-            "revision": 13053,
+            "lastModified": "2020-04-28T05:46:00Z",
+            "revision": 15672,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Boots"
         },
         {
@@ -15572,6 +15580,8 @@
             "attack": 3,
             "defense": 13,
             "mana": 0,
+            "weight": 140,
+            "wrapping": 3,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 288,
@@ -15608,8 +15618,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Royal Boots",
-            "lastModified": "2020-04-06T20:12:03Z",
-            "revision": 13044,
+            "lastModified": "2020-04-28T05:43:16Z",
+            "revision": 15670,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Boots"
         },
         {
@@ -15852,10 +15862,11 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
-            "wikiNote": "needs weight, wrapping and sale price added",
             "attack": 5,
             "defense": 20,
             "mana": 0,
+            "weight": 200,
+            "wrapping": 4,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 450,
@@ -15885,8 +15896,8 @@
                 "Blacksmith Frame": "3"
             },
             "pagename": "Royal Helmet",
-            "lastModified": "2020-04-06T21:31:01Z",
-            "revision": 13043,
+            "lastModified": "2020-04-28T05:42:37Z",
+            "revision": 15669,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Helmet"
         },
         {
@@ -17032,6 +17043,7 @@
             "attack": 18,
             "defense": 17,
             "mana": 0,
+            "weight": 200,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -17068,8 +17080,8 @@
                 "Ruby": "3"
             },
             "pagename": "Skull Crusher",
-            "lastModified": "2020-04-06T21:38:16Z",
-            "revision": 13826,
+            "lastModified": "2020-04-28T06:07:01Z",
+            "revision": 15677,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull+Crusher"
         },
         {
@@ -17596,6 +17608,7 @@
             "attack": 3,
             "defense": 6,
             "mana": 0,
+            "weight": 50,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 228,
@@ -17633,8 +17646,8 @@
                 "Silver Alloy": "2"
             },
             "pagename": "Stoneskin Cloak",
-            "lastModified": "2020-04-06T23:12:01Z",
-            "revision": 14282,
+            "lastModified": "2020-04-28T05:36:29Z",
+            "revision": 15665,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin+Cloak"
         },
         {
@@ -18281,7 +18294,8 @@
             "attack": 16,
             "defense": 14,
             "mana": 0,
-            "wrapping": 2,
+            "weight": 180,
+            "wrapping": 4,
             "levelRequirement": 25,
             "depositable": true,
             "shopSellPrice": 1104,
@@ -18314,8 +18328,8 @@
                 "Hardener": "3"
             },
             "pagename": "Trident",
-            "lastModified": "2020-04-07T18:09:29Z",
-            "revision": 15167,
+            "lastModified": "2020-04-28T06:00:16Z",
+            "revision": 15675,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident"
         },
         {

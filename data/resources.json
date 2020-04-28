@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-28T08:11:11.766849+00:00",
+    "timestamp": "2020-04-28T20:11:05.114696+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -18391,7 +18391,7 @@
             "defense": 14,
             "mana": 0,
             "weight": 180,
-            "wrapping": 2,
+            "wrapping": 4,
             "levelRequirement": 25,
             "depositable": true,
             "shopSellPrice": 1104,
@@ -18424,8 +18424,8 @@
                 "Hardener": "3"
             },
             "pagename": "Trident",
-            "lastModified": "2020-04-28T07:41:59Z",
-            "revision": 15772,
+            "lastModified": "2020-04-28T19:45:31Z",
+            "revision": 15788,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-27T23:11:07.088672+00:00",
+    "timestamp": "2020-04-28T04:11:04.377136+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -7991,11 +7991,12 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Light Armor",
-            "wikiNote": "recipe needs checking, rest completely missing",
+            "wikiNote": "Lacks Enchant value for +2~+4",
             "attack": 7,
             "defense": 12,
             "mana": 0,
             "weight": 155,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 393,
@@ -8003,6 +8004,7 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantDef1": 2,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a85",
@@ -8021,8 +8023,8 @@
                 "Ruby": "2"
             },
             "pagename": "Griffin Boots",
-            "lastModified": "2020-04-13T07:24:28Z",
-            "revision": 15357,
+            "lastModified": "2020-04-28T04:08:54Z",
+            "revision": 15663,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Boots"
         },
         {

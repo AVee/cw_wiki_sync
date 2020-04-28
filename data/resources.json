@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-04-28T06:11:07.910584+00:00",
+    "timestamp": "2020-04-28T07:11:29.873448+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1111,6 +1111,7 @@
             "name": "Broad arrows pack",
             "type": "Misc",
             "wikiNote": "new tier, missing lots of info",
+            "weight": 10,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -1131,8 +1132,8 @@
                 "Bone Powder": "2"
             },
             "pagename": "Broad Arrows Pack",
-            "lastModified": "2020-04-08T12:30:38Z",
-            "revision": 15299,
+            "lastModified": "2020-04-28T07:01:04Z",
+            "revision": 15754,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Broad+Arrows+Pack"
         },
         {
@@ -1261,6 +1262,7 @@
             "name": "Brutalizer Flail part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -1272,8 +1274,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Brutalizer Flail Part",
-            "lastModified": "2020-04-19T23:16:27Z",
-            "revision": 15457,
+            "lastModified": "2020-04-28T06:22:37Z",
+            "revision": 15684,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer+Flail+Part"
         },
         {
@@ -2011,6 +2013,7 @@
             "name": "Cheese",
             "type": "Pet Food",
             "wikiNote": "need info filled out, weight",
+            "weight": 5,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -2037,8 +2040,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Cheese",
-            "lastModified": "2020-04-07T17:23:15Z",
-            "revision": 14992,
+            "lastModified": "2020-04-28T07:03:04Z",
+            "revision": 15762,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cheese"
         },
         {
@@ -2047,6 +2050,7 @@
             "eventPage": "Valentines Day 2018",
             "name": "🍫Chocolate",
             "type": "Consumable",
+            "weight": 0,
             "levelRequirement": 1,
             "depositable": false,
             "exchange": false,
@@ -2057,8 +2061,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Chocolate",
-            "lastModified": "2020-04-08T12:07:41Z",
-            "revision": 15295,
+            "lastModified": "2020-04-28T06:31:00Z",
+            "revision": 15693,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chocolate"
         },
         {
@@ -2962,6 +2966,7 @@
             "eventItem": false,
             "name": "Compound arrows pack",
             "type": "Misc",
+            "weight": 10,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -2983,8 +2988,8 @@
                 "Iron Ore": "2"
             },
             "pagename": "Compound Arrows Pack",
-            "lastModified": "2020-04-07T18:31:55Z",
-            "revision": 15198,
+            "lastModified": "2020-04-28T07:00:38Z",
+            "revision": 15750,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Compound+Arrows+Pack"
         },
         {
@@ -3019,6 +3024,7 @@
             "eventItem": false,
             "name": "Corn",
             "type": "Pet Food",
+            "weight": 5,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -3045,8 +3051,8 @@
             "wikiFreeText": "'''{{PAGENAME}}''' is a consumable item that is needed to feed [[Pet|pets]] of the type [[Pig]]. \n\n=Acquisition=\n{{PAGENAME}} can be bought in the :Paws: Menagerie of the [[Shop]] for 1 :Gem: with the commande <code>/buy_{{#show: {{PAGENAME}}| ?ItemID}}</code> or can be possible loot for succesful [[Foray|forays]]. {{PAGENAME}} can also be traded in the exchange with <code>/t_{{#show: {{PAGENAME}}| ?ItemID}}</code>",
             "recipe": {},
             "pagename": "Corn",
-            "lastModified": "2020-04-07T18:48:52Z",
-            "revision": 15214,
+            "lastModified": "2020-04-28T07:02:58Z",
+            "revision": 15760,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Corn"
         },
         {
@@ -4512,6 +4518,8 @@
             "attack": 26,
             "defense": 12,
             "mana": 0,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "ammunition": "Silver Arrow",
             "depositable": true,
@@ -4522,8 +4530,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Bow (Event Item)",
-            "lastModified": "2020-04-18T22:37:43Z",
-            "revision": 15439,
+            "lastModified": "2020-04-28T06:45:29Z",
+            "revision": 15740,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bow+%28Event+Item%29"
         },
         {
@@ -4580,6 +4588,8 @@
             "attack": 5,
             "defense": 8,
             "mana": 75,
+            "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -4589,8 +4599,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Bracers (Event Item)",
-            "lastModified": "2020-04-07T19:39:34Z",
-            "revision": 15248,
+            "lastModified": "2020-04-28T06:39:09Z",
+            "revision": 15716,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers+%28Event+Item%29"
         },
         {
@@ -4725,6 +4735,8 @@
             "attack": 8,
             "defense": 12,
             "mana": 130,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -4734,8 +4746,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Circlet (Event Item)",
-            "lastModified": "2020-04-07T19:39:36Z",
-            "revision": 15249,
+            "lastModified": "2020-04-28T06:38:39Z",
+            "revision": 15714,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet+%28Event+Item%29"
         },
         {
@@ -4869,6 +4881,8 @@
             "attack": 10,
             "defense": 22,
             "mana": 175,
+            "weight": 480,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -4878,8 +4892,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Robe (Event Item)",
-            "lastModified": "2020-04-07T19:39:38Z",
-            "revision": 15250,
+            "lastModified": "2020-04-28T06:38:27Z",
+            "revision": 15713,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Robe+%28Event+Item%29"
         },
         {
@@ -5022,6 +5036,8 @@
             "attack": 5,
             "defense": 7,
             "mana": 75,
+            "weight": 140,
+            "wrapping": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -5030,8 +5046,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Shoes (Event Item)",
-            "lastModified": "2020-04-07T19:42:40Z",
-            "revision": 15251,
+            "lastModified": "2020-04-28T06:38:55Z",
+            "revision": 15715,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes+%28Event+Item%29"
         },
         {
@@ -5121,6 +5137,8 @@
             "attack": 15,
             "defense": 1,
             "mana": 0,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -5130,8 +5148,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Demon Whip (Event Item)",
-            "lastModified": "2020-04-07T19:39:41Z",
-            "revision": 15252,
+            "lastModified": "2020-04-28T06:45:37Z",
+            "revision": 15741,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Whip+%28Event+Item%29"
         },
         {
@@ -6787,6 +6805,8 @@
             "attack": 12,
             "defense": 16,
             "mana": 0,
+            "weight": 450,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -6796,8 +6816,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Fleder Armor (Event Item)",
-            "lastModified": "2020-04-07T19:39:43Z",
-            "revision": 15253,
+            "lastModified": "2020-04-28T06:42:18Z",
+            "revision": 15724,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Fleder+Armor+%28Event+Item%29"
         },
         {
@@ -6810,6 +6830,8 @@
             "attack": 6,
             "defense": 6,
             "mana": 0,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -6819,8 +6841,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Fleder Boots (Event Item)",
-            "lastModified": "2020-04-07T19:39:45Z",
-            "revision": 15254,
+            "lastModified": "2020-04-28T06:42:38Z",
+            "revision": 15726,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Fleder+Boots+%28Event+Item%29"
         },
         {
@@ -6833,6 +6855,8 @@
             "attack": 6,
             "defense": 6,
             "mana": 0,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -6842,8 +6866,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Fleder Gloves (Event Item)",
-            "lastModified": "2020-04-07T19:39:47Z",
-            "revision": 15255,
+            "lastModified": "2020-04-28T06:42:49Z",
+            "revision": 15727,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Fleder+Gloves+%28Event+Item%29"
         },
         {
@@ -6856,6 +6880,8 @@
             "attack": 8,
             "defense": 9,
             "mana": 0,
+            "weight": 190,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -6865,8 +6891,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Fleder Helmet (Event Item)",
-            "lastModified": "2020-04-07T19:39:49Z",
-            "revision": 15256,
+            "lastModified": "2020-04-28T06:42:30Z",
+            "revision": 15725,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Fleder+Helmet+%28Event+Item%29"
         },
         {
@@ -6879,6 +6905,8 @@
             "attack": 34,
             "defense": 0,
             "mana": 0,
+            "weight": 180,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -6888,8 +6916,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Fleder Scimitar (Event Item)",
-            "lastModified": "2020-04-07T19:39:50Z",
-            "revision": 15257,
+            "lastModified": "2020-04-28T06:44:48Z",
+            "revision": 15737,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Fleder+Scimitar+%28Event+Item%29"
         },
         {
@@ -7656,6 +7684,7 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Gopher'",
             "type": "Misc",
+            "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -7665,8 +7694,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Gopher",
-            "lastModified": "2020-04-06T22:59:14Z",
-            "revision": 12862,
+            "lastModified": "2020-04-28T07:02:23Z",
+            "revision": 15758,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Gopher"
         },
         {
@@ -7731,6 +7760,7 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Owl'",
             "type": "Misc",
+            "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -7740,8 +7770,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Owl",
-            "lastModified": "2020-04-06T19:57:53Z",
-            "revision": 12861,
+            "lastModified": "2020-04-28T07:02:23Z",
+            "revision": 15757,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Owl"
         },
         {
@@ -7749,6 +7779,7 @@
             "eventItem": false,
             "name": "🎟Gift Coupon 'Pig'",
             "type": "Misc",
+            "weight": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -7758,8 +7789,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Gift Coupon: Pig",
-            "lastModified": "2020-04-07T18:34:07Z",
-            "revision": 15206,
+            "lastModified": "2020-04-28T07:02:21Z",
+            "revision": 15756,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gift+Coupon%3A+Pig"
         },
         {
@@ -8885,6 +8916,7 @@
             "name": "Hamsters",
             "type": "Pet Food",
             "wikiNote": "need info filled out, weight",
+            "weight": 5,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -8911,8 +8943,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Hamsters",
-            "lastModified": "2020-04-06T20:08:36Z",
-            "revision": 12980,
+            "lastModified": "2020-04-28T07:03:01Z",
+            "revision": 15761,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hamsters"
         },
         {
@@ -8981,11 +9013,13 @@
             "name": "Hat of Pretender",
             "type": "Protective Gear",
             "subType": "Helmet",
+            "weight": 190,
+            "wrapping": 1,
             "quest": false,
             "recipe": {},
             "pagename": "Hat of Pretender",
-            "lastModified": "2020-04-06T20:18:33Z",
-            "revision": 13448,
+            "lastModified": "2020-04-28T06:47:18Z",
+            "revision": 15745,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hat+of+Pretender"
         },
         {
@@ -8993,6 +9027,7 @@
             "eventItem": false,
             "name": "Hay",
             "type": "Pet Food",
+            "weight": 5,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -9019,8 +9054,8 @@
             "wikiFreeText": "'''{{PAGENAME}}''' is a consumable item that is needed to feed [[Pet|pets]] of the type [[Horse]]. \n\n=Acquisition=\n{{PAGENAME}} can be bought in the :Paws: Menagerie of the [[Shop]] for 1 :Gem: with the commande <code>/buy_{{#show: {{PAGENAME}}| ?ItemID}}</code> or can be possible loot for succesful [[Foray|forays]]. {{PAGENAME}} can also be traded in the exchange with <code>/t_{{#show: {{PAGENAME}}| ?ItemID}}</code>",
             "recipe": {},
             "pagename": "Hay",
-            "lastModified": "2020-04-07T17:24:27Z",
-            "revision": 15041,
+            "lastModified": "2020-04-28T07:02:54Z",
+            "revision": 15759,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hay"
         },
         {
@@ -9070,7 +9105,7 @@
             "name": "Heavy arrow",
             "type": "Consumable",
             "subType": "Ammunition",
-            "weight": 10,
+            "weight": 0,
             "depositable": false,
             "shopSellPrice": 0,
             "exchange": false,
@@ -9081,8 +9116,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Heavy Arrow",
-            "lastModified": "2020-04-06T21:29:54Z",
-            "revision": 13438,
+            "lastModified": "2020-04-28T06:59:38Z",
+            "revision": 15749,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Arrow"
         },
         {
@@ -9091,6 +9126,7 @@
             "name": "Heavy arrows pack",
             "type": "Misc",
             "wikiNote": "new tier, missing lots of info",
+            "weight": 10,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -9110,8 +9146,8 @@
                 "Quality Cloth": "1"
             },
             "pagename": "Heavy Arrows Pack",
-            "lastModified": "2020-04-08T12:33:45Z",
-            "revision": 15301,
+            "lastModified": "2020-04-28T07:01:07Z",
+            "revision": 15755,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Arrows+Pack"
         },
         {
@@ -9153,6 +9189,7 @@
             "attack": 21,
             "defense": 19,
             "mana": 0,
+            "weight": 220,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 2160,
@@ -9178,8 +9215,8 @@
                 "Ruby": "3"
             },
             "pagename": "Heavy Fauchard",
-            "lastModified": "2020-04-07T18:36:02Z",
-            "revision": 15208,
+            "lastModified": "2020-04-28T06:16:10Z",
+            "revision": 15680,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Fauchard"
         },
         {
@@ -10101,6 +10138,8 @@
             "attack": 23,
             "defense": 8,
             "mana": 0,
+            "weight": 180,
+            "wrapping": 1,
             "levelRequirement": 25,
             "ammunition": "Steel Arrow",
             "depositable": true,
@@ -10111,8 +10150,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Imp Bow (Event Item)",
-            "lastModified": "2020-04-18T22:37:08Z",
-            "revision": 15438,
+            "lastModified": "2020-04-28T06:44:07Z",
+            "revision": 15734,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imp+Bow+%28Event+Item%29"
         },
         {
@@ -10125,6 +10164,8 @@
             "attack": 2,
             "defense": 9,
             "mana": 45,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -10134,8 +10175,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Imp Bracers (Event Item)",
-            "lastModified": "2020-04-07T19:39:54Z",
-            "revision": 15259,
+            "lastModified": "2020-04-28T06:38:11Z",
+            "revision": 15712,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imp+Bracers+%28Event+Item%29"
         },
         {
@@ -10148,6 +10189,8 @@
             "attack": 3,
             "defense": 12,
             "mana": 96,
+            "weight": 190,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -10157,8 +10200,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Imp Circlet (Event Item)",
-            "lastModified": "2020-04-07T19:39:56Z",
-            "revision": 15260,
+            "lastModified": "2020-04-28T06:37:42Z",
+            "revision": 15710,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imp+Circlet+%28Event+Item%29"
         },
         {
@@ -10171,6 +10214,8 @@
             "attack": 5,
             "defense": 20,
             "mana": 143,
+            "weight": 450,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -10180,8 +10225,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Imp Robe (Event Item)",
-            "lastModified": "2020-04-07T19:39:58Z",
-            "revision": 15261,
+            "lastModified": "2020-04-28T06:37:32Z",
+            "revision": 15709,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imp+Robe+%28Event+Item%29"
         },
         {
@@ -10194,6 +10239,8 @@
             "attack": 2,
             "defense": 9,
             "mana": 65,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -10203,8 +10250,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Imp Shoes (Event Item)",
-            "lastModified": "2020-04-07T19:40:00Z",
-            "revision": 15262,
+            "lastModified": "2020-04-28T06:37:52Z",
+            "revision": 15711,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imp+Shoes+%28Event+Item%29"
         },
         {
@@ -10217,6 +10264,8 @@
             "attack": 12,
             "defense": 0,
             "mana": 0,
+            "weight": 180,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -10226,8 +10275,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Imp Whip (Event Item)",
-            "lastModified": "2020-04-07T19:40:01Z",
-            "revision": 15263,
+            "lastModified": "2020-04-28T06:44:18Z",
+            "revision": 15735,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imp+Whip+%28Event+Item%29"
         },
         {
@@ -10896,6 +10945,7 @@
             "name": "Lightbane Katana part",
             "type": "Piece of Equipment",
             "wikiNote": "new item, not much data known. night is correct, forest is not entirely sure",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -10908,8 +10958,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Lightbane Katana Part",
-            "lastModified": "2020-04-19T22:56:29Z",
-            "revision": 15445,
+            "lastModified": "2020-04-28T06:21:48Z",
+            "revision": 15682,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane+Katana+Part"
         },
         {
@@ -11824,6 +11874,7 @@
             "eventItem": false,
             "name": "Loyalty Trophy",
             "type": "Misc",
+            "weight": 1,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -11834,8 +11885,8 @@
             "wikiFreeText": "= Trivia =\nWhen the tropy is obtained by a [[Guild]] it is placed in the guild stock. It can be withdrawn from there, but it cannot be deposited back.",
             "recipe": {},
             "pagename": "Loyalty Trophy",
-            "lastModified": "2020-04-06T21:17:23Z",
-            "revision": 13446,
+            "lastModified": "2020-04-28T07:05:35Z",
+            "revision": 15763,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Loyalty+Trophy"
         },
         {
@@ -11915,6 +11966,7 @@
             "attack": 22,
             "defense": 22,
             "mana": 0,
+            "weight": 220,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 2160,
@@ -11953,8 +12005,8 @@
                 "Coke": "107"
             },
             "pagename": "Maiming Bulawa",
-            "lastModified": "2020-04-06T21:31:08Z",
-            "revision": 13351,
+            "lastModified": "2020-04-28T06:20:44Z",
+            "revision": 15681,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maiming+Bulawa"
         },
         {
@@ -12036,6 +12088,7 @@
             "eventItem": false,
             "name": "Malificent Maul part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -12047,8 +12100,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Malificent Maul Part",
-            "lastModified": "2020-04-19T23:12:41Z",
-            "revision": 15455,
+            "lastModified": "2020-04-28T06:22:33Z",
+            "revision": 15683,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent+Maul+Part"
         },
         {
@@ -12464,6 +12517,8 @@
             "attack": 11,
             "defense": 18,
             "mana": 0,
+            "weight": 450,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -12473,8 +12528,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manwolf Armor (Event Item)",
-            "lastModified": "2020-04-07T19:40:04Z",
-            "revision": 15264,
+            "lastModified": "2020-04-28T06:39:23Z",
+            "revision": 15717,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manwolf+Armor+%28Event+Item%29"
         },
         {
@@ -12487,6 +12542,8 @@
             "attack": 5,
             "defense": 8,
             "mana": 0,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -12496,8 +12553,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manwolf Boots (Event Item)",
-            "lastModified": "2020-04-07T19:40:06Z",
-            "revision": 15265,
+            "lastModified": "2020-04-28T06:41:14Z",
+            "revision": 15719,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manwolf+Boots+%28Event+Item%29"
         },
         {
@@ -12510,6 +12567,8 @@
             "wikiNote": "page creation. check info\nweight, wrapping, level req...etc missing",
             "attack": 5,
             "defense": 8,
+            "weight": 125,
+            "wrapping": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -12519,8 +12578,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manwolf Gloves (Event Gear)",
-            "lastModified": "2020-04-06T20:14:36Z",
-            "revision": 13094,
+            "lastModified": "2020-04-28T06:41:24Z",
+            "revision": 15720,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manwolf+Gloves+%28Event+Gear%29"
         },
         {
@@ -12534,6 +12593,8 @@
             "attack": 7,
             "defense": 11,
             "mana": 0,
+            "weight": 190,
+            "wrapping": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -12543,8 +12604,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manwolf Helmet (Event Gear)",
-            "lastModified": "2020-04-06T22:48:57Z",
-            "revision": 13093,
+            "lastModified": "2020-04-28T06:41:04Z",
+            "revision": 15718,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manwolf+Helmet+%28Event+Gear%29"
         },
         {
@@ -12558,6 +12619,8 @@
             "attack": 13,
             "defense": 0,
             "mana": 0,
+            "weight": 180,
+            "wrapping": 1,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -12567,8 +12630,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Manwolf Knife (Event Gear)",
-            "lastModified": "2020-04-06T22:00:34Z",
-            "revision": 13098,
+            "lastModified": "2020-04-28T06:44:34Z",
+            "revision": 15736,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manwolf+Knife+%28Event+Gear%29"
         },
         {
@@ -12834,6 +12897,7 @@
             "name": "Milk",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": true,
@@ -12845,8 +12909,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Milk",
-            "lastModified": "2020-04-07T18:29:58Z",
-            "revision": 15193,
+            "lastModified": "2020-04-28T06:29:57Z",
+            "revision": 15691,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Milk"
         },
         {
@@ -13327,6 +13391,8 @@
             "attack": 13,
             "defense": 27,
             "mana": 50,
+            "weight": 480,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -13336,8 +13402,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nosferatu Armor (Event Gear)",
-            "lastModified": "2020-04-08T11:55:12Z",
-            "revision": 15290,
+            "lastModified": "2020-04-28T06:42:57Z",
+            "revision": 15728,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nosferatu+Armor+%28Event+Gear%29"
         },
         {
@@ -13350,6 +13416,8 @@
             "attack": 6,
             "defense": 11,
             "mana": 0,
+            "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -13359,8 +13427,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nosferatu Boots (Event Item)",
-            "lastModified": "2020-04-07T19:40:08Z",
-            "revision": 15266,
+            "lastModified": "2020-04-28T06:43:18Z",
+            "revision": 15730,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nosferatu+Boots+%28Event+Item%29"
         },
         {
@@ -13373,6 +13441,8 @@
             "attack": 6,
             "defense": 11,
             "mana": 0,
+            "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -13382,8 +13452,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nosferatu Gloves (Event Item)",
-            "lastModified": "2020-04-07T19:40:10Z",
-            "revision": 15267,
+            "lastModified": "2020-04-28T06:43:37Z",
+            "revision": 15731,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nosferatu+Gloves+%28Event+Item%29"
         },
         {
@@ -13396,6 +13466,8 @@
             "attack": 8,
             "defense": 16,
             "mana": 0,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -13405,8 +13477,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nosferatu Helmet (Event Item)",
-            "lastModified": "2020-04-07T19:40:13Z",
-            "revision": 15268,
+            "lastModified": "2020-04-28T06:43:08Z",
+            "revision": 15729,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nosferatu+Helmet+%28Event+Item%29"
         },
         {
@@ -13419,6 +13491,8 @@
             "attack": 37,
             "defense": 2,
             "mana": 0,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -13428,8 +13502,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Nosferatu Rapier (Event Item)",
-            "lastModified": "2020-04-07T19:40:14Z",
-            "revision": 15269,
+            "lastModified": "2020-04-28T06:45:52Z",
+            "revision": 15743,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nosferatu+Rapier+%28Event+Item%29"
         },
         {
@@ -14057,6 +14131,7 @@
             "name": "Overseer Armor part",
             "type": "Piece of Equipment",
             "wikiNote": "all incomplete",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -14068,8 +14143,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Armor Part",
-            "lastModified": "2020-04-19T23:56:17Z",
-            "revision": 15475,
+            "lastModified": "2020-04-28T06:23:15Z",
+            "revision": 15685,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Armor+Part"
         },
         {
@@ -14077,6 +14152,7 @@
             "eventItem": false,
             "name": "Overseer Armor recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -14087,8 +14163,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Armor Recipe",
-            "lastModified": "2020-04-19T23:56:06Z",
-            "revision": 15474,
+            "lastModified": "2020-04-28T06:25:03Z",
+            "revision": 15687,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Armor+Recipe"
         },
         {
@@ -14117,6 +14193,7 @@
             "eventItem": false,
             "name": "Overseer Boots recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -14127,8 +14204,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Boots Recipe",
-            "lastModified": "2020-04-19T23:59:10Z",
-            "revision": 15480,
+            "lastModified": "2020-04-28T06:26:47Z",
+            "revision": 15688,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Boots+Recipe"
         },
         {
@@ -14136,6 +14213,7 @@
             "eventItem": false,
             "name": "Overseer Gauntlets part",
             "type": "Piece of Equipment",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -14147,8 +14225,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Gauntlets Part",
-            "lastModified": "2020-04-19T23:58:41Z",
-            "revision": 15479,
+            "lastModified": "2020-04-28T06:23:36Z",
+            "revision": 15686,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Gauntlets+Part"
         },
         {
@@ -14156,6 +14234,7 @@
             "eventItem": false,
             "name": "Overseer Gauntlets recipe",
             "type": "Recipe (Item)",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -14167,8 +14246,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Gauntlets Recipe",
-            "lastModified": "2020-04-19T23:57:50Z",
-            "revision": 15478,
+            "lastModified": "2020-04-28T06:26:59Z",
+            "revision": 15689,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Gauntlets+Recipe"
         },
         {
@@ -14243,6 +14322,7 @@
             "name": "Overseer Shield recipe",
             "type": "Recipe (Item)",
             "wikiNote": "new item, not much data known",
+            "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -14253,8 +14333,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Recipe",
-            "lastModified": "2020-04-06T19:30:29Z",
-            "revision": 14746,
+            "lastModified": "2020-04-28T06:27:21Z",
+            "revision": 15690,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Shield+Recipe"
         },
         {
@@ -14875,6 +14955,7 @@
             "eventPage": "Pretender Event 2019",
             "name": "Pumpkin",
             "type": "Misc",
+            "weight": 1,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -14884,8 +14965,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Pumpkin",
-            "lastModified": "2020-04-08T12:06:50Z",
-            "revision": 15294,
+            "lastModified": "2020-04-28T07:07:53Z",
+            "revision": 15764,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pumpkin"
         },
         {
@@ -16582,7 +16663,7 @@
             "type": "Consumable",
             "subType": "Ammunition",
             "wikiNote": "needs checking",
-            "weight": 10,
+            "weight": 0,
             "depositable": false,
             "shopSellPrice": 0,
             "exchange": false,
@@ -16593,8 +16674,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Silver Arrow",
-            "lastModified": "2020-04-06T19:47:24Z",
-            "revision": 13423,
+            "lastModified": "2020-04-28T06:59:37Z",
+            "revision": 15748,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Arrow"
         },
         {
@@ -17283,7 +17364,7 @@
             "type": "Consumable",
             "subType": "Ammunition",
             "wikiNote": "needs checking",
-            "weight": 10,
+            "weight": 0,
             "depositable": false,
             "shopSellPrice": 0,
             "exchange": false,
@@ -17294,8 +17375,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Steel Arrow",
-            "lastModified": "2020-04-06T20:26:21Z",
-            "revision": 13427,
+            "lastModified": "2020-04-28T06:59:36Z",
+            "revision": 15747,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Arrow"
         },
         {
@@ -17936,6 +18017,7 @@
             "name": "Sugar",
             "type": "Resource",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. Missing drop info before conversion just 'Valley' was specified. Missing drop info before conversion just 'Forest' was specified.",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": true,
@@ -17947,8 +18029,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Sugar",
-            "lastModified": "2020-04-07T18:30:32Z",
-            "revision": 15194,
+            "lastModified": "2020-04-28T06:30:06Z",
+            "revision": 15692,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sugar"
         },
         {
@@ -18448,6 +18530,8 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 10,
+            "wrapping": 1,
             "levelRequirement": 10,
             "depositable": false,
             "shopSellPrice": 75,
@@ -18459,8 +18543,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Vague Bell",
-            "lastModified": "2020-04-06T22:49:05Z",
-            "revision": 14279,
+            "lastModified": "2020-04-28T06:46:54Z",
+            "revision": 15744,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vague+Bell"
         },
         {
@@ -18743,6 +18827,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 450,
             "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
@@ -18754,8 +18839,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Walker Armor (Event Gear)",
-            "lastModified": "2020-04-06T20:04:24Z",
-            "revision": 13357,
+            "lastModified": "2020-04-28T06:36:12Z",
+            "revision": 15702,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Walker+Armor+%28Event+Gear%29"
         },
         {
@@ -18772,6 +18857,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 125,
             "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
@@ -18783,8 +18869,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Walker Boots (Event Gear)",
-            "lastModified": "2020-04-06T20:47:13Z",
-            "revision": 13084,
+            "lastModified": "2020-04-28T06:36:36Z",
+            "revision": 15704,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Walker+Boots+%28Event+Gear%29"
         },
         {
@@ -18801,6 +18887,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 200,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -18813,8 +18900,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Walker Club (Event Gear)",
-            "lastModified": "2020-04-06T19:56:41Z",
-            "revision": 13099,
+            "lastModified": "2020-04-28T06:45:07Z",
+            "revision": 15739,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Walker+Club+%28Event+Gear%29"
         },
         {
@@ -18831,6 +18918,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 125,
             "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
@@ -18842,8 +18930,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Walker Gauntlets (Event Gear)",
-            "lastModified": "2020-04-06T21:39:26Z",
-            "revision": 13085,
+            "lastModified": "2020-04-28T06:36:47Z",
+            "revision": 15705,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Walker+Gauntlets+%28Event+Gear%29"
         },
         {
@@ -18857,6 +18945,7 @@
             "attack": 3,
             "defense": 17,
             "mana": 0,
+            "weight": 190,
             "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
@@ -18868,8 +18957,8 @@
             "wikiFreeText": "The item can be obtained via stage 2 of the {{#show: {{PAGENAME}} |?Event }} special event. Once a monster horde is defeated there is a possibility to get the {{PAGENAME}}.",
             "recipe": {},
             "pagename": "Walker Helmet (Event Gear)",
-            "lastModified": "2020-04-06T20:02:04Z",
-            "revision": 13083,
+            "lastModified": "2020-04-28T06:36:22Z",
+            "revision": 15703,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Walker+Helmet+%28Event+Gear%29"
         },
         {
@@ -18886,6 +18975,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 180,
             "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
@@ -18897,8 +18987,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Walker Shield (Event Gear)",
-            "lastModified": "2020-04-06T22:11:16Z",
-            "revision": 13086,
+            "lastModified": "2020-04-28T06:36:55Z",
+            "revision": 15706,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Walker+Shield+%28Event+Gear%29"
         },
         {
@@ -18915,6 +19005,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 180,
             "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
@@ -18926,8 +19017,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "War Club (Event Gear)",
-            "lastModified": "2020-04-06T21:37:15Z",
-            "revision": 13358,
+            "lastModified": "2020-04-28T06:43:57Z",
+            "revision": 15733,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War+Club+%28Event+Gear%29"
         },
         {
@@ -19061,6 +19152,8 @@
             "attack": 14,
             "defense": 26,
             "mana": 0,
+            "weight": 480,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19070,8 +19163,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Werewolf Armor (Event Item)",
-            "lastModified": "2020-04-07T19:40:16Z",
-            "revision": 15270,
+            "lastModified": "2020-04-28T06:41:33Z",
+            "revision": 15721,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Werewolf+Armor+%28Event+Item%29"
         },
         {
@@ -19084,6 +19177,8 @@
             "attack": 7,
             "defense": 10,
             "mana": 0,
+            "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19093,8 +19188,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Werewolf Boots (Event Item)",
-            "lastModified": "2020-04-07T19:40:18Z",
-            "revision": 15271,
+            "lastModified": "2020-04-28T06:41:47Z",
+            "revision": 15722,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Werewolf+Boots+%28Event+Item%29"
         },
         {
@@ -19107,6 +19202,8 @@
             "attack": 7,
             "defense": 10,
             "mana": 0,
+            "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19116,8 +19213,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Werewolf Gloves (Event Item)",
-            "lastModified": "2020-04-07T19:40:20Z",
-            "revision": 15272,
+            "lastModified": "2020-04-28T06:41:58Z",
+            "revision": 15723,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Werewolf+Gloves+%28Event+Item%29"
         },
         {
@@ -19159,6 +19256,7 @@
             "attack": 16,
             "defense": 0,
             "mana": 0,
+            "weight": 200,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -19167,12 +19265,11 @@
             "auction": true,
             "enchantable": false,
             "craftable": false,
-            "recipeIncomplete": false,
             "wikiFreeText": "=Acquisition=\nThe item can be obtained via stage 2 of the {{#show: {{PAGENAME}} |?Event }} special event. Once a monster horde is defeated there is a possibility to get the {{PAGENAME}}.",
             "recipe": {},
             "pagename": "Werewolf Knife (Event Gear)",
-            "lastModified": "2020-04-06T21:38:41Z",
-            "revision": 13100,
+            "lastModified": "2020-04-28T06:45:45Z",
+            "revision": 15742,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Werewolf+Knife+%28Event+Gear%29"
         },
         {
@@ -19291,6 +19388,8 @@
             "attack": 4,
             "defense": 9,
             "mana": 75,
+            "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19300,8 +19399,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witch Bracers (Event Item)",
-            "lastModified": "2020-04-07T19:40:22Z",
-            "revision": 15273,
+            "lastModified": "2020-04-28T06:36:00Z",
+            "revision": 15701,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witch+Bracers+%28Event+Item%29"
         },
         {
@@ -19314,6 +19413,8 @@
             "attack": 5,
             "defense": 14,
             "mana": 130,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19323,8 +19424,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witch Circlet (Event Item)",
-            "lastModified": "2020-04-07T19:40:24Z",
-            "revision": 15274,
+            "lastModified": "2020-04-28T06:35:33Z",
+            "revision": 15699,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witch+Circlet+%28Event+Item%29"
         },
         {
@@ -19337,6 +19438,8 @@
             "attack": 9,
             "defense": 23,
             "mana": 175,
+            "weight": 480,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19346,8 +19449,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witch Robe (Event Item)",
-            "lastModified": "2020-04-07T19:40:26Z",
-            "revision": 15275,
+            "lastModified": "2020-04-28T06:35:20Z",
+            "revision": 15698,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witch+Robe+%28Event+Item%29"
         },
         {
@@ -19360,6 +19463,8 @@
             "attack": 4,
             "defense": 8,
             "mana": 75,
+            "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19369,8 +19474,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witch Shoes (Event Item)",
-            "lastModified": "2020-04-07T19:40:28Z",
-            "revision": 15276,
+            "lastModified": "2020-04-28T06:35:48Z",
+            "revision": 15700,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witch+Shoes+%28Event+Item%29"
         },
         {
@@ -19383,6 +19488,8 @@
             "attack": 21,
             "defense": 18,
             "mana": 0,
+            "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
@@ -19392,8 +19499,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witch Staff (Event Item)",
-            "lastModified": "2020-04-07T19:40:29Z",
-            "revision": 15277,
+            "lastModified": "2020-04-28T06:44:57Z",
+            "revision": 15738,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witch+Staff+%28Event+Item%29"
         },
         {
@@ -19406,6 +19513,8 @@
             "attack": 1,
             "defense": 9,
             "mana": 50,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -19415,8 +19524,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witchling Bracers (Event Item)",
-            "lastModified": "2020-04-07T19:40:31Z",
-            "revision": 15278,
+            "lastModified": "2020-04-28T06:35:06Z",
+            "revision": 15697,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witchling+Bracers+%28Event+Item%29"
         },
         {
@@ -19429,6 +19538,8 @@
             "attack": 2,
             "defense": 12,
             "mana": 99,
+            "weight": 190,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -19438,8 +19549,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witchling Circlet (Event Item)",
-            "lastModified": "2020-04-07T19:40:33Z",
-            "revision": 15279,
+            "lastModified": "2020-04-28T06:34:39Z",
+            "revision": 15695,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witchling+Circlet+%28Event+Item%29"
         },
         {
@@ -19452,6 +19563,8 @@
             "attack": 4,
             "defense": 20,
             "mana": 141,
+            "weight": 450,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -19461,8 +19574,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witchling Robe (Event Item)",
-            "lastModified": "2020-04-07T19:40:36Z",
-            "revision": 15280,
+            "lastModified": "2020-04-28T06:34:25Z",
+            "revision": 15694,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witchling+Robe+%28Event+Item%29"
         },
         {
@@ -19475,6 +19588,8 @@
             "attack": 1,
             "defense": 9,
             "mana": 60,
+            "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -19484,8 +19599,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witchling Shoes (Event Item)",
-            "lastModified": "2020-04-07T19:40:38Z",
-            "revision": 15281,
+            "lastModified": "2020-04-28T06:34:54Z",
+            "revision": 15696,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witchling+Shoes+%28Event+Item%29"
         },
         {
@@ -19498,6 +19613,8 @@
             "attack": 19,
             "defense": 14,
             "mana": 0,
+            "weight": 180,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
@@ -19507,8 +19624,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Witchling Staff (Event Item)",
-            "lastModified": "2020-04-07T19:40:39Z",
-            "revision": 15282,
+            "lastModified": "2020-04-28T06:43:47Z",
+            "revision": 15732,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Witchling+Staff+%28Event+Item%29"
         },
         {
@@ -19555,7 +19672,7 @@
             "type": "Consumable",
             "subType": "Ammunition",
             "wikiNote": "needs checking",
-            "weight": 10,
+            "weight": 0,
             "levelRequirement": 35,
             "depositable": false,
             "shopSellPrice": 0,
@@ -19567,8 +19684,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Wooden Arrow",
-            "lastModified": "2020-04-06T20:58:41Z",
-            "revision": 13424,
+            "lastModified": "2020-04-28T06:59:34Z",
+            "revision": 15746,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Arrow"
         },
         {
@@ -19891,6 +20008,7 @@
             "attack": 6,
             "defense": 22,
             "mana": 0,
+            "weight": 200,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -19902,8 +20020,8 @@
             "wikiFreeText": "The item can be obtained via stage 2 of the {{#show: {{PAGENAME}} |?Event }} special event. Once a monster horde is defeated there is a possibility to get the {{PAGENAME}}.",
             "recipe": {},
             "pagename": "Zombie Helmet (Event Gear)",
-            "lastModified": "2020-04-06T22:04:04Z",
-            "revision": 13088,
+            "lastModified": "2020-04-28T06:37:08Z",
+            "revision": 15707,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie+Helmet+%28Event+Gear%29"
         },
         {
@@ -19920,6 +20038,7 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 200,
             "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
@@ -19931,8 +20050,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Zombie Shield (Event Gear)",
-            "lastModified": "2020-04-06T22:35:54Z",
-            "revision": 13091,
+            "lastModified": "2020-04-28T06:37:18Z",
+            "revision": 15708,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie+Shield+%28Event+Gear%29"
         },
         {
@@ -20452,6 +20571,7 @@
             "eventItem": false,
             "name": "Mechblade arrows pack",
             "type": "Misc",
+            "weight": 10,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -20471,8 +20591,8 @@
                 "Bone Powder": "2"
             },
             "pagename": "Mechblade Arrows Pack",
-            "lastModified": "2020-04-13T22:52:33Z",
-            "revision": 15370,
+            "lastModified": "2020-04-28T07:01:00Z",
+            "revision": 15753,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mechblade+Arrows+Pack"
         },
         {
@@ -20480,6 +20600,7 @@
             "eventItem": false,
             "name": "Bodkin arrows pack",
             "type": "Misc",
+            "weight": 10,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -20500,8 +20621,8 @@
                 "Quality Cloth": "1"
             },
             "pagename": "Bodkin Arrows Pack",
-            "lastModified": "2020-04-14T14:43:24Z",
-            "revision": 15375,
+            "lastModified": "2020-04-28T07:00:58Z",
+            "revision": 15752,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bodkin+Arrows+Pack"
         },
         {
@@ -20509,6 +20630,7 @@
             "eventItem": false,
             "name": "Piercing arrows pack",
             "type": "Misc",
+            "weight": 10,
             "depositable": false,
             "exchange": false,
             "auction": false,
@@ -20527,8 +20649,8 @@
                 "Coke": "1"
             },
             "pagename": "Piercing Arrows Pack",
-            "lastModified": "2020-04-14T17:59:19Z",
-            "revision": 15377,
+            "lastModified": "2020-04-28T07:00:54Z",
+            "revision": 15751,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrows+Pack"
         },
         {

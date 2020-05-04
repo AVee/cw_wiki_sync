@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-04T15:11:07.870106+00:00",
+    "timestamp": "2020-05-04T17:11:04.923050+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20681,13 +20681,14 @@
             "shopSellPrice": 0,
             "exchange": false,
             "auction": false,
+            "freeText": "[[Arrow]] are required for [[Bow|bows]]. They are obtained by opening a [[Piercing Arrows Pack]].",
             "quest": false,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Piercing Arrow",
-            "lastModified": "2020-04-28T07:12:01Z",
-            "revision": 15769,
+            "lastModified": "2020-05-04T17:09:43Z",
+            "revision": 15816,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrow"
         },
         {
@@ -20701,13 +20702,14 @@
             "shopSellPrice": 0,
             "exchange": false,
             "auction": false,
+            "freeText": "[[Arrow]] are required for [[Bow|bows]]. They are obtained by opening a [[Bodkin Arrows Pack]].",
             "quest": false,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Bodkin Arrow",
-            "lastModified": "2020-04-28T07:12:04Z",
-            "revision": 15770,
+            "lastModified": "2020-05-04T17:08:48Z",
+            "revision": 15815,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bodkin+Arrow"
         },
         {
@@ -20721,13 +20723,14 @@
             "shopSellPrice": 0,
             "exchange": false,
             "auction": false,
+            "freeText": "[[Arrow]] are required for [[Bow|bows]]. They are obtained by opening a [[Mechblade Arrows Pack]].",
             "quest": false,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Mechblade Arrow",
-            "lastModified": "2020-04-28T07:12:06Z",
-            "revision": 15771,
+            "lastModified": "2020-05-04T17:10:14Z",
+            "revision": 15817,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mechblade+Arrow"
         },
         {

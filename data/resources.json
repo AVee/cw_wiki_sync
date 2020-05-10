@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-04T18:11:05.805965+00:00",
+    "timestamp": "2020-05-10T11:11:05.204838+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20492,6 +20492,7 @@
             "recipeIncomplete": false,
             "craftCommand": "/craft_a108",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
             "craftMana": 800,
             "recipe": {
                 "Discarnate Circlet Recipe": "1",
@@ -20507,8 +20508,8 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-04-13T07:29:05Z",
-            "revision": 15364,
+            "lastModified": "2020-05-10T10:59:04Z",
+            "revision": 15825,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet"
         },
         {

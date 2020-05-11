@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-10T11:11:05.204838+00:00",
+    "timestamp": "2020-05-11T21:11:09.435916+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20901,6 +20901,24 @@
             "lastModified": "2020-05-04T17:55:03Z",
             "revision": 15819,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wicker+Basket"
+        },
+        {
+            "id": "ens",
+            "eventItem": false,
+            "name": "⚡️Scroll of Sigil",
+            "type": "Misc",
+            "wikiNote": "first draft of the page",
+            "depositable": false,
+            "exchange": false,
+            "freeText": "The Scroll of Sigil is used to change the ⚡️ emoji of gear which is used to show the enchantment state of an item. The following emoji can be picked: <br>[[File:ScrollOfSigil_EmojiList.png]]",
+            "quest": false,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": {},
+            "pagename": "Scroll of Sigil",
+            "lastModified": "2020-05-11T20:25:06Z",
+            "revision": 15830,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Sigil"
         }
     ],
     "incomplete": [

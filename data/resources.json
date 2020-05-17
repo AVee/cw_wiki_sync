@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-16T02:11:08.478188+00:00",
+    "timestamp": "2020-05-17T00:11:07.908283+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1384,6 +1384,18 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantAtk2": 0,
+            "enchantAtk3": 0,
+            "enchantAtk4": 0,
+            "enchantDef1": 2,
+            "enchantDef2": 2,
+            "enchantDef3": 2,
+            "enchantDef4": 2,
+            "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
+            "enchantMana4": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a87",
@@ -1402,8 +1414,8 @@
                 "Quality Cloth": "18"
             },
             "pagename": "Celestial Armor",
-            "lastModified": "2020-04-13T07:24:34Z",
-            "revision": 15355,
+            "lastModified": "2020-05-16T23:40:47Z",
+            "revision": 15850,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor"
         },
         {
@@ -12193,8 +12205,11 @@
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 0,
+            "enchantAtk2": 0,
             "enchantDef1": 2,
+            "enchantDef2": 3,
             "enchantMana1": 0,
+            "enchantMana2": 0,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a103",
@@ -12213,8 +12228,8 @@
                 "Ruby": "15"
             },
             "pagename": "Manticore Armor",
-            "lastModified": "2020-04-13T07:27:44Z",
-            "revision": 15361,
+            "lastModified": "2020-05-16T23:19:29Z",
+            "revision": 15849,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Armor"
         },
         {

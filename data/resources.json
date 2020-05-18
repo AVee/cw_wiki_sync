@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-17T23:11:04.914224+00:00",
+    "timestamp": "2020-05-18T04:11:04.847235+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -12290,6 +12290,7 @@
             "attack": 12,
             "defense": 15,
             "mana": 0,
+            "weight": 168,
             "levelRequirement": 60,
             "depositable": true,
             "shopSellPrice": 687,
@@ -12320,8 +12321,8 @@
                 "Silver Mold": "6"
             },
             "pagename": "Manticore Boots",
-            "lastModified": "2020-04-22T13:51:17Z",
-            "revision": 15546,
+            "lastModified": "2020-05-18T03:54:59Z",
+            "revision": 15861,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Boots"
         },
         {
@@ -12381,6 +12382,8 @@
             "attack": 11,
             "defense": 15,
             "mana": 0,
+            "weight": 170,
+            "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -12407,8 +12410,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Manticore Gloves",
-            "lastModified": "2020-04-06T19:29:41Z",
-            "revision": 14726,
+            "lastModified": "2020-05-18T03:31:15Z",
+            "revision": 15859,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Gloves"
         },
         {
@@ -20269,6 +20272,7 @@
             "attack": 19,
             "defense": 0,
             "mana": 0,
+            "weight": 220,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -20292,8 +20296,8 @@
                 "Silver Alloy": "25"
             },
             "pagename": "Poniard",
-            "lastModified": "2020-04-08T17:05:30Z",
-            "revision": 15307,
+            "lastModified": "2020-05-18T03:30:15Z",
+            "revision": 15858,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard"
         },
         {
@@ -20306,6 +20310,8 @@
             "attack": 36,
             "defense": 14,
             "mana": 0,
+            "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 60,
             "ammunition": "Bodkin Arrow, Mechblade Arrow, Piercing Arrow",
             "depositable": true,
@@ -20334,8 +20340,8 @@
                 "Heartstriker Bow Recipe": "1"
             },
             "pagename": "Heartstriker Bow",
-            "lastModified": "2020-04-18T23:44:03Z",
-            "revision": 15442,
+            "lastModified": "2020-05-18T03:37:21Z",
+            "revision": 15860,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker+Bow"
         },
         {

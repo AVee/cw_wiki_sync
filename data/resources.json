@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-18T10:11:10.316986+00:00",
+    "timestamp": "2020-05-18T18:11:08.103591+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20511,9 +20511,9 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
-            "attack": 14,
-            "defense": 30,
-            "mana": 205,
+            "attack": 9,
+            "defense": 25,
+            "mana": 180,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
@@ -20539,8 +20539,8 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-05-10T10:59:04Z",
-            "revision": 15825,
+            "lastModified": "2020-05-18T17:16:19Z",
+            "revision": 15874,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet"
         },
         {

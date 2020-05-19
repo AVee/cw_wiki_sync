@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-18T18:11:08.103591+00:00",
+    "timestamp": "2020-05-19T20:11:04.718844+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -383,7 +383,7 @@
             "name": "Black Morningstar",
             "type": "Weapon",
             "subType": "Blunt",
-            "wikiNote": "every info missing besides recipe. that needs to be checked",
+            "wikiNote": "missing wrapping",
             "attack": 19,
             "defense": 21,
             "mana": 0,
@@ -416,8 +416,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Black Morningstar",
-            "lastModified": "2020-04-22T00:52:27Z",
-            "revision": 15516,
+            "lastModified": "2020-05-19T19:56:07Z",
+            "revision": 15876,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar"
         },
         {
@@ -607,7 +607,6 @@
             "eventItem": false,
             "name": "Blessed Cloak part",
             "type": "Piece of Equipment",
-            "wikiNote": "ToDo: Fill out all these properties",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -637,8 +636,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Blessed Cloak Part",
-            "lastModified": "2020-04-07T17:22:52Z",
-            "revision": 14978,
+            "lastModified": "2020-05-19T19:58:28Z",
+            "revision": 15877,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blessed+Cloak+Part"
         },
         {

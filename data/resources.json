@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-20T02:11:14.195054+00:00",
+    "timestamp": "2020-05-20T03:11:11.639197+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1611,11 +1611,12 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Robe Armor",
-            "wikiNote": "Enchantment info missing. Wrapping missing",
+            "wikiNote": "Enchantment info missing.",
             "attack": 5,
             "defense": 13,
             "mana": 65,
             "weight": 155,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 372,
@@ -1644,8 +1645,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Bracers",
-            "lastModified": "2020-05-20T01:41:23Z",
-            "revision": 15885,
+            "lastModified": "2020-05-20T03:04:37Z",
+            "revision": 15913,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Bracers"
         },
         {
@@ -3190,7 +3191,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Heavy Armor",
-            "wikiNote": "recipe needs checking, rest completely missing",
+            "wikiNote": "recipe needs checking, wrapping missing",
             "attack": 5,
             "defense": 15,
             "mana": 0,
@@ -3220,8 +3221,8 @@
                 "Coke": "11"
             },
             "pagename": "Council Boots",
-            "lastModified": "2020-04-13T07:22:09Z",
-            "revision": 15351,
+            "lastModified": "2020-05-20T02:12:05Z",
+            "revision": 15899,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots"
         },
         {
@@ -3305,7 +3306,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
-            "wikiNote": "recipe needs checking, rest completely missing",
+            "wikiNote": "recipe needs checking, wrapping missing",
             "attack": 5,
             "defense": 15,
             "mana": 0,
@@ -3348,8 +3349,8 @@
                 "Blacksmith Mold": "1"
             },
             "pagename": "Council Gauntlets",
-            "lastModified": "2020-04-06T21:29:06Z",
-            "revision": 13828,
+            "lastModified": "2020-05-20T02:26:48Z",
+            "revision": 15900,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Gauntlets"
         },
         {
@@ -3431,7 +3432,7 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
-            "wikiNote": "info missing",
+            "wikiNote": "wrapping missing. enchant incomplete",
             "attack": 8,
             "defense": 25,
             "mana": 0,
@@ -3471,8 +3472,8 @@
                 "Quality Cloth": "2"
             },
             "pagename": "Council Helmet",
-            "lastModified": "2020-04-13T07:21:32Z",
-            "revision": 15350,
+            "lastModified": "2020-05-20T02:27:31Z",
+            "revision": 15901,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet"
         },
         {
@@ -3480,7 +3481,6 @@
             "eventItem": false,
             "name": "Council Helmet part",
             "type": "Piece of Equipment",
-            "wikiNote": "every info missing",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -3509,8 +3509,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Helmet Part",
-            "lastModified": "2020-04-06T21:48:37Z",
-            "revision": 14110,
+            "lastModified": "2020-05-20T02:29:37Z",
+            "revision": 15902,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet+Part"
         },
         {
@@ -3518,7 +3518,6 @@
             "eventItem": false,
             "name": "Council Helmet recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "every info missing",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -3547,8 +3546,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Council Helmet Recipe",
-            "lastModified": "2020-04-06T22:07:38Z",
-            "revision": 14129,
+            "lastModified": "2020-05-20T02:29:53Z",
+            "revision": 15903,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet+Recipe"
         },
         {
@@ -3561,6 +3560,7 @@
             "defense": 15,
             "mana": 0,
             "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 310,
@@ -3598,8 +3598,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Council Shield",
-            "lastModified": "2020-04-08T11:54:09Z",
-            "revision": 15288,
+            "lastModified": "2020-05-20T03:04:48Z",
+            "revision": 15914,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Shield"
         },
         {
@@ -3726,7 +3726,6 @@
             "eventItem": false,
             "name": "Craftsman Apron",
             "type": "Cape",
-            "wikiNote": "recipe complete, other info missing/unconfirmed",
             "attack": 3,
             "defense": 3,
             "mana": 60,
@@ -3768,8 +3767,8 @@
                 "Solvent": "1"
             },
             "pagename": "Craftsman Apron",
-            "lastModified": "2020-04-06T22:25:09Z",
-            "revision": 14281,
+            "lastModified": "2020-05-20T02:33:22Z",
+            "revision": 15905,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman+Apron"
         },
         {
@@ -3777,7 +3776,6 @@
             "eventItem": false,
             "name": "Craftsman Apron part",
             "type": "Piece of Equipment",
-            "wikiNote": "missing drop info detail, item id unconfirmed",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -3806,8 +3804,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Craftsman Apron Part",
-            "lastModified": "2020-04-06T19:58:33Z",
-            "revision": 14073,
+            "lastModified": "2020-05-20T02:36:47Z",
+            "revision": 15907,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman+Apron+Part"
         },
         {
@@ -3815,7 +3813,6 @@
             "eventItem": false,
             "name": "Craftsman Apron recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "missing drop info detail, item id unconfirmed",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -3843,8 +3840,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Craftsman Apron Recipe",
-            "lastModified": "2020-04-06T22:19:21Z",
-            "revision": 14178,
+            "lastModified": "2020-05-20T02:36:38Z",
+            "revision": 15906,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman+Apron+Recipe"
         },
         {
@@ -3973,7 +3970,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Heavy Armor",
-            "wikiNote": "needs wrapping & shop sale price",
+            "wikiNote": "needs wrapping",
             "attack": 4,
             "defense": 12,
             "mana": 0,
@@ -4014,8 +4011,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Crusader Boots",
-            "lastModified": "2020-04-07T18:10:14Z",
-            "revision": 15169,
+            "lastModified": "2020-05-20T02:37:51Z",
+            "revision": 15908,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Boots"
         },
         {
@@ -12450,7 +12447,7 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Light Armor",
-            "wikiNote": "new item, not much data known",
+            "wikiNote": "weight, wrap, sell price missing",
             "attack": 14,
             "defense": 24,
             "mana": 0,
@@ -12480,8 +12477,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Manticore Helmet",
-            "lastModified": "2020-04-06T19:29:49Z",
-            "revision": 14729,
+            "lastModified": "2020-05-20T02:48:12Z",
+            "revision": 15911,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Helmet"
         },
         {
@@ -17712,7 +17709,7 @@
             "eventItem": false,
             "name": "Stoneskin Cloak",
             "type": "Cape",
-            "wikiNote": "recipe complete, other info missing",
+            "wikiNote": "missing wrapping",
             "attack": 3,
             "defense": 6,
             "mana": 0,
@@ -17754,8 +17751,8 @@
                 "Silver Alloy": "2"
             },
             "pagename": "Stoneskin Cloak",
-            "lastModified": "2020-04-28T05:36:29Z",
-            "revision": 15665,
+            "lastModified": "2020-05-20T02:48:34Z",
+            "revision": 15912,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin+Cloak"
         },
         {
@@ -20497,6 +20494,7 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
+            "wikiNote": "weight, wrap, sell price missing",
             "attack": 9,
             "defense": 25,
             "mana": 180,
@@ -20525,8 +20523,8 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-05-18T17:16:19Z",
-            "revision": 15874,
+            "lastModified": "2020-05-20T02:47:54Z",
+            "revision": 15909,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet"
         },
         {
@@ -20569,7 +20567,7 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
-            "wikiNote": "new item, not much data known",
+            "wikiNote": "weight, wrap, sell price missing",
             "attack": 10,
             "defense": 33,
             "mana": 0,
@@ -20598,8 +20596,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Overseer Helmet",
-            "lastModified": "2020-04-13T07:28:26Z",
-            "revision": 15363,
+            "lastModified": "2020-05-20T02:48:06Z",
+            "revision": 15910,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet"
         },
         {

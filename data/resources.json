@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-20T05:11:17.950853+00:00",
+    "timestamp": "2020-05-20T06:11:11.290095+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -6061,7 +6061,7 @@
             "name": "Doomblade Sword",
             "type": "Weapon",
             "subType": "Sword",
-            "wikiNote": "needs sale price, weight and wrapping added",
+            "wikiNote": "needs wrapping added",
             "attack": 36,
             "defense": 1,
             "mana": 0,
@@ -6095,8 +6095,8 @@
                 "Ruby": "3"
             },
             "pagename": "Doomblade Sword",
-            "lastModified": "2020-04-22T01:40:15Z",
-            "revision": 15537,
+            "lastModified": "2020-05-20T05:14:21Z",
+            "revision": 15967,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doomblade+Sword"
         },
         {
@@ -6433,7 +6433,6 @@
             "name": "Eclipse",
             "type": "Weapon",
             "subType": "Sword",
-            "wikiNote": "needs sale price added",
             "attack": 37,
             "defense": 0,
             "mana": 0,
@@ -6468,8 +6467,8 @@
                 "Ruby": "3"
             },
             "pagename": "Eclipse",
-            "lastModified": "2020-04-07T18:11:31Z",
-            "revision": 15174,
+            "lastModified": "2020-05-20T05:14:42Z",
+            "revision": 15968,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse"
         },
         {
@@ -8542,7 +8541,7 @@
             "name": "Guard's Spear",
             "type": "Weapon",
             "subType": "Spear",
-            "wikiNote": "needs wrapping, sale price & error checking.",
+            "wikiNote": "needs wrapping & error checking.",
             "attack": 18,
             "defense": 16,
             "mana": 0,
@@ -8580,8 +8579,8 @@
                 "Hardener": "7"
             },
             "pagename": "Guard's Spear",
-            "lastModified": "2020-04-06T19:16:08Z",
-            "revision": 13707,
+            "lastModified": "2020-05-20T05:15:05Z",
+            "revision": 15969,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard%27s+Spear"
         },
         {
@@ -9192,7 +9191,7 @@
             "name": "Heavy Fauchard",
             "type": "Weapon",
             "subType": "Spear",
-            "wikiNote": "Enchantment info still missing",
+            "wikiNote": "wrapping and enchantment info still missing",
             "attack": 21,
             "defense": 19,
             "mana": 0,
@@ -9222,8 +9221,8 @@
                 "Ruby": "3"
             },
             "pagename": "Heavy Fauchard",
-            "lastModified": "2020-04-28T06:16:10Z",
-            "revision": 15680,
+            "lastModified": "2020-05-20T05:30:53Z",
+            "revision": 15975,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Fauchard"
         },
         {
@@ -9737,7 +9736,7 @@
             "name": "Hunter dagger",
             "type": "Weapon",
             "subType": "Dagger",
-            "wikiNote": "needs weight, sale price & wrapping added",
+            "wikiNote": "needs wrapping added",
             "attack": 10,
             "defense": 0,
             "mana": 0,
@@ -9768,8 +9767,8 @@
                 "Steel Mold": "1"
             },
             "pagename": "Hunter Dagger",
-            "lastModified": "2020-04-07T18:12:56Z",
-            "revision": 15178,
+            "lastModified": "2020-05-20T05:11:15Z",
+            "revision": 15965,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Dagger"
         },
         {
@@ -10997,7 +10996,7 @@
             "type": "Weapon",
             "subType": "Bow",
             "description": "Perhaps the fastest firing bow for its tier, it's nicknamed lightning respectively. Cleanly releasing energy on firing, and able to be drawn back 25% further than the Composite or Hailstorm bow, it prides itself in being able to punch through most armors. Featuring a 'tier' like design, the ripples help conserve energy in the frame.",
-            "wikiNote": "weight and wrapped to be confirmed",
+            "wikiNote": "wrapped to be confirmed",
             "attack": 27,
             "defense": 8,
             "mana": 0,
@@ -11036,8 +11035,8 @@
                 "Ruby": "3"
             },
             "pagename": "Lightning Bow",
-            "lastModified": "2020-04-07T18:14:23Z",
-            "revision": 15183,
+            "lastModified": "2020-05-20T05:16:48Z",
+            "revision": 15971,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightning+Bow"
         },
         {
@@ -11818,7 +11817,6 @@
             "name": "Long sword",
             "type": "Weapon",
             "subType": "Sword",
-            "wikiNote": "check if auction is correct",
             "attack": 6,
             "defense": 0,
             "mana": 0,
@@ -11835,8 +11833,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Long Sword",
-            "lastModified": "2020-04-06T21:17:20Z",
-            "revision": 13383,
+            "lastModified": "2020-05-20T05:27:59Z",
+            "revision": 15973,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Long+Sword"
         },
         {
@@ -11969,7 +11967,7 @@
             "name": "Maiming Bulawa",
             "type": "Weapon",
             "subType": "Blunt",
-            "wikiNote": "some detailed info missing",
+            "wikiNote": "needs wrapping",
             "attack": 22,
             "defense": 22,
             "mana": 0,
@@ -12012,8 +12010,8 @@
                 "Coke": "107"
             },
             "pagename": "Maiming Bulawa",
-            "lastModified": "2020-04-28T06:20:44Z",
-            "revision": 15681,
+            "lastModified": "2020-05-20T05:18:17Z",
+            "revision": 15972,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maiming+Bulawa"
         },
         {
@@ -14415,7 +14413,7 @@
             "name": "Phoenix Sword",
             "type": "Weapon",
             "subType": "Sword",
-            "wikiNote": "recipe needs to be checked",
+            "wikiNote": "needs wrapping",
             "attack": 45,
             "defense": 0,
             "mana": 0,
@@ -14448,8 +14446,8 @@
                 "Hardener": "9"
             },
             "pagename": "Phoenix Sword",
-            "lastModified": "2020-04-06T22:27:44Z",
-            "revision": 13845,
+            "lastModified": "2020-05-20T05:30:18Z",
+            "revision": 15974,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Phoenix+Sword"
         },
         {
@@ -15081,7 +15079,7 @@
             "name": "Raging Lance",
             "type": "Weapon",
             "subType": "Spear",
-            "wikiNote": "needs info and checking",
+            "wikiNote": "needs enchant info and checking",
             "attack": 19,
             "defense": 16,
             "mana": 0,
@@ -15115,8 +15113,8 @@
                 "Hardener": "9"
             },
             "pagename": "Raging Lance",
-            "lastModified": "2020-04-06T21:17:25Z",
-            "revision": 14272,
+            "lastModified": "2020-05-20T05:16:28Z",
+            "revision": 15970,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging+Lance"
         },
         {

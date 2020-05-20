@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-20T01:11:04.615264+00:00",
+    "timestamp": "2020-05-20T02:11:14.195054+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1218,7 +1218,6 @@
             "name": "Brutalizer Flail",
             "type": "Weapon",
             "subType": "Blunt",
-            "wikiNote": "new item, not much data known",
             "attack": 25,
             "defense": 29,
             "mana": 0,
@@ -1251,8 +1250,8 @@
                 "Blacksmith Frame": "6"
             },
             "pagename": "Brutalizer Flail",
-            "lastModified": "2020-04-08T17:25:53Z",
-            "revision": 15315,
+            "lastModified": "2020-05-20T01:24:56Z",
+            "revision": 15883,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer+Flail"
         },
         {
@@ -1260,7 +1259,6 @@
             "eventItem": false,
             "name": "Brutalizer Flail part",
             "type": "Piece of Equipment",
-            "wikiNote": "new item, not much data known",
             "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
@@ -1273,8 +1271,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Brutalizer Flail Part",
-            "lastModified": "2020-04-28T06:22:37Z",
-            "revision": 15684,
+            "lastModified": "2020-05-20T01:24:36Z",
+            "revision": 15881,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer+Flail+Part"
         },
         {
@@ -1282,7 +1280,6 @@
             "eventItem": false,
             "name": "Brutalizer Flail recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "new item, not much data known",
             "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
@@ -1295,8 +1292,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Brutalizer Flail Recipe",
-            "lastModified": "2020-04-28T07:50:34Z",
-            "revision": 15781,
+            "lastModified": "2020-05-20T01:24:43Z",
+            "revision": 15882,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer+Flail+Recipe"
         },
         {
@@ -1375,6 +1372,7 @@
             "defense": 34,
             "mana": 180,
             "weight": 510,
+            "wrapping": 1,
             "levelRequirement": 45,
             "depositable": true,
             "shopSellPrice": 931,
@@ -1412,8 +1410,8 @@
                 "Quality Cloth": "18"
             },
             "pagename": "Celestial Armor",
-            "lastModified": "2020-05-16T23:40:47Z",
-            "revision": 15850,
+            "lastModified": "2020-05-20T01:36:49Z",
+            "revision": 15884,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor"
         },
         {
@@ -1613,7 +1611,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Robe Armor",
-            "wikiNote": "Enchantment info still missing",
+            "wikiNote": "Enchantment info missing. Wrapping missing",
             "attack": 5,
             "defense": 13,
             "mana": 65,
@@ -1646,8 +1644,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Bracers",
-            "lastModified": "2020-04-13T07:23:58Z",
-            "revision": 15353,
+            "lastModified": "2020-05-20T01:41:23Z",
+            "revision": 15885,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Bracers"
         },
         {
@@ -1846,7 +1844,6 @@
             "name": "Chain mail",
             "type": "Protective Gear",
             "subType": "Armor",
-            "wikiNote": "needs weight",
             "attack": 0,
             "defense": 12,
             "mana": 0,
@@ -1863,8 +1860,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Chain Mail",
-            "lastModified": "2020-04-27T20:38:19Z",
-            "revision": 15595,
+            "lastModified": "2020-05-20T01:44:19Z",
+            "revision": 15886,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chain+Mail"
         },
         {
@@ -2084,7 +2081,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs sale price & wrapping added and error checking",
+            "wikiNote": "needs error checking",
             "attack": 1,
             "defense": 9,
             "mana": 40,
@@ -2100,7 +2097,6 @@
             "auction": true,
             "freeText": "It was introduced in the [[Game_updates/2018-04-03|April 3, 2018 update]].",
             "quest": false,
-            "questPerceptionLevel": 0,
             "enchantable": true,
             "enchantAtk1": 0,
             "enchantAtk2": 0,
@@ -2131,8 +2127,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Clarity Bracers",
-            "lastModified": "2020-04-06T20:26:24Z",
-            "revision": 13034,
+            "lastModified": "2020-05-20T01:46:38Z",
+            "revision": 15887,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers"
         },
         {
@@ -2140,7 +2136,6 @@
             "eventItem": false,
             "name": "Clarity Bracers part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "weight": 10,
             "levelRequirement": 0,
             "depositable": true,
@@ -2170,8 +2165,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Bracers Part",
-            "lastModified": "2020-04-07T17:23:16Z",
-            "revision": 14993,
+            "lastModified": "2020-05-20T01:48:44Z",
+            "revision": 15889,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers+Part"
         },
         {
@@ -2179,7 +2174,6 @@
             "eventItem": false,
             "name": "Clarity Bracers recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "needs drop info",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -2208,8 +2202,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Bracers Recipe",
-            "lastModified": "2020-04-07T17:23:18Z",
-            "revision": 14994,
+            "lastModified": "2020-05-20T01:48:22Z",
+            "revision": 15888,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers+Recipe"
         },
         {
@@ -2271,7 +2265,6 @@
             "eventItem": false,
             "name": "Clarity Circlet fragment",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "weight": 10,
             "levelRequirement": 0,
             "depositable": true,
@@ -2301,8 +2294,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Circlet Fragment",
-            "lastModified": "2020-04-07T17:23:19Z",
-            "revision": 14995,
+            "lastModified": "2020-05-20T01:54:37Z",
+            "revision": 15890,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Circlet+Fragment"
         },
         {
@@ -2397,7 +2390,6 @@
             "eventItem": false,
             "name": "Clarity Robe piece",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "weight": 10,
             "levelRequirement": 0,
             "depositable": true,
@@ -2427,8 +2419,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Robe Piece",
-            "lastModified": "2020-04-07T17:23:21Z",
-            "revision": 14997,
+            "lastModified": "2020-05-20T02:02:12Z",
+            "revision": 15891,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe+Piece"
         },
         {
@@ -2436,7 +2428,6 @@
             "eventItem": false,
             "name": "Clarity Robe recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "needs drop info",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -2465,8 +2456,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Robe Recipe",
-            "lastModified": "2020-04-07T17:23:22Z",
-            "revision": 14998,
+            "lastModified": "2020-05-20T02:02:45Z",
+            "revision": 15892,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe+Recipe"
         },
         {
@@ -2527,7 +2518,6 @@
             "eventItem": false,
             "name": "Clarity Shoes part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "weight": 10,
             "levelRequirement": 0,
             "depositable": true,
@@ -2557,8 +2547,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Shoes Part",
-            "lastModified": "2020-04-07T17:23:24Z",
-            "revision": 14999,
+            "lastModified": "2020-05-20T02:03:13Z",
+            "revision": 15893,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Shoes+Part"
         },
         {
@@ -2566,7 +2556,6 @@
             "eventItem": false,
             "name": "Clarity Shoes recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "needs drop info",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -2595,8 +2584,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Clarity Shoes Recipe",
-            "lastModified": "2020-04-07T17:23:25Z",
-            "revision": 15000,
+            "lastModified": "2020-05-20T02:03:25Z",
+            "revision": 15894,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Shoes+Recipe"
         },
         {
@@ -2881,7 +2870,6 @@
             "eventItem": false,
             "name": "Composite Bow recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "needs drop info added/checked",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -2910,8 +2898,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Composite Bow Recipe",
-            "lastModified": "2020-04-06T19:17:55Z",
-            "revision": 13589,
+            "lastModified": "2020-05-20T02:04:10Z",
+            "revision": 15895,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite+Bow+Recipe"
         },
         {
@@ -2919,7 +2907,6 @@
             "eventItem": false,
             "name": "Composite Bow shaft",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -2949,8 +2936,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Composite Bow Shaft",
-            "lastModified": "2020-04-07T17:23:34Z",
-            "revision": 15005,
+            "lastModified": "2020-05-20T02:04:28Z",
+            "revision": 15896,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite+Bow+Shaft"
         },
         {
@@ -3075,6 +3062,7 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Heavy Armor",
+            "wikiNote": "missing wrapping",
             "attack": 13,
             "defense": 42,
             "mana": 0,
@@ -3117,8 +3105,8 @@
                 "Solvent": "18"
             },
             "pagename": "Council Armor",
-            "lastModified": "2020-04-06T22:01:10Z",
-            "revision": 13069,
+            "lastModified": "2020-05-20T02:11:04Z",
+            "revision": 15897,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Armor"
         },
         {

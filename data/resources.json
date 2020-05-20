@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-20T04:11:09.616641+00:00",
+    "timestamp": "2020-05-20T05:11:17.950853+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -3191,7 +3191,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Heavy Armor",
-            "wikiNote": "recipe needs checking, wrapping missing",
+            "wikiNote": "wrapping missing",
             "attack": 5,
             "defense": 15,
             "mana": 0,
@@ -3221,8 +3221,8 @@
                 "Coke": "11"
             },
             "pagename": "Council Boots",
-            "lastModified": "2020-05-20T02:12:05Z",
-            "revision": 15899,
+            "lastModified": "2020-05-20T04:55:32Z",
+            "revision": 15957,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots"
         },
         {
@@ -3306,7 +3306,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
-            "wikiNote": "recipe needs checking, wrapping missing",
+            "wikiNote": "wrapping missing",
             "attack": 5,
             "defense": 15,
             "mana": 0,
@@ -3349,8 +3349,8 @@
                 "Blacksmith Mold": "1"
             },
             "pagename": "Council Gauntlets",
-            "lastModified": "2020-05-20T02:26:48Z",
-            "revision": 15900,
+            "lastModified": "2020-05-20T05:00:10Z",
+            "revision": 15958,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Gauntlets"
         },
         {
@@ -4099,7 +4099,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
-            "wikiNote": "needs weight, sale price, wrapping & checking",
+            "wikiNote": "needs wrapping & checking",
             "attack": 4,
             "defense": 12,
             "mana": 0,
@@ -4140,8 +4140,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Crusader Gauntlets",
-            "lastModified": "2020-04-07T18:10:33Z",
-            "revision": 15170,
+            "lastModified": "2020-05-20T04:33:19Z",
+            "revision": 15945,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Gauntlets"
         },
         {
@@ -4539,7 +4539,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs weight, sale price, wrapping & checking",
+            "wikiNote": "needs wrapping & checking",
             "attack": 4,
             "defense": 10,
             "mana": 55,
@@ -4572,8 +4572,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Demon Bracers",
-            "lastModified": "2020-04-07T17:46:54Z",
-            "revision": 15143,
+            "lastModified": "2020-05-20T04:37:15Z",
+            "revision": 15949,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers"
         },
         {
@@ -4832,7 +4832,7 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs sale price, wrapping and checking",
+            "wikiNote": "needs wrapping and checking",
             "attack": 9,
             "defense": 25,
             "mana": 165,
@@ -4865,8 +4865,8 @@
                 "Blacksmith Frame": "5"
             },
             "pagename": "Demon Robe",
-            "lastModified": "2020-04-07T12:42:17Z",
-            "revision": 14924,
+            "lastModified": "2020-05-20T04:36:12Z",
+            "revision": 15947,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Robe"
         },
         {
@@ -4978,7 +4978,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs wrapping, sale price & checking",
+            "wikiNote": "needs wrapping & checking",
             "attack": 4,
             "defense": 10,
             "mana": 55,
@@ -5019,8 +5019,8 @@
                 "Sapphire": "5"
             },
             "pagename": "Demon Shoes",
-            "lastModified": "2020-04-07T12:42:49Z",
-            "revision": 14925,
+            "lastModified": "2020-05-20T04:36:39Z",
+            "revision": 15948,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes"
         },
         {
@@ -5243,7 +5243,6 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Robe Armor",
-            "wikiNote": "missing sell price",
             "attack": 19,
             "defense": 45,
             "mana": 240,
@@ -5276,8 +5275,8 @@
                 "Sapphire": "20"
             },
             "pagename": "Discarnate Robe",
-            "lastModified": "2020-04-09T18:42:49Z",
-            "revision": 15321,
+            "lastModified": "2020-05-20T04:31:59Z",
+            "revision": 15944,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Robe"
         },
         {
@@ -5329,6 +5328,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Robe Armor",
+            "wikiNote": "need weight",
             "attack": 8,
             "defense": 15,
             "mana": 90,
@@ -5359,8 +5359,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Discarnate Shoes",
-            "lastModified": "2020-04-26T23:28:48Z",
-            "revision": 15554,
+            "lastModified": "2020-05-20T04:16:10Z",
+            "revision": 15932,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Shoes"
         },
         {
@@ -5412,7 +5412,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs weight, sale price, wrapping & checking",
+            "wikiNote": "needs wrapping & checking",
             "attack": 3,
             "defense": 11,
             "mana": 55,
@@ -5457,8 +5457,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Divine Bracers",
-            "lastModified": "2020-04-06T22:09:18Z",
-            "revision": 13062,
+            "lastModified": "2020-05-20T04:42:39Z",
+            "revision": 15953,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Bracers"
         },
         {
@@ -5671,7 +5671,7 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs sale price, weight, wrapping and checking",
+            "wikiNote": "needs wrapping and checking",
             "attack": 8,
             "defense": 26,
             "mana": 165,
@@ -5716,8 +5716,8 @@
                 "Blacksmith Frame": "5"
             },
             "pagename": "Divine Robe",
-            "lastModified": "2020-04-06T21:17:19Z",
-            "revision": 13059,
+            "lastModified": "2020-05-20T04:37:33Z",
+            "revision": 15950,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Robe"
         },
         {
@@ -5804,7 +5804,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs wrapping, sale price & checking",
+            "wikiNote": "needs wrapping & checking",
             "attack": 3,
             "defense": 11,
             "mana": 55,
@@ -5849,8 +5849,8 @@
                 "Sapphire": "5"
             },
             "pagename": "Divine Shoes",
-            "lastModified": "2020-04-07T12:43:52Z",
-            "revision": 14926,
+            "lastModified": "2020-05-20T04:41:04Z",
+            "revision": 15952,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Shoes"
         },
         {
@@ -6305,7 +6305,7 @@
             "eventItem": false,
             "name": "Durable Cloak",
             "type": "Cape",
-            "wikiNote": "needs wrapping, weight and sale price added & error checking",
+            "wikiNote": "needs wrapping & error checking",
             "attack": 3,
             "defense": 4,
             "mana": 0,
@@ -6346,8 +6346,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Durable Cloak",
-            "lastModified": "2020-04-06T19:50:55Z",
-            "revision": 14274,
+            "lastModified": "2020-05-20T04:43:15Z",
+            "revision": 15954,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable+Cloak"
         },
         {
@@ -6973,7 +6973,6 @@
             "name": "Forest Bow",
             "type": "Weapon",
             "subType": "Bow",
-            "wikiNote": "needs weight added",
             "attack": 18,
             "defense": 6,
             "mana": 0,
@@ -7007,8 +7006,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Forest Bow",
-            "lastModified": "2020-04-22T01:39:11Z",
-            "revision": 15533,
+            "lastModified": "2020-05-20T05:07:11Z",
+            "revision": 15961,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Forest+Bow"
         },
         {
@@ -7904,7 +7903,6 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Light Armor",
-            "wikiNote": "recipe needs checking, rest completely missing",
             "attack": 16,
             "defense": 34,
             "mana": 0,
@@ -7947,8 +7945,8 @@
                 "Ruby": "7"
             },
             "pagename": "Griffin Armor",
-            "lastModified": "2020-04-27T16:45:50Z",
-            "revision": 15559,
+            "lastModified": "2020-05-20T04:53:42Z",
+            "revision": 15956,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Armor"
         },
         {
@@ -9364,7 +9362,6 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Light Armor",
-            "wikiNote": "needs weight and wrapping",
             "attack": 8,
             "defense": 18,
             "mana": 0,
@@ -9399,8 +9396,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Hunter Armor",
-            "lastModified": "2020-04-07T18:11:54Z",
-            "revision": 15176,
+            "lastModified": "2020-05-20T04:20:43Z",
+            "revision": 15941,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Armor"
         },
         {
@@ -9526,7 +9523,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Light Armor",
-            "wikiNote": "needs weight & wrapping added and error checking",
+            "wikiNote": "needs wrapping added and error checking",
             "attack": 3,
             "defense": 8,
             "mana": 0,
@@ -9566,8 +9563,8 @@
                 "Leather": "12"
             },
             "pagename": "Hunter Boots",
-            "lastModified": "2020-04-06T19:45:19Z",
-            "revision": 14223,
+            "lastModified": "2020-05-20T04:21:12Z",
+            "revision": 15942,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Boots"
         },
         {
@@ -9654,7 +9651,6 @@
             "type": "Weapon",
             "subType": "Bow",
             "description": "Much like the matching armor, the Hunter Bow aims for lightweight use. Mithril is forged with iron internals, to allow more flexibility rather than having a solid piece of metal bend, and roped off with a thicker piece of metal twine. Being too strong for Wooden Arrows, Steel Arrows are recommended for use.",
-            "wikiNote": "weight and wrap required tbc",
             "attack": 22,
             "defense": 8,
             "mana": 0,
@@ -9693,8 +9689,8 @@
                 "Hardener": "3"
             },
             "pagename": "Hunter Bow",
-            "lastModified": "2020-04-22T01:39:29Z",
-            "revision": 15535,
+            "lastModified": "2020-05-20T05:08:22Z",
+            "revision": 15964,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Bow"
         },
         {
@@ -12272,7 +12268,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Light Armor",
-            "wikiNote": "missing weight, wrap and sell price",
+            "wikiNote": "missing wrap",
             "attack": 12,
             "defense": 15,
             "mana": 0,
@@ -12307,8 +12303,8 @@
                 "Silver Mold": "6"
             },
             "pagename": "Manticore Boots",
-            "lastModified": "2020-05-18T03:54:59Z",
-            "revision": 15861,
+            "lastModified": "2020-05-20T04:14:03Z",
+            "revision": 15930,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Boots"
         },
         {
@@ -13083,7 +13079,6 @@
             "name": "Mithril axe",
             "type": "Weapon",
             "subType": "Blunt",
-            "wikiNote": "needs weight added",
             "attack": 11,
             "defense": 11,
             "mana": 0,
@@ -13103,8 +13098,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Mithril Axe",
-            "lastModified": "2020-04-22T01:39:17Z",
-            "revision": 15534,
+            "lastModified": "2020-05-20T05:07:28Z",
+            "revision": 15962,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Axe"
         },
         {
@@ -13113,7 +13108,6 @@
             "name": "Mithril boots",
             "type": "Protective Gear",
             "subType": "Boots",
-            "wikiNote": "needs weight added",
             "attack": 0,
             "defense": 8,
             "mana": 0,
@@ -13141,8 +13135,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Mithril Boots",
-            "lastModified": "2020-04-06T21:46:34Z",
-            "revision": 13386,
+            "lastModified": "2020-05-20T04:16:36Z",
+            "revision": 15933,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Boots"
         },
         {
@@ -13181,7 +13175,6 @@
             "name": "Mithril gauntlets",
             "type": "Protective Gear",
             "subType": "Gloves",
-            "wikiNote": "needs weight added",
             "attack": 0,
             "defense": 8,
             "mana": 0,
@@ -13209,8 +13202,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Mithril Gauntlets",
-            "lastModified": "2020-04-06T19:47:52Z",
-            "revision": 13388,
+            "lastModified": "2020-05-20T04:16:49Z",
+            "revision": 15934,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Gauntlets"
         },
         {
@@ -13533,7 +13526,6 @@
             "subType": "Armor",
             "armorClass": "Heavy Armor",
             "description": "A heavyset piece of armor with a brass like tinge, its easily compared to dwarven ingot. Decorated with glory filled eagles, intricate designs of swirls and vines, and 3 sapphires on the chest, this heavy armor is top of the line for any brute that would like to hold the line and defend their castle.",
-            "wikiNote": "needs weight, wrapping and shop price selling",
             "attack": 5,
             "defense": 25,
             "mana": 0,
@@ -13568,8 +13560,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Order Armor",
-            "lastModified": "2020-04-06T20:47:20Z",
-            "revision": 13686,
+            "lastModified": "2020-05-20T04:17:39Z",
+            "revision": 15936,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Armor"
         },
         {
@@ -13656,7 +13648,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Heavy Armor",
-            "wikiNote": "needs sale price & wrapping added and error checking",
+            "wikiNote": "needs wrapping and error checking",
             "attack": 2,
             "defense": 10,
             "mana": 0,
@@ -13696,8 +13688,8 @@
                 "Metal Plate": "9"
             },
             "pagename": "Order Boots",
-            "lastModified": "2020-04-06T22:15:52Z",
-            "revision": 13708,
+            "lastModified": "2020-05-20T04:18:45Z",
+            "revision": 15938,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Boots"
         },
         {
@@ -13784,7 +13776,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
-            "wikiNote": "needs weight, sale price & wrapping added and error checking",
+            "wikiNote": "needs error checking",
             "attack": 2,
             "defense": 10,
             "mana": 0,
@@ -13825,8 +13817,8 @@
                 "Metal Plate": "9"
             },
             "pagename": "Order Gauntlets",
-            "lastModified": "2020-04-06T21:06:12Z",
-            "revision": 13685,
+            "lastModified": "2020-05-20T04:19:51Z",
+            "revision": 15939,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Gauntlets"
         },
         {
@@ -13914,7 +13906,6 @@
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
             "description": "Forged in two halves, they are reinforced in the middle by a strip of metal. The neck and chin are low on the user, where it connects to the armor like a metal bracket, hooking and locking to the chestpiece. 5 indivdual latches help ensure the wearer never loses their helmet, from the horde of invaders that clamber against the walls.",
-            "wikiNote": "needs sale price",
             "attack": 3,
             "defense": 15,
             "mana": 0,
@@ -13945,8 +13936,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Order Helmet",
-            "lastModified": "2020-04-07T18:14:47Z",
-            "revision": 15184,
+            "lastModified": "2020-05-20T04:18:00Z",
+            "revision": 15937,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Helmet"
         },
         {
@@ -14031,7 +14022,7 @@
             "type": "Weapon",
             "subType": "Shield",
             "description": "The handcrafted shield features an emblazoned emblem of your castle's symbol in gold thread, inserted into the small depths of an etching. The gold twinkles out from the bronze like overlay of the shield, triangle in shape. It sharply bends downwards, and raises in the corners to provide a wide area of protection for the castle defenders.",
-            "wikiNote": "needs weight and wrapping",
+            "wikiNote": "needs wrapping",
             "attack": 0,
             "defense": 10,
             "mana": 0,
@@ -14063,8 +14054,8 @@
                 "Silver Mold": "1"
             },
             "pagename": "Order Shield",
-            "lastModified": "2020-04-22T02:13:33Z",
-            "revision": 15542,
+            "lastModified": "2020-05-20T04:20:17Z",
+            "revision": 15940,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Shield"
         },
         {
@@ -14342,20 +14333,20 @@
             "eventItem": false,
             "name": "Overseer Shield recipe",
             "type": "Recipe (Item)",
-            "wikiNote": "new item, not much data known",
             "weight": 10,
             "levelRequirement": 60,
             "depositable": true,
             "exchange": false,
             "auction": true,
             "quest": true,
+            "questPerceptionLevel": 5,
             "dropValleyEvening": true,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Overseer Shield Recipe",
-            "lastModified": "2020-04-28T06:27:21Z",
-            "revision": 15690,
+            "lastModified": "2020-05-20T04:39:39Z",
+            "revision": 15951,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Shield+Recipe"
         },
         {
@@ -15553,7 +15544,7 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Heavy Armor",
-            "wikiNote": "needs weight, wrapping, sale price and error checking",
+            "wikiNote": "needs wrapping and error checking",
             "attack": 8,
             "defense": 34,
             "mana": 0,
@@ -15594,8 +15585,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Royal Armor",
-            "lastModified": "2020-04-06T21:17:56Z",
-            "revision": 13699,
+            "lastModified": "2020-05-20T04:34:53Z",
+            "revision": 15946,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Armor"
         },
         {
@@ -15811,6 +15802,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
+            "wikiNote": "missing wrapping",
             "attack": 3,
             "defense": 13,
             "mana": 0,
@@ -15851,8 +15843,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Royal Gauntlets",
-            "lastModified": "2020-04-07T17:56:41Z",
-            "revision": 15153,
+            "lastModified": "2020-05-20T04:25:10Z",
+            "revision": 15943,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Gauntlets"
         },
         {
@@ -15937,7 +15929,6 @@
             "eventItem": false,
             "name": "Royal Guard Cape",
             "type": "Cape",
-            "wikiNote": "needs weight added",
             "attack": 1,
             "defense": 1,
             "mana": 0,
@@ -15956,8 +15947,8 @@
             "wikiFreeText": "=Acquisition=\nWhen starting the game and using the button \"Me\" or typing <code>/me</code>, the player will find a short notice on the top of the message:\n :Exclamationmark: Please report to your captain in the castle chat. The password is ZOM ODO.\n''(Note: The password is randomly generated for each player)''\n\nJoining the linked castle chat and typing out those letters given in the password awards the player with a cape, that can be equipped next to all standard equipment.\n Earned: '''[[Royal Guard Cape]]'''. Check <code>/inv</code> to wear it.\n\n=Trivia=\nIn earlier versions of the game the {{PAGENAME}} could be bought in the [[Shop|castle shop]] for 1 :Gold:, this got deactivated later on and now the item can only be acquired through [[Captain Arthur]].",
             "recipe": {},
             "pagename": "Royal Guard Cape",
-            "lastModified": "2020-04-27T20:31:59Z",
-            "revision": 15592,
+            "lastModified": "2020-05-20T04:17:12Z",
+            "revision": 15935,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Guard+Cape"
         },
         {
@@ -18396,7 +18387,7 @@
             "name": "Trident",
             "type": "Weapon",
             "subType": "Spear",
-            "wikiNote": "needs weight, check enchantment info for errors",
+            "wikiNote": "check enchantment info for errors",
             "attack": 16,
             "defense": 14,
             "mana": 0,
@@ -18434,8 +18425,8 @@
                 "Hardener": "3"
             },
             "pagename": "Trident",
-            "lastModified": "2020-04-28T19:45:31Z",
-            "revision": 15788,
+            "lastModified": "2020-05-20T05:07:46Z",
+            "revision": 15963,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident"
         },
         {
@@ -20125,6 +20116,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Heavy Armor",
+            "wikiNote": "need sell price",
             "attack": 6,
             "defense": 20,
             "mana": 0,
@@ -20159,8 +20151,8 @@
                 "Sapphire": "8"
             },
             "pagename": "Overseer Boots",
-            "lastModified": "2020-04-07T17:16:50Z",
-            "revision": 14976,
+            "lastModified": "2020-05-20T04:15:48Z",
+            "revision": 15931,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Boots"
         },
         {
@@ -20250,7 +20242,7 @@
             "name": "Poniard",
             "type": "Weapon",
             "subType": "Dagger",
-            "wikiNote": "weight, wrap, sell price missing",
+            "wikiNote": "wrap, sell price missing",
             "attack": 19,
             "defense": 0,
             "mana": 0,
@@ -20278,8 +20270,8 @@
                 "Silver Alloy": "25"
             },
             "pagename": "Poniard",
-            "lastModified": "2020-05-18T03:30:15Z",
-            "revision": 15858,
+            "lastModified": "2020-05-20T05:04:47Z",
+            "revision": 15959,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard"
         },
         {
@@ -20288,7 +20280,7 @@
             "name": "Heartstriker Bow",
             "type": "Weapon",
             "subType": "Bow",
-            "wikiNote": "weight, wrap, enchant pattern missing",
+            "wikiNote": "enchant pattern missing",
             "attack": 36,
             "defense": 14,
             "mana": 0,
@@ -20322,8 +20314,8 @@
                 "Heartstriker Bow Recipe": "1"
             },
             "pagename": "Heartstriker Bow",
-            "lastModified": "2020-05-18T03:37:21Z",
-            "revision": 15860,
+            "lastModified": "2020-05-20T05:06:21Z",
+            "revision": 15960,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker+Bow"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-20T03:11:11.639197+00:00",
+    "timestamp": "2020-05-20T04:11:09.616641+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5545,11 +5545,11 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
-            "wikiNote": "needs wrapping added",
             "attack": 4,
             "defense": 16,
             "mana": 110,
             "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 360,
@@ -5583,8 +5583,8 @@
                 "Blacksmith Frame": "3"
             },
             "pagename": "Divine Circlet",
-            "lastModified": "2020-04-06T22:09:16Z",
-            "revision": 13060,
+            "lastModified": "2020-05-20T03:17:56Z",
+            "revision": 15919,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Circlet"
         },
         {
@@ -7179,7 +7179,6 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Light Armor",
-            "wikiNote": "needs wrapping, weight & shop sale price",
             "attack": 5,
             "defense": 10,
             "mana": 0,
@@ -7187,6 +7186,7 @@
             "inventoryIncrease": 0,
             "luck": 0,
             "weight": 140,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 270,
@@ -7220,8 +7220,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Ghost Boots",
-            "lastModified": "2020-04-22T05:17:03Z",
-            "revision": 15545,
+            "lastModified": "2020-05-20T03:43:34Z",
+            "revision": 15923,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Boots"
         },
         {
@@ -7307,11 +7307,12 @@
             "name": "Ghost dagger",
             "type": "Weapon",
             "subType": "Dagger",
-            "wikiNote": "needs weight, wrapping and detailed description",
+            "wikiNote": "needs detailed description",
             "attack": 12,
             "defense": 1,
             "mana": 0,
             "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 252,
@@ -7349,8 +7350,8 @@
                 "Ruby": "1"
             },
             "pagename": "Ghost Dagger",
-            "lastModified": "2020-04-22T01:40:21Z",
-            "revision": 15538,
+            "lastModified": "2020-05-20T03:16:36Z",
+            "revision": 15917,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Dagger"
         },
         {
@@ -7399,11 +7400,12 @@
             "subType": "Gloves",
             "armorClass": "Light Armor",
             "description": "Similar to regular Gloves, they appear to be made of wool. Except, having 2 layers of Metallic Fiber and 3 layers of Crafted Leather spun thin as twine, and dyed white and sprinkled with filed Sapphire for a glittery effect. Similar to a trick, anyone who fails to recognize this type of glove is in for a real treat, or a stabbing.",
-            "wikiNote": "needs weight, wrapping and error checking",
+            "wikiNote": "needs error checking",
             "attack": 5,
             "defense": 10,
             "mana": 0,
             "weight": 140,
+            "wrapping": 3,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 270,
@@ -7441,8 +7443,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Ghost Gloves",
-            "lastModified": "2020-04-06T23:02:14Z",
-            "revision": 13700,
+            "lastModified": "2020-05-20T03:41:17Z",
+            "revision": 15922,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Gloves"
         },
         {
@@ -9819,7 +9821,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Light Armor",
-            "wikiNote": "needs weight & wrapping added and error checking",
+            "wikiNote": "needs error checking",
             "attack": 3,
             "defense": 8,
             "mana": 0,
@@ -9827,6 +9829,7 @@
             "inventoryIncrease": 0,
             "luck": 0,
             "weight": 125,
+            "wrapping": 1,
             "levelRequirement": 25,
             "depositable": true,
             "shopSellPrice": 182,
@@ -9859,8 +9862,8 @@
                 "Leather": "12"
             },
             "pagename": "Hunter Gloves",
-            "lastModified": "2020-04-22T01:36:24Z",
-            "revision": 15520,
+            "lastModified": "2020-05-20T03:39:36Z",
+            "revision": 15920,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Gloves"
         },
         {
@@ -11672,11 +11675,11 @@
             "type": "Weapon",
             "subType": "Dagger",
             "description": "Matching the armor of the same name, the Lion Knife has a lion theme. About 8 inches long and rocking a clip point blade, it yells for a challenger. Two lion heads sit on each side of the hilt for intimidation, rather than gems for being flashly. The golden hilt is made from real gold, glazed with a gloss to help prevent damage to the weak metal.",
-            "wikiNote": "needs weight and wrapping",
             "attack": 13,
             "defense": 0,
             "mana": 0,
             "weight": 200,
+            "wrapping": 1,
             "levelRequirement": 35,
             "depositable": true,
             "shopSellPrice": 252,
@@ -11714,8 +11717,8 @@
                 "Ruby": "1"
             },
             "pagename": "Lion Knife",
-            "lastModified": "2020-04-06T22:09:36Z",
-            "revision": 13342,
+            "lastModified": "2020-05-20T03:17:01Z",
+            "revision": 15918,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Knife"
         },
         {
@@ -12361,7 +12364,7 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Light Armor",
-            "wikiNote": "need weight sell price and wrap amount",
+            "wikiNote": "need sell price",
             "attack": 11,
             "defense": 15,
             "mana": 0,
@@ -12393,8 +12396,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Manticore Gloves",
-            "lastModified": "2020-05-18T03:31:15Z",
-            "revision": 15859,
+            "lastModified": "2020-05-20T04:09:39Z",
+            "revision": 15927,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Gloves"
         },
         {
@@ -13050,7 +13053,6 @@
             "name": "Mithril armor",
             "type": "Protective Gear",
             "subType": "Armor",
-            "wikiNote": "needs weight",
             "attack": 3,
             "defense": 17,
             "mana": 0,
@@ -13069,11 +13071,10 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": false,
-            "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Mithril Armor",
-            "lastModified": "2020-04-06T23:02:36Z",
-            "revision": 13384,
+            "lastModified": "2020-05-20T04:07:27Z",
+            "revision": 15924,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Armor"
         },
         {
@@ -13218,7 +13219,6 @@
             "name": "Mithril helmet",
             "type": "Protective Gear",
             "subType": "Helmet",
-            "wikiNote": "needs weight added",
             "attack": 0,
             "defense": 12,
             "mana": 0,
@@ -13237,11 +13237,10 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": false,
-            "recipeIncomplete": false,
             "recipe": {},
             "pagename": "Mithril Helmet",
-            "lastModified": "2020-04-06T20:48:08Z",
-            "revision": 13389,
+            "lastModified": "2020-05-20T04:07:52Z",
+            "revision": 15926,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Helmet"
         },
         {
@@ -13286,6 +13285,7 @@
             "defense": 12,
             "mana": 0,
             "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 45,
             "ammunition": "Broad Arrow, Compound Arrow, Heavy Arrow",
             "depositable": true,
@@ -13324,8 +13324,8 @@
                 "Quality Cloth": "5"
             },
             "pagename": "Nightfall Bow",
-            "lastModified": "2020-04-06T22:03:33Z",
-            "revision": 13827,
+            "lastModified": "2020-05-20T03:40:40Z",
+            "revision": 15921,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nightfall+Bow"
         },
         {
@@ -16928,7 +16928,6 @@
             "name": "Silver helmet",
             "type": "Protective Gear",
             "subType": "Helmet",
-            "wikiNote": "needs weight added",
             "attack": 0,
             "defense": 7,
             "mana": 0,
@@ -16949,8 +16948,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Silver Helmet",
-            "lastModified": "2020-04-27T20:42:53Z",
-            "revision": 15599,
+            "lastModified": "2020-05-20T04:07:48Z",
+            "revision": 15925,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Helmet"
         },
         {

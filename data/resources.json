@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-29T00:11:07.799498+00:00",
+    "timestamp": "2020-05-29T19:11:06.068292+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1231,8 +1231,11 @@
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 2,
+            "enchantAtk2": 3,
             "enchantDef1": 3,
+            "enchantDef2": 2,
             "enchantMana1": 0,
+            "enchantMana2": 0,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_w108",
@@ -1250,8 +1253,8 @@
                 "Blacksmith Frame": "6"
             },
             "pagename": "Brutalizer Flail",
-            "lastModified": "2020-05-20T01:24:56Z",
-            "revision": 15883,
+            "lastModified": "2020-05-29T18:30:54Z",
+            "revision": 15993,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer+Flail"
         },
         {
@@ -20422,7 +20425,17 @@
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 3,
+            "enchantAtk2": 4,
+            "enchantAtk3": 3,
+            "enchantAtk4": 4,
             "enchantDef1": 2,
+            "enchantDef2": 1,
+            "enchantDef3": 2,
+            "enchantDef4": 1,
+            "enchantMana1": 0,
+            "enchantMana2": 0,
+            "enchantMana3": 0,
+            "enchantMana4": 0,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_w106",
@@ -20439,8 +20452,8 @@
                 "Hardener": "7"
             },
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-05-18T07:50:23Z",
-            "revision": 15864,
+            "lastModified": "2020-05-29T18:24:23Z",
+            "revision": 15992,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker+Bow"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-05-25T21:11:05.678809+00:00",
+    "timestamp": "2020-05-29T00:11:07.799498+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20937,11 +20937,9 @@
             "lastModified": "2020-05-11T20:25:06Z",
             "revision": 15830,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Sigil"
-        }
-    ],
-    "incomplete": [
+        },
         {
-            "id": "??",
+            "id": "s10",
             "eventItem": false,
             "name": "📒Scroll of Peace",
             "type": "Misc",
@@ -20952,12 +20950,12 @@
             "auction": true,
             "recipe": {},
             "pagename": "Scroll of Peace (Yellow)",
-            "lastModified": "2020-04-06T22:20:30Z",
-            "revision": 14304,
+            "lastModified": "2020-05-29T00:09:24Z",
+            "revision": 15991,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Peace+%28Yellow%29"
         },
         {
-            "id": "??",
+            "id": "s09",
             "eventItem": false,
             "name": "📒Scroll of Rage",
             "type": "Misc",
@@ -20968,10 +20966,12 @@
             "auction": true,
             "recipe": {},
             "pagename": "Scroll of Rage (Yellow)",
-            "lastModified": "2020-04-06T22:06:27Z",
-            "revision": 14303,
+            "lastModified": "2020-05-29T00:08:46Z",
+            "revision": 15990,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Rage+%28Yellow%29"
-        },
+        }
+    ],
+    "incomplete": [
         {
             "id": "??",
             "eventItem": true,

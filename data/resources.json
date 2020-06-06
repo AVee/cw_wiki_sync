@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-06T01:11:05.382889+00:00",
+    "timestamp": "2020-06-06T13:11:04.488078+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20398,11 +20398,12 @@
                 "Silver Frame": "9",
                 "Silver Mold": "9",
                 "Artisan Mold": "5",
-                "Quality Cloth": "4"
+                "Quality Cloth": "4",
+                "Ruby": "1"
             },
             "pagename": "Sinister Ranseur",
-            "lastModified": "2020-05-25T11:40:07Z",
-            "revision": 15981,
+            "lastModified": "2020-06-06T12:18:35Z",
+            "revision": 15997,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister+Ranseur"
         },
         {

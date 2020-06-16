@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-14T17:11:04.072037+00:00",
+    "timestamp": "2020-06-16T02:11:08.941866+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -8403,6 +8403,9 @@
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 3,
+            "enchantAtk2": 3,
+            "enchantAtk3": 3,
+            "enchantAtk4": 3,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_w91",
@@ -8423,8 +8426,8 @@
                 "Hardener": "3"
             },
             "pagename": "Griffin Knife",
-            "lastModified": "2020-04-27T16:49:13Z",
-            "revision": 15561,
+            "lastModified": "2020-06-16T01:37:54Z",
+            "revision": 16006,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Knife"
         },
         {

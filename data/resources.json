@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-26T00:11:06.086396+00:00",
+    "timestamp": "2020-06-26T02:11:05.376845+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -12365,7 +12365,6 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Light Armor",
-            "wikiNote": "need sell price",
             "attack": 11,
             "defense": 15,
             "mana": 0,
@@ -12373,6 +12372,7 @@
             "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 663,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -12397,8 +12397,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Manticore Gloves",
-            "lastModified": "2020-05-20T04:09:39Z",
-            "revision": 15927,
+            "lastModified": "2020-06-26T01:31:02Z",
+            "revision": 16038,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Gloves"
         },
         {

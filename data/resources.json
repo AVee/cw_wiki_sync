@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-21T12:11:04.634729+00:00",
+    "timestamp": "2020-06-26T00:11:06.086396+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -5330,10 +5330,10 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Robe Armor",
-            "wikiNote": "need weight",
             "attack": 8,
             "defense": 15,
             "mana": 90,
+            "weight": 170,
             "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
@@ -5361,8 +5361,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Discarnate Shoes",
-            "lastModified": "2020-05-20T04:16:10Z",
-            "revision": 15932,
+            "lastModified": "2020-06-25T23:27:15Z",
+            "revision": 16030,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Shoes"
         },
         {
@@ -5938,10 +5938,12 @@
             "name": "Doom Warglaive",
             "type": "Weapon",
             "subType": "Sword",
-            "wikiNote": "weight wrap and enchant pattern missing",
+            "wikiNote": "enchant pattern missing",
             "attack": 55,
             "defense": 0,
             "mana": 0,
+            "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
             "shopSellPrice": 3300,
@@ -5971,8 +5973,8 @@
                 "Cord": "28"
             },
             "pagename": "Doom Warglaive",
-            "lastModified": "2020-04-08T17:22:19Z",
-            "revision": 15313,
+            "lastModified": "2020-06-25T23:38:17Z",
+            "revision": 16033,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom+Warglaive"
         },
         {
@@ -20254,13 +20256,14 @@
             "name": "Poniard",
             "type": "Weapon",
             "subType": "Dagger",
-            "wikiNote": "wrap, sell price missing",
             "attack": 19,
             "defense": 0,
             "mana": 0,
             "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 484,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -20282,8 +20285,8 @@
                 "Silver Alloy": "25"
             },
             "pagename": "Poniard",
-            "lastModified": "2020-05-20T05:04:47Z",
-            "revision": 15959,
+            "lastModified": "2020-06-25T23:32:49Z",
+            "revision": 16031,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard"
         },
         {
@@ -20520,12 +20523,14 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
-            "wikiNote": "weight, wrap, sell price missing",
             "attack": 9,
             "defense": 25,
             "mana": 180,
+            "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 867,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -20549,8 +20554,8 @@
                 "Sapphire": "17"
             },
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-05-20T02:47:54Z",
-            "revision": 15909,
+            "lastModified": "2020-06-25T23:35:05Z",
+            "revision": 16032,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet"
         },
         {
@@ -20602,12 +20607,14 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Heavy Armor",
-            "wikiNote": "weight, wrap, sell price missing",
             "attack": 10,
             "defense": 33,
             "mana": 0,
+            "weight": 220,
+            "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 3000,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -20631,8 +20638,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Overseer Helmet",
-            "lastModified": "2020-05-20T02:48:06Z",
-            "revision": 15910,
+            "lastModified": "2020-06-26T00:05:51Z",
+            "revision": 16035,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet"
         },
         {

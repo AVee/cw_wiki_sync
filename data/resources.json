@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-28T06:11:10.707958+00:00",
+    "timestamp": "2020-06-28T07:11:12.729264+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -305,11 +305,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "wikiFreeText": "=Acquisition=\nThe devs gave this cape to some of the lucky players, as thanks for their successful contribution of quest texts. The quest texts were eventually used in the game.\n\nThese lucky players were greeted with the following message in their ChatWarsBot.\n Tonight is the night. This night you were blessed by the gods. They decided to come down and gift you, PlayerName, with a cheese basket. The catch is, this basket is not made out of cheese and it's not even a basket.\n  \n Right now it includes:\n :Present: Assistant box x 1\n Bard's Cape x 1",
+            "wikiFreeText": "=Acquisition=\nThe devs gave this cape to some of the lucky players, as thanks for their successful contribution of quest texts. The quest texts were eventually used in the game.\n\nThese lucky players were greeted with the following message in their ChatWarsBot.\n Tonight is the night. This night you were blessed by the gods. They decided to come down and gift you, PlayerName, with a cheese basket. The catch is, this basket is not made out of cheese and it's not even a basket.\n  \n Right now it includes:\n :Present: Assistant box x 1\n Bard's Cape x 1\n\n=Flavor Text=\n A cape from the Dev Gods themselves, it was given to explorers who went into the forest and snooped around, finding new adventures to be had. It features a colorful array of various hues and decorations, normally worn by musicians in taverns. Someone wearing one of these capes has clearly appeased the gods, and shown their dedication to the lands.",
             "recipe": {},
             "pagename": "Bard's Cape",
-            "lastModified": "2020-04-28T05:39:23Z",
-            "revision": 15666,
+            "lastModified": "2020-06-28T06:57:19Z",
+            "revision": 16085,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bard%27s+Cape"
         },
         {
@@ -2684,10 +2684,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor text=\n A simple blend of similar fabrics, overlapping to provide thin defense against slashing. Cotton, wool, and linen layers wound together overlap the torso and upper arms, buttoning to close and envelop the user for warmth and protection",
             "recipe": {},
             "pagename": "Cloth Jacket",
-            "lastModified": "2020-04-27T20:37:02Z",
-            "revision": 15593,
+            "lastModified": "2020-06-28T06:18:12Z",
+            "revision": 16068,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cloth+Jacket"
         },
         {
@@ -3876,6 +3877,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor Text=\n Bearing the emblem of your castle on its chest, the two layered armor has a mix of mithril-chainmain similar to the Hunter Armor on the inside, but against the body is a sewn cloth layer for protection. Having good protection and a light weight, it gives a good balance of Light and Heavy for the bold defender who leaves their wall.",
             "recipe": {
                 "Crusader Armor Recipe": "1",
                 "Crusader Armor Piece": "5",
@@ -3887,8 +3889,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Crusader Armor",
-            "lastModified": "2020-04-28T05:40:30Z",
-            "revision": 15667,
+            "lastModified": "2020-06-28T06:55:05Z",
+            "revision": 16082,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor"
         },
         {
@@ -4374,6 +4376,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor text=\n The glory filled shield features a mithril-steel alloy, producing a blue tinted gray metal. <nowiki>1''</nowiki> thick and curved, it features a gold like frame detailing the center like a painting. Some users have their castle emblem attached, or tally the battles they've fought in. This shield screams honor, glory, and undying belief, fighting until the very end.",
             "recipe": {
                 "Crusader Shield Recipe": "1",
                 "Crusader Shield Part": "5",
@@ -4385,8 +4388,8 @@
                 "Metal Plate": "15"
             },
             "pagename": "Crusader Shield",
-            "lastModified": "2020-04-07T17:46:21Z",
-            "revision": 15142,
+            "lastModified": "2020-06-28T06:13:28Z",
+            "revision": 16062,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Shield"
         },
         {
@@ -5010,6 +5013,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "==Flavor text==\n A leather shell is made in the form of a shoe, before a blood sacrifice is made and the boots are dunked. After uttering chants of Byka Clyat and the forger's faith is tested, production is resumed. The leather is coated with Crafted Leather and red cloth, stolen. The boots are rather comfy, but may hurt after some time for an unknown reason.",
             "recipe": {
                 "Demon Shoes Recipe": "1",
                 "Demon Shoes Part": "5",
@@ -5021,8 +5025,8 @@
                 "Sapphire": "5"
             },
             "pagename": "Demon Shoes",
-            "lastModified": "2020-05-20T04:36:39Z",
-            "revision": 15948,
+            "lastModified": "2020-06-28T06:16:01Z",
+            "revision": 16065,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes"
         },
         {
@@ -5146,10 +5150,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor Text=\n A whip inspired by the fiends of Hell, this whip's goal is to maim and break whatever it strikes. Red, volcanic stone is made into hollow cylinders and put over a black leather weave, before meeting at a ball like tip. Did you know a whip can crack at over 767 MPH / 1,275 km/h? Now imagine that made of stone, striking a skull or bone. Devilish, no?",
             "recipe": {},
             "pagename": "Demon Whip (Event Item)",
-            "lastModified": "2020-04-28T06:45:37Z",
-            "revision": 15741,
+            "lastModified": "2020-06-28T06:57:51Z",
+            "revision": 16086,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Whip+%28Event+Item%29"
         },
         {
@@ -6462,6 +6467,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor Text=\n Nicknamed Eclipse, the blade resembles that of a Khopesh. It starts off straight, before turning away from the user in a reverse sickle shape. The sword follows traditional design, but reforged in iron, as the resource is better compared to the normal bronze. Useful for getting behind shields,  anyone who uses it is well rehearsed on the benefits.",
             "recipe": {
                 "Eclipse Recipe": "1",
                 "Eclipse Blade": "5",
@@ -6473,8 +6479,8 @@
                 "Ruby": "3"
             },
             "pagename": "Eclipse",
-            "lastModified": "2020-05-20T05:14:42Z",
-            "revision": 15968,
+            "lastModified": "2020-06-28T06:58:26Z",
+            "revision": 16087,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse"
         },
         {
@@ -7009,10 +7015,11 @@
             "enchantMana3": 0,
             "enchantMana4": 0,
             "craftable": false,
+            "wikiFreeText": "=Flavor Text=\n The best bow you can get before metalworking is needed. A tree blessed by a priest is cut down and sanded, before being coated in wax. The branches are wrapped around in a coil, before being notched and tied with a metallic thread. Some users report feeling spiritually aware while using the weapon, but the reason why is unknown.",
             "recipe": {},
             "pagename": "Forest Bow",
-            "lastModified": "2020-05-20T05:07:11Z",
-            "revision": 15961,
+            "lastModified": "2020-06-28T06:59:05Z",
+            "revision": 16088,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Forest+Bow"
         },
         {
@@ -7045,7 +7052,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
-            "wikiFreeText": "==Flavor text==\n A metalworking masterpiece, the ghost armor is truly a mystery how it was concieved and forged. Made of a snow white, but seemingly translucent metal, the wear's skin is almost visible beneath, but thin, whisps creep off the exterior in a fog like censor. Plates in the chest are held together by a stretchy, synthetic fabric.",
+            "wikiFreeText": "=Flavor text=\n A metalworking masterpiece, the ghost armor is truly a mystery how it was concieved and forged. Made of a snow white, but seemingly translucent metal, the wear's skin is almost visible beneath, but thin, whisps creep off the exterior in a fog like censor. Plates in the chest are held together by a stretchy, synthetic fabric.",
             "recipe": {
                 "Ghost Armor Recipe": "1",
                 "Ghost Armor Part": "5",
@@ -7057,8 +7064,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Ghost Armor",
-            "lastModified": "2020-06-28T05:54:50Z",
-            "revision": 16054,
+            "lastModified": "2020-06-28T06:26:48Z",
+            "revision": 16078,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Armor"
         },
         {
@@ -7214,6 +7221,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor text=\n Made from Crafted Leather, the boots have the complexity of normal metal based boots but the simplicity of leather. Cut and shaped, the dyed snow white boots envelop the users foot and sparkle lightly, freshly filed Sapphire worked into the Crafted Leather. Sewn down the medial side and matching.",
             "recipe": {
                 "Ghost Boots Recipe": "1",
                 "Ghost Boots Part": "5",
@@ -7225,8 +7233,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Ghost Boots",
-            "lastModified": "2020-05-20T03:43:34Z",
-            "revision": 15923,
+            "lastModified": "2020-06-28T06:14:04Z",
+            "revision": 16063,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Boots"
         },
         {
@@ -9014,11 +9022,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "wikiFreeText": "==Flavor text==\n A head enveloping, animal fur covered, hat similar to an ushanka or papakha, it cups your head and covers your ears for warmth. Black in color, it has a furry exterior with a circular cap ontop. It doesn’t do much for protection, but it's better than nothing.",
+            "wikiFreeText": "=Flavor text=\n A head enveloping, animal fur covered, hat similar to an ushanka or papakha, it cups your head and covers your ears for warmth. Black in color, it has a furry exterior with a circular cap ontop. It doesn’t do much for protection, but it's better than nothing.",
             "recipe": {},
             "pagename": "Hat",
-            "lastModified": "2020-06-28T05:48:34Z",
-            "revision": 16049,
+            "lastModified": "2020-06-28T06:25:45Z",
+            "revision": 16076,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hat"
         },
         {
@@ -9360,10 +9368,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor text=\n A jar made for storing food for trips, the Hiking jar can be filled with meats or nuts, depending on user tastes. Using this jar enables the holder to go out on more trips, seemingly increasing their stamina while they wield it. A normal mason jar, with a screw on cap and a ribbon for identification, anyone lucky enough to have one cherishes it",
             "recipe": {},
             "pagename": "Hiking Jar",
-            "lastModified": "2020-04-28T05:46:45Z",
-            "revision": 15673,
+            "lastModified": "2020-06-28T06:17:36Z",
+            "revision": 16067,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hiking+Jar"
         },
         {
@@ -10639,10 +10648,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor text=\n Simply put, someone stole this from the castle's kitchen. A foot long blade pokes out of a sanded wooden handle, attached through 2 tangs that hold the wood. Despite being used to cut fruit and veggies, it can easily cut enemies if in the right hand, dug between armor plates or stabbed in a side.",
             "recipe": {},
             "pagename": "Kitchen Knife",
-            "lastModified": "2020-04-27T21:02:52Z",
-            "revision": 15626,
+            "lastModified": "2020-06-28T06:20:07Z",
+            "revision": 16070,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Kitchen+Knife"
         },
         {
@@ -11165,7 +11175,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
-            "wikiFreeText": "==Flavor text==\n A layer of studded Crafted leather is wrapped and 'nailed' to the internal metal plate made of Mithril and attached with fur for effect. Similar to the Cuirass, its a single egg shaped piece of armor with holes for arms, a head, and legs. On the middle is a detailed etching of a lion's head, mouth agape and biting for something, with a dark mane.",
+            "wikiFreeText": "=Flavor text=\n A layer of studded Crafted leather is wrapped and 'nailed' to the internal metal plate made of Mithril and attached with fur for effect. Similar to the Cuirass, its a single egg shaped piece of armor with holes for arms, a head, and legs. On the middle is a detailed etching of a lion's head, mouth agape and biting for something, with a dark mane.",
             "recipe": {
                 "Lion Armor Recipe": "1",
                 "Lion Armor Part": "5",
@@ -11177,8 +11187,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Lion Armor",
-            "lastModified": "2020-06-28T05:54:14Z",
-            "revision": 16053,
+            "lastModified": "2020-06-28T06:27:38Z",
+            "revision": 16079,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor"
         },
         {
@@ -11333,6 +11343,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor Text=\n The Lion Boots are simplistic, compared to the Lion Armor and Lion Helmet. A central bracelet like leg cover meets the leg halfway up the shin, connect to an anti roll hinge, and curl downwards to cover the wearer's foot in a metallic protection. Several deep edges outlining the curves give a claw like vibe.",
             "recipe": {
                 "Lion Boots Recipe": "1",
                 "Lion Boots Part": "5",
@@ -11344,8 +11355,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Lion Boots",
-            "lastModified": "2020-04-28T05:46:00Z",
-            "revision": 15672,
+            "lastModified": "2020-06-28T06:56:40Z",
+            "revision": 16084,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Boots"
         },
         {
@@ -11462,6 +11473,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor text=\n Made from Crafted Leather, the gloves are similar to that of normal gloves, except for the outwards facing offensive claws. In reality, sapphire outcrops c claws rest along the topside of the finger and outwards, reweaponizing a warrior who had lost their weapon.",
             "recipe": {
                 "Lion Gloves Recipe": "1",
                 "Lion Gloves Part": "5",
@@ -11473,8 +11485,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Lion Gloves",
-            "lastModified": "2020-04-06T20:46:03Z",
-            "revision": 13830,
+            "lastModified": "2020-06-28T06:20:48Z",
+            "revision": 16071,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Gloves"
         },
         {
@@ -13080,11 +13092,11 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": false,
-            "wikiFreeText": "==Flavor text==\n A blue tinted armor thats top of the line for defense. Specialty crafted for the castle's best fighters, it consists of 6 plates front and back: 2 over the chest and shoulders, 2 on the stomach and middle of the back, and 2 on the waist and side area. With spaces inbetween allowing the plates to shift, it helps with user mobility in combat.",
+            "wikiFreeText": "=Flavor text=\n A blue tinted armor thats top of the line for defense. Specialty crafted for the castle's best fighters, it consists of 6 plates front and back: 2 over the chest and shoulders, 2 on the stomach and middle of the back, and 2 on the waist and side area. With spaces inbetween allowing the plates to shift, it helps with user mobility in combat.",
             "recipe": {},
             "pagename": "Mithril Armor",
-            "lastModified": "2020-06-28T05:50:28Z",
-            "revision": 16052,
+            "lastModified": "2020-06-28T06:26:24Z",
+            "revision": 16077,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Armor"
         },
         {
@@ -13244,11 +13256,11 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": false,
-            "wikiFreeText": "==Flavor text==\n A rather complex helmet crafted from the hardened, blue tinted metal, it’s the best armor youll get before needing a speciality blacksmith. Similar to a Silver Helmet in how it's decorated with a crest of feathers, this one has a hinged eye guard and mouth protection. However, it looks rather silly when opened, but otherwise great protection.",
+            "wikiFreeText": "=Flavor text=\n A rather complex helmet crafted from the hardened, blue tinted metal, it’s the best armor youll get before needing a speciality blacksmith. Similar to a Silver Helmet in how it's decorated with a crest of feathers, this one has a hinged eye guard and mouth protection. However, it looks rather silly when opened, but otherwise great protection.",
             "recipe": {},
             "pagename": "Mithril Helmet",
-            "lastModified": "2020-06-28T05:49:47Z",
-            "revision": 16051,
+            "lastModified": "2020-06-28T06:24:37Z",
+            "revision": 16074,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Helmet"
         },
         {
@@ -15119,6 +15131,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor text=\n Similar to the Lance in the castle shop, except overhauled.  Black and red twisted metal over a wooden base house several hooks facing the tip. When forced inside someone, the forward facing barbs help mince and grasp at flesh as it's inserted. The vamplate now has a leather hand wrap, helping the user not lose their torturous weapon in combat.",
             "recipe": {
                 "Raging Lance Recipe": "1",
                 "Raging Lance Blade": "5",
@@ -15130,8 +15143,8 @@
                 "Hardener": "9"
             },
             "pagename": "Raging Lance",
-            "lastModified": "2020-05-20T05:16:28Z",
-            "revision": 15970,
+            "lastModified": "2020-06-28T06:14:48Z",
+            "revision": 16064,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging+Lance"
         },
         {
@@ -15589,6 +15602,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor text=\n Rather than blend lighter, the Royal Armor is hardened. Mixing Mithril, Order Armor, and the new metallic fiber results in a new, thicker armor type the color of a starry night, like Catalina Blue. Metallic fiber is layered in the metal like concrete in rebar, providing the power to defend the walls, when all seems lost.",
             "recipe": {
                 "Royal Armor Recipe": "1",
                 "Royal Armor Piece": "5",
@@ -15600,8 +15614,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Royal Armor",
-            "lastModified": "2020-05-20T04:34:53Z",
-            "revision": 15946,
+            "lastModified": "2020-06-28T06:16:57Z",
+            "revision": 16066,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Armor"
         },
         {
@@ -15718,6 +15732,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "=Flavor Text=\n A dark blue matches the rest of the armor set, along with its elegance and detail. A steel-mithril alloy is laid flat and warped around, welded down the middle, then attached to a hinge. Unlike normal armor, the boot extends up to the knee in a curved point, helping protect the front and back of the leg.",
             "recipe": {
                 "Royal Boots Recipe": "1",
                 "Royal Boots Part": "5",
@@ -15729,8 +15744,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Royal Boots",
-            "lastModified": "2020-04-28T05:43:16Z",
-            "revision": 15670,
+            "lastModified": "2020-06-28T06:53:31Z",
+            "revision": 16081,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Boots"
         },
         {
@@ -15959,11 +15974,11 @@
             "auction": false,
             "quest": false,
             "craftable": false,
-            "wikiFreeText": "=Acquisition=\nWhen starting the game and using the button \"Me\" or typing <code>/me</code>, the player will find a short notice on the top of the message:\n :Exclamationmark: Please report to your captain in the castle chat. The password is ZOM ODO.\n''(Note: The password is randomly generated for each player)''\n\nJoining the linked castle chat and typing out those letters given in the password awards the player with a cape, that can be equipped next to all standard equipment.\n Earned: '''[[Royal Guard Cape]]'''. Check <code>/inv</code> to wear it.\n\n=Trivia=\nIn earlier versions of the game the {{PAGENAME}} could be bought in the [[Shop|castle shop]] for 1 :Gold:, this got deactivated later on and now the item can only be acquired through [[Captain Arthur]].\n\n==Flavor text==\n Your handy dandy starter cape. Given to you by your castle leadership once you became a member of their service, you've official upgraded from villager to warrior. By your side through thick and thin, it's an item not really sought after, but remembered by many.",
+            "wikiFreeText": "=Acquisition=\nWhen starting the game and using the button \"Me\" or typing <code>/me</code>, the player will find a short notice on the top of the message:\n :Exclamationmark: Please report to your captain in the castle chat. The password is ZOM ODO.\n''(Note: The password is randomly generated for each player)''\n\nJoining the linked castle chat and typing out those letters given in the password awards the player with a cape, that can be equipped next to all standard equipment.\n Earned: '''[[Royal Guard Cape]]'''. Check <code>/inv</code> to wear it.\n\n=Trivia=\nIn earlier versions of the game the {{PAGENAME}} could be bought in the [[Shop|castle shop]] for 1 :Gold:, this got deactivated later on and now the item can only be acquired through [[Captain Arthur]].\n\n=Flavor text=\n Your handy dandy starter cape. Given to you by your castle leadership once you became a member of their service, you've official upgraded from villager to warrior. By your side through thick and thin, it's an item not really sought after, but remembered by many.",
             "recipe": {},
             "pagename": "Royal Guard Cape",
-            "lastModified": "2020-06-28T06:10:59Z",
-            "revision": 16060,
+            "lastModified": "2020-06-28T06:35:58Z",
+            "revision": 16080,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Guard+Cape"
         },
         {
@@ -16263,10 +16278,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor text=\n A thin strip of leather and cloth used as the sole of the shoe, combined with a leather coil that extends past the heel and grasps the calf. It can be tied together to be held securely, and protect the foot against minor dangers. However, leaving the lower leg and dorsum exposed is quite hazardous.",
             "recipe": {},
             "pagename": "Sandals",
-            "lastModified": "2020-04-27T20:48:22Z",
-            "revision": 15600,
+            "lastModified": "2020-06-28T06:19:37Z",
+            "revision": 16069,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sandals"
         },
         {
@@ -16602,10 +16618,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor text=\n An iron blade is forged in an arrow shape, before a 4 foot shaft is notched, and the arrow is inserted. Then, tightened with thread and tied off, the makeshift spear is ready for combat. Regarded as the small sibling to the normal Long Spear, its still a devastating ranged weapon, to the unshielded swordsman.",
             "recipe": {},
             "pagename": "Short Spear",
-            "lastModified": "2020-04-27T21:01:38Z",
-            "revision": 15621,
+            "lastModified": "2020-06-28T06:21:21Z",
+            "revision": 16072,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Short+Spear"
         },
         {
@@ -16628,11 +16645,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "wikiFreeText": "==Flavor text==\n Good for beginners, the short sword is made of a metal blade, and a handle of wound up twine. Slightly shorter than the wooden training sword, it is definitely a step up from the sticks they use to practice. However, this weapon only has a single edge, unlike the 360 degree angle of attack like a Wooden Sword.",
+            "wikiFreeText": "=Flavor text=\n Good for beginners, the short sword is made of a metal blade, and a handle of wound up twine. Slightly shorter than the wooden training sword, it is definitely a step up from the sticks they use to practice. However, this weapon only has a single edge, unlike the 360 degree angle of attack like a Wooden Sword.",
             "recipe": {},
             "pagename": "Short Sword",
-            "lastModified": "2020-06-28T05:49:10Z",
-            "revision": 16050,
+            "lastModified": "2020-06-28T06:25:03Z",
+            "revision": 16075,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Short+Sword"
         },
         {
@@ -19854,11 +19871,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "wikiFreeText": "==Flavor text==\n Essentially a stick, the wooden baton like weapon is cut and sanded down, with a smooth handle, no hilt, and a 3 foot blade… of curved wood. Mostly for training, it can do blunt damage against an unarmored foe.",
+            "wikiFreeText": "=Flavor text=\n Essentially a stick, the wooden baton like weapon is cut and sanded down, with a smooth handle, no hilt, and a 3 foot blade… of curved wood. Mostly for training, it can do blunt damage against an unarmored foe.",
             "recipe": {},
             "pagename": "Wooden Sword",
-            "lastModified": "2020-06-28T05:47:49Z",
-            "revision": 16048,
+            "lastModified": "2020-06-28T06:24:05Z",
+            "revision": 16073,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Sword"
         },
         {
@@ -19949,10 +19966,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor Text=\n Appearing as if an extension of the torso, white metalled bones from the rib cage peek out from behind green tinted rawhide, scaley and tough and acting as a skin. Despite anatomy, the bones extend downwards, and wrap around to protect the user's stomach, creating a top of the line armor for the one lucky enough to get their hands on a set.",
             "recipe": {},
             "pagename": "Zombie Armor (Event Gear)",
-            "lastModified": "2020-04-06T21:27:03Z",
-            "revision": 13087,
+            "lastModified": "2020-06-28T06:55:59Z",
+            "revision": 16083,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie+Armor+%28Event+Gear%29"
         },
         {

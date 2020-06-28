@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-26T02:11:05.376845+00:00",
+    "timestamp": "2020-06-28T06:11:10.707958+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -2067,14 +2067,14 @@
             "depositable": false,
             "exchange": false,
             "auction": false,
-            "freeText": "'''Chocolate''' is an event item from the historical event[[Valentines Day 2018]] that could be rewarded from eating [[Cake|cake]]. It was reintroduced with the [[Trade Union Event 2019]] and was a possible reward from boxes there. Chocolate is a consumable item that gives the player one :Stamina: stamina, but not increasing the maximum amount of stamina.",
+            "freeText": "'''Chocolate''' is an event item from the historical event [[Valentines Day 2018]] that could be rewarded from eating [[Cake|cake]]. It was reintroduced with the [[Trade Union Event 2019]] and was a possible reward from boxes there. It may also be found in a [[Seasonal Box]]. Chocolate is a consumable item that gives the player one :Stamina: stamina, but not increasing the maximum amount of stamina.",
             "quest": false,
             "enchantable": false,
             "craftable": false,
             "recipe": {},
             "pagename": "Chocolate",
-            "lastModified": "2020-04-28T06:31:00Z",
-            "revision": 15693,
+            "lastModified": "2020-06-28T05:28:51Z",
+            "revision": 16046,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chocolate"
         },
         {
@@ -5707,6 +5707,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "==Flavor text==\n Bought from the Castle Leaders and the Church itself, the Divine Robe is blessed by the local puritan. Dyed blue, and intertwined with white leather, it is similar to the Demon Robe in the way it hides its true power. Only about shin height and lacking a cowl, it has a mere hood and a body conforming sleeves, it radiates holiness and purity.",
             "recipe": {
                 "Divine Robe Recipe": "1",
                 "Divine Robe Piece": "5",
@@ -5718,8 +5719,8 @@
                 "Blacksmith Frame": "5"
             },
             "pagename": "Divine Robe",
-            "lastModified": "2020-05-20T04:37:33Z",
-            "revision": 15950,
+            "lastModified": "2020-06-28T06:10:18Z",
+            "revision": 16059,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Robe"
         },
         {
@@ -6339,6 +6340,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "==Flavor text==\n A reinforced cloak designed for stealth. The inside of it has leather for warmth, while the exterior has cloth. Based on the colors or designs stitched in, the wearer can choose a wide variety of different custom capes. However, no matter the colors, designs or elbems, it's still classified as a durable cloak due to the leather reinforcement.",
             "recipe": {
                 "Durable Cloak Recipe": "1",
                 "Durable Cloak Part": "3",
@@ -6350,8 +6352,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Durable Cloak",
-            "lastModified": "2020-05-20T04:43:15Z",
-            "revision": 15954,
+            "lastModified": "2020-06-28T06:04:56Z",
+            "revision": 16056,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable+Cloak"
         },
         {
@@ -7043,6 +7045,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "==Flavor text==\n A metalworking masterpiece, the ghost armor is truly a mystery how it was concieved and forged. Made of a snow white, but seemingly translucent metal, the wear's skin is almost visible beneath, but thin, whisps creep off the exterior in a fog like censor. Plates in the chest are held together by a stretchy, synthetic fabric.",
             "recipe": {
                 "Ghost Armor Recipe": "1",
                 "Ghost Armor Part": "5",
@@ -7054,8 +7057,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Ghost Armor",
-            "lastModified": "2020-04-06T21:16:24Z",
-            "revision": 14658,
+            "lastModified": "2020-06-28T05:54:50Z",
+            "revision": 16054,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Armor"
         },
         {
@@ -8575,6 +8578,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 4,
             "craftMana": 300,
+            "wikiFreeText": "==Flavor text==\n A highly decorated weapon, usually used by the castle's watchmen who, coincidentally, guard the castle on their offtime. Similar to a grappling hook, it features 4 prongs that meet in a + shape, and curl backwards like barbs. Some users decorate the head with chains or decorative cloths, showing pride in their castle and work.",
             "recipe": {
                 "Guard's Spear Recipe": "1",
                 "Guard's Blade": "5",
@@ -8586,8 +8590,8 @@
                 "Hardener": "7"
             },
             "pagename": "Guard's Spear",
-            "lastModified": "2020-05-20T05:15:05Z",
-            "revision": 15969,
+            "lastModified": "2020-06-28T06:08:18Z",
+            "revision": 16058,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard%27s+Spear"
         },
         {
@@ -9010,10 +9014,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "==Flavor text==\n A head enveloping, animal fur covered, hat similar to an ushanka or papakha, it cups your head and covers your ears for warmth. Black in color, it has a furry exterior with a circular cap ontop. It doesn’t do much for protection, but it's better than nothing.",
             "recipe": {},
             "pagename": "Hat",
-            "lastModified": "2020-04-07T12:52:40Z",
-            "revision": 14930,
+            "lastModified": "2020-06-28T05:48:34Z",
+            "revision": 16049,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hat"
         },
         {
@@ -11160,6 +11165,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "==Flavor text==\n A layer of studded Crafted leather is wrapped and 'nailed' to the internal metal plate made of Mithril and attached with fur for effect. Similar to the Cuirass, its a single egg shaped piece of armor with holes for arms, a head, and legs. On the middle is a detailed etching of a lion's head, mouth agape and biting for something, with a dark mane.",
             "recipe": {
                 "Lion Armor Recipe": "1",
                 "Lion Armor Part": "5",
@@ -11171,8 +11177,8 @@
                 "Sapphire": "9"
             },
             "pagename": "Lion Armor",
-            "lastModified": "2020-04-28T05:45:15Z",
-            "revision": 15671,
+            "lastModified": "2020-06-28T05:54:14Z",
+            "revision": 16053,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor"
         },
         {
@@ -13074,10 +13080,11 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": false,
+            "wikiFreeText": "==Flavor text==\n A blue tinted armor thats top of the line for defense. Specialty crafted for the castle's best fighters, it consists of 6 plates front and back: 2 over the chest and shoulders, 2 on the stomach and middle of the back, and 2 on the waist and side area. With spaces inbetween allowing the plates to shift, it helps with user mobility in combat.",
             "recipe": {},
             "pagename": "Mithril Armor",
-            "lastModified": "2020-05-20T04:07:27Z",
-            "revision": 15924,
+            "lastModified": "2020-06-28T05:50:28Z",
+            "revision": 16052,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Armor"
         },
         {
@@ -13237,10 +13244,11 @@
             "enchantDef3": 1,
             "enchantDef4": 1,
             "craftable": false,
+            "wikiFreeText": "==Flavor text==\n A rather complex helmet crafted from the hardened, blue tinted metal, it’s the best armor youll get before needing a speciality blacksmith. Similar to a Silver Helmet in how it's decorated with a crest of feathers, this one has a hinged eye guard and mouth protection. However, it looks rather silly when opened, but otherwise great protection.",
             "recipe": {},
             "pagename": "Mithril Helmet",
-            "lastModified": "2020-05-20T04:07:52Z",
-            "revision": 15926,
+            "lastModified": "2020-06-28T05:49:47Z",
+            "revision": 16051,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Helmet"
         },
         {
@@ -15951,11 +15959,11 @@
             "auction": false,
             "quest": false,
             "craftable": false,
-            "wikiFreeText": "=Acquisition=\nWhen starting the game and using the button \"Me\" or typing <code>/me</code>, the player will find a short notice on the top of the message:\n :Exclamationmark: Please report to your captain in the castle chat. The password is ZOM ODO.\n''(Note: The password is randomly generated for each player)''\n\nJoining the linked castle chat and typing out those letters given in the password awards the player with a cape, that can be equipped next to all standard equipment.\n Earned: '''[[Royal Guard Cape]]'''. Check <code>/inv</code> to wear it.\n\n=Trivia=\nIn earlier versions of the game the {{PAGENAME}} could be bought in the [[Shop|castle shop]] for 1 :Gold:, this got deactivated later on and now the item can only be acquired through [[Captain Arthur]].",
+            "wikiFreeText": "=Acquisition=\nWhen starting the game and using the button \"Me\" or typing <code>/me</code>, the player will find a short notice on the top of the message:\n :Exclamationmark: Please report to your captain in the castle chat. The password is ZOM ODO.\n''(Note: The password is randomly generated for each player)''\n\nJoining the linked castle chat and typing out those letters given in the password awards the player with a cape, that can be equipped next to all standard equipment.\n Earned: '''[[Royal Guard Cape]]'''. Check <code>/inv</code> to wear it.\n\n=Trivia=\nIn earlier versions of the game the {{PAGENAME}} could be bought in the [[Shop|castle shop]] for 1 :Gold:, this got deactivated later on and now the item can only be acquired through [[Captain Arthur]].\n\n==Flavor text==\n Your handy dandy starter cape. Given to you by your castle leadership once you became a member of their service, you've official upgraded from villager to warrior. By your side through thick and thin, it's an item not really sought after, but remembered by many.",
             "recipe": {},
             "pagename": "Royal Guard Cape",
-            "lastModified": "2020-05-20T04:17:12Z",
-            "revision": 15935,
+            "lastModified": "2020-06-28T06:10:59Z",
+            "revision": 16060,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Guard+Cape"
         },
         {
@@ -15988,6 +15996,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 5,
             "craftMana": 500,
+            "wikiFreeText": "==Flavor text==\n Taking motivation from the Crusader Helmet, and adding some glory, it features a chevron shaped eye hole, pointing towards the sky. Two vent like holes, 3 thin cylindrical lines on either side, rest near the mouth piece. Featuring latches similar to the Order armor, it enables the user to make sure they keep their head in the toughest fight.",
             "recipe": {
                 "Royal Helmet Recipe": "1",
                 "Royal Helmet Fragment": "5",
@@ -15999,8 +16008,8 @@
                 "Blacksmith Frame": "3"
             },
             "pagename": "Royal Helmet",
-            "lastModified": "2020-04-28T05:42:37Z",
-            "revision": 15669,
+            "lastModified": "2020-06-28T06:04:13Z",
+            "revision": 16055,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Helmet"
         },
         {
@@ -16619,10 +16628,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "==Flavor text==\n Good for beginners, the short sword is made of a metal blade, and a handle of wound up twine. Slightly shorter than the wooden training sword, it is definitely a step up from the sticks they use to practice. However, this weapon only has a single edge, unlike the 360 degree angle of attack like a Wooden Sword.",
             "recipe": {},
             "pagename": "Short Sword",
-            "lastModified": "2020-04-27T20:58:04Z",
-            "revision": 15616,
+            "lastModified": "2020-06-28T05:49:10Z",
+            "revision": 16050,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Short+Sword"
         },
         {
@@ -19072,6 +19082,7 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 3,
             "craftMana": 150,
+            "wikiFreeText": "==Flavor text==\n Motivated from the barbarians that wielded them, the War Hammer has been modified for mass production and longer use. The hammer sits upon a wooden pole with iron plates for grip, the dull triangles used to bash and decimate armor and shields alike. Due to the lower quality materials, its a favorite among those who need to repair weapons quickly.",
             "recipe": {
                 "War Hammer Recipe": "1",
                 "War Hammer Head": "3",
@@ -19083,8 +19094,8 @@
                 "Ruby": "1"
             },
             "pagename": "War Hammer",
-            "lastModified": "2020-04-07T13:04:59Z",
-            "revision": 14946,
+            "lastModified": "2020-06-28T06:05:30Z",
+            "revision": 16057,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War+Hammer"
         },
         {
@@ -19843,10 +19854,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "==Flavor text==\n Essentially a stick, the wooden baton like weapon is cut and sanded down, with a smooth handle, no hilt, and a 3 foot blade… of curved wood. Mostly for training, it can do blunt damage against an unarmored foe.",
             "recipe": {},
             "pagename": "Wooden Sword",
-            "lastModified": "2020-04-27T20:57:58Z",
-            "revision": 15615,
+            "lastModified": "2020-06-28T05:47:49Z",
+            "revision": 16048,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Sword"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-28T07:11:12.729264+00:00",
+    "timestamp": "2020-07-05T01:11:08.190553+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -335,10 +335,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor Text=\n Another knife stolen from the castle's kitchen, except this one was stolen by a blacksmith with a lot of time, and stolen knives. A  spiked, curved band of yellow metal covers the wielder's fingers and extends to the bolster of the Kitchen Knife. The spine of the blade has been filed down to form serrating teeth, adding an intimidation factor.",
             "recipe": {},
             "pagename": "Battle Knife",
-            "lastModified": "2020-04-27T21:03:05Z",
-            "revision": 15627,
+            "lastModified": "2020-07-05T00:29:06Z",
+            "revision": 16108,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Battle+Knife"
         },
         {
@@ -16592,10 +16593,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor Text=\n With motivation taken to the ancestors, the short bow is made from animal sinew and rawhide. Set to harden in the sun and shaped afterwards, it isn't really impressive in terms of technology. Simplistic and early to learn with, its no big surprise most experienced archers still have their first bow, which is usually the Short Bow.",
             "recipe": {},
             "pagename": "Short Bow",
-            "lastModified": "2020-04-27T21:03:27Z",
-            "revision": 15630,
+            "lastModified": "2020-07-05T00:30:36Z",
+            "revision": 16109,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Short+Bow"
         },
         {
@@ -17537,10 +17539,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "=Flavor Text=\n Your first true dueling knife, how cute. Regular iron ore is smelted at a high temperature and all impurities are 'baked' away, and carbon is added to make steel. A golden/brass hilt with a small cross guard is wrapped with a small amount of cord for grip, and put together before forged into place. Voila, your sidearm is ready for combat!",
             "recipe": {},
             "pagename": "Steel Dagger",
-            "lastModified": "2020-04-27T21:03:10Z",
-            "revision": 15628,
+            "lastModified": "2020-07-05T00:47:26Z",
+            "revision": 16110,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Dagger"
         },
         {

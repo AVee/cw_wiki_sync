@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-06T02:11:05.176468+00:00",
+    "timestamp": "2020-07-06T03:11:05.049506+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -9973,6 +9973,7 @@
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Light Armor",
+            "description": "A rather basic helmet, picking and choosing from the lower tiers to bring all the bests into one. With the design of a mithril and the comfort of leather, the helmet can be attached to the armor and removed swiftly. Rather than being fully attached, it has 2 leather straps with buttons that attach to the shoulders of the Hunter Armor.",
             "attack": 5,
             "defense": 11,
             "mana": 0,
@@ -10008,8 +10009,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Hunter Helmet",
-            "lastModified": "2020-04-06T21:17:10Z",
-            "revision": 14660,
+            "lastModified": "2020-07-06T02:38:40Z",
+            "revision": 16165,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Helmet"
         },
         {
@@ -10853,6 +10854,7 @@
             "name": "Leather hood",
             "type": "Protective Gear",
             "subType": "Helmet",
+            "description": "Half of a leather hide folded over, cut down the middle and sewn at the chin, a simple cowl is produced. Brown and color and thin, it drapes over the sides of your head and covers your neck. With the benefit of being waterproof and light weight, its great for disguising or concealing your identity.",
             "attack": 0,
             "defense": 2,
             "mana": 0,
@@ -10869,8 +10871,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Leather Hood",
-            "lastModified": "2020-04-27T20:40:29Z",
-            "revision": 15597,
+            "lastModified": "2020-07-06T02:20:05Z",
+            "revision": 16163,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather+Hood"
         },
         {
@@ -16121,6 +16123,7 @@
             "name": "Royal Shield",
             "type": "Weapon",
             "subType": "Shield",
+            "description": "Catalina blue in color, the shield is made similar to the Royal Armor, with metallic fiber reinforcing the shield. The shield is 5 feet in height, forms a half circle. The shield has 2 C shaped hooks on the left side and 2 open ended rings on the right. Before defending, users can hook shields together, and stand as one as the wall of the castle.",
             "attack": 0,
             "defense": 13,
             "mana": 0,
@@ -16155,8 +16158,8 @@
                 "Metal Plate": "15"
             },
             "pagename": "Royal Shield",
-            "lastModified": "2020-04-06T19:26:12Z",
-            "revision": 14671,
+            "lastModified": "2020-07-06T02:21:45Z",
+            "revision": 16164,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Shield"
         },
         {

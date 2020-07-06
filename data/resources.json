@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-06T01:11:17.911370+00:00",
+    "timestamp": "2020-07-06T02:11:05.176468+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -7842,6 +7842,7 @@
             "name": "Gloves",
             "type": "Protective Gear",
             "subType": "Gloves",
+            "description": "Simple wool gloves, with holes for 5 digits. Extending to the wrist, it provides mild protection from cold and blades alike. Mostly for show, the white pair are clean, and ready for battle.",
             "attack": 0,
             "defense": 1,
             "mana": 0,
@@ -7861,8 +7862,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Gloves (Item)",
-            "lastModified": "2020-04-27T20:49:18Z",
-            "revision": 15604,
+            "lastModified": "2020-07-06T01:47:30Z",
+            "revision": 16159,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gloves+%28Item%29"
         },
         {
@@ -9548,6 +9549,7 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Light Armor",
+            "description": "Layers of steel and mithril are laid over eachother to provide a firm base, which is then milled and slotted to provide a leather wrap. With triangle shaped plates added to the top of the boot, a scale like design is placed in an intimidating fashion. This lightweight armor is essentially a hybrid, maximizing speed and agility, with protection.",
             "wikiNote": "needs wrapping added and error checking",
             "attack": 3,
             "defense": 8,
@@ -9588,8 +9590,8 @@
                 "Leather": "12"
             },
             "pagename": "Hunter Boots",
-            "lastModified": "2020-05-20T04:21:12Z",
-            "revision": 15942,
+            "lastModified": "2020-07-06T01:50:28Z",
+            "revision": 16160,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Boots"
         },
         {
@@ -13111,6 +13113,7 @@
             "name": "Mithril axe",
             "type": "Weapon",
             "subType": "Blunt",
+            "description": "Unlike the Steel Axe, the Mithril Axe has two blades, for a double edged attack. Both blades are roughly 131 degrees, and is actually a single piece of metal formed in a hour glass like shape. Most veterans have etched designs and details in the sides of the blades, featuring glorious kills and other memories with their weapons.",
             "attack": 11,
             "defense": 11,
             "mana": 0,
@@ -13130,8 +13133,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Mithril Axe",
-            "lastModified": "2020-05-20T05:07:28Z",
-            "revision": 15962,
+            "lastModified": "2020-07-06T01:52:44Z",
+            "revision": 16162,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Axe"
         },
         {
@@ -13140,6 +13143,7 @@
             "name": "Mithril boots",
             "type": "Protective Gear",
             "subType": "Boots",
+            "description": "A complete upgrade to Silver Boots, this type of boot featured anti-roll hinges on the ankles, to prevent movement left and right, and a cloth spacer around the leg to prevent moisture from entering. Along with it, theres additional metal in a lightning bolt pattern up the sole, for grip and added protection.",
             "attack": 0,
             "defense": 8,
             "mana": 0,
@@ -13167,8 +13171,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Mithril Boots",
-            "lastModified": "2020-05-20T04:16:36Z",
-            "revision": 15933,
+            "lastModified": "2020-07-06T01:50:57Z",
+            "revision": 16161,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Boots"
         },
         {

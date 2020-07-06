@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-05T01:11:08.190553+00:00",
+    "timestamp": "2020-07-06T00:11:05.364586+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1166,6 +1166,7 @@
             "name": "Bronze shield",
             "type": "Weapon",
             "subType": "Shield",
+            "description": "A beginner defender's speciality. A mix of 1:1 copper and tin are smelted together, to form a stronger material. Cast in the shape of a kite, it has 4 distinct panels held in place by curving the edges over the individual plates. About the size of the user's torso, it provides excellent protection, but is still a light material for learning hands.",
             "attack": 0,
             "defense": 3,
             "mana": 0,
@@ -1183,8 +1184,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Bronze Shield",
-            "lastModified": "2020-04-27T20:51:25Z",
-            "revision": 15612,
+            "lastModified": "2020-07-05T23:36:09Z",
+            "revision": 16116,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bronze+Shield"
         },
         {
@@ -2698,6 +2699,7 @@
             "name": "Club",
             "type": "Weapon",
             "subType": "Blunt",
+            "description": "A basic weapon in any warriors arsenal, this one goes back hundreds, even thousands of years. A stone is hammered and drilled, and a stick is inserted snugly into the hole. After insertion, it is fastened with twine and cord to keep it on. You almost feel scammed, paying 62 gold for such a basic weapon.",
             "attack": 2,
             "defense": 2,
             "mana": 0,
@@ -2717,8 +2719,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Club",
-            "lastModified": "2020-04-27T21:03:55Z",
-            "revision": 15634,
+            "lastModified": "2020-07-05T23:35:51Z",
+            "revision": 16118,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Club"
         },
         {
@@ -11843,6 +11845,7 @@
             "name": "Long sword",
             "type": "Weapon",
             "subType": "Sword",
+            "description": "Only for those who have mastered the short sword, and have the willpower and talent to carry a longer blade into battle. 4 feet of iron ontop of a sturdy horizontal cross guard, with a braided, wrapped handle. Lacking a holster, it's upon the user to find a way to sheath and contain the weapon when not in use.",
             "attack": 6,
             "defense": 0,
             "mana": 0,
@@ -11859,8 +11862,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Long Sword",
-            "lastModified": "2020-05-20T05:27:59Z",
-            "revision": 15973,
+            "lastModified": "2020-07-05T23:36:11Z",
+            "revision": 16114,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Long+Sword"
         },
         {
@@ -17143,6 +17146,7 @@
             "name": "Skeleton Buckler",
             "type": "Weapon",
             "subType": "Shield",
+            "description": "Similar to the Wooden Shield, a wooden base is made with treated boards and then nailed together. However, the final exterior of the shield is fastened with wire, twine, and several large bones. Ranging from deer, to humans, to other small animals, the wood finish is covered in white. Barbaric in nature, the bones invite your enemies to join them.",
             "attack": 0,
             "defense": 2,
             "mana": 0,
@@ -17160,8 +17164,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Skeleton Buckler",
-            "lastModified": "2020-04-27T20:51:18Z",
-            "revision": 15611,
+            "lastModified": "2020-07-05T23:36:07Z",
+            "revision": 16117,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skeleton+Buckler"
         },
         {
@@ -19833,6 +19837,7 @@
             "name": "Wooden shield",
             "type": "Weapon",
             "subType": "Shield",
+            "description": "Oak planks are sanded and treated with oil to resist water before being laid side by side. Laying vertically, two horizontal boards are added and then nailed to hold the wood together. Leather straps are fastened to the supporting wood, intended to be worn on the arm. Cheap and low quality, youre almost better off without the extra weight.",
             "attack": 0,
             "defense": 1,
             "mana": 0,
@@ -19850,8 +19855,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Wooden Shield",
-            "lastModified": "2020-04-27T20:51:08Z",
-            "revision": 15610,
+            "lastModified": "2020-07-05T23:36:10Z",
+            "revision": 16115,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Shield"
         },
         {

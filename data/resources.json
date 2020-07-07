@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-06T04:11:04.481524+00:00",
+    "timestamp": "2020-07-07T00:11:05.054396+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -10825,6 +10825,7 @@
             "name": "Leather gloves",
             "type": "Protective Gear",
             "subType": "Gloves",
+            "description": "Small strips of leather curled into finger sized rolls, stitched to two connecting pads. In the shape of a hand, they're stitched to close your hands and provide the protection of normal armor. They're a bit gritty, and rough, but great protection for the average warrior.",
             "attack": 0,
             "defense": 2,
             "mana": 0,
@@ -10844,8 +10845,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Leather Gloves",
-            "lastModified": "2020-04-27T20:49:25Z",
-            "revision": 15605,
+            "lastModified": "2020-07-06T23:43:59Z",
+            "revision": 16168,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather+Gloves"
         },
         {
@@ -17567,6 +17568,7 @@
             "name": "Steel gauntlets",
             "type": "Protective Gear",
             "subType": "Gloves",
+            "description": "A full steel glove covers the external side of the hand and forearm, which faces enemies in combat. Held together by hinges and leather straps, the plates extend down the arm and consume the fingers similar to a glove. It provides excellent protection to the outside, but leaves the hand and inner arm exposed to not overencumber the weater",
             "attack": 0,
             "defense": 3,
             "mana": 0,
@@ -17586,8 +17588,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Steel Gauntlets",
-            "lastModified": "2020-04-27T20:49:32Z",
-            "revision": 15606,
+            "lastModified": "2020-07-06T23:43:01Z",
+            "revision": 16167,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Gauntlets"
         },
         {
@@ -17596,6 +17598,7 @@
             "name": "Steel helmet",
             "type": "Protective Gear",
             "subType": "Helmet",
+            "description": "A rather simplistic helmet it featured a leather cap similar to a cowl, except its laced to an iron like cup. A 'T' shaped cut in the middle allow the user to see, and speak clearly. Other than that, it’s simply an iron bowl placed on the head.",
             "attack": 0,
             "defense": 3,
             "mana": 0,
@@ -17612,8 +17615,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Steel Helmet",
-            "lastModified": "2020-04-27T20:42:31Z",
-            "revision": 15598,
+            "lastModified": "2020-07-06T23:45:17Z",
+            "revision": 16169,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Helmet"
         },
         {

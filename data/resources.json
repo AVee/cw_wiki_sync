@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-07T00:11:05.054396+00:00",
+    "timestamp": "2020-07-08T07:11:05.125168+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -10882,6 +10882,7 @@
             "name": "Leather shirt",
             "type": "Protective Gear",
             "subType": "Armor",
+            "description": "Raw animal hide skinned and tanned, to create a vest like wrap to defend the user. Brown in color and one uniform piece, its better than mere fabric, but animal skin only goes so far.",
             "attack": 0,
             "defense": 4,
             "mana": 0,
@@ -10898,8 +10899,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Leather Shirt",
-            "lastModified": "2020-04-27T20:37:55Z",
-            "revision": 15594,
+            "lastModified": "2020-07-08T06:20:12Z",
+            "revision": 16170,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather+Shirt"
         },
         {

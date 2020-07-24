@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-14T01:11:08.514227+00:00",
+    "timestamp": "2020-07-24T17:11:06.053396+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -397,8 +397,16 @@
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 2,
+            "enchantAtk2": 2,
+            "enchantAtk3": 2,
+            "enchantAtk4": 2,
             "enchantDef1": 2,
+            "enchantDef2": 2,
+            "enchantDef3": 2,
+            "enchantDef4": 2,
             "enchantMana1": 0,
+            "enchantMana2": 0,
+            "enchantMana3": 0,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_w98",
@@ -417,8 +425,8 @@
                 "Quality Cloth": "3"
             },
             "pagename": "Black Morningstar",
-            "lastModified": "2020-05-19T19:56:07Z",
-            "revision": 15876,
+            "lastModified": "2020-07-24T17:03:24Z",
+            "revision": 16203,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar"
         },
         {

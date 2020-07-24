@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-24T17:11:06.053396+00:00",
+    "timestamp": "2020-07-24T20:11:04.797097+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -14436,6 +14436,7 @@
             "eventItem": false,
             "name": "✏️Pencil of Truth",
             "type": "Special Equippable",
+            "description": "The Pencil of Truth fills you with vigor. Literally a pencil the size of a 7 year old, it has a black tip, wooden face, yellow body, and a fat pink eraser for a head. No one knows where these ultra rare pencils came from, but many are wanted. Owners know however, theres a secret compartment for alcohol under the eraser... bottoms up!",
             "wikiNote": "weight, sale price & auction is assumption based on stick of wisdom",
             "attack": 0,
             "defense": 0,
@@ -14455,8 +14456,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Pencil of Truth",
-            "lastModified": "2020-04-06T20:42:54Z",
-            "revision": 13414,
+            "lastModified": "2020-07-24T19:55:47Z",
+            "revision": 16204,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pencil+of+Truth"
         },
         {

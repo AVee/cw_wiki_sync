@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-07-24T20:11:04.797097+00:00",
+    "timestamp": "2020-08-20T20:11:07.092813+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -19397,6 +19397,7 @@
             "name": "Widow sword",
             "type": "Weapon",
             "subType": "Sword",
+            "description": "A rather popular design, most popular among the upper class of the castle. A thin, slightly curved blade similar to a Rapier extends to a single, sharp point. A web like hand guard wraps around the handle. The thin, whispy blade is popular among castle royalty and duelists, for the blade's beauty and light weight in parades and shows.",
             "attack": 10,
             "defense": 0,
             "mana": 0,
@@ -19413,8 +19414,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Widow Sword",
-            "lastModified": "2020-04-27T21:01:15Z",
-            "revision": 15618,
+            "lastModified": "2020-08-20T19:34:54Z",
+            "revision": 16232,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Widow+Sword"
         },
         {

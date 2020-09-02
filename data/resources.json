@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-08-20T20:11:07.092813+00:00",
+    "timestamp": "2020-09-02T00:11:04.558478+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -16857,6 +16857,7 @@
             "name": "Silver dagger",
             "type": "Weapon",
             "subType": "Dagger",
+            "description": "With a shimmer under light, the higher quality metal twinkles with wealth. About 7'' and sharpened on both sides, the short blade is a good backup. Normally attached at the hip or tucked in a boot, most people opt for a dagger sidearm. Some experienced warriors even apply an acid to add dazzling colors, and case harden the knife.",
             "attack": 5,
             "defense": 0,
             "mana": 0,
@@ -16876,8 +16877,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Silver Dagger",
-            "lastModified": "2020-04-27T21:03:18Z",
-            "revision": 15629,
+            "lastModified": "2020-09-01T23:49:09Z",
+            "revision": 16244,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Dagger"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-09-02T00:11:04.558478+00:00",
+    "timestamp": "2020-09-02T09:11:05.470389+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -20251,6 +20251,14 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantDef1": 2,
+            "enchantDef2": 3,
+            "enchantDef3": 2,
+            "enchantDef4": 3,
+            "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
+            "enchantMana4": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a111",
@@ -20271,8 +20279,8 @@
                 "Solvent": "2"
             },
             "pagename": "Discarnate Bracers",
-            "lastModified": "2020-04-08T17:09:40Z",
-            "revision": 15309,
+            "lastModified": "2020-09-02T08:39:18Z",
+            "revision": 16246,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Bracers"
         },
         {
@@ -20333,6 +20341,10 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 4,
+            "enchantAtk2": 4,
+            "enchantAtk3": 4,
+            "enchantAtk4": 4,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_w100",
@@ -20350,8 +20362,8 @@
                 "Silver Alloy": "25"
             },
             "pagename": "Poniard",
-            "lastModified": "2020-06-25T23:32:49Z",
-            "revision": 16031,
+            "lastModified": "2020-09-02T08:31:16Z",
+            "revision": 16245,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-09-02T09:11:05.470389+00:00",
+    "timestamp": "2020-09-03T02:11:04.441760+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -17071,6 +17071,7 @@
             "name": "Silver shield",
             "type": "Weapon",
             "subType": "Shield",
+            "description": "Shinier than any iron or steel, silver is the choice of those who have the skill to use it, but lack the funds for a Mithril. The gray metal is heated up and folded several times, in the shape of a kite. Raised on the top edges and lowered in the middle of the bottom half, it easily protects the user from ranged and melee alike.",
             "attack": 0,
             "defense": 5,
             "mana": 0,
@@ -17092,8 +17093,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Silver Shield",
-            "lastModified": "2020-04-27T20:51:32Z",
-            "revision": 15613,
+            "lastModified": "2020-09-03T02:10:44Z",
+            "revision": 16247,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Shield"
         },
         {

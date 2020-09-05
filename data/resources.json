@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-09-05T00:11:04.300730+00:00",
+    "timestamp": "2020-09-05T07:11:04.035438+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -10704,6 +10704,7 @@
             "name": "Knight's sword",
             "type": "Weapon",
             "subType": "Sword",
+            "description": "An antique item, many of these exist, but their value is treasured. These swords are  refurbished before being resold to new warriors… almost like a blessing. With a rich, golden colored cross guard and a grip of ancient twine and cord of varying earthy colors, it makes you wonder who owned this before you, and what battles this sword has seen?",
             "attack": 16,
             "defense": 0,
             "mana": 0,
@@ -10724,8 +10725,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Knight's Sword",
-            "lastModified": "2020-04-27T21:01:23Z",
-            "revision": 15619,
+            "lastModified": "2020-09-05T06:56:47Z",
+            "revision": 16251,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Knight%27s+Sword"
         },
         {

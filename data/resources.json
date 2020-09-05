@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-09-03T02:11:04.441760+00:00",
+    "timestamp": "2020-09-05T00:11:04.300730+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -16790,6 +16790,7 @@
             "name": "Silver boots",
             "type": "Protective Gear",
             "subType": "Boots",
+            "description": "A 'step' up from the steel boots, this one features all around protection. Covering the foot itself, a hinge around the ankle, and extending partly up the leg, it features overlapping plates similar to scales, to help deflect damage and ricochet any stabs.",
             "attack": 0,
             "defense": 5,
             "mana": 0,
@@ -16817,8 +16818,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Silver Boots",
-            "lastModified": "2020-04-27T20:49:11Z",
-            "revision": 15603,
+            "lastModified": "2020-09-04T23:45:41Z",
+            "revision": 16250,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Boots"
         },
         {
@@ -17521,6 +17522,7 @@
             "name": "Steel boots",
             "type": "Protective Gear",
             "subType": "Boots",
+            "description": "The official shoe of the castle, it’s a simplistic way to protect the feet of many soldiers. A Leather Shoe with ankle support, and an iron cover, it benefits greatly over the Sandal and Leather Shoe alone. Rather simplistic, it lacks any engravings or detail.",
             "attack": 0,
             "defense": 3,
             "mana": 0,
@@ -17540,8 +17542,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Steel Boots",
-            "lastModified": "2020-04-27T20:49:04Z",
-            "revision": 15602,
+            "lastModified": "2020-09-04T23:45:18Z",
+            "revision": 16249,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Boots"
         },
         {

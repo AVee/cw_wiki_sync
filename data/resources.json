@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-09-14T06:11:05.658846+00:00",
+    "timestamp": "2020-09-15T02:11:04.334346+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -1862,6 +1862,7 @@
             "name": "Chain mail",
             "type": "Protective Gear",
             "subType": "Armor",
+            "description": "Individual iron rings, curved slightly come together to form a full torso mesh. Protecting the neck, arms, and full torso, its definitely an armor piece to reckon with. Best against arrows, the mail clinks with every step, light on your body compared to normal plate armor.",
             "attack": 0,
             "defense": 12,
             "mana": 0,
@@ -1878,8 +1879,8 @@
             "craftable": false,
             "recipe": {},
             "pagename": "Chain Mail",
-            "lastModified": "2020-05-20T01:44:19Z",
-            "revision": 15886,
+            "lastModified": "2020-09-15T01:47:26Z",
+            "revision": 16284,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chain+Mail"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-09-19T04:11:04.655411+00:00",
+    "timestamp": "2020-09-20T21:11:04.002962+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -2363,6 +2363,7 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Robe Armor",
+            "description": "Ancient in style, this robe is based on earlier sorcerers who roamed. Favored by Masters, it helps strengthen a wearer's ability to channel their inner Mana. White colored cloth is blessed and enchanted before being sewn together into a robe. Hanging down to the knees and covering up to the elbows, it protects spiritually rather than physically.",
             "attack": 4,
             "defense": 20,
             "mana": 120,
@@ -2401,8 +2402,8 @@
                 "Sapphire": "5"
             },
             "pagename": "Clarity Robe",
-            "lastModified": "2020-04-06T22:35:07Z",
-            "revision": 14655,
+            "lastModified": "2020-09-20T20:26:24Z",
+            "revision": 16291,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe"
         },
         {

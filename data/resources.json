@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-09-29T07:11:04.351601+00:00",
+    "timestamp": "2020-09-30T09:11:08.460028+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -21269,12 +21269,27 @@
             "name": "Sapphire dust",
             "type": "Resource",
             "subType": "Alchemy Resource",
+            "weight": 1,
+            "depositable": true,
             "exchange": true,
             "auction": false,
-            "recipe": {},
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/brew_74",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 6,
+            "craftMana": 100,
+            "recipe": {
+                "Powder": "7",
+                "Suklencia": "1",
+                "Plexisop": "1",
+                "Sapphire": "3"
+            },
             "pagename": "Sapphire Dust",
-            "lastModified": "2020-09-28T17:22:36Z",
-            "revision": 16298,
+            "lastModified": "2020-09-30T08:41:20Z",
+            "revision": 16315,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sapphire+Dust"
         },
         {

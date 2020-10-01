@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-01T06:11:09.727810+00:00",
+    "timestamp": "2020-10-01T15:11:09.618498+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -21412,6 +21412,37 @@
             "lastModified": "2020-10-01T05:22:49Z",
             "revision": 16333,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Suklencia"
+        },
+        {
+            "id": "p37",
+            "eventItem": false,
+            "name": "Duality Vial",
+            "type": "Consumable",
+            "subType": "Potion",
+            "duration": 480,
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p37",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 5,
+            "craftMana": 100,
+            "recipe": {
+                "Dragon Seed": "2",
+                "Macrider": "1",
+                "Ripheokam": "1",
+                "Love Creeper": "1",
+                "Assagane": "1"
+            },
+            "pagename": "Duality Vial",
+            "lastModified": "2020-10-01T14:30:40Z",
+            "revision": 16342,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Vial"
         }
     ],
     "incomplete": [

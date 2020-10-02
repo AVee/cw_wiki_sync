@@ -10,6 +10,8 @@ If any item data is missing or incomplete please just edit the wiki, it has a re
 ## Notes on resources.json
 The intention is to keep the the file backwards compatible whenever possible. So new fields may be added, but existing fields will not be changed or removed. There are two top flags in the file indicating it's status, `deprecated` and `obsolete`. If the deprecated flag is set to true this indicates there is a newer format available and support for this version of the file will end at some point. If the obsolete becomes true the file is no longer automatically updated and the new version must be used to get the most recent data.
 
+As of October 2020 the format is upgraded to version 2, because we needed to add fields to the recipies. The old file will still be updated for now, but you should move to the new version to deal with personalized sets in recipes.
+
 All known values for certain fields are included in the file, null values are not included. This means missing keys should generally be considered unknown (or not applicable).
 
 There are two collections in the file, the first being 'items', which contains all valid items. The second is the 'incomplete' collection which contains all items for which the ID is missing. Separating these allows users of the json file to just work with the complete items and ignore work-in-progress items when new stuff is released in Chatwars.

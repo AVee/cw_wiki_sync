@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-02T19:11:04.805193+00:00",
+    "timestamp": "2020-10-02T20:11:04.428628+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 1,
@@ -28,8 +28,8 @@
                 "Steel Mold": "1"
             },
             "pagename": "Artisan Frame",
-            "lastModified": "2020-04-07T13:58:40Z",
-            "revision": 14961,
+            "lastModified": "2020-10-02T20:07:16Z",
+            "revision": 16399,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artisan+Frame"
         },
         {
@@ -21488,8 +21488,8 @@
                 "Flammia Nut": "2"
             },
             "pagename": "Duality Vial",
-            "lastModified": "2020-10-02T19:10:25Z",
-            "revision": 16364,
+            "lastModified": "2020-10-02T20:09:46Z",
+            "revision": 16378,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Vial"
         }
     ],

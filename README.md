@@ -3,7 +3,7 @@ This tool parses item data from [chatwars wiki](https://chatwars-wiki.de/) and p
 
 The primary goal is to use the wiki as the *one source of truth*™ for item data. This data can then be used by bot builders, taking away the need for everyone to collect and maintain that data separately. 
 
-The tool is run hourly and commits the resulting json to this repository (see [data/resources.json](https://github.com/AVee/cw_wiki_sync/blob/master/data/resources.json)). To get recent data you can just fetch the [raw resources.json](https://raw.githubusercontent.com/AVee/cw_wiki_sync/master/data/resources.json) regularly (or checkout this repo and pull regularly). While not a full blown api it probably is enough to serve the need of bot builders.
+The tool is run hourly and commits the resulting json to this repository (see [data/resources_v2.json](https://github.com/AVee/cw_wiki_sync/blob/master/data/resources_v2.json)). To get recent data you can just fetch the [raw resources_v2.json](https://raw.githubusercontent.com/AVee/cw_wiki_sync/master/data/resources_v2.json) regularly (or checkout this repo and pull regularly). While not a full blown api it probably is enough to serve the need of bot builders.
 
 If any item data is missing or incomplete please just edit the wiki, it has a really nice form for editing item information ;-) Really, just go and improve what is on the wiki, the quality of this data depends on contributions to the wiki from users like you...
 

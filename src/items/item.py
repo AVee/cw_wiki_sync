@@ -20,6 +20,7 @@ from datetime import datetime, timezone
 import urllib
 from importlib.resources import path
 import os
+from distutils.util import strtobool
 
 class Item(object):
     def __init__(self, pagename:str=None, page:Page=None, **kwargs):
@@ -92,7 +93,7 @@ class Item(object):
         self.ManaCrafting = IntProperty(json_name='craftMana')
         self.FreeText = Property(json_name='wikiFreeText')
 
-        self.recipe = {}
+        self.recipe = []
         
         self.pagename = pagename
         self._page = page
@@ -139,7 +140,7 @@ class Item(object):
                 v.value = None
         self._dirty = False
         self._has_item = False
-        self.recipe = {}
+        self.recipe = []
         self.lastModified = None
         self.revision = None
         self.wikiUrl = None
@@ -166,17 +167,23 @@ class Item(object):
                     w.nodes.remove(template)
                     continue
                 
-                ingredient = False
-                qty = False
+                ingredient = {}
                 for param in template.params:
                     name = str(param.name).strip()
                     value = str(param.value).strip().split('\n', 1)[0] # More sanitizing may be needed
                     if name == 'Crafting ingredient' and value:
-                        ingredient = value
+                        ingredient['name'] = value
                     if name == 'Qty' and value:
-                        qty = value
-                if ingredient and qty:
-                    self.recipe[ingredient] = qty
+                        ingredient['qty'] = value
+                    if name == 'Personalized' and value:
+                        ingredient['personalized'] = strtobool(str(value)) != 0
+                    if name == 'PersonalizedSetNr' and value:
+                        ingredient['personalizedSetNr'] = value
+                if 'name' in ingredient and 'qty' in ingredient:
+                    if not 'personalized' in ingredient:
+                        ingredient['personalized'] = False
+                        
+                    self.recipe.append(ingredient);
                     w.nodes.remove(template)
         
         free = str(w).strip()
@@ -194,8 +201,11 @@ class Item(object):
             if isinstance(v, Property) and v.get_wiki_value() != None and k != 'FreeText':
                 item.add(k, v.get_wiki_value()) 
         
-        for k,v in self.recipe.items():
-            sub = Template('#subobject:', params=[Parameter('Crafting ingredient',k), Parameter('Qty', v)])
+        for ingredient in self.recipe:
+            sub = Template('#subobject:', params=[Parameter('Crafting ingredient',ingredient['name']), Parameter('Qty', ingredient['qty'])])
+            sub.add('Personalized', ('Yes' if ingredient['personalized'] else 'No'))
+            if 'personalizedSetNr' in ingredient:
+                sub.add('PersonalizedSetNr', ingredient['personalizedSetNr'])
             w.nodes.append(sub)
             w.nodes.append(Text('\n'))
         
@@ -283,25 +293,47 @@ def load_all_items(site: Site):
 
 def load_from_file(path: str = None):
     if not path:
-        path = os.path.join(os.path.dirname(__file__), '../../data/resources.json')
+        path = os.path.join(os.path.dirname(__file__), '../../data/resources_v2.json')
         
     with io.open(path, encoding='utf-8') as f:
         items = json.load(f, object_hook=item_deserialize)
+        if items['format'] != 2:
+            raise Exception('Wrong format (should be 2).')
         return items
 
 def save_to_file(path: str, items: Union[List[Item], dict]):
     if isinstance(items, dict):
         items = items['items'] + items['incomplete']
     
-    result = { 'timestamp': datetime.now(tz=timezone.utc).isoformat(), 'deprecated': False, 'obsolete': False, 'format': 1, 'items': [i for i in items if i._has_item and i.ItemID.value != '' and i.ItemID.value != '??'], 'incomplete': [i for i in items if i._has_item and (i.ItemID.value == '' or i.ItemID.value == '??')] }
+    result = { 'timestamp': datetime.now(tz=timezone.utc).isoformat(), 'deprecated': False, 'obsolete': False, 'format': 2, 'items': [i for i in items if i._has_item and i.ItemID.value != '' and i.ItemID.value != '??'], 'incomplete': [i for i in items if i._has_item and (i.ItemID.value == '' or i.ItemID.value == '??')] }
     
     with io.open(path, 'w', encoding='utf-8') as f:
         json.dump(result, f, default=item_serialize, indent=4, ensure_ascii=False)
+
+def save_to_file_v1(path: str, items: Union[List[Item], dict]):
+    if isinstance(items, dict):
+        items = items['items'] + items['incomplete']
+    
+    result = { 'timestamp': datetime.now(tz=timezone.utc).isoformat(), 'deprecated': True, 'obsolete': False, 'format': 1, 'items': [i for i in items if i._has_item and i.ItemID.value != '' and i.ItemID.value != '??'], 'incomplete': [i for i in items if i._has_item and (i.ItemID.value == '' or i.ItemID.value == '??')] }
+    
+    with io.open(path, 'w', encoding='utf-8') as f:
+        json.dump(result, f, default=item_serialize_v1, indent=4, ensure_ascii=False)
 
 def item_serialize(obj):
     if isinstance(obj, Item):
         result = { v.json_name:v.value for v in obj.__dict__.values() if isinstance(v, Property) and v.value != None }
         result.update({ k:v for k,v in obj.__dict__.items() if not k.startswith("_") and not isinstance(v, Property) })
+        return result
+
+def item_serialize_v1(obj):
+    if isinstance(obj, Item):
+        result = { v.json_name:v.value for v in obj.__dict__.values() if isinstance(v, Property) and v.value != None }
+        result.update({ k:v for k,v in obj.__dict__.items() if not k.startswith("_") and not isinstance(v, Property) })
+        if obj.recipe:
+            new_recipe = {}
+            for ingredient in obj.recipe:
+                new_recipe[ingredient['name']] = ingredient['qty']
+            result['recipe'] = new_recipe    
         return result
 
 def item_deserialize(dct):

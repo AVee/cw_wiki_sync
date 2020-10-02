@@ -14,7 +14,7 @@ def run():
 
     changes = site.recentchanges(namespace='0') # 0 being the magic number for the Main namespace
     # Refresh existing items
-    items = item.load_from_file('../data/resources.json')
+    items = item.load_from_file('../data/resources_v2.json')
     try:
         with io.open('../data/lastrev') as f:
             maxrev = int(f.read())
@@ -59,7 +59,8 @@ def run():
 
     # Only save if there are changes
     if any(i for i in items['items'] if i.revision > maxrev) or any(i for i in items['incomplete'] if i.revision > maxrev):
-        item.save_to_file('../data/resources.json', items)
+        item.save_to_file_v1('../data/resources.json', items)
+        item.save_to_file('../data/resources_v2.json', items)
 
     if lastrev:
         try:

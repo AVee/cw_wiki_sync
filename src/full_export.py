@@ -11,7 +11,8 @@ import json
 def run():
     site = mwclient.Site('chatwars-wiki.de', path='/')
     items = item.load_all_items(site)
-    item.save_to_file('../data/resources.json', items)
+    item.save_to_file('../data/resources_v2.json', items)
+    item.save_to_file_v1('../data/resources.json', items)
 
 if __name__ == '__main__':
     run()

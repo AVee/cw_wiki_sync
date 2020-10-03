@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-02T20:47:17.567297+00:00",
+    "timestamp": "2020-10-03T10:42:13.121211+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -21249,7 +21249,7 @@
             "depositable": false,
             "exchange": false,
             "auction": false,
-            "freeText": "It is required to [[Wrap|wrap]] items for [[Auction|auctions]]",
+            "freeText": "It is required to [[Wrap|wrap]] items for [[Auction|auctions]].",
             "quest": false,
             "enchantable": false,
             "craftable": true,
@@ -21263,8 +21263,8 @@
                 "String": "3"
             },
             "pagename": "Wrapping",
-            "lastModified": "2020-10-02T20:36:27Z",
-            "revision": 16602,
+            "lastModified": "2020-10-03T10:39:44Z",
+            "revision": 16605,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wrapping"
         },
         {

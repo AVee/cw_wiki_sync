@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-02T20:20:58.673441+00:00",
+    "timestamp": "2020-10-03T10:57:37.812411+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -40,7 +40,7 @@
                 }
             ],
             "pagename": "Artisan Frame",
-            "lastModified": "2020-10-02T20:14:29Z",
+            "lastModified": "2020-10-02T22:09:29Z",
             "revision": 16399,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artisan+Frame"
         },
@@ -84,8 +84,8 @@
                 }
             ],
             "pagename": "Artisan Mold",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 16026,
+            "lastModified": "2020-10-02T22:21:31Z",
+            "revision": 16412,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artisan+Mold"
         },
         {
@@ -121,7 +121,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Ash Rosemary",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T21:57:43Z",
             "revision": 14962,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ash+Rosemary"
         },
@@ -148,7 +148,7 @@
             "dropValleyEvening": true,
             "recipe": [],
             "pagename": "Assagane",
-            "lastModified": "2020-10-02T20:15:35Z",
+            "lastModified": "2020-10-02T22:17:18Z",
             "revision": 16349,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assagane"
         },
@@ -183,8 +183,8 @@
                 }
             ],
             "pagename": "Assassin Vine",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 14963,
+            "lastModified": "2020-10-02T22:25:31Z",
+            "revision": 16413,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assassin+Vine"
         },
         {
@@ -266,8 +266,8 @@
                 }
             ],
             "pagename": "Assault Cape",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15583,
+            "lastModified": "2020-10-02T22:17:48Z",
+            "revision": 16414,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assault+Cape"
         },
         {
@@ -377,7 +377,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Astrulic",
-            "lastModified": "2020-10-02T20:14:29Z",
+            "lastModified": "2020-10-02T22:33:57Z",
             "revision": 14964,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Astrulic"
         },
@@ -469,7 +469,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Bauxite",
-            "lastModified": "2020-10-02T20:14:29Z",
+            "lastModified": "2020-10-02T22:30:57Z",
             "revision": 14967,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bauxite"
         },
@@ -556,8 +556,8 @@
                 }
             ],
             "pagename": "Black Morningstar",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 16203,
+            "lastModified": "2020-10-02T22:07:45Z",
+            "revision": 16415,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar"
         },
         {
@@ -669,8 +669,8 @@
                 }
             ],
             "pagename": "Blacksmith Frame",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 14647,
+            "lastModified": "2020-10-02T22:39:40Z",
+            "revision": 16416,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blacksmith+Frame"
         },
         {
@@ -714,8 +714,8 @@
                 }
             ],
             "pagename": "Blacksmith Mold",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15138,
+            "lastModified": "2020-10-02T21:49:56Z",
+            "revision": 16417,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blacksmith+Mold"
         },
         {
@@ -798,8 +798,8 @@
                 }
             ],
             "pagename": "Blessed Cloak",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 14914,
+            "lastModified": "2020-10-02T22:17:50Z",
+            "revision": 16418,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blessed+Cloak"
         },
         {
@@ -948,8 +948,8 @@
                 }
             ],
             "pagename": "Bodkin Arrows Pack",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 15752,
+            "lastModified": "2020-10-02T22:21:39Z",
+            "revision": 16419,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bodkin+Arrows+Pack"
         },
         {
@@ -984,7 +984,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Bone",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:22:10Z",
             "revision": 14979,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bone"
         },
@@ -1060,8 +1060,8 @@
                 }
             ],
             "pagename": "Bone Powder",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 14980,
+            "lastModified": "2020-10-02T22:12:30Z",
+            "revision": 16420,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bone+Powder"
         },
         {
@@ -1109,8 +1109,8 @@
                 }
             ],
             "pagename": "Bottle of Greed",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15506,
+            "lastModified": "2020-10-02T22:39:11Z",
+            "revision": 16421,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Greed"
         },
         {
@@ -1186,8 +1186,8 @@
                 }
             ],
             "pagename": "Bottle of Mana",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15512,
+            "lastModified": "2020-10-02T22:02:56Z",
+            "revision": 16422,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Mana"
         },
         {
@@ -1254,8 +1254,8 @@
                 }
             ],
             "pagename": "Bottle of Morph",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15515,
+            "lastModified": "2020-10-02T21:59:37Z",
+            "revision": 16423,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Morph"
         },
         {
@@ -1297,8 +1297,8 @@
                 }
             ],
             "pagename": "Bottle of Nature",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15507,
+            "lastModified": "2020-10-02T22:04:04Z",
+            "revision": 16424,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Nature"
         },
         {
@@ -1345,8 +1345,8 @@
                 }
             ],
             "pagename": "Bottle of Peace",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 14984,
+            "lastModified": "2020-10-02T22:18:34Z",
+            "revision": 16425,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Peace"
         },
         {
@@ -1414,8 +1414,8 @@
                 }
             ],
             "pagename": "Bottle of Rage",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15503,
+            "lastModified": "2020-10-02T21:42:35Z",
+            "revision": 16426,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Rage"
         },
         {
@@ -1494,8 +1494,8 @@
                 }
             ],
             "pagename": "Bottle of Twilight",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15585,
+            "lastModified": "2020-10-02T22:22:08Z",
+            "revision": 16427,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Twilight"
         },
         {
@@ -1566,8 +1566,8 @@
                 }
             ],
             "pagename": "Broad Arrows Pack",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15754,
+            "lastModified": "2020-10-02T21:53:09Z",
+            "revision": 16428,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Broad+Arrows+Pack"
         },
         {
@@ -1750,8 +1750,8 @@
                 }
             ],
             "pagename": "Brutalizer Flail",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16283,
+            "lastModified": "2020-10-02T22:27:36Z",
+            "revision": 16429,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Brutalizer+Flail"
         },
         {
@@ -1840,8 +1840,8 @@
                 }
             ],
             "pagename": "Cake",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15303,
+            "lastModified": "2020-10-02T22:35:53Z",
+            "revision": 16430,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cake"
         },
         {
@@ -1877,7 +1877,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Cave Garlic",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:18:52Z",
             "revision": 14989,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cave+Garlic"
         },
@@ -1966,8 +1966,8 @@
                 }
             ],
             "pagename": "Celestial Armor",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15884,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16431,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor"
         },
         {
@@ -2128,8 +2128,8 @@
                 }
             ],
             "pagename": "Celestial Boots",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15139,
+            "lastModified": "2020-10-02T21:52:08Z",
+            "revision": 16433,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Boots"
         },
         {
@@ -2289,8 +2289,8 @@
                 }
             ],
             "pagename": "Celestial Bracers",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15913,
+            "lastModified": "2020-10-02T22:06:09Z",
+            "revision": 16434,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Bracers"
         },
         {
@@ -2449,8 +2449,8 @@
                 }
             ],
             "pagename": "Celestial Helmet",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15354,
+            "lastModified": "2020-10-02T22:05:41Z",
+            "revision": 16435,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet"
         },
         {
@@ -2665,8 +2665,8 @@
                 }
             ],
             "pagename": "Champion Sword",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 14652,
+            "lastModified": "2020-10-02T22:37:22Z",
+            "revision": 16436,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Champion+Sword"
         },
         {
@@ -2754,7 +2754,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Charcoal",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T21:56:07Z",
             "revision": 14991,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Charcoal"
         },
@@ -2901,8 +2901,8 @@
                 }
             ],
             "pagename": "Clarity Bracers",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15887,
+            "lastModified": "2020-10-02T22:03:14Z",
+            "revision": 16437,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers"
         },
         {
@@ -2911,7 +2911,7 @@
             "name": "Clarity Bracers part",
             "type": "Piece of Equipment",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -2939,8 +2939,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Bracers Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15889,
+            "lastModified": "2020-10-02T20:22:58Z",
+            "revision": 16407,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers+Part"
         },
         {
@@ -3063,8 +3063,8 @@
                 }
             ],
             "pagename": "Clarity Circlet",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 16290,
+            "lastModified": "2020-10-02T22:11:52Z",
+            "revision": 16439,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Circlet"
         },
         {
@@ -3073,7 +3073,7 @@
             "name": "Clarity Circlet fragment",
             "type": "Piece of Equipment",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3101,8 +3101,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Circlet Fragment",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15890,
+            "lastModified": "2020-10-02T20:23:38Z",
+            "revision": 16408,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Circlet+Fragment"
         },
         {
@@ -3221,8 +3221,8 @@
                 }
             ],
             "pagename": "Clarity Robe",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 16291,
+            "lastModified": "2020-10-02T22:11:44Z",
+            "revision": 16440,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe"
         },
         {
@@ -3231,7 +3231,7 @@
             "name": "Clarity Robe piece",
             "type": "Piece of Equipment",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3259,8 +3259,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Robe Piece",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15891,
+            "lastModified": "2020-10-02T20:24:07Z",
+            "revision": 16409,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe+Piece"
         },
         {
@@ -3381,8 +3381,8 @@
                 }
             ],
             "pagename": "Clarity Shoes",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 13033,
+            "lastModified": "2020-10-02T22:30:11Z",
+            "revision": 16441,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Shoes"
         },
         {
@@ -3391,7 +3391,7 @@
             "name": "Clarity Shoes part",
             "type": "Piece of Equipment",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -3419,8 +3419,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Shoes Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15893,
+            "lastModified": "2020-10-02T20:24:35Z",
+            "revision": 16410,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Shoes+Part"
         },
         {
@@ -3493,7 +3493,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Cliff Rue",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T21:54:44Z",
             "revision": 15001,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cliff+Rue"
         },
@@ -3529,7 +3529,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Cloth",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:09:38Z",
             "revision": 15002,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cloth"
         },
@@ -3619,7 +3619,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Coal",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:13:07Z",
             "revision": 15003,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Coal"
         },
@@ -3642,7 +3642,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Cocoa Powder",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T21:56:03Z",
             "revision": 15196,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cocoa+Powder"
         },
@@ -3694,8 +3694,8 @@
                 }
             ],
             "pagename": "Coke",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15141,
+            "lastModified": "2020-10-02T22:28:38Z",
+            "revision": 16442,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Coke"
         },
         {
@@ -3775,8 +3775,8 @@
                 }
             ],
             "pagename": "Composite Bow",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 14916,
+            "lastModified": "2020-10-02T22:26:36Z",
+            "revision": 16444,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite+Bow"
         },
         {
@@ -3926,8 +3926,8 @@
                 }
             ],
             "pagename": "Compound Arrows Pack",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15750,
+            "lastModified": "2020-10-02T21:46:27Z",
+            "revision": 16445,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Compound+Arrows+Pack"
         },
         {
@@ -3961,8 +3961,8 @@
                 }
             ],
             "pagename": "Cord",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 14915,
+            "lastModified": "2020-10-02T22:34:02Z",
+            "revision": 16446,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cord"
         },
         {
@@ -4091,8 +4091,8 @@
                 }
             ],
             "pagename": "Council Armor",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15897,
+            "lastModified": "2020-10-02T22:38:47Z",
+            "revision": 16447,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Armor"
         },
         {
@@ -4242,8 +4242,8 @@
                 }
             ],
             "pagename": "Council Boots",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15957,
+            "lastModified": "2020-10-02T21:53:41Z",
+            "revision": 16448,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots"
         },
         {
@@ -4406,8 +4406,8 @@
                 }
             ],
             "pagename": "Council Gauntlets",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15958,
+            "lastModified": "2020-10-02T22:31:42Z",
+            "revision": 16449,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Gauntlets"
         },
         {
@@ -4565,8 +4565,8 @@
                 }
             ],
             "pagename": "Council Helmet",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15901,
+            "lastModified": "2020-10-02T22:32:51Z",
+            "revision": 16450,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet"
         },
         {
@@ -4727,8 +4727,8 @@
                 }
             ],
             "pagename": "Council Shield",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15914,
+            "lastModified": "2020-10-02T21:40:31Z",
+            "revision": 16451,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Shield"
         },
         {
@@ -4858,8 +4858,8 @@
                 }
             ],
             "pagename": "Crafted Leather",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 14920,
+            "lastModified": "2020-10-02T21:58:26Z",
+            "revision": 16452,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crafted+Leather"
         },
         {
@@ -4940,8 +4940,8 @@
                 }
             ],
             "pagename": "Craftsman Apron",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15905,
+            "lastModified": "2020-10-02T21:45:57Z",
+            "revision": 16453,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman+Apron"
         },
         {
@@ -5091,8 +5091,8 @@
                 }
             ],
             "pagename": "Crusader Armor",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 16123,
+            "lastModified": "2020-10-02T22:06:22Z",
+            "revision": 16454,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor"
         },
         {
@@ -5249,8 +5249,8 @@
                 }
             ],
             "pagename": "Crusader Boots",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15908,
+            "lastModified": "2020-10-02T22:33:49Z",
+            "revision": 16455,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Boots"
         },
         {
@@ -5410,8 +5410,8 @@
                 }
             ],
             "pagename": "Crusader Gauntlets",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15945,
+            "lastModified": "2020-10-02T21:55:34Z",
+            "revision": 16456,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Gauntlets"
         },
         {
@@ -5564,8 +5564,8 @@
                 }
             ],
             "pagename": "Crusader Helmet",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15668,
+            "lastModified": "2020-10-02T22:36:14Z",
+            "revision": 16457,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Helmet"
         },
         {
@@ -5718,8 +5718,8 @@
                 }
             ],
             "pagename": "Crusader Shield",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 16124,
+            "lastModified": "2020-10-02T22:14:14Z",
+            "revision": 16458,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Shield"
         },
         {
@@ -5877,8 +5877,8 @@
                 }
             ],
             "pagename": "Decimation Harpoon",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16267,
+            "lastModified": "2020-10-02T22:28:13Z",
+            "revision": 16459,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Decimation+Harpoon"
         },
         {
@@ -6021,8 +6021,8 @@
                 }
             ],
             "pagename": "Demon Bracers",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15949,
+            "lastModified": "2020-10-02T22:36:34Z",
+            "revision": 16460,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers"
         },
         {
@@ -6200,8 +6200,8 @@
                 }
             ],
             "pagename": "Demon Circlet",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15172,
+            "lastModified": "2020-10-02T22:03:34Z",
+            "revision": 16461,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet"
         },
         {
@@ -6378,8 +6378,8 @@
                 }
             ],
             "pagename": "Demon Robe",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15947,
+            "lastModified": "2020-10-02T22:35:11Z",
+            "revision": 16462,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Robe"
         },
         {
@@ -6565,8 +6565,8 @@
                 }
             ],
             "pagename": "Demon Shoes",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16125,
+            "lastModified": "2020-10-02T22:12:16Z",
+            "revision": 16463,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes"
         },
         {
@@ -6787,8 +6787,8 @@
                 }
             ],
             "pagename": "Discarnate Bracers",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16285,
+            "lastModified": "2020-10-02T21:46:59Z",
+            "revision": 16464,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Bracers"
         },
         {
@@ -6917,8 +6917,8 @@
                 }
             ],
             "pagename": "Discarnate Circlet",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16032,
+            "lastModified": "2020-10-02T21:46:17Z",
+            "revision": 16465,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Circlet"
         },
         {
@@ -7034,8 +7034,8 @@
                 }
             ],
             "pagename": "Discarnate Robe",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 15944,
+            "lastModified": "2020-10-02T22:26:34Z",
+            "revision": 16466,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Robe"
         },
         {
@@ -7158,8 +7158,8 @@
                 }
             ],
             "pagename": "Discarnate Shoes",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16030,
+            "lastModified": "2020-10-02T22:17:59Z",
+            "revision": 16467,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Shoes"
         },
         {
@@ -7288,8 +7288,8 @@
                 }
             ],
             "pagename": "Divine Bracers",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15953,
+            "lastModified": "2020-10-02T22:15:50Z",
+            "revision": 16468,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Bracers"
         },
         {
@@ -7446,8 +7446,8 @@
                 }
             ],
             "pagename": "Divine Circlet",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15919,
+            "lastModified": "2020-10-02T22:33:54Z",
+            "revision": 16469,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Circlet"
         },
         {
@@ -7612,8 +7612,8 @@
                 }
             ],
             "pagename": "Divine Robe",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16126,
+            "lastModified": "2020-10-02T22:30:05Z",
+            "revision": 16470,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Robe"
         },
         {
@@ -7777,8 +7777,8 @@
                 }
             ],
             "pagename": "Divine Shoes",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15952,
+            "lastModified": "2020-10-02T22:01:35Z",
+            "revision": 16471,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Shoes"
         },
         {
@@ -7939,8 +7939,8 @@
                 }
             ],
             "pagename": "Doom Warglaive",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16033,
+            "lastModified": "2020-10-02T22:17:53Z",
+            "revision": 16472,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doom+Warglaive"
         },
         {
@@ -8098,8 +8098,8 @@
                 }
             ],
             "pagename": "Doomblade Sword",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16119,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16473,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Doomblade+Sword"
         },
         {
@@ -8217,8 +8217,8 @@
                 }
             ],
             "pagename": "Dragon Mace",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 13825,
+            "lastModified": "2020-10-02T22:31:46Z",
+            "revision": 16474,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon+Mace"
         },
         {
@@ -8331,7 +8331,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Dragon Seed",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:07:05Z",
             "revision": 15026,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon+Seed"
         },
@@ -8406,8 +8406,8 @@
                 }
             ],
             "pagename": "Duality Vial",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16378,
+            "lastModified": "2020-10-02T22:27:14Z",
+            "revision": 16475,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Vial"
         },
         {
@@ -8489,8 +8489,8 @@
                 }
             ],
             "pagename": "Durable Cloak",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16127,
+            "lastModified": "2020-10-02T22:38:29Z",
+            "revision": 16476,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable+Cloak"
         },
         {
@@ -8500,7 +8500,7 @@
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 35,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -8528,8 +8528,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Durable Cloak Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15027,
+            "lastModified": "2020-10-02T20:25:24Z",
+            "revision": 16411,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable+Cloak+Part"
         },
         {
@@ -8643,8 +8643,8 @@
                 }
             ],
             "pagename": "Eclipse",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16128,
+            "lastModified": "2020-10-02T22:39:15Z",
+            "revision": 16477,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse"
         },
         {
@@ -8743,7 +8743,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Egg",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:12:41Z",
             "revision": 15197,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Egg"
         },
@@ -8897,7 +8897,7 @@
             "wikiFreeText": "==Legacy Usage List==\n* [[Ethereal Bone]]\n* [[Vial of Nature]]\n* [[Potion of Nature]]\n* [[Poison Pack]]",
             "recipe": [],
             "pagename": "Ephijora",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:05:29Z",
             "revision": 15030,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ephijora"
         },
@@ -8942,8 +8942,8 @@
                 }
             ],
             "pagename": "Ethereal Bone",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15175,
+            "lastModified": "2020-10-02T22:31:13Z",
+            "revision": 16478,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ethereal+Bone"
         },
         {
@@ -8997,8 +8997,8 @@
                 }
             ],
             "pagename": "Evil Spirits Totem",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15145,
+            "lastModified": "2020-10-02T22:15:17Z",
+            "revision": 16479,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Evil+Spirits+Totem"
         },
         {
@@ -9034,7 +9034,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Flammia Nut",
-            "lastModified": "2020-10-02T20:14:29Z",
+            "lastModified": "2020-10-02T22:37:38Z",
             "revision": 15032,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Flammia+Nut"
         },
@@ -9182,7 +9182,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Flour",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:30:53Z",
             "revision": 15195,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Flour"
         },
@@ -9324,8 +9324,8 @@
                 }
             ],
             "pagename": "Ghost Armor",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16130,
+            "lastModified": "2020-10-02T22:35:35Z",
+            "revision": 16480,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Armor"
         },
         {
@@ -9525,8 +9525,8 @@
                 }
             ],
             "pagename": "Ghost Boots",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 16131,
+            "lastModified": "2020-10-02T21:57:15Z",
+            "revision": 16481,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Boots"
         },
         {
@@ -9687,8 +9687,8 @@
                 }
             ],
             "pagename": "Ghost Dagger",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15917,
+            "lastModified": "2020-10-02T22:36:43Z",
+            "revision": 16482,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Dagger"
         },
         {
@@ -9812,8 +9812,8 @@
                 }
             ],
             "pagename": "Ghost Gloves",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15922,
+            "lastModified": "2020-10-02T22:32:38Z",
+            "revision": 16483,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Gloves"
         },
         {
@@ -9967,8 +9967,8 @@
                 }
             ],
             "pagename": "Ghost Helmet",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 14659,
+            "lastModified": "2020-10-02T22:28:21Z",
+            "revision": 16484,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Helmet"
         },
         {
@@ -10431,8 +10431,8 @@
                 }
             ],
             "pagename": "Griffin Armor",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15956,
+            "lastModified": "2020-10-02T21:48:09Z",
+            "revision": 16485,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Armor"
         },
         {
@@ -10582,8 +10582,8 @@
                 }
             ],
             "pagename": "Griffin Boots",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15663,
+            "lastModified": "2020-10-02T22:14:28Z",
+            "revision": 16486,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Boots"
         },
         {
@@ -10735,8 +10735,8 @@
                 }
             ],
             "pagename": "Griffin Gloves",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15356,
+            "lastModified": "2020-10-02T22:08:21Z",
+            "revision": 16487,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Gloves"
         },
         {
@@ -10898,8 +10898,8 @@
                 }
             ],
             "pagename": "Griffin Helmet",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 13075,
+            "lastModified": "2020-10-02T21:38:45Z",
+            "revision": 16488,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Helmet"
         },
         {
@@ -11062,8 +11062,8 @@
                 }
             ],
             "pagename": "Griffin Knife",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 16006,
+            "lastModified": "2020-10-02T22:38:19Z",
+            "revision": 16489,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Knife"
         },
         {
@@ -11254,8 +11254,8 @@
                 }
             ],
             "pagename": "Guard's Spear",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16132,
+            "lastModified": "2020-10-02T22:38:38Z",
+            "revision": 16490,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard%27s+Spear"
         },
         {
@@ -11398,8 +11398,8 @@
                 }
             ],
             "pagename": "Guisarme",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15562,
+            "lastModified": "2020-10-02T22:35:22Z",
+            "revision": 16491,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guisarme"
         },
         {
@@ -11552,8 +11552,8 @@
                 }
             ],
             "pagename": "Hailstorm Bow",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15207,
+            "lastModified": "2020-10-02T22:24:18Z",
+            "revision": 16492,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hailstorm+Bow"
         },
         {
@@ -11726,7 +11726,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hardener",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:16:24Z",
             "revision": 15040,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hardener"
         },
@@ -11881,8 +11881,8 @@
                 }
             ],
             "pagename": "Heartstriker Bow",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 15960,
+            "lastModified": "2020-10-02T21:46:29Z",
+            "revision": 16493,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartstriker+Bow"
         },
         {
@@ -11992,8 +11992,8 @@
                 }
             ],
             "pagename": "Heavy Arrows Pack",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15755,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16494,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Arrows+Pack"
         },
         {
@@ -12097,8 +12097,8 @@
                 }
             ],
             "pagename": "Heavy Fauchard",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15975,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16495,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Fauchard"
         },
         {
@@ -12304,8 +12304,8 @@
                 }
             ],
             "pagename": "Hunter Armor",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15941,
+            "lastModified": "2020-10-02T22:24:51Z",
+            "revision": 16496,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Armor"
         },
         {
@@ -12500,8 +12500,8 @@
                 }
             ],
             "pagename": "Hunter Boots",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 16160,
+            "lastModified": "2020-10-02T22:10:07Z",
+            "revision": 16497,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Boots"
         },
         {
@@ -12658,8 +12658,8 @@
                 }
             ],
             "pagename": "Hunter Bow",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15964,
+            "lastModified": "2020-10-02T22:01:01Z",
+            "revision": 16498,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Bow"
         },
         {
@@ -12762,8 +12762,8 @@
                 }
             ],
             "pagename": "Hunter Dagger",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 16135,
+            "lastModified": "2020-10-02T21:47:17Z",
+            "revision": 16499,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Dagger"
         },
         {
@@ -12880,8 +12880,8 @@
                 }
             ],
             "pagename": "Hunter Gloves",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15920,
+            "lastModified": "2020-10-02T21:48:50Z",
+            "revision": 16500,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Gloves"
         },
         {
@@ -13035,8 +13035,8 @@
                 }
             ],
             "pagename": "Hunter Helmet",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 16165,
+            "lastModified": "2020-10-02T21:44:19Z",
+            "revision": 16501,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Helmet"
         },
         {
@@ -13185,7 +13185,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Ilaves",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:35:02Z",
             "revision": 15049,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ilaves"
         },
@@ -13425,8 +13425,8 @@
                 }
             ],
             "pagename": "Imperial Axe",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15563,
+            "lastModified": "2020-10-02T22:33:49Z",
+            "revision": 16502,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial+Axe"
         },
         {
@@ -13535,7 +13535,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Iron Ore",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:37:39Z",
             "revision": 15051,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Iron+Ore"
         },
@@ -13570,8 +13570,8 @@
                 }
             ],
             "pagename": "Itacory",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15180,
+            "lastModified": "2020-10-02T21:58:04Z",
+            "revision": 16503,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Itacory"
         },
         {
@@ -13654,8 +13654,8 @@
                 }
             ],
             "pagename": "King's Defender",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 16136,
+            "lastModified": "2020-10-02T21:45:06Z",
+            "revision": 16504,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=King%27s+Defender"
         },
         {
@@ -13792,8 +13792,8 @@
                 }
             ],
             "pagename": "Kloliarway",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15181,
+            "lastModified": "2020-10-02T21:55:05Z",
+            "revision": 16505,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Kloliarway"
         },
         {
@@ -13890,8 +13890,8 @@
                 }
             ],
             "pagename": "Leash",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15055,
+            "lastModified": "2020-10-02T22:10:21Z",
+            "revision": 16506,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leash"
         },
         {
@@ -13938,8 +13938,8 @@
                 }
             ],
             "pagename": "Leather",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15182,
+            "lastModified": "2020-10-02T22:05:49Z",
+            "revision": 16507,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Leather"
         },
         {
@@ -14136,8 +14136,8 @@
                 }
             ],
             "pagename": "Lightbane Katana",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 14714,
+            "lastModified": "2020-10-02T21:58:26Z",
+            "revision": 16508,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightbane+Katana"
         },
         {
@@ -14263,8 +14263,8 @@
                 }
             ],
             "pagename": "Lightning Bow",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15971,
+            "lastModified": "2020-10-02T22:30:22Z",
+            "revision": 16509,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lightning+Bow"
         },
         {
@@ -14425,8 +14425,8 @@
                 }
             ],
             "pagename": "Lion Armor",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16138,
+            "lastModified": "2020-10-02T22:27:00Z",
+            "revision": 16510,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor"
         },
         {
@@ -14625,8 +14625,8 @@
                 }
             ],
             "pagename": "Lion Boots",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16139,
+            "lastModified": "2020-10-02T22:23:28Z",
+            "revision": 16511,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Boots"
         },
         {
@@ -14787,8 +14787,8 @@
                 }
             ],
             "pagename": "Lion Gloves",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16141,
+            "lastModified": "2020-10-02T22:02:05Z",
+            "revision": 16512,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Gloves"
         },
         {
@@ -14941,8 +14941,8 @@
                 }
             ],
             "pagename": "Lion Helmet",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 14664,
+            "lastModified": "2020-10-02T22:30:18Z",
+            "revision": 16513,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Helmet"
         },
         {
@@ -15103,8 +15103,8 @@
                 }
             ],
             "pagename": "Lion Knife",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15918,
+            "lastModified": "2020-10-02T22:00:15Z",
+            "revision": 16514,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Knife"
         },
         {
@@ -15263,7 +15263,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Love Creeper",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T21:46:26Z",
             "revision": 15063,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Love+Creeper"
         },
@@ -15320,7 +15320,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Maccunut",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:28:40Z",
             "revision": 15064,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maccunut"
         },
@@ -15371,7 +15371,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Magic Stone",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:22:07Z",
             "revision": 15065,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Magic+Stone"
         },
@@ -15464,8 +15464,8 @@
                 }
             ],
             "pagename": "Maiming Bulawa",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15972,
+            "lastModified": "2020-10-02T22:10:12Z",
+            "revision": 16515,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maiming+Bulawa"
         },
         {
@@ -15612,8 +15612,8 @@
                 }
             ],
             "pagename": "Malificent Maul",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16021,
+            "lastModified": "2020-10-02T21:53:39Z",
+            "revision": 16516,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Malificent+Maul"
         },
         {
@@ -15690,7 +15690,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Mammoth Dill",
-            "lastModified": "2020-10-02T20:14:29Z",
+            "lastModified": "2020-10-02T21:48:54Z",
             "revision": 15067,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mammoth+Dill"
         },
@@ -15773,8 +15773,8 @@
                 }
             ],
             "pagename": "Manticore Armor",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 15849,
+            "lastModified": "2020-10-02T21:57:31Z",
+            "revision": 16517,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Armor"
         },
         {
@@ -15909,8 +15909,8 @@
                 }
             ],
             "pagename": "Manticore Boots",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 15930,
+            "lastModified": "2020-10-02T22:17:22Z",
+            "revision": 16518,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Boots"
         },
         {
@@ -16042,8 +16042,8 @@
                 }
             ],
             "pagename": "Manticore Gloves",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16038,
+            "lastModified": "2020-10-02T22:07:59Z",
+            "revision": 16519,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Gloves"
         },
         {
@@ -16172,8 +16172,8 @@
                 }
             ],
             "pagename": "Manticore Helmet",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16019,
+            "lastModified": "2020-10-02T21:54:03Z",
+            "revision": 16520,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Helmet"
         },
         {
@@ -16414,8 +16414,8 @@
                 }
             ],
             "pagename": "Mechblade Arrows Pack",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 15753,
+            "lastModified": "2020-10-02T22:08:42Z",
+            "revision": 16521,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mechblade+Arrows+Pack"
         },
         {
@@ -16451,7 +16451,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Mercy Sassafras",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:20:30Z",
             "revision": 15068,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mercy+Sassafras"
         },
@@ -16510,8 +16510,8 @@
                 }
             ],
             "pagename": "Metal Plate",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 14960,
+            "lastModified": "2020-10-02T21:44:40Z",
+            "revision": 16522,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Metal+Plate"
         },
         {
@@ -16564,8 +16564,8 @@
                 }
             ],
             "pagename": "Metallic Fiber",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15069,
+            "lastModified": "2020-10-02T22:26:18Z",
+            "revision": 16523,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Metallic+Fiber"
         },
         {
@@ -16654,8 +16654,8 @@
                 }
             ],
             "pagename": "Meteor Bow",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15440,
+            "lastModified": "2020-10-02T22:25:45Z",
+            "revision": 16524,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Meteor+Bow"
         },
         {
@@ -16749,7 +16749,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Milk",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:28:02Z",
             "revision": 15691,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Milk"
         },
@@ -16825,8 +16825,8 @@
                 }
             ],
             "pagename": "Minotaur Sword",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 13457,
+            "lastModified": "2020-10-02T21:57:48Z",
+            "revision": 16525,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Minotaur+Sword"
         },
         {
@@ -17216,8 +17216,8 @@
                 }
             ],
             "pagename": "Nightfall Bow",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15921,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16526,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Nightfall+Bow"
         },
         {
@@ -17491,8 +17491,8 @@
                 }
             ],
             "pagename": "Order Armor",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15936,
+            "lastModified": "2020-10-02T21:50:25Z",
+            "revision": 16527,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Armor"
         },
         {
@@ -17502,7 +17502,7 @@
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -17530,8 +17530,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Armor Piece",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15071,
+            "lastModified": "2020-10-02T20:26:33Z",
+            "revision": 16432,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Armor+Piece"
         },
         {
@@ -17647,8 +17647,8 @@
                 }
             ],
             "pagename": "Order Boots",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15938,
+            "lastModified": "2020-10-02T22:19:22Z",
+            "revision": 16528,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Boots"
         },
         {
@@ -17658,7 +17658,7 @@
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -17686,8 +17686,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Boots Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15073,
+            "lastModified": "2020-10-02T20:26:58Z",
+            "revision": 16438,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Boots+Part"
         },
         {
@@ -17804,8 +17804,8 @@
                 }
             ],
             "pagename": "Order Gauntlets",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15939,
+            "lastModified": "2020-10-02T21:39:04Z",
+            "revision": 16529,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Gauntlets"
         },
         {
@@ -17815,7 +17815,7 @@
             "type": "Piece of Equipment",
             "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
             "weight": 10,
-            "levelRequirement": 0,
+            "levelRequirement": 25,
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -17843,8 +17843,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Gauntlets Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15075,
+            "lastModified": "2020-10-02T20:27:29Z",
+            "revision": 16443,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Gauntlets+Part"
         },
         {
@@ -17955,8 +17955,8 @@
                 }
             ],
             "pagename": "Order Helmet",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15937,
+            "lastModified": "2020-10-02T21:56:42Z",
+            "revision": 16530,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Helmet"
         },
         {
@@ -18097,8 +18097,8 @@
                 }
             ],
             "pagename": "Order Shield",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15940,
+            "lastModified": "2020-10-02T22:01:01Z",
+            "revision": 16531,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Shield"
         },
         {
@@ -18263,8 +18263,8 @@
                 }
             ],
             "pagename": "Overseer Armor",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16272,
+            "lastModified": "2020-10-02T21:58:12Z",
+            "revision": 16532,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Armor"
         },
         {
@@ -18406,8 +18406,8 @@
                 }
             ],
             "pagename": "Overseer Boots",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16275,
+            "lastModified": "2020-10-02T21:44:14Z",
+            "revision": 16533,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Boots"
         },
         {
@@ -18545,8 +18545,8 @@
                 }
             ],
             "pagename": "Overseer Gauntlets",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16274,
+            "lastModified": "2020-10-02T22:27:43Z",
+            "revision": 16534,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Gauntlets"
         },
         {
@@ -18681,8 +18681,8 @@
                 }
             ],
             "pagename": "Overseer Helmet",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16273,
+            "lastModified": "2020-10-02T22:11:13Z",
+            "revision": 16535,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet"
         },
         {
@@ -18797,8 +18797,8 @@
                 }
             ],
             "pagename": "Overseer Shield",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 15793,
+            "lastModified": "2020-10-02T22:19:27Z",
+            "revision": 16536,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Shield"
         },
         {
@@ -18872,7 +18872,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Pelt",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:25:06Z",
             "revision": 15080,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pelt"
         },
@@ -18984,8 +18984,8 @@
                 }
             ],
             "pagename": "Phoenix Sword",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15974,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16537,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Phoenix+Sword"
         },
         {
@@ -19120,8 +19120,8 @@
                 }
             ],
             "pagename": "Piercing Arrows Pack",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 15751,
+            "lastModified": "2020-10-02T21:39:51Z",
+            "revision": 16538,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Piercing+Arrows+Pack"
         },
         {
@@ -19160,8 +19160,8 @@
                 }
             ],
             "pagename": "Plasma of Abyss",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15186,
+            "lastModified": "2020-10-02T21:58:52Z",
+            "revision": 16539,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Plasma+of+Abyss"
         },
         {
@@ -19196,7 +19196,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Plexisop",
-            "lastModified": "2020-10-02T20:14:29Z",
+            "lastModified": "2020-10-02T21:56:15Z",
             "revision": 15082,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Plexisop"
         },
@@ -19226,8 +19226,8 @@
                 }
             ],
             "pagename": "Poison Pack",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15547,
+            "lastModified": "2020-10-02T22:39:14Z",
+            "revision": 16540,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poison+Pack"
         },
         {
@@ -19301,8 +19301,8 @@
                 }
             ],
             "pagename": "Poniard",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16245,
+            "lastModified": "2020-10-02T22:12:43Z",
+            "revision": 16541,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Poniard"
         },
         {
@@ -19383,8 +19383,8 @@
                 }
             ],
             "pagename": "Potion of Greed",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15505,
+            "lastModified": "2020-10-02T22:08:35Z",
+            "revision": 16542,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Greed"
         },
         {
@@ -19460,8 +19460,8 @@
                 }
             ],
             "pagename": "Potion of Mana",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15511,
+            "lastModified": "2020-10-02T22:19:55Z",
+            "revision": 16543,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Mana"
         },
         {
@@ -19519,8 +19519,8 @@
                 }
             ],
             "pagename": "Potion of Morph",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15514,
+            "lastModified": "2020-10-02T22:33:36Z",
+            "revision": 16544,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Morph"
         },
         {
@@ -19567,8 +19567,8 @@
                 }
             ],
             "pagename": "Potion of Nature",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15509,
+            "lastModified": "2020-10-02T21:56:53Z",
+            "revision": 16545,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Nature"
         },
         {
@@ -19610,8 +19610,8 @@
                 }
             ],
             "pagename": "Potion of Peace",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15087,
+            "lastModified": "2020-10-02T22:08:19Z",
+            "revision": 16546,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Peace"
         },
         {
@@ -19653,8 +19653,8 @@
                 }
             ],
             "pagename": "Potion of Rage",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15502,
+            "lastModified": "2020-10-02T22:01:01Z",
+            "revision": 16547,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Rage"
         },
         {
@@ -19707,8 +19707,8 @@
                 }
             ],
             "pagename": "Potion of Twilight",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15584,
+            "lastModified": "2020-10-02T21:53:52Z",
+            "revision": 16548,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Twilight"
         },
         {
@@ -19747,8 +19747,8 @@
                 }
             ],
             "pagename": "Pouch of Gold",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15151,
+            "lastModified": "2020-10-02T21:39:12Z",
+            "revision": 16549,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pouch+of+Gold"
         },
         {
@@ -19779,7 +19779,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Powder",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:31:32Z",
             "revision": 15090,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Powder"
         },
@@ -19839,8 +19839,8 @@
                 }
             ],
             "pagename": "Purified Powder",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15163,
+            "lastModified": "2020-10-02T22:27:21Z",
+            "revision": 16550,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Purified+Powder"
         },
         {
@@ -19883,8 +19883,8 @@
                 }
             ],
             "pagename": "Pygmy Spice",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16345,
+            "lastModified": "2020-10-02T21:42:58Z",
+            "revision": 16551,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pygmy+Spice"
         },
         {
@@ -19918,8 +19918,8 @@
                 }
             ],
             "pagename": "Quality Cloth",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14934,
+            "lastModified": "2020-10-02T21:48:39Z",
+            "revision": 16552,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Quality+Cloth"
         },
         {
@@ -19954,7 +19954,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Queen's Pepper",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:37:04Z",
             "revision": 13492,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Queen%27s+Pepper"
         },
@@ -20031,8 +20031,8 @@
                 }
             ],
             "pagename": "Raging Lance",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 16145,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16553,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging+Lance"
         },
         {
@@ -20173,8 +20173,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Peace (Blue)",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 14262,
+            "lastModified": "2020-10-02T21:41:30Z",
+            "revision": 16554,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Peace+%28Blue%29"
         },
         {
@@ -20208,8 +20208,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Peace (Green)",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 14260,
+            "lastModified": "2020-10-02T22:36:26Z",
+            "revision": 16555,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Peace+%28Green%29"
         },
         {
@@ -20243,8 +20243,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Peace (Orange)",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14264,
+            "lastModified": "2020-10-02T22:30:33Z",
+            "revision": 16556,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Peace+%28Orange%29"
         },
         {
@@ -20278,8 +20278,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Peace (Red)",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 14267,
+            "lastModified": "2020-10-02T22:01:01Z",
+            "revision": 16557,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Peace+%28Red%29"
         },
         {
@@ -20313,8 +20313,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Rage (Blue)",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 14265,
+            "lastModified": "2020-10-02T21:51:07Z",
+            "revision": 16558,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Rage+%28Blue%29"
         },
         {
@@ -20348,8 +20348,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Rage (Green)",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 14259,
+            "lastModified": "2020-10-02T22:12:53Z",
+            "revision": 16559,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Rage+%28Green%29"
         },
         {
@@ -20383,8 +20383,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Rage (Orange)",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14263,
+            "lastModified": "2020-10-02T21:40:33Z",
+            "revision": 16560,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Rage+%28Orange%29"
         },
         {
@@ -20418,8 +20418,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Rage (Red)",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 14256,
+            "lastModified": "2020-10-02T21:48:23Z",
+            "revision": 16561,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Rage+%28Red%29"
         },
         {
@@ -20448,8 +20448,8 @@
                 }
             ],
             "pagename": "Remedy Pack",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15548,
+            "lastModified": "2020-10-02T22:28:08Z",
+            "revision": 16562,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Remedy+Pack"
         },
         {
@@ -20493,8 +20493,8 @@
                 }
             ],
             "pagename": "Resurrection Mix",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 14935,
+            "lastModified": "2020-10-02T22:36:19Z",
+            "revision": 16563,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Resurrection+Mix"
         },
         {
@@ -20573,8 +20573,8 @@
                 }
             ],
             "pagename": "Rope",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15152,
+            "lastModified": "2020-10-02T22:15:08Z",
+            "revision": 16564,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rope"
         },
         {
@@ -20658,8 +20658,8 @@
                 }
             ],
             "pagename": "Royal Armor",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16147,
+            "lastModified": "2020-10-02T22:37:12Z",
+            "revision": 16565,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Armor"
         },
         {
@@ -20820,8 +20820,8 @@
                 }
             ],
             "pagename": "Royal Boots",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 16148,
+            "lastModified": "2020-10-02T22:37:08Z",
+            "revision": 16566,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Boots"
         },
         {
@@ -20981,8 +20981,8 @@
                 }
             ],
             "pagename": "Royal Gauntlets",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15943,
+            "lastModified": "2020-10-02T22:36:44Z",
+            "revision": 16567,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Gauntlets"
         },
         {
@@ -21164,8 +21164,8 @@
                 }
             ],
             "pagename": "Royal Helmet",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16150,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16568,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Helmet"
         },
         {
@@ -21318,8 +21318,8 @@
                 }
             ],
             "pagename": "Royal Shield",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16164,
+            "lastModified": "2020-10-02T22:32:37Z",
+            "revision": 16569,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Shield"
         },
         {
@@ -21425,7 +21425,7 @@
             "recipeIncomplete": false,
             "recipe": [],
             "pagename": "Ruby",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:15:34Z",
             "revision": 15099,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ruby"
         },
@@ -21470,8 +21470,8 @@
                 }
             ],
             "pagename": "Ruby Dust",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16346,
+            "lastModified": "2020-10-02T22:01:40Z",
+            "revision": 16570,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ruby+Dust"
         },
         {
@@ -21537,7 +21537,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Sanguine Parsley",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:27:17Z",
             "revision": 15100,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sanguine+Parsley"
         },
@@ -21566,7 +21566,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Sapphire",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:04:36Z",
             "revision": 15154,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sapphire"
         },
@@ -21611,8 +21611,8 @@
                 }
             ],
             "pagename": "Sapphire Dust",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16315,
+            "lastModified": "2020-10-02T22:38:36Z",
+            "revision": 16571,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sapphire+Dust"
         },
         {
@@ -22043,8 +22043,8 @@
                 }
             ],
             "pagename": "Silver Alloy",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15155,
+            "lastModified": "2020-10-02T22:08:10Z",
+            "revision": 16572,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Alloy"
         },
         {
@@ -22132,8 +22132,8 @@
                 }
             ],
             "pagename": "Silver Arrows Pack",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15164,
+            "lastModified": "2020-10-02T22:22:51Z",
+            "revision": 16573,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Arrows+Pack"
         },
         {
@@ -22271,8 +22271,8 @@
                 }
             ],
             "pagename": "Silver Dust",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15165,
+            "lastModified": "2020-10-02T22:32:09Z",
+            "revision": 16574,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Dust"
         },
         {
@@ -22311,8 +22311,8 @@
                 }
             ],
             "pagename": "Silver Frame",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15166,
+            "lastModified": "2020-10-02T22:15:54Z",
+            "revision": 16575,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Frame"
         },
         {
@@ -22443,8 +22443,8 @@
                 }
             ],
             "pagename": "Silver Mold",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 12935,
+            "lastModified": "2020-10-02T21:59:28Z",
+            "revision": 16576,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Mold"
         },
         {
@@ -22476,7 +22476,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Silver Ore",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:34:39Z",
             "revision": 15105,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Ore"
         },
@@ -22629,8 +22629,8 @@
                 }
             ],
             "pagename": "Sinister Ranseur",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16002,
+            "lastModified": "2020-10-02T21:51:48Z",
+            "revision": 16577,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sinister+Ranseur"
         },
         {
@@ -22782,8 +22782,8 @@
                 }
             ],
             "pagename": "Skull Crusher",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15677,
+            "lastModified": "2020-10-02T21:41:28Z",
+            "revision": 16578,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Skull+Crusher"
         },
         {
@@ -22896,7 +22896,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Solvent",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:33:14Z",
             "revision": 15109,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Solvent"
         },
@@ -22933,7 +22933,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Spring Bay Leaf",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T21:40:16Z",
             "revision": 15110,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Spring+Bay+Leaf"
         },
@@ -22982,8 +22982,8 @@
                 }
             ],
             "pagename": "Steel",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15157,
+            "lastModified": "2020-10-02T21:45:07Z",
+            "revision": 16579,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel"
         },
         {
@@ -23041,8 +23041,8 @@
                 }
             ],
             "pagename": "Steel Arrows Pack",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15156,
+            "lastModified": "2020-10-02T22:00:26Z",
+            "revision": 16580,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Arrows+Pack"
         },
         {
@@ -23228,8 +23228,8 @@
                 }
             ],
             "pagename": "Steel Mold",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15112,
+            "lastModified": "2020-10-02T22:01:01Z",
+            "revision": 16581,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Mold"
         },
         {
@@ -23264,7 +23264,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Stick",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:33:41Z",
             "revision": 14673,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stick"
         },
@@ -23329,7 +23329,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Stinky Sumac",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:37:33Z",
             "revision": 15113,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stinky+Sumac"
         },
@@ -23416,8 +23416,8 @@
                 }
             ],
             "pagename": "Stoneskin Cloak",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15912,
+            "lastModified": "2020-10-02T22:39:25Z",
+            "revision": 16582,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin+Cloak"
         },
         {
@@ -23574,8 +23574,8 @@
                 }
             ],
             "pagename": "Storm Cloak",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15979,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16583,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm+Cloak"
         },
         {
@@ -23687,7 +23687,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Storm Hyssop",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T21:57:04Z",
             "revision": 15115,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm+Hyssop"
         },
@@ -23731,8 +23731,8 @@
                 }
             ],
             "pagename": "String",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15116,
+            "lastModified": "2020-10-02T22:00:23Z",
+            "revision": 16584,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=String"
         },
         {
@@ -23754,7 +23754,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Sugar",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:10:10Z",
             "revision": 15692,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sugar"
         },
@@ -23782,7 +23782,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Suklencia",
-            "lastModified": "2020-10-02T20:15:35Z",
+            "lastModified": "2020-10-02T22:32:27Z",
             "revision": 16333,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Suklencia"
         },
@@ -23819,7 +23819,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Sun Tarragon",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:38:18Z",
             "revision": 15118,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sun+Tarragon"
         },
@@ -23856,7 +23856,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Swamp Lavender",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:38:06Z",
             "revision": 15119,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Swamp+Lavender"
         },
@@ -23893,7 +23893,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Tecceagrass",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:38:54Z",
             "revision": 15120,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Tecceagrass"
         },
@@ -23937,8 +23937,8 @@
                 }
             ],
             "pagename": "Teclia Shot",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16355,
+            "lastModified": "2020-10-02T22:08:42Z",
+            "revision": 16585,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teclia+Shot"
         },
         {
@@ -23972,7 +23972,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Thread",
-            "lastModified": "2020-10-02T20:14:15Z",
+            "lastModified": "2020-10-02T22:04:04Z",
             "revision": 14675,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Thread"
         },
@@ -24088,8 +24088,8 @@
                 }
             ],
             "pagename": "Thundersoul Sword",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 16157,
+            "lastModified": "2020-10-02T22:12:05Z",
+            "revision": 16586,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Thundersoul+Sword"
         },
         {
@@ -24201,8 +24201,8 @@
                 }
             ],
             "pagename": "Torch",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15789,
+            "lastModified": "2020-10-02T22:22:03Z",
+            "revision": 16587,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Torch"
         },
         {
@@ -24281,8 +24281,8 @@
                 }
             ],
             "pagename": "Trident",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15963,
+            "lastModified": "2020-10-02T22:39:19Z",
+            "revision": 16588,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident"
         },
         {
@@ -24397,8 +24397,8 @@
                 }
             ],
             "pagename": "Ultramarine Dust",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15123,
+            "lastModified": "2020-10-02T21:59:39Z",
+            "revision": 16589,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ultramarine+Dust"
         },
         {
@@ -24465,8 +24465,8 @@
                 }
             ],
             "pagename": "Vial of Greed",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15504,
+            "lastModified": "2020-10-02T22:10:21Z",
+            "revision": 16590,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Greed"
         },
         {
@@ -24537,8 +24537,8 @@
                 }
             ],
             "pagename": "Vial of Mana",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15510,
+            "lastModified": "2020-10-02T22:37:45Z",
+            "revision": 16591,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Mana"
         },
         {
@@ -24590,8 +24590,8 @@
                 }
             ],
             "pagename": "Vial of Morph",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15513,
+            "lastModified": "2020-10-02T22:38:12Z",
+            "revision": 16592,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Morph"
         },
         {
@@ -24633,8 +24633,8 @@
                 }
             ],
             "pagename": "Vial of Nature",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15508,
+            "lastModified": "2020-10-02T22:01:01Z",
+            "revision": 16593,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Nature"
         },
         {
@@ -24672,8 +24672,8 @@
                 }
             ],
             "pagename": "Vial of Peace",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15128,
+            "lastModified": "2020-10-02T21:57:14Z",
+            "revision": 16594,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Peace"
         },
         {
@@ -24710,8 +24710,8 @@
                 }
             ],
             "pagename": "Vial of Rage",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15499,
+            "lastModified": "2020-10-02T21:58:51Z",
+            "revision": 16595,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Rage"
         },
         {
@@ -24759,8 +24759,8 @@
                 }
             ],
             "pagename": "Vial of Twilight",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15130,
+            "lastModified": "2020-10-02T21:36:36Z",
+            "revision": 16596,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Twilight"
         },
         {
@@ -25087,8 +25087,8 @@
                 }
             ],
             "pagename": "War Hammer",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 16156,
+            "lastModified": "2020-10-02T22:08:46Z",
+            "revision": 16597,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War+Hammer"
         },
         {
@@ -25331,7 +25331,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "White Blossom",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:18:44Z",
             "revision": 15132,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=White+Blossom"
         },
@@ -25372,8 +25372,8 @@
                 }
             ],
             "pagename": "Wicker Basket",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 15819,
+            "lastModified": "2020-10-02T22:23:21Z",
+            "revision": 16598,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wicker+Basket"
         },
         {
@@ -25483,8 +25483,8 @@
                 }
             ],
             "pagename": "Windstalker Bow",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 16175,
+            "lastModified": "2020-10-02T22:05:11Z",
+            "revision": 16599,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Windstalker+Bow"
         },
         {
@@ -25813,7 +25813,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Wolf Root",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T21:48:40Z",
             "revision": 15133,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wolf+Root"
         },
@@ -25872,8 +25872,8 @@
                 }
             ],
             "pagename": "Wooden Arrows Pack",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15300,
+            "lastModified": "2020-10-02T21:56:05Z",
+            "revision": 16600,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Arrows+Pack"
         },
         {
@@ -25939,8 +25939,8 @@
                 }
             ],
             "pagename": "Wooden Shaft",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15134,
+            "lastModified": "2020-10-02T22:03:27Z",
+            "revision": 16601,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wooden+Shaft"
         },
         {
@@ -26007,7 +26007,7 @@
             "depositable": false,
             "exchange": false,
             "auction": false,
-            "freeText": "It is required to [[Wrap|wrap]] items for [[Auction|auctions]]",
+            "freeText": "It is required to [[Wrap|wrap]] items for [[Auction|auctions]].",
             "quest": false,
             "enchantable": false,
             "craftable": true,
@@ -26029,8 +26029,8 @@
                 }
             ],
             "pagename": "Wrapping",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15135,
+            "lastModified": "2020-10-03T10:39:44Z",
+            "revision": 16605,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Wrapping"
         },
         {
@@ -26066,7 +26066,7 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Yellow Seed",
-            "lastModified": "2020-10-02T20:14:22Z",
+            "lastModified": "2020-10-02T22:36:08Z",
             "revision": 15136,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Yellow+Seed"
         },

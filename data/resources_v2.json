@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-03T10:57:37.812411+00:00",
+    "timestamp": "2020-10-04T22:11:10.054625+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -8342,6 +8342,7 @@
             "type": "Consumable",
             "subType": "Potion",
             "duration": 480,
+            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by [[??]]%. (Only for mem Players)",
             "weight": 1,
             "depositable": false,
             "exchange": false,
@@ -8406,8 +8407,8 @@
                 }
             ],
             "pagename": "Duality Vial",
-            "lastModified": "2020-10-02T22:27:14Z",
-            "revision": 16475,
+            "lastModified": "2020-10-04T21:49:54Z",
+            "revision": 16610,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Vial"
         },
         {
@@ -26257,6 +26258,344 @@
             "lastModified": "2020-10-02T20:15:38Z",
             "revision": 15708,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Zombie+Shield+%28Event+Gear%29"
+        },
+        {
+            "id": "p36",
+            "eventItem": false,
+            "name": "Teamwork Bottle",
+            "type": "Consumable",
+            "subType": "Potion",
+            "duration": 480,
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/brew_p36",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 7,
+            "craftMana": 300,
+            "recipe": [
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Ethereal Bone",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Void Moss",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Assagane",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Yoccuran",
+                    "qty": "2",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Teamwork Bottle",
+            "lastModified": "2020-10-04T22:03:59Z",
+            "revision": 16616,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teamwork+Bottle"
+        },
+        {
+            "id": "p35",
+            "eventItem": false,
+            "name": "Teamwork Potion",
+            "type": "Consumable",
+            "subType": "Potion",
+            "duration": 480,
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/brew_p35",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 6,
+            "craftMana": 200,
+            "recipe": [
+                {
+                    "name": "Ethereal Bone",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Suklencia",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Assagane",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Macrider",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Gonitro",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Teamwork Potion",
+            "lastModified": "2020-10-04T21:58:17Z",
+            "revision": 16614,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teamwork+Potion"
+        },
+        {
+            "id": "p34",
+            "eventItem": false,
+            "name": "Teamwork Vial",
+            "type": "Consumable",
+            "subType": "Potion",
+            "duration": 480,
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/brew_p34",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 5,
+            "craftMana": 100,
+            "recipe": [
+                {
+                    "name": "Ethereal Bone",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Void Moss",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Assagane",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Yoccuran",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Teamwork Vial",
+            "lastModified": "2020-10-04T21:56:08Z",
+            "revision": 16613,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teamwork+Vial"
+        },
+        {
+            "id": "p39",
+            "eventItem": false,
+            "name": "Duality Bottle",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "unfinished recipe",
+            "duration": 480,
+            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by [[??]]%. (Only for mem Players)",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/brew_p39",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 7,
+            "craftMana": 300,
+            "recipe": [
+                {
+                    "name": "Void Moss",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Pygmy Spice",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Duality Bottle",
+            "lastModified": "2020-10-04T21:49:53Z",
+            "revision": 16612,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Bottle"
+        },
+        {
+            "id": "p38",
+            "eventItem": false,
+            "name": "Duality Potion",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "needs error checking",
+            "duration": 480,
+            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by [[??]]%. (Only for mem Players)",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/brew_p38",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 6,
+            "craftMana": 200,
+            "recipe": [
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Gonitro",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Ripheokam",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Pygmy Spice",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Dragon Seed",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Duality Potion",
+            "lastModified": "2020-10-04T21:49:52Z",
+            "revision": 16611,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Potion"
         }
     ],
     "incomplete": [

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-04T22:11:10.054625+00:00",
+    "timestamp": "2020-10-05T00:11:09.101460+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -26596,6 +26596,446 @@
             "lastModified": "2020-10-04T21:49:52Z",
             "revision": 16611,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Potion"
+        },
+        {
+            "id": "p33",
+            "eventItem": false,
+            "name": "Crimson Stabilizer",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "needs checking",
+            "effect": "Extends effect duration of [[Crimson Murky Potion]] by 4 hours. Can stack with diminishing returns (1 hour less per stack)",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p33",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 7,
+            "craftMana": 300,
+            "recipe": [
+                {
+                    "name": "Mammoth Dill",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Ripheokam",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Teclia Shot",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Void Moss",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Crimson Stabilizer",
+            "lastModified": "2020-10-05T00:08:39Z",
+            "revision": 16651,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crimson+Stabilizer"
+        },
+        {
+            "id": "p32",
+            "eventItem": false,
+            "name": "Azure Stabilizer",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "needs checking",
+            "effect": "Extends effect duration of [[Azure Murky Potion]] by 4 hours. Can stack with diminishing returns (1 hour less per stack)",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p32",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 6,
+            "craftMana": 200,
+            "recipe": [
+                {
+                    "name": "Mammoth Dill",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Assagane",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Teclia Shot",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Azure Stabilizer",
+            "lastModified": "2020-10-05T00:02:44Z",
+            "revision": 16648,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Azure+Stabilizer"
+        },
+        {
+            "id": "p31",
+            "eventItem": false,
+            "name": "Gris Stabilizer",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "needs checking",
+            "effect": "Extends effect duration of [[Gris Murky Potion]] by 8 hours. Can stack with diminishing returns (1 hour less per stack)",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p31",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 5,
+            "craftMana": 100,
+            "recipe": [
+                {
+                    "name": "Mammoth Dill",
+                    "qty": "4",
+                    "personalized": false
+                },
+                {
+                    "name": "Assagane",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Pygmy Spice",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Gonitro",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Gris Stabilizer",
+            "lastModified": "2020-10-04T23:58:02Z",
+            "revision": 16646,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gris+Stabilizer"
+        },
+        {
+            "id": "p30",
+            "eventItem": false,
+            "name": "Clarity Bottle",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "unfinished recipe",
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p30",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 7,
+            "craftMana": 300,
+            "recipe": [
+                {
+                    "name": "Gonitro",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "4",
+                    "personalized": false
+                },
+                {
+                    "name": "Assagane",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Clarity Bottle",
+            "lastModified": "2020-10-04T23:42:17Z",
+            "revision": 16645,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bottle"
+        },
+        {
+            "id": "p29",
+            "eventItem": false,
+            "name": "Clarity Potion",
+            "type": "Consumable",
+            "subType": "Potion",
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p29",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 6,
+            "craftMana": 200,
+            "recipe": [
+                {
+                    "name": "Pygmy Spice",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Sapphire Dust",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Dragon Seed",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                }
+            ],
+            "pagename": "Clarity Potion",
+            "lastModified": "2020-10-04T23:37:02Z",
+            "revision": 16644,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Potion"
+        },
+        {
+            "id": "p28",
+            "eventItem": false,
+            "name": "Clarity Vial",
+            "type": "Consumable",
+            "subType": "Potion",
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p28",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 5,
+            "craftMana": 100,
+            "recipe": [
+                {
+                    "name": "Suklencia",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Macrider",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "0",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                }
+            ],
+            "pagename": "Clarity Vial",
+            "lastModified": "2020-10-04T23:31:58Z",
+            "revision": 16641,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Vial"
         }
     ],
     "incomplete": [

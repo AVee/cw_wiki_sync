@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-05T00:11:09.101460+00:00",
+    "timestamp": "2020-10-07T11:11:09.148967+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -1126,14 +1126,34 @@
             "depositable": false,
             "exchange": false,
             "auction": false,
-            "freeText": "The {{PAGENAME}} can only be obtained by defeating an encounter (or ambush) containing the enemy \"Forbidden Alchemist\"",
             "quest": false,
             "enchantable": false,
-            "craftable": false,
-            "recipe": [],
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p24",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 7,
+            "craftMana": 300,
+            "recipe": [
+                {
+                    "name": "Eglalica",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby Dust",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Void Moss",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
             "pagename": "Bottle of Health",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 13651,
+            "lastModified": "2020-10-07T11:05:06Z",
+            "revision": 16657,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Health"
         },
         {
@@ -19401,14 +19421,63 @@
             "depositable": false,
             "exchange": false,
             "auction": false,
-            "freeText": "The {{PAGENAME}} can only be obtained by defeating an encounter (or ambush) containing the enemy \"Forbidden Alchemist\"",
             "quest": false,
             "enchantable": false,
-            "craftable": false,
-            "recipe": [],
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p23",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 6,
+            "craftMana": 200,
+            "recipe": [
+                {
+                    "name": "Eglalica",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby Dust",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Macrider",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Teclia Shot",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
             "pagename": "Potion of Health",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 13653,
+            "lastModified": "2020-10-07T11:05:31Z",
+            "revision": 16658,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Health"
         },
         {
@@ -24483,14 +24552,58 @@
             "depositable": false,
             "exchange": false,
             "auction": false,
-            "freeText": "The {{PAGENAME}} can only be obtained by defeating an encounter (or ambush) containing the enemy \"Forbidden Alchemist\"",
             "quest": false,
             "enchantable": false,
-            "craftable": false,
-            "recipe": [],
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p22",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 5,
+            "craftMana": 100,
+            "recipe": [
+                {
+                    "name": "Suklencia",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Yoccuran",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
             "pagename": "Vial of Health",
-            "lastModified": "2020-10-02T20:14:36Z",
-            "revision": 13652,
+            "lastModified": "2020-10-07T11:01:42Z",
+            "revision": 16655,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Health"
         },
         {
@@ -27036,6 +27149,138 @@
             "lastModified": "2020-10-04T23:31:58Z",
             "revision": 16641,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Vial"
+        },
+        {
+            "id": "p26",
+            "eventItem": false,
+            "name": "Rejuvenation Potion",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "needs checking",
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/b_p26",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 6,
+            "craftMana": 200,
+            "recipe": [
+                {
+                    "name": "Sapphire Dust",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Potion of Mana",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Potion of Health",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Rejuvenation Potion",
+            "lastModified": "2020-10-07T11:10:24Z",
+            "revision": 16660,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rejuvenation+Potion"
+        },
+        {
+            "id": "p25",
+            "eventItem": false,
+            "name": "Rejuvenation Vial",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "needs checking",
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p25",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 5,
+            "craftMana": 100,
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Vial of Mana",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Vial of Health",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "2",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Rejuvenation Vial",
+            "lastModified": "2020-10-07T11:07:54Z",
+            "revision": 16659,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rejuvenation+Vial"
         }
     ],
     "incomplete": [

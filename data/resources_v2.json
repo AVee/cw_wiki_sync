@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-07T11:11:09.148967+00:00",
+    "timestamp": "2020-10-07T12:11:08.833943+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27165,7 +27165,7 @@
             "quest": false,
             "enchantable": false,
             "craftable": true,
-            "recipeIncomplete": false,
+            "recipeIncomplete": true,
             "craftCommand": "/b_p26",
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 6,
@@ -27212,8 +27212,8 @@
                 }
             ],
             "pagename": "Rejuvenation Potion",
-            "lastModified": "2020-10-07T11:10:24Z",
-            "revision": 16660,
+            "lastModified": "2020-10-07T11:11:45Z",
+            "revision": 16662,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rejuvenation+Potion"
         },
         {
@@ -27281,6 +27281,72 @@
             "lastModified": "2020-10-07T11:07:54Z",
             "revision": 16659,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rejuvenation+Vial"
+        },
+        {
+            "id": "p27",
+            "eventItem": false,
+            "name": "Rejuvenation Bottle",
+            "type": "Consumable",
+            "subType": "Potion",
+            "wikiNote": "needs checking",
+            "effect": "[[??]]",
+            "weight": 1,
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/b_p27",
+            "craftSkill": "Alchemy (Skill)",
+            "craftLevel": 7,
+            "craftMana": 300,
+            "recipe": [
+                {
+                    "name": "Sapphire Dust",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Bottle of Mana",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Bottle of Health",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Wolf Root",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                }
+            ],
+            "pagename": "Rejuvenation Bottle",
+            "lastModified": "2020-10-07T11:13:19Z",
+            "revision": 16663,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rejuvenation+Bottle"
         }
     ],
     "incomplete": [

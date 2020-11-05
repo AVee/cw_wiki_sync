@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-10-07T12:11:08.683577+00:00",
+    "timestamp": "2020-11-05T18:11:06.815430+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -15131,6 +15131,14 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantAtk2": 0,
+            "enchantAtk3": 0,
+            "enchantAtk4": 0,
+            "enchantDef1": 2,
+            "enchantDef2": 2,
+            "enchantDef3": 2,
+            "enchantDef4": 2,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a113",
@@ -15148,8 +15156,8 @@
                 "Sapphire": "3"
             },
             "pagename": "Overseer Shield",
-            "lastModified": "2020-10-02T22:19:27Z",
-            "revision": 16536,
+            "lastModified": "2020-11-05T18:10:36Z",
+            "revision": 16674,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Shield"
         },
         {

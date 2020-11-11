@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-11-05T18:11:07.044339+00:00",
+    "timestamp": "2020-11-11T09:11:05.267961+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -146,10 +146,11 @@
             "dropValleyMorning": true,
             "dropValleyDay": true,
             "dropValleyEvening": true,
+            "craftable": false,
             "recipe": [],
             "pagename": "Assagane",
-            "lastModified": "2020-10-02T22:17:18Z",
-            "revision": 16349,
+            "lastModified": "2020-11-11T08:59:09Z",
+            "revision": 16677,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Assagane"
         },
         {
@@ -15360,10 +15361,11 @@
             "dropForestNight": true,
             "dropSwampNight": true,
             "dropValleyNight": true,
+            "craftable": false,
             "recipe": [],
             "pagename": "Macrider",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 16335,
+            "lastModified": "2020-11-11T08:13:49Z",
+            "revision": 16676,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Macrider"
         },
         {

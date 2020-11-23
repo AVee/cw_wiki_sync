@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-11-23T19:11:06.178798+00:00",
+    "timestamp": "2020-11-23T20:11:06.668289+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -2040,7 +2040,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2061,8 +2061,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Armor Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15191,
+            "lastModified": "2020-11-23T20:10:34Z",
+            "revision": 16687,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor+Recipe"
         },
         {
@@ -2523,7 +2523,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2544,8 +2544,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Helmet Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14138,
+            "lastModified": "2020-11-23T20:10:04Z",
+            "revision": 16686,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet+Recipe"
         },
         {
@@ -10810,7 +10810,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10831,8 +10831,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Gloves Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14136,
+            "lastModified": "2020-11-23T20:10:51Z",
+            "revision": 16688,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Gloves+Recipe"
         },
         {
@@ -15540,7 +15540,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -15561,8 +15561,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Maiming Bulawa Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14810,
+            "lastModified": "2020-11-23T20:09:36Z",
+            "revision": 16685,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Maiming+Bulawa+Recipe"
         },
         {

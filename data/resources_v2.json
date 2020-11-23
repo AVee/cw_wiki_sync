@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-11-23T20:11:06.668289+00:00",
+    "timestamp": "2020-11-23T21:11:26.527679+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -573,7 +573,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -594,8 +594,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Black Morningstar Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14125,
+            "lastModified": "2020-11-23T20:13:03Z",
+            "revision": 16693,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar+Part"
         },
         {
@@ -816,7 +816,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -837,8 +837,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Blessed Cloak Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15877,
+            "lastModified": "2020-11-23T20:15:53Z",
+            "revision": 16701,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blessed+Cloak+Part"
         },
         {
@@ -2003,7 +2003,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2024,8 +2024,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Armor Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14990,
+            "lastModified": "2020-11-23T20:13:39Z",
+            "revision": 16695,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor+Part"
         },
         {
@@ -2486,7 +2486,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2507,8 +2507,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Helmet Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14898,
+            "lastModified": "2020-11-23T20:13:19Z",
+            "revision": 16694,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet+Part"
         },
         {
@@ -2588,7 +2588,7 @@
             "freeText": "It was introduced with the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2609,8 +2609,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Champion Blade",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 14651,
+            "lastModified": "2020-11-23T20:32:42Z",
+            "revision": 16758,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Champion+Blade"
         },
         {
@@ -2939,7 +2939,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2960,8 +2960,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Bracers Part",
-            "lastModified": "2020-10-02T20:22:58Z",
-            "revision": 16407,
+            "lastModified": "2020-11-23T20:26:36Z",
+            "revision": 16739,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Bracers+Part"
         },
         {
@@ -3101,7 +3101,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -3122,8 +3122,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Circlet Fragment",
-            "lastModified": "2020-10-02T20:23:38Z",
-            "revision": 16408,
+            "lastModified": "2020-11-23T20:27:18Z",
+            "revision": 16741,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Circlet+Fragment"
         },
         {
@@ -3259,7 +3259,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -3280,8 +3280,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Robe Piece",
-            "lastModified": "2020-10-02T20:24:07Z",
-            "revision": 16409,
+            "lastModified": "2020-11-23T20:28:31Z",
+            "revision": 16742,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Robe+Piece"
         },
         {
@@ -3419,7 +3419,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -3440,8 +3440,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Clarity Shoes Part",
-            "lastModified": "2020-10-02T20:24:35Z",
-            "revision": 16410,
+            "lastModified": "2020-11-23T20:26:52Z",
+            "revision": 16740,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Clarity+Shoes+Part"
         },
         {
@@ -3850,7 +3850,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -3871,8 +3871,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Composite Bow Shaft",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15896,
+            "lastModified": "2020-11-23T20:25:11Z",
+            "revision": 16735,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Composite+Bow+Shaft"
         },
         {
@@ -4128,7 +4128,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4149,8 +4149,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Armor Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14109,
+            "lastModified": "2020-11-23T20:15:21Z",
+            "revision": 16700,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Armor+Part"
         },
         {
@@ -4165,7 +4165,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4186,8 +4186,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Armor Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14128,
+            "lastModified": "2020-11-23T20:12:37Z",
+            "revision": 16692,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Armor+Recipe"
         },
         {
@@ -4279,7 +4279,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4300,8 +4300,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Boots Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14111,
+            "lastModified": "2020-11-23T20:14:42Z",
+            "revision": 16698,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots+Part"
         },
         {
@@ -4316,7 +4316,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4337,8 +4337,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Boots Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15007,
+            "lastModified": "2020-11-23T20:11:58Z",
+            "revision": 16690,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots+Recipe"
         },
         {
@@ -4602,7 +4602,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4623,8 +4623,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Helmet Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15902,
+            "lastModified": "2020-11-23T20:15:06Z",
+            "revision": 16699,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet+Part"
         },
         {
@@ -4639,7 +4639,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4660,8 +4660,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Helmet Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15903,
+            "lastModified": "2020-11-23T20:12:12Z",
+            "revision": 16691,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet+Recipe"
         },
         {
@@ -4977,7 +4977,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": true,
             "dropForestEvening": false,
@@ -4998,8 +4998,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Craftsman Apron Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 15907,
+            "lastModified": "2020-11-23T20:30:03Z",
+            "revision": 16748,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman+Apron+Part"
         },
         {
@@ -5128,7 +5128,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5149,8 +5149,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Crusader Armor Piece",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 14922,
+            "lastModified": "2020-11-23T20:23:42Z",
+            "revision": 16729,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Armor+Piece"
         },
         {
@@ -5288,7 +5288,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5309,8 +5309,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Crusader Boots Part",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15009,
+            "lastModified": "2020-11-23T20:23:15Z",
+            "revision": 16727,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Boots+Part"
         },
         {
@@ -5449,7 +5449,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5470,8 +5470,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Crusader Gauntlets Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15010,
+            "lastModified": "2020-11-23T20:23:03Z",
+            "revision": 16726,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Gauntlets+Part"
         },
         {
@@ -5603,7 +5603,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5624,8 +5624,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Crusader Helmet Fragment",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15011,
+            "lastModified": "2020-11-23T20:23:26Z",
+            "revision": 16728,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Helmet+Fragment"
         },
         {
@@ -5757,7 +5757,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -5778,8 +5778,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Crusader Shield Part",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15012,
+            "lastModified": "2020-11-23T20:22:50Z",
+            "revision": 16725,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Shield+Part"
         },
         {
@@ -6085,7 +6085,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -6106,8 +6106,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Demon Bracers Part",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15015,
+            "lastModified": "2020-11-23T20:18:32Z",
+            "revision": 16708,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers+Part"
         },
         {
@@ -6264,7 +6264,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -6285,8 +6285,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Demon Circlet Fragment",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15016,
+            "lastModified": "2020-11-23T20:19:06Z",
+            "revision": 16710,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet+Fragment"
         },
         {
@@ -6442,7 +6442,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -6463,8 +6463,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Demon Robe Piece",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15017,
+            "lastModified": "2020-11-23T20:19:20Z",
+            "revision": 16711,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Robe+Piece"
         },
         {
@@ -6629,7 +6629,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -6650,8 +6650,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Demon Shoes Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15018,
+            "lastModified": "2020-11-23T20:18:50Z",
+            "revision": 16709,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes+Part"
         },
         {
@@ -7327,7 +7327,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7348,8 +7348,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Divine Bracers Part",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15020,
+            "lastModified": "2020-11-23T20:17:16Z",
+            "revision": 16704,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Bracers+Part"
         },
         {
@@ -7485,7 +7485,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7506,8 +7506,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Divine Circlet Fragment",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15021,
+            "lastModified": "2020-11-23T20:17:53Z",
+            "revision": 16706,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Circlet+Fragment"
         },
         {
@@ -7651,7 +7651,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7672,8 +7672,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Divine Robe Piece",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15022,
+            "lastModified": "2020-11-23T20:18:15Z",
+            "revision": 16707,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Robe+Piece"
         },
         {
@@ -7816,7 +7816,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7837,8 +7837,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Divine Shoes Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15023,
+            "lastModified": "2020-11-23T20:17:35Z",
+            "revision": 16705,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Shoes+Part"
         },
         {
@@ -8256,7 +8256,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -8277,8 +8277,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Dragon Mace Head",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15025,
+            "lastModified": "2020-11-23T20:24:28Z",
+            "revision": 16732,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Dragon+Mace+Head"
         },
         {
@@ -8529,7 +8529,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -8550,8 +8550,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Durable Cloak Part",
-            "lastModified": "2020-10-02T20:25:24Z",
-            "revision": 16411,
+            "lastModified": "2020-11-23T20:16:11Z",
+            "revision": 16702,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable+Cloak+Part"
         },
         {
@@ -8683,7 +8683,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -8704,8 +8704,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Eclipse Blade",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15028,
+            "lastModified": "2020-11-23T20:25:57Z",
+            "revision": 16737,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eclipse+Blade"
         },
         {
@@ -9364,7 +9364,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -9385,8 +9385,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Ghost Armor Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15034,
+            "lastModified": "2020-11-23T20:21:31Z",
+            "revision": 16719,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Armor+Part"
         },
         {
@@ -9441,7 +9441,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -9462,8 +9462,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Ghost Blade",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15035,
+            "lastModified": "2020-11-23T20:24:09Z",
+            "revision": 16731,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Blade"
         },
         {
@@ -9565,7 +9565,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -9586,8 +9586,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Ghost Boots Part",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15036,
+            "lastModified": "2020-11-23T20:21:06Z",
+            "revision": 16717,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Boots+Part"
         },
         {
@@ -9852,7 +9852,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -9873,8 +9873,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Ghost Gloves Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15037,
+            "lastModified": "2020-11-23T20:20:53Z",
+            "revision": 16716,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Gloves+Part"
         },
         {
@@ -10007,7 +10007,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10028,8 +10028,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Ghost Helmet Fragment",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15038,
+            "lastModified": "2020-11-23T20:21:18Z",
+            "revision": 16718,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ghost+Helmet+Fragment"
         },
         {
@@ -10656,7 +10656,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10677,8 +10677,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Boots Recipe",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14135,
+            "lastModified": "2020-11-23T20:11:10Z",
+            "revision": 16689,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Boots+Recipe"
         },
         {
@@ -10773,7 +10773,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10794,8 +10794,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Gloves Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14115,
+            "lastModified": "2020-11-23T20:13:58Z",
+            "revision": 16696,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Gloves+Part"
         },
         {
@@ -10936,7 +10936,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10957,8 +10957,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Helmet Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14113,
+            "lastModified": "2020-11-23T20:14:15Z",
+            "revision": 16697,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Helmet+Part"
         },
         {
@@ -11630,7 +11630,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -11651,8 +11651,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hailstorm Bow Shaft",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15039,
+            "lastModified": "2020-11-23T20:24:59Z",
+            "revision": 16734,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hailstorm+Bow+Shaft"
         },
         {
@@ -12344,7 +12344,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -12365,8 +12365,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Armor Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15042,
+            "lastModified": "2020-11-23T20:29:30Z",
+            "revision": 16746,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Armor+Part"
         },
         {
@@ -12421,7 +12421,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -12442,8 +12442,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Blade",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15044,
+            "lastModified": "2020-11-23T20:31:43Z",
+            "revision": 16754,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Blade"
         },
         {
@@ -12540,7 +12540,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -12561,8 +12561,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Boots Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15045,
+            "lastModified": "2020-11-23T20:29:02Z",
+            "revision": 16744,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Boots+Part"
         },
         {
@@ -12919,7 +12919,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -12940,8 +12940,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Gloves Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15047,
+            "lastModified": "2020-11-23T20:28:46Z",
+            "revision": 16743,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Gloves+Part"
         },
         {
@@ -13074,7 +13074,7 @@
             "freeText": "It was introduced with the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -13095,8 +13095,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Helmet Fragment",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 14661,
+            "lastModified": "2020-11-23T20:29:16Z",
+            "revision": 16745,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Helmet+Fragment"
         },
         {
@@ -13149,7 +13149,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -13170,8 +13170,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Shaft",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15588,
+            "lastModified": "2020-11-23T20:32:07Z",
+            "revision": 16756,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Shaft"
         },
         {
@@ -13465,7 +13465,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -13486,8 +13486,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Imperial Axe Head",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15050,
+            "lastModified": "2020-11-23T20:24:42Z",
+            "revision": 16733,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial+Axe+Head"
         },
         {
@@ -14465,7 +14465,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -14486,8 +14486,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Armor Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15058,
+            "lastModified": "2020-11-23T20:20:41Z",
+            "revision": 16715,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor+Part"
         },
         {
@@ -14541,7 +14541,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -14562,8 +14562,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Blade",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15059,
+            "lastModified": "2020-11-23T20:23:57Z",
+            "revision": 16730,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Blade"
         },
         {
@@ -14665,7 +14665,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -14686,8 +14686,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Boots Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15060,
+            "lastModified": "2020-11-23T20:19:51Z",
+            "revision": 16713,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Boots+Part"
         },
         {
@@ -14827,7 +14827,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -14848,8 +14848,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Gloves Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15061,
+            "lastModified": "2020-11-23T20:19:37Z",
+            "revision": 16712,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Gloves+Part"
         },
         {
@@ -14981,7 +14981,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -15002,8 +15002,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Helmet Fragment",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15062,
+            "lastModified": "2020-11-23T20:20:07Z",
+            "revision": 16714,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Helmet+Fragment"
         },
         {
@@ -17532,7 +17532,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -17553,8 +17553,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Armor Piece",
-            "lastModified": "2020-10-02T20:26:33Z",
-            "revision": 16432,
+            "lastModified": "2020-11-23T20:31:28Z",
+            "revision": 16753,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Armor+Piece"
         },
         {
@@ -17688,7 +17688,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -17709,8 +17709,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Boots Part",
-            "lastModified": "2020-10-02T20:26:58Z",
-            "revision": 16438,
+            "lastModified": "2020-11-23T20:30:49Z",
+            "revision": 16751,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Boots+Part"
         },
         {
@@ -17845,7 +17845,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -17866,8 +17866,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Gauntlets Part",
-            "lastModified": "2020-10-02T20:27:29Z",
-            "revision": 16443,
+            "lastModified": "2020-11-23T20:30:35Z",
+            "revision": 16750,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Gauntlets+Part"
         },
         {
@@ -17995,7 +17995,7 @@
             "freeText": "It was introduced with the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -18016,8 +18016,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Helmet Fragment",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 14666,
+            "lastModified": "2020-11-23T20:31:11Z",
+            "revision": 16752,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Helmet+Fragment"
         },
         {
@@ -18138,7 +18138,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -18159,8 +18159,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Shield Part",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15077,
+            "lastModified": "2020-11-23T20:30:22Z",
+            "revision": 16749,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Shield+Part"
         },
         {
@@ -20129,7 +20129,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -20150,8 +20150,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Raging Lance Blade",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15092,
+            "lastModified": "2020-11-23T20:25:24Z",
+            "revision": 16736,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Raging+Lance+Blade"
         },
         {
@@ -20756,7 +20756,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -20777,8 +20777,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Royal Armor Piece",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15094,
+            "lastModified": "2020-11-23T20:22:34Z",
+            "revision": 16724,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Armor+Piece"
         },
         {
@@ -20918,7 +20918,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -20939,8 +20939,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Royal Boots Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15095,
+            "lastModified": "2020-11-23T20:22:10Z",
+            "revision": 16722,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Boots+Part"
         },
         {
@@ -21079,7 +21079,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -21100,8 +21100,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Royal Gauntlets Part",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15096,
+            "lastModified": "2020-11-23T20:21:57Z",
+            "revision": 16721,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Gauntlets+Part"
         },
         {
@@ -21262,7 +21262,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -21283,8 +21283,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Royal Helmet Fragment",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15097,
+            "lastModified": "2020-11-23T20:22:22Z",
+            "revision": 16723,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Helmet+Fragment"
         },
         {
@@ -21416,7 +21416,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -21437,8 +21437,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Royal Shield Part",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15098,
+            "lastModified": "2020-11-23T20:21:45Z",
+            "revision": 16720,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Royal+Shield+Part"
         },
         {
@@ -23512,7 +23512,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -23533,8 +23533,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Stoneskin Cloak Part",
-            "lastModified": "2020-10-02T20:14:48Z",
-            "revision": 14074,
+            "lastModified": "2020-11-23T20:29:46Z",
+            "revision": 16747,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin+Cloak+Part"
         },
         {
@@ -23672,7 +23672,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -23693,8 +23693,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Storm Cloak Part",
-            "lastModified": "2020-10-02T20:17:47Z",
-            "revision": 16406,
+            "lastModified": "2020-11-23T20:16:57Z",
+            "revision": 16703,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Storm+Cloak+Part"
         },
         {
@@ -24070,7 +24070,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -24091,8 +24091,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Thundersoul Blade",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 15121,
+            "lastModified": "2020-11-23T20:26:09Z",
+            "revision": 16738,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Thundersoul+Blade"
         },
         {
@@ -24379,7 +24379,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -24400,8 +24400,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Trident Blade",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15122,
+            "lastModified": "2020-11-23T20:32:28Z",
+            "revision": 16757,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Trident+Blade"
         },
         {
@@ -25229,7 +25229,7 @@
             "freeText": "It was introduced in the [[Advanced Crafting]] update.",
             "quest": true,
             "questMinLevel": 22,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 1,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -25250,8 +25250,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "War Hammer Head",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15131,
+            "lastModified": "2020-11-23T20:31:55Z",
+            "revision": 16755,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=War+Hammer+Head"
         },
         {

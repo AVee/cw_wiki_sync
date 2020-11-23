@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-11-11T09:11:05.267961+00:00",
+    "timestamp": "2020-11-23T19:11:06.178798+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -11174,7 +11174,7 @@
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 2,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -11195,8 +11195,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Guard's Blade",
-            "lastModified": "2020-10-02T20:14:29Z",
-            "revision": 13901,
+            "lastModified": "2020-11-23T18:27:15Z",
+            "revision": 16684,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard%27s+Blade"
         },
         {

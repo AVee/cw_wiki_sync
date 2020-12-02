@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-11-28T00:11:09.680601+00:00",
+    "timestamp": "2020-12-02T14:11:06.122311+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27255,7 +27255,8 @@
             "type": "Consumable",
             "subType": "Potion",
             "wikiNote": "needs checking",
-            "effect": "[[??]]",
+            "duration": 30,
+            "effect": "Increases [[Character#Health|health]] regeneration by [[??]] per minute. Increases [[Mana]] regeneration by [[??]] per minute.",
             "weight": 1,
             "depositable": false,
             "exchange": false,
@@ -27310,8 +27311,8 @@
                 }
             ],
             "pagename": "Rejuvenation Vial",
-            "lastModified": "2020-10-07T11:07:54Z",
-            "revision": 16659,
+            "lastModified": "2020-12-02T14:07:35Z",
+            "revision": 16772,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rejuvenation+Vial"
         },
         {

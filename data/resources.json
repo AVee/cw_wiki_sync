@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-12-02T17:11:10.851825+00:00",
+    "timestamp": "2020-12-08T04:11:10.071811+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -16450,7 +16450,7 @@
             "name": "Remedy Pack",
             "type": "Misc",
             "weight": 3,
-            "freeText": "It is a container-item, that yields 5 [[Bottle of Remedy]] when opening.",
+            "freeText": "It is a container-item, that yields 5 [[Bottle of Remedy]] when opened.",
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/brew_507",
@@ -16462,8 +16462,8 @@
                 "Tecceagrass": "1"
             },
             "pagename": "Remedy Pack",
-            "lastModified": "2020-10-02T22:28:08Z",
-            "revision": 16562,
+            "lastModified": "2020-12-08T03:54:24Z",
+            "revision": 16801,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Remedy+Pack"
         },
         {

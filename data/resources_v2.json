@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-12-08T05:11:05.019900+00:00",
+    "timestamp": "2020-12-08T06:11:07.186051+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -1454,10 +1454,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
+            "wikiFreeText": "When used in battle, it increases [[Character#Stats|base stats]] of comrades by 5%",
             "recipe": [],
             "pagename": "Bottle of Remedy",
-            "lastModified": "2020-12-08T04:50:34Z",
-            "revision": 16802,
+            "lastModified": "2020-12-08T05:23:25Z",
+            "revision": 16803,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Remedy"
         },
         {

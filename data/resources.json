@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-12-08T04:11:10.071811+00:00",
+    "timestamp": "2020-12-08T05:11:04.878329+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -1134,14 +1134,14 @@
             "depositable": false,
             "exchange": true,
             "auction": false,
-            "freeText": "To create the {{PAGENAME}} alchemists can craft and use a [[Remedy Pack]] to receive 5 bottles.",
+            "freeText": "It can be equipped as an off-hand weapon. [[{{PAGENAME}}]] can only be effectively used by alchemists. A [[Remedy Pack]] is used to obtain 5 bottles.",
             "quest": false,
             "enchantable": false,
             "craftable": false,
             "recipe": [],
             "pagename": "Bottle of Remedy",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15587,
+            "lastModified": "2020-12-08T04:50:34Z",
+            "revision": 16802,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Remedy"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-12-08T06:11:07.186051+00:00",
+    "timestamp": "2020-12-13T01:11:12.579491+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -573,7 +573,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -594,8 +594,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Black Morningstar Part",
-            "lastModified": "2020-11-23T20:13:03Z",
-            "revision": 16693,
+            "lastModified": "2020-12-13T00:30:13Z",
+            "revision": 16816,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar+Part"
         },
         {
@@ -1997,6 +1997,7 @@
             "eventItem": false,
             "name": "Celestial Armor part",
             "type": "Piece of Equipment",
+            "wikiNote": "check perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -2025,8 +2026,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Armor Part",
-            "lastModified": "2020-11-23T20:13:39Z",
-            "revision": 16695,
+            "lastModified": "2020-12-13T00:32:08Z",
+            "revision": 16818,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor+Part"
         },
         {
@@ -2041,7 +2042,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2062,8 +2063,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Armor Recipe",
-            "lastModified": "2020-11-23T20:10:34Z",
-            "revision": 16687,
+            "lastModified": "2020-12-13T00:24:13Z",
+            "revision": 16813,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor+Recipe"
         },
         {
@@ -2487,7 +2488,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2508,8 +2509,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Helmet Part",
-            "lastModified": "2020-11-23T20:13:19Z",
-            "revision": 16694,
+            "lastModified": "2020-12-13T00:30:42Z",
+            "revision": 16817,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet+Part"
         },
         {
@@ -2581,6 +2582,7 @@
             "eventItem": false,
             "name": "Champion blade",
             "type": "Piece of Equipment",
+            "wikiNote": "check perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -2610,8 +2612,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Champion Blade",
-            "lastModified": "2020-11-23T20:32:42Z",
-            "revision": 16758,
+            "lastModified": "2020-12-13T01:08:07Z",
+            "revision": 16841,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Champion+Blade"
         },
         {
@@ -4140,7 +4142,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4161,8 +4163,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Armor Part",
-            "lastModified": "2020-11-23T20:15:21Z",
-            "revision": 16700,
+            "lastModified": "2020-12-13T00:40:58Z",
+            "revision": 16821,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Armor+Part"
         },
         {
@@ -4284,6 +4286,7 @@
             "eventItem": false,
             "name": "Council Boots part",
             "type": "Piece of Equipment",
+            "wikiNote": "check perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -4312,8 +4315,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Boots Part",
-            "lastModified": "2020-11-23T20:14:42Z",
-            "revision": 16698,
+            "lastModified": "2020-12-13T00:34:14Z",
+            "revision": 16819,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Boots+Part"
         },
         {
@@ -4607,6 +4610,7 @@
             "eventItem": false,
             "name": "Council Helmet part",
             "type": "Piece of Equipment",
+            "wikiNote": "check perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 45,
             "depositable": true,
@@ -4635,8 +4639,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Helmet Part",
-            "lastModified": "2020-11-23T20:15:06Z",
-            "revision": 16699,
+            "lastModified": "2020-12-13T00:40:41Z",
+            "revision": 16820,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Helmet+Part"
         },
         {
@@ -4989,7 +4993,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": true,
             "dropForestEvening": false,
@@ -5010,8 +5014,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Craftsman Apron Part",
-            "lastModified": "2020-11-23T20:30:03Z",
-            "revision": 16748,
+            "lastModified": "2020-12-13T01:04:55Z",
+            "revision": 16838,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman+Apron+Part"
         },
         {
@@ -5452,7 +5456,7 @@
             "eventItem": false,
             "name": "Crusader Gauntlets part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -5482,8 +5486,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Crusader Gauntlets Part",
-            "lastModified": "2020-11-23T20:23:03Z",
-            "revision": 16726,
+            "lastModified": "2020-12-13T00:58:12Z",
+            "revision": 16832,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crusader+Gauntlets+Part"
         },
         {
@@ -6088,7 +6092,7 @@
             "eventItem": false,
             "name": "Demon Bracers part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -6118,8 +6122,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Demon Bracers Part",
-            "lastModified": "2020-11-23T20:18:32Z",
-            "revision": 16708,
+            "lastModified": "2020-12-13T00:52:07Z",
+            "revision": 16825,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers+Part"
         },
         {
@@ -6267,7 +6271,7 @@
             "eventItem": false,
             "name": "Demon Circlet fragment",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -6297,8 +6301,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Demon Circlet Fragment",
-            "lastModified": "2020-11-23T20:19:06Z",
-            "revision": 16710,
+            "lastModified": "2020-12-13T00:52:44Z",
+            "revision": 16826,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet+Fragment"
         },
         {
@@ -6445,7 +6449,7 @@
             "eventItem": false,
             "name": "Demon Robe piece",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -6475,8 +6479,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Demon Robe Piece",
-            "lastModified": "2020-11-23T20:19:20Z",
-            "revision": 16711,
+            "lastModified": "2020-12-13T00:53:24Z",
+            "revision": 16827,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Robe+Piece"
         },
         {
@@ -7330,7 +7334,7 @@
             "eventItem": false,
             "name": "Divine Bracers part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -7360,8 +7364,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Divine Bracers Part",
-            "lastModified": "2020-11-23T20:17:16Z",
-            "revision": 16704,
+            "lastModified": "2020-12-13T00:48:25Z",
+            "revision": 16824,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Bracers+Part"
         },
         {
@@ -7497,7 +7501,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 3,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7518,8 +7522,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Divine Circlet Fragment",
-            "lastModified": "2020-11-23T20:17:53Z",
-            "revision": 16706,
+            "lastModified": "2020-12-13T00:51:17Z",
+            "revision": 16823,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Circlet+Fragment"
         },
         {
@@ -8532,7 +8536,7 @@
             "eventItem": false,
             "name": "Durable Cloak part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -8562,8 +8566,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Durable Cloak Part",
-            "lastModified": "2020-11-23T20:16:11Z",
-            "revision": 16702,
+            "lastModified": "2020-12-13T00:42:16Z",
+            "revision": 16822,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Durable+Cloak+Part"
         },
         {
@@ -10679,7 +10683,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10700,8 +10704,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Boots Recipe",
-            "lastModified": "2020-11-23T20:11:10Z",
-            "revision": 16689,
+            "lastModified": "2020-12-13T00:29:00Z",
+            "revision": 16815,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Boots+Recipe"
         },
         {
@@ -10796,7 +10800,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10817,8 +10821,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Gloves Part",
-            "lastModified": "2020-11-23T20:13:58Z",
-            "revision": 16696,
+            "lastModified": "2020-12-13T00:28:34Z",
+            "revision": 16814,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Gloves+Part"
         },
         {
@@ -10959,7 +10963,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10980,8 +10984,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Helmet Part",
-            "lastModified": "2020-11-23T20:14:15Z",
-            "revision": 16697,
+            "lastModified": "2020-12-13T00:32:50Z",
+            "revision": 16811,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Helmet+Part"
         },
         {
@@ -11197,7 +11201,7 @@
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 2,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -11218,8 +11222,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Guard's Blade",
-            "lastModified": "2020-11-23T18:27:15Z",
-            "revision": 16684,
+            "lastModified": "2020-12-13T00:22:34Z",
+            "revision": 16812,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard%27s+Blade"
         },
         {
@@ -12435,7 +12439,7 @@
             "eventItem": false,
             "name": "Hunter blade",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -12465,8 +12469,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Blade",
-            "lastModified": "2020-11-23T20:31:43Z",
-            "revision": 16754,
+            "lastModified": "2020-12-13T01:07:25Z",
+            "revision": 16840,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Blade"
         },
         {
@@ -12554,7 +12558,7 @@
             "eventItem": false,
             "name": "Hunter Boots part",
             "type": "Piece of Equipment",
-            "wikiNote": "check for errors",
+            "wikiNote": "check perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -12584,8 +12588,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Boots Part",
-            "lastModified": "2020-11-23T20:29:02Z",
-            "revision": 16744,
+            "lastModified": "2020-12-13T01:03:16Z",
+            "revision": 16835,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Boots+Part"
         },
         {
@@ -13089,6 +13093,7 @@
             "eventItem": false,
             "name": "Hunter Helmet fragment",
             "type": "Piece of Equipment",
+            "wikiNote": "check perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -13118,8 +13123,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hunter Helmet Fragment",
-            "lastModified": "2020-11-23T20:29:16Z",
-            "revision": 16745,
+            "lastModified": "2020-12-13T01:03:54Z",
+            "revision": 16836,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hunter+Helmet+Fragment"
         },
         {
@@ -13479,7 +13484,7 @@
             "eventItem": false,
             "name": "Imperial Axe head",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -13509,8 +13514,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Imperial Axe Head",
-            "lastModified": "2020-11-23T20:24:42Z",
-            "revision": 16733,
+            "lastModified": "2020-12-13T00:59:52Z",
+            "revision": 16834,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Imperial+Axe+Head"
         },
         {
@@ -14479,7 +14484,7 @@
             "eventItem": false,
             "name": "Lion Armor part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over 2 years ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -14509,8 +14514,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Armor Part",
-            "lastModified": "2020-11-23T20:20:41Z",
-            "revision": 16715,
+            "lastModified": "2020-12-13T00:56:56Z",
+            "revision": 16831,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Armor+Part"
         },
         {
@@ -14555,7 +14560,7 @@
             "eventItem": false,
             "name": "Lion blade",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -14585,8 +14590,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Blade",
-            "lastModified": "2020-11-23T20:23:57Z",
-            "revision": 16730,
+            "lastModified": "2020-12-13T00:59:03Z",
+            "revision": 16833,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Blade"
         },
         {
@@ -14679,7 +14684,7 @@
             "eventItem": false,
             "name": "Lion Boots part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -14709,8 +14714,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Boots Part",
-            "lastModified": "2020-11-23T20:19:51Z",
-            "revision": 16713,
+            "lastModified": "2020-12-13T00:55:18Z",
+            "revision": 16829,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Boots+Part"
         },
         {
@@ -14841,7 +14846,7 @@
             "eventItem": false,
             "name": "Lion Gloves part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified. ToDo: Fill out all these properties.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -14871,8 +14876,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Gloves Part",
-            "lastModified": "2020-11-23T20:19:37Z",
-            "revision": 16712,
+            "lastModified": "2020-12-13T00:54:16Z",
+            "revision": 16828,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Gloves+Part"
         },
         {
@@ -14995,7 +15000,7 @@
             "eventItem": false,
             "name": "Lion Helmet fragment",
             "type": "Piece of Equipment",
-            "wikiNote": "ToDo: Fill out all these properties",
+            "wikiNote": "ToDo: Fill out all these properties. check perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over almost 2 years ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 35,
             "depositable": true,
@@ -15025,8 +15030,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lion Helmet Fragment",
-            "lastModified": "2020-11-23T20:20:07Z",
-            "revision": 16714,
+            "lastModified": "2020-12-13T00:55:58Z",
+            "revision": 16830,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lion+Helmet+Fragment"
         },
         {
@@ -17702,7 +17707,7 @@
             "eventItem": false,
             "name": "Order Boots part",
             "type": "Piece of Equipment",
-            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.",
+            "wikiNote": "Missing drop info before conversion just 'Swamp' was specified.\ncheck perception level - I think it can be found by anyone, but my latest drop of it (with perception 0) was over a year ago, drops could have changed since then",
             "weight": 10,
             "levelRequirement": 25,
             "depositable": true,
@@ -17732,8 +17737,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Order Boots Part",
-            "lastModified": "2020-11-23T20:30:49Z",
-            "revision": 16751,
+            "lastModified": "2020-12-13T01:06:33Z",
+            "revision": 16839,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Order+Boots+Part"
         },
         {
@@ -23535,7 +23540,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 4,
+            "questPerceptionLevel": 0,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -23556,8 +23561,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Stoneskin Cloak Part",
-            "lastModified": "2020-11-23T20:29:46Z",
-            "revision": 16747,
+            "lastModified": "2020-12-13T01:04:30Z",
+            "revision": 16837,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin+Cloak+Part"
         },
         {

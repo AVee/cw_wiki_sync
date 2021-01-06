@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-12-13T01:11:12.462405+00:00",
+    "timestamp": "2021-01-06T03:11:05.004741+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -15083,11 +15083,12 @@
                 "String": "21",
                 "Crafted Leather": "6",
                 "Quality Cloth": "1",
-                "Sapphire": "9"
+                "Sapphire": "9",
+                "Ruby": "1"
             },
             "pagename": "Overseer Helmet",
-            "lastModified": "2020-10-02T22:11:13Z",
-            "revision": 16535,
+            "lastModified": "2021-01-06T02:12:22Z",
+            "revision": 16853,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Helmet"
         },
         {

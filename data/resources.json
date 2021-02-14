@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-02-13T23:11:09.056379+00:00",
+    "timestamp": "2021-02-14T00:11:08.869593+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -22179,6 +22179,36 @@
             "lastModified": "2021-02-13T22:55:46Z",
             "revision": 16934,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cupid%27s+Essence"
+        },
+        {
+            "id": "bvc",
+            "eventItem": true,
+            "eventPage": "Valentine's Day 2020/2021",
+            "name": "💌Blank Valentine Card",
+            "type": "Misc",
+            "depositable": false,
+            "exchange": false,
+            "auction": false,
+            "freeText": "It can be used with <code>/use_bvc {user_id} {message}</code> to send a Valentine's message to a user with the given telegram id.",
+            "quest": false,
+            "enchantable": false,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_bvc",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 0,
+            "craftMana": 80,
+            "recipe": {
+                "Charcoal": "30",
+                "Cord": "1",
+                "Sapphire": "1",
+                "Ruby": "1",
+                "Cupid's Essence": "1"
+            },
+            "pagename": "Blank Valentine Card",
+            "lastModified": "2021-02-13T23:25:36Z",
+            "revision": 16936,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blank+Valentine+Card"
         }
     ],
     "incomplete": [

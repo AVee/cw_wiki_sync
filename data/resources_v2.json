@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-02-26T20:11:06.349149+00:00",
+    "timestamp": "2021-03-06T11:11:05.347364+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -19963,6 +19963,7 @@
             "name": "Pygmy spice",
             "type": "Resource",
             "subType": "Alchemy Resource",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -19997,8 +19998,8 @@
                 }
             ],
             "pagename": "Pygmy Spice",
-            "lastModified": "2020-10-02T21:42:58Z",
-            "revision": 16551,
+            "lastModified": "2021-03-06T10:41:27Z",
+            "revision": 16959,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Pygmy+Spice"
         },
         {
@@ -24061,6 +24062,7 @@
             "name": "Teclia shot",
             "type": "Resource",
             "subType": "Alchemy Resource",
+            "weight": 1,
             "depositable": true,
             "exchange": true,
             "auction": false,
@@ -24095,8 +24097,8 @@
                 }
             ],
             "pagename": "Teclia Shot",
-            "lastModified": "2020-10-02T22:08:42Z",
-            "revision": 16585,
+            "lastModified": "2021-03-06T10:39:42Z",
+            "revision": 16958,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teclia+Shot"
         },
         {

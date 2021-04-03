@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-03-06T11:11:05.347364+00:00",
+    "timestamp": "2021-04-03T16:11:09.761010+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27635,6 +27635,112 @@
             "lastModified": "2021-02-13T23:25:36Z",
             "revision": 16936,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blank+Valentine+Card"
+        },
+        {
+            "id": "a117",
+            "eventItem": false,
+            "name": "Onslaught Cape",
+            "type": "Cape",
+            "attack": 11,
+            "defense": 4,
+            "mana": 0,
+            "wrapping": 1,
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a117",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
+            "wikiFreeText": "Modifiers:\n  Light Armor Mastery↑ 0.50\n    ╰ Per enchant",
+            "recipe": [
+                {
+                    "name": "Metallic Fiber",
+                    "qty": "13",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Coke",
+                    "qty": "48",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "12",
+                    "personalized": false
+                },
+                {
+                    "name": "Sapphire",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Mold",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Onslaught Cape recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Onslaught Cape part",
+                    "qty": "4",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Onslaught Cape",
+            "lastModified": "2021-04-03T15:59:17Z",
+            "revision": 16970,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape"
+        },
+        {
+            "id": "r125",
+            "eventItem": false,
+            "name": "Onslaught Cape recipe",
+            "type": "Recipe (Item)",
+            "wikiNote": "Drop info missing",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Onslaught Cape recipe",
+            "lastModified": "2021-04-03T15:49:48Z",
+            "revision": 16969,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape+recipe"
+        },
+        {
+            "id": "k125",
+            "eventItem": false,
+            "name": "Onslaught Cape part",
+            "type": "Piece of Equipment",
+            "wikiNote": "Drop info missing",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Onslaught Cape part",
+            "lastModified": "2021-04-03T15:49:13Z",
+            "revision": 16968,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape+part"
         }
     ],
     "incomplete": [

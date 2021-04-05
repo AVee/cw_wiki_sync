@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-04-05T07:11:05.840591+00:00",
+    "timestamp": "2021-04-05T08:11:05.154858+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -22225,7 +22225,7 @@
             "levelRequirement": 45,
             "depositable": true,
             "auction": true,
-            "freeText": "Modifiers:\n  Light Armor Mastery↑ 0.50\n    ╰ Per enchant",
+            "freeText": "Modifiers: Light Armor Mastery↑ 0.50 Per enchant",
             "quest": false,
             "enchantable": true,
             "craftable": true,
@@ -22245,8 +22245,8 @@
                 "Onslaught Cape part": "4"
             },
             "pagename": "Onslaught Cape",
-            "lastModified": "2021-04-05T07:02:29Z",
-            "revision": 16973,
+            "lastModified": "2021-04-05T07:11:21Z",
+            "revision": 16974,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape"
         },
         {

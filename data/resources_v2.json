@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-04-03T16:11:09.761010+00:00",
+    "timestamp": "2021-04-05T07:11:05.940901+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27648,6 +27648,7 @@
             "levelRequirement": 45,
             "depositable": true,
             "auction": true,
+            "freeText": "Modifiers:\n  Light Armor Mastery↑ 0.50\n    ╰ Per enchant",
             "quest": false,
             "enchantable": true,
             "craftable": true,
@@ -27656,7 +27657,6 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
-            "wikiFreeText": "Modifiers:\n  Light Armor Mastery↑ 0.50\n    ╰ Per enchant",
             "recipe": [
                 {
                     "name": "Metallic Fiber",
@@ -27700,8 +27700,8 @@
                 }
             ],
             "pagename": "Onslaught Cape",
-            "lastModified": "2021-04-03T15:59:17Z",
-            "revision": 16970,
+            "lastModified": "2021-04-05T07:02:29Z",
+            "revision": 16973,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-04-08T09:11:34.778366+00:00",
+    "timestamp": "2021-04-13T06:11:10.475767+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27741,6 +27741,180 @@
             "lastModified": "2021-04-03T15:49:13Z",
             "revision": 16968,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape+part"
+        },
+        {
+            "id": "a118",
+            "eventItem": false,
+            "name": "Indissoluble Apron",
+            "type": "Cape",
+            "wikiNote": "Recipe info missing",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a118",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
+            "wikiFreeText": "Recipe info missing",
+            "recipe": [
+                {
+                    "name": "Indissoluble Apron recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Indissoluble Apron part",
+                    "qty": "4",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Indissoluble Apron",
+            "lastModified": "2021-04-13T05:49:37Z",
+            "revision": 16988,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Apron"
+        },
+        {
+            "id": "r126",
+            "eventItem": false,
+            "name": "Indissoluble Apron recipe",
+            "type": "Recipe (Item)",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "recipe": [],
+            "pagename": "Indissoluble Apron recipe",
+            "lastModified": "2021-04-13T05:46:33Z",
+            "revision": 16986,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Apron+recipe"
+        },
+        {
+            "id": "k126",
+            "eventItem": false,
+            "name": "Indissoluble Apron part",
+            "type": "Piece of Equipment",
+            "wikiNote": "Drop info missing",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "recipe": [],
+            "pagename": "Indissoluble Apron part",
+            "lastModified": "2021-04-13T05:45:37Z",
+            "revision": 16985,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Apron+part"
+        },
+        {
+            "id": "a119",
+            "eventItem": false,
+            "name": "Artificer Cloak",
+            "type": "Cape",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a119",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
+            "craftMana": 800,
+            "recipe": [
+                {
+                    "name": "Artificer Cloak recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Artificer Cloak part",
+                    "qty": "4",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Mold",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Metallic Fiber",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Crafted Leather",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "10",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "8",
+                    "personalized": false
+                },
+                {
+                    "name": "Silver Alloy",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Rope",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Coke",
+                    "qty": "73",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Artificer Cloak",
+            "lastModified": "2021-04-13T05:44:17Z",
+            "revision": 16984,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Cloak"
+        },
+        {
+            "id": "k127",
+            "eventItem": false,
+            "name": "Artificer Cloak part",
+            "type": "Piece of Equipment",
+            "wikiNote": "Drop info missing",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "recipe": [],
+            "pagename": "Artificer Cloak part",
+            "lastModified": "2021-04-13T05:35:00Z",
+            "revision": 16981,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Cloak+part"
+        },
+        {
+            "id": "r127",
+            "eventItem": false,
+            "name": "Artificer Cloak recipe",
+            "type": "Recipe (Item)",
+            "wikiNote": "Drop info missing",
+            "levelRequirement": 45,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "recipe": [],
+            "pagename": "Artificer Cloak recipe",
+            "lastModified": "2021-04-13T05:33:39Z",
+            "revision": 16980,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Cloak+recipe"
         }
     ],
     "incomplete": [

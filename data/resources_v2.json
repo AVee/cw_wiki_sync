@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-04-13T06:11:10.475767+00:00",
+    "timestamp": "2021-04-14T21:11:06.216376+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -15766,10 +15766,16 @@
             "enchantable": true,
             "enchantAtk1": 0,
             "enchantAtk2": 0,
+            "enchantAtk3": 0,
+            "enchantAtk4": 0,
             "enchantDef1": 2,
             "enchantDef2": 3,
+            "enchantDef3": 2,
+            "enchantDef4": 3,
             "enchantMana1": 0,
             "enchantMana2": 0,
+            "enchantMana3": 0,
+            "enchantMana4": 0,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a103",
@@ -15824,8 +15830,8 @@
                 }
             ],
             "pagename": "Manticore Armor",
-            "lastModified": "2020-10-02T21:57:31Z",
-            "revision": 16517,
+            "lastModified": "2021-04-14T20:15:44Z",
+            "revision": 16991,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Manticore+Armor"
         },
         {
@@ -27745,10 +27751,12 @@
         {
             "id": "a118",
             "eventItem": false,
-            "name": "Indissoluble Apron",
+            "name": "Indissoluble Cloak",
             "type": "Cape",
-            "wikiNote": "Recipe info missing",
-            "levelRequirement": 45,
+            "attack": 4,
+            "defense": 11,
+            "mana": 0,
+            "levelRequirement": 60,
             "depositable": true,
             "auction": true,
             "enchantable": true,
@@ -27758,7 +27766,6 @@
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
-            "wikiFreeText": "Recipe info missing",
             "recipe": [
                 {
                     "name": "Indissoluble Apron recipe",
@@ -27769,17 +27776,52 @@
                     "name": "Indissoluble Apron part",
                     "qty": "4",
                     "personalized": false
+                },
+                {
+                    "name": "Artisan Mold",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Crafted Leather",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Coke",
+                    "qty": "43",
+                    "personalized": false
+                },
+                {
+                    "name": "Rope",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Metallic Fiber",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "2",
+                    "personalized": false
                 }
             ],
             "pagename": "Indissoluble Apron",
-            "lastModified": "2021-04-13T05:49:37Z",
-            "revision": 16988,
+            "lastModified": "2021-04-14T21:10:12Z",
+            "revision": 16997,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Apron"
         },
         {
             "id": "r126",
             "eventItem": false,
-            "name": "Indissoluble Apron recipe",
+            "name": "Indissoluble Cloak recipe",
             "type": "Recipe (Item)",
             "levelRequirement": 45,
             "depositable": true,
@@ -27788,8 +27830,8 @@
             "questPerceptionLevel": 5,
             "recipe": [],
             "pagename": "Indissoluble Apron recipe",
-            "lastModified": "2021-04-13T05:46:33Z",
-            "revision": 16986,
+            "lastModified": "2021-04-14T20:18:04Z",
+            "revision": 16993,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Apron+recipe"
         },
         {
@@ -27814,7 +27856,10 @@
             "eventItem": false,
             "name": "Artificer Cloak",
             "type": "Cape",
-            "levelRequirement": 45,
+            "attack": 7,
+            "defense": 7,
+            "mana": 110,
+            "levelRequirement": 60,
             "depositable": true,
             "auction": true,
             "quest": false,
@@ -27878,8 +27923,8 @@
                 }
             ],
             "pagename": "Artificer Cloak",
-            "lastModified": "2021-04-13T05:44:17Z",
-            "revision": 16984,
+            "lastModified": "2021-04-14T21:08:27Z",
+            "revision": 16996,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Cloak"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-04-14T22:11:09.325403+00:00",
+    "timestamp": "2021-04-16T14:11:06.541287+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -22235,6 +22235,8 @@
             "freeText": "Modifiers: Light Armor Mastery↑ 0.50 Per enchant",
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantDef1": 1,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a117",
@@ -22252,8 +22254,8 @@
                 "Onslaught Cape part": "4"
             },
             "pagename": "Onslaught Cape",
-            "lastModified": "2021-04-14T21:45:09Z",
-            "revision": 16999,
+            "lastModified": "2021-04-16T14:06:35Z",
+            "revision": 17000,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape"
         },
         {

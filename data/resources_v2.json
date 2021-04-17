@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-04-16T17:11:07.613541+00:00",
+    "timestamp": "2021-04-17T10:11:06.012526+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27840,7 +27840,7 @@
         {
             "id": "k126",
             "eventItem": false,
-            "name": "Indissoluble Apron part",
+            "name": "Indissoluble Cloak part",
             "type": "Piece of Equipment",
             "wikiNote": "Drop info missing",
             "levelRequirement": 60,
@@ -27848,10 +27848,11 @@
             "auction": true,
             "quest": true,
             "questPerceptionLevel": 5,
+            "dropSwampMorning": true,
             "recipe": [],
             "pagename": "Indissoluble Apron part",
-            "lastModified": "2021-04-16T16:21:56Z",
-            "revision": 17001,
+            "lastModified": "2021-04-17T09:45:42Z",
+            "revision": 17007,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Apron+part"
         },
         {
@@ -27950,7 +27951,7 @@
         {
             "id": "r127",
             "eventItem": false,
-            "name": "Artificer Cloak recipe",
+            "name": "Artificer Apron recipe",
             "type": "Recipe (Item)",
             "wikiNote": "Drop info missing",
             "levelRequirement": 60,
@@ -27958,10 +27959,11 @@
             "auction": true,
             "quest": true,
             "questPerceptionLevel": 5,
+            "dropSwampDay": true,
             "recipe": [],
             "pagename": "Artificer Cloak recipe",
-            "lastModified": "2021-04-16T16:25:35Z",
-            "revision": 17005,
+            "lastModified": "2021-04-17T09:48:40Z",
+            "revision": 17008,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Cloak+recipe"
         }
     ],

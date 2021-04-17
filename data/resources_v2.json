@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-04-17T10:11:06.012526+00:00",
+    "timestamp": "2021-04-17T17:11:05.116746+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27659,7 +27659,9 @@
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 0,
+            "enchantAtk2": 2,
             "enchantDef1": 1,
+            "enchantDef2": 0,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a117",
@@ -27709,8 +27711,8 @@
                 }
             ],
             "pagename": "Onslaught Cape",
-            "lastModified": "2021-04-16T14:06:35Z",
-            "revision": 17000,
+            "lastModified": "2021-04-17T16:20:53Z",
+            "revision": 17012,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-05-17T02:11:05.999080+00:00",
+    "timestamp": "2021-05-18T01:11:06.880760+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -23451,14 +23451,14 @@
             "shopSellPrice": 0,
             "exchange": false,
             "auction": true,
-            "freeText": "It is a a special reward given to selected players for working on the chatwars wiki. It gives +2 :Stamina: stamina and +2 :Luck: luck.",
+            "freeText": "It is a a special reward given to selected players for working on the chatwars wiki. It gives +2 :Stamina: stamina and +2 :Luck: luck. Also there are only 2 of this item in the seven kingdoms",
             "quest": false,
             "enchantable": false,
             "craftable": false,
             "recipe": [],
             "pagename": "Stick of Wisdom",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 14674,
+            "lastModified": "2021-05-18T00:45:32Z",
+            "revision": 17043,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stick+of+Wisdom"
         },
         {

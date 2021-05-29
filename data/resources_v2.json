@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-05-18T01:11:06.880760+00:00",
+    "timestamp": "2021-05-29T18:11:05.390273+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -24643,7 +24643,7 @@
             "subType": "Potion",
             "wikiNote": "needs checking",
             "duration": 30,
-            "effect": "Increases [[Character#Health|health]] regeneration by [[??]] per minute",
+            "effect": "Increases [[Character#Health|health]] regeneration by 27% per minute",
             "weight": 1,
             "depositable": false,
             "exchange": false,
@@ -24698,8 +24698,8 @@
                 }
             ],
             "pagename": "Vial of Health",
-            "lastModified": "2020-10-07T11:01:42Z",
-            "revision": 16655,
+            "lastModified": "2021-05-29T17:36:26Z",
+            "revision": 17048,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Health"
         },
         {

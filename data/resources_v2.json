@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-05-29T18:11:05.390273+00:00",
+    "timestamp": "2021-05-30T11:11:05.036333+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -24345,7 +24345,7 @@
             "depositable": false,
             "exchange": false,
             "auction": false,
-            "freeText": "Equipping a torch in the [[Weapon|Off Hand Weapon]] slot reduces the time of the [[Quest|quests]] :Forest:[[Forest]], :Swamp:[[Swamp]] and :Valley:[[Valley]] by one minute, but only at the [[Time|time of day]] night. It also increases the loot found at night in Forest. Torches can randomly break during quests.",
+            "freeText": "Equipping a torch in the [[Weapon|Off Hand Weapon]] slot reduces the time of the [[Quest|quests]] in :Forest:[[Forest]], :Swamp:[[Swamp]] and :Valley:[[Valley]] by 1 minute, but only at night [[Time|time]] (see <code>/time</code>). Torches can randomly break during quests.",
             "quest": false,
             "enchantable": false,
             "craftable": true,
@@ -24358,7 +24358,8 @@
                 {
                     "name": "Stick",
                     "qty": "5",
-                    "personalized": false
+                    "personalized": false,
+                    "personalizedSetNr": "[[Time|Time]]"
                 },
                 {
                     "name": "Coke",
@@ -24367,8 +24368,8 @@
                 }
             ],
             "pagename": "Torch",
-            "lastModified": "2020-10-02T22:22:03Z",
-            "revision": 16587,
+            "lastModified": "2021-05-30T10:32:30Z",
+            "revision": 17051,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Torch"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-05-31T19:11:06.159689+00:00",
+    "timestamp": "2021-05-31T20:11:07.110086+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -992,7 +992,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 4,
             "craftMana": 50,
-            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Bottle of morph restores them by +15%, giving 20% reduced stats.\n\n* When stacked together with a [[Vial of Morph]], the stat reduction is 15%.\n* When stacked together with a [[Potion of Morph]], the stat reduction is 10%.\n* When stacked together with both [[Vial of Morph|Vial]] and [[Potion of Morph|Potion]] of morph, the stat reduction is 5%.",
+            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Bottle of morph restores them by +15%, finally giving 20% reduced stats.\n\n* When stacked together with a [[Vial of Morph]], the final stat reduction is 15%.\n* When stacked together with a [[Potion of Morph]], the final stat reduction is 10%.\n* When stacked together with both [[Vial of Morph|Vial]] and [[Potion of Morph|Potion]] of morph, the final stat reduction is 5%.",
             "recipe": {
                 "Flammia Nut": "1",
                 "Assassin Vine": "1",
@@ -1004,8 +1004,8 @@
                 "Mercy Sassafras": "2"
             },
             "pagename": "Bottle of Morph",
-            "lastModified": "2021-05-31T19:06:49Z",
-            "revision": 17065,
+            "lastModified": "2021-05-31T19:13:52Z",
+            "revision": 17068,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Morph"
         },
         {
@@ -6616,7 +6616,7 @@
             "type": "Consumable",
             "subType": "Potion",
             "duration": 480,
-            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by [[??]]%. (Only for mem Players)",
+            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by 30%. (Only for mem Players)",
             "weight": 1,
             "depositable": false,
             "exchange": false,
@@ -6629,6 +6629,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 5,
             "craftMana": 100,
+            "wikiFreeText": "=Note=\nDuality changes base stats and reduces them by 35%; Duality Vial restores them by +5%, giving a net stat reduction of 30%\n\n* When stacked together with a [[Duality Potion]], the final stat reduction is 20%.\n* When stacked together with a [[Duality Bottle]] the final stat reduction is 15%.\n* When stacked together with [[Duality Potion]] and [[Duality Bottle]], the net stat reduction is 5%.",
             "recipe": {
                 "Dragon Seed": "2",
                 "Macrider": "1",
@@ -6639,8 +6640,8 @@
                 "Flammia Nut": "2"
             },
             "pagename": "Duality Vial",
-            "lastModified": "2020-10-04T21:49:54Z",
-            "revision": 16610,
+            "lastModified": "2021-05-31T19:21:55Z",
+            "revision": 17073,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Vial"
         },
         {
@@ -15750,7 +15751,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
             "craftMana": 30,
-            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Potion of morph restores them by +10%, giving 25% reduced stats.\n\n* When stacked together with a [[Vial of Morph]], the stat reduction is 20%.\n* When stacked together with a [[Bottle of Morph]] the stat reduction is 10%.\n* When stacked together with both [[Vial of Morph|Vial]] and [[Bottle of Morph|Bottle]] of morph, the stat reduction is 5%.",
+            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Potion of morph restores them by +10%, finally giving 25% reduced stats.\n\n* When stacked together with a [[Vial of Morph]], the final stat reduction is 20%.\n* When stacked together with a [[Bottle of Morph]] the final stat reduction is 10%.\n* When stacked together with both [[Vial of Morph|Vial]] and [[Bottle of Morph|Bottle]] of morph, the final stat reduction is 5%.",
             "recipe": {
                 "Plasma of Abyss": "1",
                 "Itacory": "1",
@@ -15760,8 +15761,8 @@
                 "Mammoth Dill": "1"
             },
             "pagename": "Potion of Morph",
-            "lastModified": "2021-05-31T19:07:29Z",
-            "revision": 17066,
+            "lastModified": "2021-05-31T19:14:14Z",
+            "revision": 17069,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Morph"
         },
         {
@@ -20072,7 +20073,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
             "craftMana": 15,
-            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Vial of morph restores them by +5%, giving 30% reduced stats.\n\n* When stacked together with a [[Potion of Morph]], the stat reduction is 20%.\n* When stacked together with a [[Bottle of Morph]], the stat reduction is 15%.\n* When stacked together with both [[Potion of Morph|Vial]] and [[Bottle of Morph|Potion]] of morph, the stat reduction is 5%.",
+            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Vial of morph restores them by +5%, finally giving 30% reduced stats.\n\n* When stacked together with a [[Potion of Morph]], the final stat reduction is 20%.\n* When stacked together with a [[Bottle of Morph]], the final stat reduction is 15%.\n* When stacked together with both [[Potion of Morph|Vial]] and [[Bottle of Morph|Potion]] of morph, the final stat reduction is 5%.",
             "recipe": {
                 "Storm Hyssop": "1",
                 "Itacory": "1",
@@ -20081,8 +20082,8 @@
                 "Flammia Nut": "1"
             },
             "pagename": "Vial of Morph",
-            "lastModified": "2021-05-31T19:07:49Z",
-            "revision": 17067,
+            "lastModified": "2021-05-31T19:14:41Z",
+            "revision": 17070,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Morph"
         },
         {
@@ -21716,7 +21717,7 @@
             "subType": "Potion",
             "wikiNote": "unfinished recipe",
             "duration": 480,
-            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by [[??]]%. (Only for mem Players)",
+            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by 20%. (Only for mem Players)",
             "weight": 1,
             "depositable": false,
             "exchange": false,
@@ -21729,13 +21730,14 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 7,
             "craftMana": 300,
+            "wikiFreeText": "=Note=\nDuality changes base stats and reduces them by 35%; Duality Bottle restores them by +15%, giving a net stat reduction of 20%\n\n* When stacked together with a [[Duality Vial]], the final stat reduction is 15%.\n* When stacked together with a [[Duality Potion]] the final stat reduction is 10%.\n* When stacked together with [[Duality Vial]] and [[Duality Potion]], the net stat reduction is 5%.",
             "recipe": {
                 "Void Moss": "1",
                 "Pygmy Spice": "1"
             },
             "pagename": "Duality Bottle",
-            "lastModified": "2020-10-04T21:49:53Z",
-            "revision": 16612,
+            "lastModified": "2021-05-31T19:23:41Z",
+            "revision": 17075,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Bottle"
         },
         {
@@ -21746,7 +21748,7 @@
             "subType": "Potion",
             "wikiNote": "needs error checking",
             "duration": 480,
-            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by [[??]]%. (Only for mem Players)",
+            "effect": "Swaps base stats with the [[Rebirth|/mes]] (secondary class) ones and decreases them by 25%. (Only for mem Players)",
             "weight": 1,
             "depositable": false,
             "exchange": false,
@@ -21759,6 +21761,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 6,
             "craftMana": 200,
+            "wikiFreeText": "=Note=\nDuality changes base stats and reduces them by 35%; Duality Potion restores them by +10%, giving a net stat reduction of 25%\n\n* When stacked together with a [[Duality Vial]], the final stat reduction is 20%.\n* When stacked together with a [[Duality Bottle]] the final stat reduction is 10%.\n* When stacked together with [[Duality Vial]] and [[Duality Bottle]], the net stat reduction is 5%.",
             "recipe": {
                 "Love Creeper": "3",
                 "Gonitro": "1",
@@ -21769,8 +21772,8 @@
                 "Flammia Nut": "3"
             },
             "pagename": "Duality Potion",
-            "lastModified": "2020-10-04T21:49:52Z",
-            "revision": 16611,
+            "lastModified": "2021-05-31T19:21:49Z",
+            "revision": 17072,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Potion"
         },
         {

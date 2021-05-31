@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-05-31T18:11:05.426841+00:00",
+    "timestamp": "2021-05-31T19:11:06.265495+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -1232,6 +1232,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 4,
             "craftMana": 50,
+            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Bottle of morph restores them by +15%, giving 20% reduced stats.\n\n* When stacked together with a [[Vial of Morph]], the stat reduction is 15%.\n* When stacked together with a [[Potion of Morph]], the stat reduction is 10%.\n* When stacked together with both [[Vial of Morph|Vial]] and [[Potion of Morph|Potion]] of morph, the stat reduction is 5%.",
             "recipe": [
                 {
                     "name": "Flammia Nut",
@@ -1275,8 +1276,8 @@
                 }
             ],
             "pagename": "Bottle of Morph",
-            "lastModified": "2020-10-02T21:59:37Z",
-            "revision": 16423,
+            "lastModified": "2021-05-31T19:06:49Z",
+            "revision": 17065,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Morph"
         },
         {
@@ -19605,7 +19606,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 3,
             "craftMana": 30,
-            "wikiFreeText": "=Note=\nWhen stacked together with a [[Vial of Morph]] the stat reduction is 20% instead of 25% (of Potion) or 30% (of Vial)",
+            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Potion of morph restores them by +10%, giving 25% reduced stats.\n\n* When stacked together with a [[Vial of Morph]], the stat reduction is 20%.\n* When stacked together with a [[Bottle of Morph]] the stat reduction is 10%.\n* When stacked together with both [[Vial of Morph|Vial]] and [[Bottle of Morph|Bottle]] of morph, the stat reduction is 5%.",
             "recipe": [
                 {
                     "name": "Plasma of Abyss",
@@ -19639,8 +19640,8 @@
                 }
             ],
             "pagename": "Potion of Morph",
-            "lastModified": "2020-10-02T22:33:36Z",
-            "revision": 16544,
+            "lastModified": "2021-05-31T19:07:29Z",
+            "revision": 17066,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Potion+of+Morph"
         },
         {
@@ -24657,7 +24658,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 5,
             "craftMana": 100,
-            "wikiFreeText": "Mana required will differ for non-gurus. New alchemists that have just unlocked alchemy lvl.5 will require 600 :mana: to brew this item. The mana cost decreases as you get closer to guru.",
+            "wikiFreeText": "Alchemists without specialisation (non-guru) that have acquired [[Alchemy (Skill)#Skill_caps|Alchemy lvl.5]] will require 600 :mana: to brew this item. The mana cost decreases as you get closer to guru.",
             "recipe": [
                 {
                     "name": "Suklencia",
@@ -24700,8 +24701,8 @@
                 }
             ],
             "pagename": "Vial of Health",
-            "lastModified": "2021-05-31T18:05:44Z",
-            "revision": 17052,
+            "lastModified": "2021-05-31T18:24:05Z",
+            "revision": 17053,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Health"
         },
         {
@@ -24774,6 +24775,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 2,
             "craftMana": 15,
+            "wikiFreeText": "=Note=\nBeing morphed swaps base stats and reduces them by 35%; Vial of morph restores them by +5%, giving 30% reduced stats.\n\n* When stacked together with a [[Potion of Morph]], the stat reduction is 20%.\n* When stacked together with a [[Bottle of Morph]], the stat reduction is 15%.\n* When stacked together with both [[Potion of Morph|Vial]] and [[Bottle of Morph|Potion]] of morph, the stat reduction is 5%.",
             "recipe": [
                 {
                     "name": "Storm Hyssop",
@@ -24802,8 +24804,8 @@
                 }
             ],
             "pagename": "Vial of Morph",
-            "lastModified": "2020-10-02T22:38:12Z",
-            "revision": 16592,
+            "lastModified": "2021-05-31T19:07:49Z",
+            "revision": 17067,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Morph"
         },
         {

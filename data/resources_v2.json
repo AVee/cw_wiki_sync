@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-05-30T11:11:05.036333+00:00",
+    "timestamp": "2021-05-31T18:11:05.426841+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -24657,6 +24657,7 @@
             "craftSkill": "Alchemy (Skill)",
             "craftLevel": 5,
             "craftMana": 100,
+            "wikiFreeText": "Mana required will differ for non-gurus. New alchemists that have just unlocked alchemy lvl.5 will require 600 :mana: to brew this item. The mana cost decreases as you get closer to guru.",
             "recipe": [
                 {
                     "name": "Suklencia",
@@ -24699,8 +24700,8 @@
                 }
             ],
             "pagename": "Vial of Health",
-            "lastModified": "2021-05-29T17:36:26Z",
-            "revision": 17048,
+            "lastModified": "2021-05-31T18:05:44Z",
+            "revision": 17052,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Vial+of+Health"
         },
         {

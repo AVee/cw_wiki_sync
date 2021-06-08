@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-06-08T03:11:06.176815+00:00",
+    "timestamp": "2021-06-08T23:11:06.954131+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -4766,15 +4766,14 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": false,
             "enchantable": true,
-            "enchantAtk1": 0,
-            "enchantAtk2": 0,
-            "enchantAtk3": 0,
             "enchantDef1": 2,
             "enchantDef2": 1,
             "enchantDef3": 2,
+            "enchantDef4": 1,
             "enchantMana1": 5,
             "enchantMana2": 5,
             "enchantMana3": 5,
+            "enchantMana4": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a66",
@@ -4792,8 +4791,8 @@
                 "Blacksmith Frame": "1"
             },
             "pagename": "Demon Bracers",
-            "lastModified": "2021-06-08T01:11:32Z",
-            "revision": 17078,
+            "lastModified": "2021-06-08T23:00:17Z",
+            "revision": 17082,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers"
         },
         {
@@ -4929,6 +4928,7 @@
             "enchantMana1": 5,
             "enchantMana2": 5,
             "enchantMana3": 5,
+            "enchantMana4": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a64",
@@ -4946,8 +4946,8 @@
                 "Blacksmith Frame": "3"
             },
             "pagename": "Demon Circlet",
-            "lastModified": "2021-06-08T03:02:50Z",
-            "revision": 17081,
+            "lastModified": "2021-06-08T23:05:50Z",
+            "revision": 17084,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet"
         },
         {
@@ -5222,10 +5222,6 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": false,
             "enchantable": true,
-            "enchantAtk1": 0,
-            "enchantAtk2": 0,
-            "enchantAtk3": 0,
-            "enchantAtk4": 0,
             "enchantDef1": 2,
             "enchantDef2": 1,
             "enchantDef3": 2,
@@ -5233,6 +5229,7 @@
             "enchantMana1": 5,
             "enchantMana2": 5,
             "enchantMana3": 5,
+            "enchantMana4": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a65",
@@ -5250,8 +5247,8 @@
                 "Sapphire": "5"
             },
             "pagename": "Demon Shoes",
-            "lastModified": "2021-06-08T02:39:21Z",
-            "revision": 17079,
+            "lastModified": "2021-06-08T23:01:59Z",
+            "revision": 17083,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes"
         },
         {

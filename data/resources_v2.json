@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-06-03T15:11:05.659826+00:00",
+    "timestamp": "2021-06-08T02:11:06.482588+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -6011,8 +6011,14 @@
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 0,
+            "enchantAtk2": 0,
+            "enchantAtk3": 0,
             "enchantDef1": 2,
+            "enchantDef2": 1,
+            "enchantDef3": 2,
             "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a66",
@@ -6062,8 +6068,8 @@
                 }
             ],
             "pagename": "Demon Bracers",
-            "lastModified": "2021-06-03T14:23:55Z",
-            "revision": 17076,
+            "lastModified": "2021-06-08T01:11:32Z",
+            "revision": 17078,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Bracers"
         },
         {

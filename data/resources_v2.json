@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-06-08T02:11:06.482588+00:00",
+    "timestamp": "2021-06-08T03:11:06.276732+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -6194,10 +6194,17 @@
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantAtk2": 0,
+            "enchantAtk3": 0,
+            "enchantAtk4": 0,
             "enchantDef1": 2,
             "enchantDef2": 1,
             "enchantDef3": 2,
             "enchantDef4": 1,
+            "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a64",
@@ -6247,8 +6254,8 @@
                 }
             ],
             "pagename": "Demon Circlet",
-            "lastModified": "2020-10-02T22:03:34Z",
-            "revision": 16461,
+            "lastModified": "2021-06-08T03:02:50Z",
+            "revision": 17081,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Circlet"
         },
         {
@@ -6563,6 +6570,9 @@
             "enchantDef2": 1,
             "enchantDef3": 2,
             "enchantDef4": 1,
+            "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a65",
@@ -6612,8 +6622,8 @@
                 }
             ],
             "pagename": "Demon Shoes",
-            "lastModified": "2020-10-02T22:12:16Z",
-            "revision": 16463,
+            "lastModified": "2021-06-08T02:39:21Z",
+            "revision": 17079,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Shoes"
         },
         {

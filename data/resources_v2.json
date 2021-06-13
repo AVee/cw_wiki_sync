@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-06-13T07:11:08.530710+00:00",
+    "timestamp": "2021-06-13T10:11:05.048412+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -28148,74 +28148,25 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Azure+murky+potion"
         },
         {
-            "id": "p31",
+            "id": "tw1",
             "eventItem": false,
-            "name": "Grey murky potion",
+            "name": "Gris murky potion",
             "type": "Consumable",
             "subType": "Potion",
             "wikiNote": "needs checking",
-            "effect": "Extends effect duration of [[Gris Murky Potion]] by 8 hours. Can stack with diminishing returns (1 hour less per stack)",
-            "weight": 1,
+            "duration": 480,
+            "effect": "Enhances 1 out of 3 attainable skills",
             "depositable": false,
             "exchange": false,
             "auction": false,
+            "freeText": "increases the level of any one of the 3 attainable skills by this potion: Taunt, Battle Cry, COllectors Sense.",
             "quest": false,
             "enchantable": false,
-            "craftable": true,
-            "recipeIncomplete": true,
-            "craftCommand": "/b_p31",
-            "craftSkill": "Alchemy (Skill)",
-            "craftLevel": 5,
-            "craftMana": 100,
-            "recipe": [
-                {
-                    "name": "Mammoth Dill",
-                    "qty": "4",
-                    "personalized": false
-                },
-                {
-                    "name": "Assagane",
-                    "qty": "1",
-                    "personalized": false
-                },
-                {
-                    "name": "Pygmy Spice",
-                    "qty": "2",
-                    "personalized": false
-                },
-                {
-                    "name": "Gonitro",
-                    "qty": "1",
-                    "personalized": false
-                },
-                {
-                    "name": "Wolf Root",
-                    "qty": "3",
-                    "personalized": true,
-                    "personalizedSetNr": "1"
-                },
-                {
-                    "name": "Wolf Root",
-                    "qty": "4",
-                    "personalized": true,
-                    "personalizedSetNr": "1"
-                },
-                {
-                    "name": "Flammia Nut",
-                    "qty": "3",
-                    "personalized": true,
-                    "personalizedSetNr": "1"
-                },
-                {
-                    "name": "Flammia Nut",
-                    "qty": "4",
-                    "personalized": true,
-                    "personalizedSetNr": "1"
-                }
-            ],
+            "craftable": false,
+            "recipe": [],
             "pagename": "Grey murky potion",
-            "lastModified": "2021-06-13T07:09:29Z",
-            "revision": 17087,
+            "lastModified": "2021-06-13T10:02:29Z",
+            "revision": 17091,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Grey+murky+potion"
         }
     ],

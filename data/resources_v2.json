@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-06-13T11:11:22.800771+00:00",
+    "timestamp": "2021-06-13T12:11:11.144886+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -28021,11 +28021,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "wikiFreeText": "'''There are 29 attainable skills:'''\n\n* [[A Touch of God]]\n* [[Armor Mastery]]\n* [[Bard]]\n* [[Blunt Mastery]]\n* [[Broker]]\n* [[Collection]]\n* [[Critical Hit]]\n* [[Dagger Mastery]]\n* [[Gifted Pathfinder]]\n* [[Harvest]]\n* [[Hawkeye]]\n* [[Heavy Armor Mastery]]\n* [[Herbs Transmutation]]\n* [[It's a Trap]]\n* [[Long Life]]\n* [[Lucky Defender!]]\n* [[Mighty Golem]]\n* [[Off-Hand Mastery]]\n* [[Perception]]\n* [[Potion Madness]]\n* [[Rare Mutation]]\n* [[Robe Armor Mastery]]\n* [[Shield Mastery]]\n* [[Smart Explorer]]\n* [[Spear Mastery]]\n* [[Sword Mastery]]\n* [[Taunt]]\n* [[Unringing a Bell]]\n* [[Weapon Mastery]]",
+            "wikiFreeText": "'''There are 29 attainable skills:'''\n\n* [[Armor Mastery]]\n* [[Touch of God|A Touch of God]]\n* [[Bard]]\n* [[Blunt Mastery]]\n* [[Broker]]\n* [[Collection]]\n* [[Critical Hit]]\n* [[Dagger Mastery]]\n* [[Gifted Pathfinder]]\n* [[Harvest]]\n* [[Hawkeye]]\n* [[Heavy Armor Mastery]]\n* [[Herbs Transmutation]]\n* [[It's a Trap]]\n* [[Long Life]]\n* [[Lucky Defender|Lucky Defender!]]\n* [[Mighty Golem]]\n* [[Off-Hand Mastery]]\n* [[Perception]]\n* [[Pledge to Protect]]\n* [[Potion Madness]]\n* [[Rare Mutation]]\n* [[Robe Armor Mastery]]\n* [[Shield Mastery]]\n* [[Smart Explorer]]\n* [[Spear Mastery]]\n* [[Sword Mastery]]\n* [[Taunt]]\n* [[Unringing a Bell]]\n* [[Weapon Mastery]]",
             "recipe": [],
             "pagename": "Crimson murky potion",
-            "lastModified": "2021-06-13T11:06:45Z",
-            "revision": 17107,
+            "lastModified": "2021-06-13T12:05:59Z",
+            "revision": 17114,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Crimson+murky+potion"
         },
         {
@@ -28044,11 +28044,11 @@
             "quest": false,
             "enchantable": false,
             "craftable": false,
-            "wikiFreeText": "'''There are 27 attainable skills:'''\n\n* [[All That Glitters]]\n* [[Agile Soldier]]\n* [[Bard]]\n* [[Blacksmith Wonders ]]\n* [[Critical Hit]]\n* [[Curiousity]]\n* [[Enduring Shieldbearer]]\n* [[Gifted Pathfinder]]\n* [[Hamster]]\n* [[Hawkeye]]\n* [[Herb Transmutation]]\n* [[Light Armor Mastery]]\n* [[Look! A coin!]]\n* [[Mighty Golem]]\n* [[Muscles, Not Brains]]\n* [[Natural Talent]]\n* [[Perception]]\n* [[Power Napping]]\n* [[Prudent Duelist]]\n* [[Raider]]\n* [[Rare Mutation]]\n* [[Robe Armor Mastery]]\n* [[Scavanger]]\n* [[Smart Explorer]]\n* [[Tactics]]\n* [[Unringing a Bell]]\n* [[Weapon Mastery]]",
+            "wikiFreeText": "'''There are 27 attainable skills:'''\n\n* [[All That Glitters]]\n* [[Agile Soldier]]\n* [[Bard]]\n* [[Blacksmith Wonders ]]\n* [[Critical Hit]]\n* [[Curiosity|Curiousity]]\n* [[Enduring Shieldbearer]]\n* [[Gifted Pathfinder]]\n* [[Hamster]]\n* [[Hawkeye]]\n* [[Herbs Transmutation]]\n* [[Light Armor Mastery]]\n* [[Look! A Coin!]]\n* [[Mighty Golem]]\n* [[Muscles, not Brains|Muscles, Not Brains]]\n* [[Natural Talent]]\n* [[Perception]]\n* [[Power Napping]]\n* [[Prudent Duelist]]\n* [[Raider]]\n* [[Rare Mutation]]\n* [[Robe Armor Mastery]]\n* [[Scavenger|Scavanger]]\n* [[Smart Explorer]]\n* [[Tactics]]\n* [[Unringing a Bell]]\n* [[Weapon Mastery]]",
             "recipe": [],
             "pagename": "Azure murky potion",
-            "lastModified": "2021-06-13T11:06:06Z",
-            "revision": 17106,
+            "lastModified": "2021-06-13T11:30:15Z",
+            "revision": 17113,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Azure+murky+potion"
         },
         {

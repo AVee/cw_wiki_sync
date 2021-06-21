@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-06-17T14:11:05.083943+00:00",
+    "timestamp": "2021-06-21T07:11:05.042025+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27900,12 +27900,15 @@
             "enchantAtk1": 0,
             "enchantAtk2": 2,
             "enchantAtk3": 0,
+            "enchantAtk4": 2,
             "enchantDef1": 2,
             "enchantDef2": 0,
             "enchantDef3": 2,
+            "enchantDef4": 0,
             "enchantMana1": 5,
             "enchantMana2": 5,
             "enchantMana3": 5,
+            "enchantMana4": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a119",
@@ -27965,8 +27968,8 @@
                 }
             ],
             "pagename": "Artificer Apron",
-            "lastModified": "2021-06-17T13:58:52Z",
-            "revision": 17119,
+            "lastModified": "2021-06-21T07:06:57Z",
+            "revision": 17145,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Apron"
         },
         {

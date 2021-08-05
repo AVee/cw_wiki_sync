@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-06-21T07:11:05.042025+00:00",
+    "timestamp": "2021-08-05T02:11:04.882699+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -20470,10 +20470,11 @@
             "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/c_s13",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 0,
-            "craftMana": 0,
-            "wikiFreeText": "The :Bookgreen: {{PAGENAME}} is a scroll that is used to [[Enchantment|enchant]] Tier 2 :Bookgreen: [[Equipment|equipment]] of the type [[Weapon|weapon]]. \n\n=Effect=\nThis scroll is used to enchant items of the Tier 2 :Bookgreen: quality. Enchanting for more than +3 :Enchantment: with this scroll will not destroy the item as with [[Scroll of Rage (Green)]] :Bookgreen:. Instead, a failed enchantment with this scroll will only destroy all previously applied enchantments.\n\nEnchanting an item with :Bookgreen: {{PAGENAME}} gives the item +2 :Attack: and the :Enchantment: level increases +1 :Enchantment:.\n\n=Acquisition=",
+            "craftMana": 80,
+            "wikiFreeText": "The :Bookgreen: {{PAGENAME}} is a scroll that is used to [[Enchantment|enchant]] Tier 2 :Bookgreen: [[Equipment|equipment]] of the type [[Weapon|weapon]]. \n\n=Effect=\nThis scroll is used to enchant items of the Tier 2 :Bookgreen: quality. Enchanting for more than +3 :Enchantment: with this scroll will not destroy the item as with [[Scroll of Rage (Green)]] :Bookgreen:. Instead, a failed enchantment with this scroll will only destroy all previously applied enchantments.\n\nEnchanting an item with :Bookgreen: {{PAGENAME}} makes the :Enchantment: level increase by +1 :Enchantment:.\n\n=Acquisition=",
             "recipe": [
                 {
                     "name": "Scroll of Rage (Green)",
@@ -20487,8 +20488,8 @@
                 }
             ],
             "pagename": "Rare Scroll of Rage (Green)",
-            "lastModified": "2020-10-02T22:12:53Z",
-            "revision": 16559,
+            "lastModified": "2021-08-05T01:19:55Z",
+            "revision": 17188,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+Scroll+of+Rage+%28Green%29"
         },
         {

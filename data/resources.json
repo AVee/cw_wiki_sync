@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-08-05T02:11:04.779695+00:00",
+    "timestamp": "2021-10-06T06:11:05.354373+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -21648,15 +21648,16 @@
             "craftLevel": 7,
             "craftMana": 300,
             "recipe": {
-                "Love Creeper": "3",
                 "Ethereal Bone": "2",
                 "Void Moss": "3",
                 "Assagane": "1",
-                "Yoccuran": "2"
+                "Yoccuran": "2",
+                "Love Creeper": "4",
+                "Suklencia": "3"
             },
             "pagename": "Teamwork Bottle",
-            "lastModified": "2020-10-04T22:03:59Z",
-            "revision": 16616,
+            "lastModified": "2021-10-06T05:54:39Z",
+            "revision": 17210,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teamwork+Bottle"
         },
         {
@@ -21750,11 +21751,15 @@
             "wikiFreeText": "=Note=\nDuality changes base stats and reduces them by 35%; Duality Bottle restores them by +15%, giving a net stat reduction of 20%\n\n* When stacked together with a [[Duality Vial]], the final stat reduction is 15%.\n* When stacked together with a [[Duality Potion]] the final stat reduction is 10%.\n* When stacked together with [[Duality Vial]] and [[Duality Potion]], the net stat reduction is 5%.",
             "recipe": {
                 "Void Moss": "1",
-                "Pygmy Spice": "1"
+                "Pygmy Spice": "1",
+                "Gonitro": "1",
+                "Astrulic": "4",
+                "Love Creeper": "4",
+                "Dragon Seed": "5"
             },
             "pagename": "Duality Bottle",
-            "lastModified": "2021-05-31T19:23:41Z",
-            "revision": 17075,
+            "lastModified": "2021-10-06T05:45:40Z",
+            "revision": 17208,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Bottle"
         },
         {

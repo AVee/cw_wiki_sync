@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-08-05T02:11:04.882699+00:00",
+    "timestamp": "2021-10-06T06:11:05.491728+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -26512,11 +26512,6 @@
             "craftMana": 300,
             "recipe": [
                 {
-                    "name": "Love Creeper",
-                    "qty": "3",
-                    "personalized": false
-                },
-                {
                     "name": "Ethereal Bone",
                     "qty": "2",
                     "personalized": false
@@ -26535,11 +26530,29 @@
                     "name": "Yoccuran",
                     "qty": "2",
                     "personalized": false
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Suklencia",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
                 }
             ],
             "pagename": "Teamwork Bottle",
-            "lastModified": "2020-10-04T22:03:59Z",
-            "revision": 16616,
+            "lastModified": "2021-10-06T05:54:39Z",
+            "revision": 17210,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teamwork+Bottle"
         },
         {
@@ -26745,11 +26758,35 @@
                     "name": "Pygmy Spice",
                     "qty": "1",
                     "personalized": false
+                },
+                {
+                    "name": "Gonitro",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Love Creeper",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "3"
+                },
+                {
+                    "name": "Dragon Seed",
+                    "qty": "5",
+                    "personalized": true,
+                    "personalizedSetNr": "4"
                 }
             ],
             "pagename": "Duality Bottle",
-            "lastModified": "2021-05-31T19:23:41Z",
-            "revision": 17075,
+            "lastModified": "2021-10-06T05:45:40Z",
+            "revision": 17208,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Duality+Bottle"
         },
         {

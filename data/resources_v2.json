@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-10-06T06:11:05.491728+00:00",
+    "timestamp": "2021-10-10T18:11:04.582301+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -1150,11 +1150,23 @@
                     "name": "Void Moss",
                     "qty": "1",
                     "personalized": false
+                },
+                {
+                    "name": "Yoccuran",
+                    "qty": "1",
+                    "personalized": true,
+                    "personalizedSetNr": "1"
+                },
+                {
+                    "name": "Astrulic",
+                    "qty": "4",
+                    "personalized": true,
+                    "personalizedSetNr": "2"
                 }
             ],
             "pagename": "Bottle of Health",
-            "lastModified": "2020-12-02T16:45:23Z",
-            "revision": 16779,
+            "lastModified": "2021-10-10T18:09:39Z",
+            "revision": 17212,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Health"
         },
         {

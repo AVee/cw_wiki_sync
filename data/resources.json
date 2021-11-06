@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-10-10T18:11:04.462883+00:00",
+    "timestamp": "2021-11-06T03:11:04.773762+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -8607,6 +8607,9 @@
             "enchantable": true,
             "enchantAtk1": 0,
             "enchantDef1": 2,
+            "enchantDef2": 2,
+            "enchantDef3": 2,
+            "enchantDef4": 2,
             "enchantMana1": 0,
             "craftable": true,
             "recipeIncomplete": false,
@@ -8626,8 +8629,8 @@
                 "Ruby": "1"
             },
             "pagename": "Griffin Gloves",
-            "lastModified": "2020-10-02T22:08:21Z",
-            "revision": 16487,
+            "lastModified": "2021-11-06T02:25:23Z",
+            "revision": 17213,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Gloves"
         },
         {

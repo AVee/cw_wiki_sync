@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-11-07T11:11:05.136457+00:00",
+    "timestamp": "2021-11-07T12:11:07.723294+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -6770,11 +6770,11 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Robe Armor",
-            "wikiNote": "wrap missing",
             "attack": 7,
             "defense": 15,
             "mana": 90,
             "weight": 170,
+            "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
             "shopSellPrice": 561,
@@ -6854,8 +6854,8 @@
                 }
             ],
             "pagename": "Discarnate Bracers",
-            "lastModified": "2021-11-07T10:40:53Z",
-            "revision": 17216,
+            "lastModified": "2021-11-07T12:01:47Z",
+            "revision": 17218,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Discarnate+Bracers"
         },
         {

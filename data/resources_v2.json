@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-11-06T03:11:04.879440+00:00",
+    "timestamp": "2021-11-07T09:11:04.684682+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27726,6 +27726,7 @@
             "attack": 11,
             "defense": 4,
             "mana": 0,
+            "weight": 60,
             "wrapping": 1,
             "levelRequirement": 60,
             "depositable": true,
@@ -27791,8 +27792,8 @@
                 }
             ],
             "pagename": "Onslaught Cape",
-            "lastModified": "2021-05-12T03:36:43Z",
-            "revision": 17020,
+            "lastModified": "2021-11-07T09:07:33Z",
+            "revision": 17214,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Onslaught+Cape"
         },
         {

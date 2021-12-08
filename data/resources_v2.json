@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-11-07T12:11:07.723294+00:00",
+    "timestamp": "2021-12-08T05:11:09.266397+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -28140,6 +28140,24 @@
             "lastModified": "2021-06-13T11:05:58Z",
             "revision": 17105,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Gris+Murky+Potion"
+        },
+        {
+            "id": "f10",
+            "eventItem": false,
+            "name": "Bitter Meat",
+            "type": "Resource",
+            "subType": "Cooking Ingredient",
+            "wikiNote": "completely unfinished/test item for new cooking ingredients features in templates",
+            "quest": true,
+            "questPerceptionLevel": 1,
+            "enchantable": false,
+            "craftable": false,
+            "wikiFreeText": "THIS PAGE IS CURRENTLY A TESTING GROUND FOR NEW FEATURES IN THE TEMPLATES FOR THE WIKI",
+            "recipe": [],
+            "pagename": "Bitter Meat",
+            "lastModified": "2021-12-08T04:56:55Z",
+            "revision": 17283,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bitter+Meat"
         }
     ],
     "incomplete": [
@@ -28268,6 +28286,31 @@
             "lastModified": "2020-10-02T20:15:35Z",
             "revision": 15872,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Ball+%28Tennisball%29"
+        },
+        {
+            "id": "??",
+            "eventItem": false,
+            "name": "??",
+            "type": "Consumable",
+            "subType": "Food",
+            "wikiNote": "Testy Mc Test Food is the best!",
+            "weight": 666,
+            "wrapping": 666,
+            "levelRequirement": 666,
+            "depositable": false,
+            "shopBuyPrice": 666,
+            "shopSellPrice": 666,
+            "exchange": false,
+            "auction": false,
+            "freeText": "Testy Mc Test Food is the bestest food ever! It is funk-a-licious and gives everyone the ability to enter \"Food\" as category in the template. God I hate Semantic Mediawiki with a passion.",
+            "craftable": true,
+            "recipeIncomplete": true,
+            "wikiFreeText": "If it's not obvious: this page is for testing/a place holder for some food",
+            "recipe": [],
+            "pagename": "Testy Mc Test Food",
+            "lastModified": "2021-12-08T05:06:30Z",
+            "revision": 17287,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Testy+Mc+Test+Food"
         }
     ]
 }

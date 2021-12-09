@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-12-08T05:11:09.159064+00:00",
+    "timestamp": "2021-12-09T20:11:09.111487+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -22727,11 +22727,12 @@
             "freeText": "Testy Mc Test Food is the bestest food ever! It is funk-a-licious and gives everyone the ability to enter \"Food\" as category in the template. God I hate Semantic Mediawiki with a passion.",
             "craftable": true,
             "recipeIncomplete": true,
+            "craftSkill": "Cooking (Skill)",
             "wikiFreeText": "If it's not obvious: this page is for testing/a place holder for some food",
             "recipe": [],
             "pagename": "Testy Mc Test Food",
-            "lastModified": "2021-12-08T05:06:30Z",
-            "revision": 17287,
+            "lastModified": "2021-12-09T19:32:10Z",
+            "revision": 17299,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Testy+Mc+Test+Food"
         }
     ]

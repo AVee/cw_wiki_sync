@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-12-09T20:11:09.212917+00:00",
+    "timestamp": "2021-12-31T20:11:04.562519+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -1162,11 +1162,23 @@
                     "qty": "4",
                     "personalized": true,
                     "personalizedSetNr": "2"
+                },
+                {
+                    "name": "Flammia Nut",
+                    "qty": "3",
+                    "personalized": true,
+                    "personalizedSetNr": "3"
+                },
+                {
+                    "name": "Yoccuran",
+                    "qty": "1",
+                    "personalized": false,
+                    "personalizedSetNr": "3"
                 }
             ],
             "pagename": "Bottle of Health",
-            "lastModified": "2021-10-10T18:09:39Z",
-            "revision": 17212,
+            "lastModified": "2021-12-31T20:07:04Z",
+            "revision": 17304,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bottle+of+Health"
         },
         {

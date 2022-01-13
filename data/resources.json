@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-12-31T20:11:04.440227+00:00",
+    "timestamp": "2022-01-13T06:11:06.029649+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -1643,6 +1643,15 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantAtk2": 0,
+            "enchantAtk3": 0,
+            "enchantDef1": 2,
+            "enchantDef2": 2,
+            "enchantDef3": 2,
+            "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a89",
@@ -1663,8 +1672,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Boots",
-            "lastModified": "2020-10-02T21:52:08Z",
-            "revision": 16433,
+            "lastModified": "2022-01-13T06:03:13Z",
+            "revision": 17312,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Boots"
         },
         {
@@ -1760,6 +1769,15 @@
             "freeText": "This item was renamed to Celestial Bracers from Celestial Gloves shortly after the release of T4 :Bookorange: items.",
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantAtk2": 0,
+            "enchantAtk3": 0,
+            "enchantDef1": 2,
+            "enchantDef2": 2,
+            "enchantDef3": 2,
+            "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a90",
@@ -1780,8 +1798,8 @@
                 "Coke": "9"
             },
             "pagename": "Celestial Bracers",
-            "lastModified": "2020-10-02T22:06:09Z",
-            "revision": 16434,
+            "lastModified": "2022-01-13T06:08:15Z",
+            "revision": 17313,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Bracers"
         },
         {
@@ -1876,6 +1894,15 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
+            "enchantAtk1": 0,
+            "enchantAtk2": 0,
+            "enchantAtk3": 0,
+            "enchantDef1": 2,
+            "enchantDef2": 2,
+            "enchantDef3": 2,
+            "enchantMana1": 5,
+            "enchantMana2": 5,
+            "enchantMana3": 5,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/craft_a88",
@@ -1896,8 +1923,8 @@
                 "Sapphire": "1"
             },
             "pagename": "Celestial Helmet",
-            "lastModified": "2020-10-02T22:05:41Z",
-            "revision": 16435,
+            "lastModified": "2022-01-13T05:59:07Z",
+            "revision": 17311,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet"
         },
         {

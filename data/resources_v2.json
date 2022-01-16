@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-01-13T06:11:06.139505+00:00",
+    "timestamp": "2022-01-16T18:11:04.236912+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -28075,7 +28075,9 @@
             "attack": 4,
             "defense": 11,
             "mana": 0,
+            "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 302,
             "exchange": false,
             "auction": true,
             "freeText": "Modifiers: Heavy Armor Mastery↑ 0.50 Per enchant",
@@ -28094,21 +28096,61 @@
             "enchantMana3": 0,
             "enchantMana4": 0,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "craftCommand": "/craft_a118",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 6,
             "craftMana": 800,
             "recipe": [
                 {
+                    "name": "Indissoluble Cloak Recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Indissoluble Cloak Part",
+                    "qty": "4",
+                    "personalized": false
+                },
+                {
                     "name": "Coke",
                     "qty": "43",
+                    "personalized": false
+                },
+                {
+                    "name": "Metallic Fiber",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Crafted Leather",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Rope",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Mold",
+                    "qty": "2",
                     "personalized": false
                 }
             ],
             "pagename": "Indissoluble Cloak",
-            "lastModified": "2021-05-12T03:42:30Z",
-            "revision": 17022,
+            "lastModified": "2022-01-16T17:50:17Z",
+            "revision": 17314,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Cloak"
         },
         {

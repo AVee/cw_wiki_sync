@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-01-23T22:11:07.674329+00:00",
+    "timestamp": "2022-01-24T14:11:09.328072+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -573,7 +573,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -594,8 +594,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Black Morningstar Part",
-            "lastModified": "2020-12-13T00:30:13Z",
-            "revision": 16816,
+            "lastModified": "2022-01-24T13:52:09Z",
+            "revision": 17331,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Morningstar+Part"
         },
         {
@@ -2067,7 +2067,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2088,8 +2088,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Armor Recipe",
-            "lastModified": "2020-12-13T00:24:13Z",
-            "revision": 16813,
+            "lastModified": "2022-01-24T13:52:59Z",
+            "revision": 17332,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor+Recipe"
         },
         {
@@ -2540,7 +2540,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -2561,8 +2561,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Celestial Helmet Part",
-            "lastModified": "2020-12-13T00:30:42Z",
-            "revision": 16817,
+            "lastModified": "2022-01-24T13:53:33Z",
+            "revision": 17333,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Helmet+Part"
         },
         {
@@ -4194,7 +4194,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -4215,8 +4215,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Council Armor Part",
-            "lastModified": "2020-12-13T00:40:58Z",
-            "revision": 16821,
+            "lastModified": "2022-01-24T13:54:09Z",
+            "revision": 17334,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Council+Armor+Part"
         },
         {
@@ -5045,7 +5045,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": true,
             "dropForestEvening": false,
@@ -5066,8 +5066,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Craftsman Apron Part",
-            "lastModified": "2020-12-13T01:04:55Z",
-            "revision": 16838,
+            "lastModified": "2022-01-24T13:54:31Z",
+            "revision": 17335,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Craftsman+Apron+Part"
         },
         {
@@ -7570,7 +7570,7 @@
             "freeText": "It was introduced in the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 40,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -7591,8 +7591,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Divine Circlet Fragment",
-            "lastModified": "2020-12-13T00:51:17Z",
-            "revision": 16823,
+            "lastModified": "2022-01-24T13:54:58Z",
+            "revision": 17336,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Circlet+Fragment"
         },
         {
@@ -10753,7 +10753,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10774,8 +10774,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Boots Recipe",
-            "lastModified": "2020-12-13T00:29:00Z",
-            "revision": 16815,
+            "lastModified": "2022-01-24T13:55:20Z",
+            "revision": 17337,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Boots+Recipe"
         },
         {
@@ -10873,7 +10873,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -10894,8 +10894,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Gloves Part",
-            "lastModified": "2020-12-13T00:28:34Z",
-            "revision": 16814,
+            "lastModified": "2022-01-24T13:55:46Z",
+            "revision": 17338,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Gloves+Part"
         },
         {
@@ -11036,7 +11036,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -11057,8 +11057,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Griffin Helmet Part",
-            "lastModified": "2020-12-13T00:32:50Z",
-            "revision": 16811,
+            "lastModified": "2022-01-24T13:56:07Z",
+            "revision": 17339,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Griffin+Helmet+Part"
         },
         {
@@ -11274,7 +11274,7 @@
             "freeText": "It was introduced with the [[Game updates/2018-06-30|June 30th, 2018 game update]].",
             "quest": true,
             "questMinLevel": 32,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 3,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -11295,8 +11295,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Guard's Blade",
-            "lastModified": "2020-12-13T00:22:34Z",
-            "revision": 16812,
+            "lastModified": "2022-01-24T13:56:47Z",
+            "revision": 17340,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guard%27s+Blade"
         },
         {
@@ -23671,7 +23671,7 @@
             "auction": true,
             "quest": true,
             "questMinLevel": 46,
-            "questPerceptionLevel": 0,
+            "questPerceptionLevel": 4,
             "dropForestMorning": false,
             "dropForestDay": false,
             "dropForestEvening": false,
@@ -23692,8 +23692,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Stoneskin Cloak Part",
-            "lastModified": "2020-12-13T01:04:30Z",
-            "revision": 16837,
+            "lastModified": "2022-01-24T13:57:10Z",
+            "revision": 17341,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Stoneskin+Cloak+Part"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-01-24T14:11:09.211908+00:00",
+    "timestamp": "2022-03-06T08:11:08.607958+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -22657,6 +22657,24 @@
             "lastModified": "2022-01-23T21:59:54Z",
             "revision": 17326,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=%E2%9C%92%EF%B8%8FRare+Scroll+of+Engraving+%28Postfix%29"
+        },
+        {
+            "id": "k127",
+            "eventItem": false,
+            "name": "Artificer Cloak part",
+            "type": "Piece of Equipment",
+            "wikiNote": "Drop info missing",
+            "weight": 10,
+            "levelRequirement": 60,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "recipe": [],
+            "pagename": "Artificer Apron Part",
+            "lastModified": "2022-03-06T08:05:18Z",
+            "revision": 17353,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Apron+Part"
         }
     ],
     "incomplete": [

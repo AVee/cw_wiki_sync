@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-03-06T08:11:08.607958+00:00",
+    "timestamp": "2022-03-07T00:11:08.641618+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -22661,7 +22661,7 @@
         {
             "id": "k127",
             "eventItem": false,
-            "name": "Artificer Cloak part",
+            "name": "Artificer Apron part",
             "type": "Piece of Equipment",
             "wikiNote": "Drop info missing",
             "weight": 10,
@@ -22672,9 +22672,28 @@
             "questPerceptionLevel": 5,
             "recipe": [],
             "pagename": "Artificer Apron Part",
-            "lastModified": "2022-03-06T08:05:18Z",
-            "revision": 17353,
+            "lastModified": "2022-03-06T23:13:28Z",
+            "revision": 17356,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Apron+Part"
+        },
+        {
+            "id": "r127",
+            "eventItem": false,
+            "name": "Artificer Apron recipe",
+            "type": "Recipe (Item)",
+            "wikiNote": "Drop info missing",
+            "weight": 10,
+            "levelRequirement": 60,
+            "depositable": true,
+            "auction": true,
+            "quest": true,
+            "questPerceptionLevel": 5,
+            "dropSwampDay": true,
+            "recipe": [],
+            "pagename": "Artificer Apron Recipe",
+            "lastModified": "2022-03-06T23:35:57Z",
+            "revision": 17357,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Apron+Recipe"
         }
     ],
     "incomplete": [

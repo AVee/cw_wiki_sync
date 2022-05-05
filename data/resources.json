@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-05-05T19:11:04.692998+00:00",
+    "timestamp": "2022-05-05T20:11:09.358117+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -22445,6 +22445,7 @@
             "weight": 60,
             "levelRequirement": 60,
             "depositable": true,
+            "shopSellPrice": 365,
             "auction": true,
             "quest": false,
             "enchantable": true,
@@ -22479,8 +22480,8 @@
                 "Coke": "73"
             },
             "pagename": "Artificer Apron",
-            "lastModified": "2022-05-05T19:04:01Z",
-            "revision": 17372,
+            "lastModified": "2022-05-05T19:58:46Z",
+            "revision": 17376,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Apron"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-03-07T00:11:08.769942+00:00",
+    "timestamp": "2022-05-05T19:11:04.796763+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -18589,10 +18589,11 @@
             "type": "Protective Gear",
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
-            "wikiNote": "weight, wrap, sell price missing",
+            "wikiNote": "wrap missing",
             "attack": 6,
             "defense": 19,
             "mana": 0,
+            "weight": 170,
             "levelRequirement": 60,
             "depositable": true,
             "shopSellPrice": 637,
@@ -18676,8 +18677,8 @@
                 }
             ],
             "pagename": "Overseer Gauntlets",
-            "lastModified": "2021-02-26T19:29:32Z",
-            "revision": 16955,
+            "lastModified": "2022-05-05T19:06:30Z",
+            "revision": 17374,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Overseer+Gauntlets"
         },
         {
@@ -27986,6 +27987,7 @@
             "attack": 7,
             "defense": 7,
             "mana": 135,
+            "weight": 60,
             "levelRequirement": 60,
             "depositable": true,
             "auction": true,
@@ -28062,8 +28064,8 @@
                 }
             ],
             "pagename": "Artificer Apron",
-            "lastModified": "2021-06-21T07:06:57Z",
-            "revision": 17145,
+            "lastModified": "2022-05-05T19:04:01Z",
+            "revision": 17372,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Apron"
         },
         {
@@ -28075,6 +28077,7 @@
             "attack": 4,
             "defense": 11,
             "mana": 0,
+            "weight": 60,
             "levelRequirement": 60,
             "depositable": true,
             "shopSellPrice": 302,
@@ -28149,8 +28152,8 @@
                 }
             ],
             "pagename": "Indissoluble Cloak",
-            "lastModified": "2022-01-16T17:50:17Z",
-            "revision": 17314,
+            "lastModified": "2022-05-05T19:05:12Z",
+            "revision": 17373,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indissoluble+Cloak"
         },
         {

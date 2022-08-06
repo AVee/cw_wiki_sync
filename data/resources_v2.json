@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-07-12T15:11:04.947540+00:00",
+    "timestamp": "2022-08-06T18:11:04.308043+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -27987,7 +27987,7 @@
             "type": "Cape",
             "attack": 7,
             "defense": 7,
-            "mana": 135,
+            "mana": 110,
             "weight": 60,
             "levelRequirement": 60,
             "depositable": true,
@@ -28066,8 +28066,8 @@
                 }
             ],
             "pagename": "Artificer Apron",
-            "lastModified": "2022-05-05T19:58:46Z",
-            "revision": 17376,
+            "lastModified": "2022-08-06T18:09:46Z",
+            "revision": 17390,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Artificer+Apron"
         },
         {

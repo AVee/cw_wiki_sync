@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-08-06T18:11:04.308043+00:00",
+    "timestamp": "2022-08-07T23:11:04.580523+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -22113,6 +22113,7 @@
             "name": "⚡️Scroll of Sigil",
             "type": "Misc",
             "wikiNote": "first draft of the page",
+            "weight": 1,
             "depositable": false,
             "exchange": false,
             "freeText": "The Scroll of Sigil is used to change the ⚡️ emoji of gear which is used to show the enchantment state of an item. The following emoji can be picked: <br>[[File:ScrollOfSigil_EmojiList.png]]",
@@ -22121,8 +22122,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Scroll of Sigil",
-            "lastModified": "2020-10-02T20:15:35Z",
-            "revision": 15830,
+            "lastModified": "2022-08-07T22:27:39Z",
+            "revision": 17391,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Sigil"
         },
         {

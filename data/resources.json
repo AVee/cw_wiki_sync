@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-08-07T23:11:04.479936+00:00",
+    "timestamp": "2022-08-08T04:11:04.548342+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -9834,6 +9834,7 @@
             "eventItem": true,
             "name": "Hiking Bag",
             "type": "Special Equippable",
+            "description": "A normal sack made of leather, except detailed with extra pockets, both on the inside and outside. A number of loops, buckles, fasteners and buttons are at the users aid, increasing their backpage storage space, for more items to hold. Brown in color, it certainly beats the saddlebags of the far lands, who had to wear the horse saddle.",
             "attack": 0,
             "defense": 0,
             "mana": 0,
@@ -9853,8 +9854,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Hiking Bag",
-            "lastModified": "2020-10-02T20:15:38Z",
-            "revision": 15674,
+            "lastModified": "2022-08-08T03:40:58Z",
+            "revision": 17392,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Hiking+Bag"
         },
         {

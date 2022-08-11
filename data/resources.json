@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-08-08T04:11:04.548342+00:00",
+    "timestamp": "2022-08-11T03:11:03.943075+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -9693,6 +9693,7 @@
             "name": "Heavy club",
             "type": "Weapon",
             "subType": "Blunt",
+            "description": "The first club made of metal, it sets the standard for blacksmiths and warriors alike. Two blocks of metal are cast in an L shape, then placed ontop of eachother. A treaded metal rod is inserted, then the tip is capped with a ball, producing a seemingly one piece hammer. With 2 surfaces for swinging, some users add spikes for armor penetration.",
             "attack": 7,
             "defense": 7,
             "mana": 0,
@@ -9712,8 +9713,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Heavy Club",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15636,
+            "lastModified": "2022-08-11T02:30:37Z",
+            "revision": 17394,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heavy+Club"
         },
         {
@@ -12304,6 +12305,7 @@
             "name": "Long Bow",
             "type": "Weapon",
             "subType": "Bow",
+            "description": "Almost triple the size of the Wooden Bow, this is the bow chosen by the castles, for it immense power. Nearly the size of the user, an archer must be well trained to handle it. Despite being slow to reload, the large bow has power to match, able to knock a man off his horse and puncture easily through most chainmail.",
             "attack": 12,
             "defense": 4,
             "mana": 0,
@@ -12325,8 +12327,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Long Bow",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15632,
+            "lastModified": "2022-08-11T02:24:36Z",
+            "revision": 17393,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Long+Bow"
         },
         {

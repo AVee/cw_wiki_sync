@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-08-11T03:11:04.044601+00:00",
+    "timestamp": "2022-08-28T00:11:04.903466+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -995,6 +995,7 @@
             "name": "Bone club",
             "type": "Weapon",
             "subType": "Blunt",
+            "description": "Two deer skulls are attached at the back of the head by a string tied through the eye sockets. Then, a thick, sanded down Club is inserted and clamped onto the back of each skull, engulfing the wood with the skulls and locking it in place. Useful for bashing, stabbing, and swinging, barbarians AND goths alike envy having a weapon like this.",
             "attack": 4,
             "defense": 4,
             "mana": 0,
@@ -1014,8 +1015,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Bone Club",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15635,
+            "lastModified": "2022-08-27T23:14:20Z",
+            "revision": 17395,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bone+Club"
         },
         {

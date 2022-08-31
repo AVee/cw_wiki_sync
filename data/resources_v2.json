@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-08-28T00:11:04.903466+00:00",
+    "timestamp": "2022-08-31T05:11:05.004999+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -23297,6 +23297,7 @@
             "name": "Steel axe",
             "type": "Weapon",
             "subType": "Blunt",
+            "description": "With an axe at heart, it features a single 200 degree edge and a spike on the end of a 2' polearm. The weapon is shorter than a Halberd, but longer than an average hand axe, and much more effective at chopping wood AND adversaries. Some expertise is required to wield the axe, as a wrong swing will easily remove a leg.",
             "attack": 9,
             "defense": 9,
             "mana": 0,
@@ -23316,8 +23317,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Steel Axe",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15637,
+            "lastModified": "2022-08-31T04:54:51Z",
+            "revision": 17396,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Steel+Axe"
         },
         {

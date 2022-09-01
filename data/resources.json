@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-08-31T05:11:04.890001+00:00",
+    "timestamp": "2022-09-01T07:11:04.186322+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -18073,6 +18073,7 @@
             "name": "Silver cuirass",
             "type": "Protective Gear",
             "subType": "Armor",
+            "description": "A egg like shaped piece of armor in one piece, it protects the front and back of the user. Easy to remove compared to normal plate armor, but lacking the padding and blunt protection of other high tier armors. Some variations have abs and pecs carved into them, to intimidate enemies",
             "attack": 1,
             "defense": 15,
             "mana": 0,
@@ -18093,8 +18094,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Silver Cuirass",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15596,
+            "lastModified": "2022-09-01T06:12:55Z",
+            "revision": 17397,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Cuirass"
         },
         {
@@ -18253,6 +18254,7 @@
             "name": "Silver helmet",
             "type": "Protective Gear",
             "subType": "Helmet",
+            "description": "An official helmet sponsored by the castle, silver ore is forged to a high purity, then a miniscule amount of carbon is added for strength. Shiny, gray, and decorated with a colorful crest of feathers, it’s a highly honored piece of armor.",
             "attack": 0,
             "defense": 7,
             "mana": 0,
@@ -18273,8 +18275,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Silver Helmet",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15925,
+            "lastModified": "2022-09-01T06:18:17Z",
+            "revision": 17398,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Helmet"
         },
         {

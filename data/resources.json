@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-09-01T07:11:04.186322+00:00",
+    "timestamp": "2022-09-03T04:11:04.727842+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -7030,6 +7030,7 @@
             "name": "Elven spear",
             "type": "Weapon",
             "subType": "Spear",
+            "description": "Like any other spear, a head is cast and attached to a polearm for grip. Except, the head and pole are one piece, with wood added later for detail and grip. The head is shaped in an X shape, with sharp blades angled to make hooks, daring to be yanked out of an enemy.. Most wooden grips are dyed to represent castle colors.",
             "wikiNote": "needs enchantment info",
             "attack": 12,
             "defense": 7,
@@ -7047,8 +7048,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Elven Spear",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15624,
+            "lastModified": "2022-09-03T03:14:20Z",
+            "revision": 17399,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Elven+Spear"
         },
         {

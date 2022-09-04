@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-09-03T04:11:04.827078+00:00",
+    "timestamp": "2022-09-04T06:11:05.138311+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -13960,6 +13960,7 @@
             "name": "Lance",
             "type": "Weapon",
             "subType": "Spear",
+            "description": "Popular among horse riding Princes of the castle, the long, thin rod is great for spearing at high speeds. Sadly, you aren't a Prince. A 5 foot pole decorated with white and red paint in a twisting motion reminds you of the yearly parades. Great for forcing an enemy to keep their distance, a user is easily overwhelmed if the gap is closed.",
             "attack": 11,
             "defense": 5,
             "mana": 0,
@@ -13976,8 +13977,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Lance",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15623,
+            "lastModified": "2022-09-04T06:04:13Z",
+            "revision": 17400,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lance"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-09-04T06:11:05.138311+00:00",
+    "timestamp": "2022-09-06T07:11:05.212122+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -8949,6 +8949,7 @@
             "name": "Elven sword",
             "type": "Weapon",
             "subType": "Sword",
+            "description": "Using the same metal as Order Armor, this bronze colored sword pays tribute to the ancient warriors. Curved like a schimitar but thin as a katana, the sword is like a razor. The handle features a circular hand guard, and a cross guard that curls off into a vine like shape on both sides. With care, this blade can last for many more decades.",
             "attack": 22,
             "defense": 0,
             "mana": 0,
@@ -8969,8 +8970,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Elven Sword",
-            "lastModified": "2020-10-02T20:14:15Z",
-            "revision": 15620,
+            "lastModified": "2022-09-06T06:34:51Z",
+            "revision": 17401,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Elven+Sword"
         },
         {

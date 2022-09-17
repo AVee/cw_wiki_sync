@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-09-06T07:11:05.111577+00:00",
+    "timestamp": "2022-09-17T18:11:04.463912+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -6999,6 +6999,7 @@
             "name": "Elven Bow",
             "type": "Weapon",
             "subType": "Bow",
+            "description": "A normal Wooden Bow is reinforced with metal similar to that of the Order Armor, and redesigned to match earlier models. Small winglets are added to the bow's limbs to extend its reach and energy storing power.  Several engravings can be made to enhance the aestetic, but most users tend to keep the bow default as a nod to ancestors in the land",
             "attack": 16,
             "defense": 5,
             "mana": 0,
@@ -7020,8 +7021,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Elven Bow",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15633,
+            "lastModified": "2022-09-17T17:23:12Z",
+            "revision": 17403,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Elven+Bow"
         },
         {

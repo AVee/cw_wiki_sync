@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-09-17T18:11:04.568451+00:00",
+    "timestamp": "2022-11-01T06:11:04.623667+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -11765,6 +11765,7 @@
             "name": "Halberd",
             "type": "Weapon",
             "subType": "Spear",
+            "description": "If you decapitated an axe and sewed the severed head to a spear, you'd get a halberd. Capable of being swung to bash against shields and lunged to stab enemies, its a relatively low cost weapon to produce with a lot of ability.Whether defending or attacking... both raiders and sentinels cherish and fear this combination.",
             "wikiNote": "needs enchantment info",
             "attack": 14,
             "defense": 10,
@@ -11782,8 +11783,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Halberd",
-            "lastModified": "2020-10-02T20:14:22Z",
-            "revision": 15625,
+            "lastModified": "2022-11-01T05:32:12Z",
+            "revision": 17404,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Halberd"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-11-01T06:11:04.516040+00:00",
+    "timestamp": "2023-01-27T15:11:08.243984+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -2160,7 +2160,7 @@
             "depositable": true,
             "exchange": false,
             "auction": true,
-            "freeText": "Used to reroll the entire stat and effect field (new effect types, as well as classes) for rings and amulets. Can also be used to reroll the modifiers of [[Nomenclature|T5 Gear]].\n\nIt can be found by completing guild quests or crafted with [[Chaos Stone Shard|chaos stone shards]].",
+            "freeText": "Used to reroll the entire stat and effect field (new effect types, as well as classes) for rings and amulets. Can also be used to reroll the modifiers of [[Nomenclature|T5 Gear]].\n\nIt can be found in events, by completing guild quests or crafted with [[Chaos Stone Shard|chaos stone shards]].",
             "quest": false,
             "enchantable": false,
             "craftable": true,
@@ -2173,8 +2173,8 @@
                 "Chaos Stone Shard": "10"
             },
             "pagename": "Chaos Stone",
-            "lastModified": "2020-11-27T23:21:44Z",
-            "revision": 16769,
+            "lastModified": "2023-01-27T14:54:14Z",
+            "revision": 17448,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Chaos+Stone"
         },
         {
@@ -7381,7 +7381,7 @@
             "depositable": true,
             "exchange": false,
             "auction": true,
-            "freeText": "Used to reroll only the stats (values of effects) for rings and amulets. Can also be used to reroll stats for the modifiers of [[Nomenclature|T5 Gear]].\n\nIt can be found by completing guild quests or crafted with [[Force Stone Shard|force stone shards]].",
+            "freeText": "Used to reroll only the stats (values of effects) for rings and amulets. Can also be used to reroll stats for the modifiers of [[Nomenclature|T5 Gear]].\n\nIt can be found in events, by completing guild quests or crafted with [[Force Stone Shard|force stone shards]].",
             "quest": false,
             "enchantable": false,
             "craftable": true,
@@ -7394,8 +7394,8 @@
                 "Force Stone Shard": "10"
             },
             "pagename": "Force Stone",
-            "lastModified": "2020-11-27T23:17:19Z",
-            "revision": 16766,
+            "lastModified": "2023-01-27T14:53:38Z",
+            "revision": 17447,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Force+Stone"
         },
         {

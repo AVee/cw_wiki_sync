@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-05T12:11:07.383978+00:00",
+    "timestamp": "2023-09-05T14:11:10.702107+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -2222,10 +2222,7 @@
             "id": "k141",
             "eventItem": false,
             "name": "Caliban Knife part",
-            "type": "Weapon",
-            "subType": "Dagger",
-            "attack": 0,
-            "defense": 0,
+            "type": "Piece of Equipment",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -2237,8 +2234,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Caliban Knife part",
-            "lastModified": "2023-09-02T12:21:17Z",
-            "revision": 17530,
+            "lastModified": "2023-09-05T13:44:05Z",
+            "revision": 17609,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Caliban+Knife+part"
         },
         {
@@ -7644,8 +7641,9 @@
             "id": "a125",
             "eventItem": false,
             "name": "Destiny Boots",
-            "type": "Piece of Equipment",
+            "type": "Protective Gear",
             "subType": "Boots",
+            "armorClass": "Robe Armor",
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a125",
@@ -7708,18 +7706,15 @@
                 }
             ],
             "pagename": "Destiny Boots",
-            "lastModified": "2023-09-04T08:53:21Z",
-            "revision": 17574,
+            "lastModified": "2023-09-05T13:37:45Z",
+            "revision": 17605,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Boots"
         },
         {
             "id": "k132",
             "eventItem": false,
             "name": "Destiny Boots part",
-            "type": "Protective Gear",
-            "subType": "Boots",
-            "attack": 0,
-            "defense": 0,
+            "type": "Piece of Equipment",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -7730,8 +7725,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Destiny Boots part",
-            "lastModified": "2023-09-02T13:06:13Z",
-            "revision": 17525,
+            "lastModified": "2023-09-05T13:48:21Z",
+            "revision": 17610,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Boots+part"
         },
         {
@@ -7823,10 +7818,7 @@
             "id": "k133",
             "eventItem": false,
             "name": "Destiny Gloves part",
-            "type": "Protective Gear",
-            "subType": "Gloves",
-            "attack": 0,
-            "defense": 0,
+            "type": "Piece of Equipment",
             "weight": 10,
             "depositable": true,
             "exchange": false,
@@ -7839,8 +7831,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Destiny Gloves part",
-            "lastModified": "2023-09-02T12:23:28Z",
-            "revision": 17538,
+            "lastModified": "2023-09-05T13:48:47Z",
+            "revision": 17611,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Gloves+part"
         },
         {
@@ -11549,11 +11541,7 @@
             "id": "k136",
             "eventItem": false,
             "name": "Giant Boots part",
-            "type": "Protective Gear",
-            "subType": "Boots",
-            "armorClass": "Heavy Armor",
-            "attack": 0,
-            "defense": 0,
+            "type": "Piece of Equipment",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11563,8 +11551,8 @@
             "dropValleyDay": true,
             "recipe": [],
             "pagename": "Giant Boots Part",
-            "lastModified": "2023-09-02T12:26:04Z",
-            "revision": 17522,
+            "lastModified": "2023-09-05T13:41:58Z",
+            "revision": 17606,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots+Part"
         },
         {
@@ -11677,11 +11665,7 @@
             "id": "k140",
             "eventItem": false,
             "name": "Giant Shield part",
-            "type": "Protective Gear",
-            "subType": "Shield",
-            "armorClass": "Heavy Armor",
-            "attack": 0,
-            "defense": 0,
+            "type": "Piece of Equipment",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -11693,8 +11677,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Giant Shield part",
-            "lastModified": "2023-09-02T12:20:17Z",
-            "revision": 17531,
+            "lastModified": "2023-09-05T13:50:29Z",
+            "revision": 17612,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Shield+part"
         },
         {
@@ -26621,10 +26605,7 @@
             "id": "k129",
             "eventItem": false,
             "name": "Sunfire Bracers part",
-            "type": "Protective Gear",
-            "subType": "Gloves",
-            "attack": 0,
-            "defense": 0,
+            "type": "Piece of Equipment",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -26636,8 +26617,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Sunfire Bracers part",
-            "lastModified": "2023-09-02T12:18:16Z",
-            "revision": 17529,
+            "lastModified": "2023-09-05T13:43:22Z",
+            "revision": 17608,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Bracers+part"
         },
         {
@@ -26728,10 +26709,7 @@
             "id": "k128",
             "eventItem": false,
             "name": "Sunfire Shoes part",
-            "type": "Protective Gear",
-            "subType": "Boots",
-            "attack": 0,
-            "defense": 0,
+            "type": "Piece of Equipment",
             "depositable": true,
             "exchange": false,
             "auction": true,
@@ -26743,8 +26721,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Sunfire Shoes part",
-            "lastModified": "2023-09-02T12:27:57Z",
-            "revision": 17528,
+            "lastModified": "2023-09-05T13:42:46Z",
+            "revision": 17607,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Shoes+part"
         },
         {
@@ -29528,6 +29506,164 @@
             "lastModified": "2023-09-01T20:45:59Z",
             "revision": 17326,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=%E2%9C%92%EF%B8%8FRare+Scroll+of+Engraving+%28Postfix%29"
+        },
+        {
+            "id": "a130",
+            "eventItem": false,
+            "name": "Giant Boots",
+            "type": "Protective Gear",
+            "subType": "Boots",
+            "armorClass": "Heavy Armor",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "16",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "31",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "11",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "150",
+                    "personalized": false
+                },
+                {
+                    "name": "Giant Boots Part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Giant Boots recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Giant Boots",
+            "lastModified": "2023-09-05T14:04:43Z",
+            "revision": 17617,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots"
+        },
+        {
+            "id": "r130",
+            "eventItem": false,
+            "name": "Giant Boots recipe",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Giant Boots recipe",
+            "lastModified": "2023-09-05T14:01:30Z",
+            "revision": 17616,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots+recipe"
+        },
+        {
+            "id": "a129",
+            "eventItem": false,
+            "name": "Giant Shield",
+            "type": "Weapon",
+            "subType": "Shield",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a129",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "11",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Metal Plate",
+                    "qty": "26",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "100",
+                    "personalized": false
+                },
+                {
+                    "name": "Giant Shield part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Giant Shield recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Giant Shield",
+            "lastModified": "2023-09-05T13:58:21Z",
+            "revision": 17615,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Shield"
+        },
+        {
+            "id": "r132",
+            "eventItem": false,
+            "name": "Giant Shield recipe",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Giant Shield recipe",
+            "lastModified": "2023-09-05T13:53:52Z",
+            "revision": 17613,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Shield+recipe"
         }
     ],
     "incomplete": [

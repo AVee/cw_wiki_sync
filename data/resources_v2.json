@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-05T14:11:10.702107+00:00",
+    "timestamp": "2023-09-05T15:11:08.818112+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -2219,7 +2219,7 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Cake"
         },
         {
-            "id": "k141",
+            "id": "k154",
             "eventItem": false,
             "name": "Caliban Knife part",
             "type": "Piece of Equipment",
@@ -2234,8 +2234,8 @@
             "craftable": false,
             "recipe": [],
             "pagename": "Caliban Knife part",
-            "lastModified": "2023-09-05T13:44:05Z",
-            "revision": 17609,
+            "lastModified": "2023-09-05T14:23:49Z",
+            "revision": 17623,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Caliban+Knife+part"
         },
         {
@@ -29664,6 +29664,101 @@
             "lastModified": "2023-09-05T13:53:52Z",
             "revision": 17613,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Shield+recipe"
+        },
+        {
+            "id": "a131",
+            "eventItem": false,
+            "name": "Giant Gaunlets",
+            "type": "Protective Gear",
+            "subType": "Gloves",
+            "armorClass": "Heavy Armor",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_131",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "18",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "4",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "21",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "150",
+                    "personalized": false
+                },
+                {
+                    "name": "Giant Gaunlets part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Giant Gaunlets recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Giant Gaunlets",
+            "lastModified": "2023-09-05T14:15:15Z",
+            "revision": 17622,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Gaunlets"
+        },
+        {
+            "id": "r131",
+            "eventItem": false,
+            "name": "Giant Gaunlets recipe",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Giant Gaunlets recipe",
+            "lastModified": "2023-09-05T14:11:43Z",
+            "revision": 17621,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Gaunlets+recipe"
+        },
+        {
+            "id": "k137",
+            "eventItem": false,
+            "name": "Giant Gaunlets part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Giant Gaunlets part",
+            "lastModified": "2023-09-05T14:11:14Z",
+            "revision": 17620,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Gaunlets+part"
         }
     ],
     "incomplete": [

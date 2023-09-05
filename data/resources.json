@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-05T11:45:22.312253+00:00",
+    "timestamp": "2023-09-05T12:11:07.279957+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -6046,9 +6046,9 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Gloves+recipe"
         },
         {
-            "id": "Destiny Helmet",
+            "id": "a128",
             "eventItem": false,
-            "name": "a128",
+            "name": "Destiny Helmet",
             "type": "Protective Gear",
             "subType": "Helmet",
             "armorClass": "Robe Armor",
@@ -6073,32 +6073,32 @@
                 "Destiny Helmet recipe": "1"
             },
             "pagename": "Destiny Helmet",
-            "lastModified": "2023-09-05T10:47:19Z",
-            "revision": 17597,
+            "lastModified": "2023-09-05T11:55:39Z",
+            "revision": 17600,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Helmet"
         },
         {
-            "id": "Destiny Helmet part",
+            "id": "k135",
             "eventItem": false,
-            "name": "k135",
+            "name": "Destiny Helmet part",
             "type": "Piece of Equipment",
             "quest": true,
             "recipe": [],
             "pagename": "Destiny Helmet part",
-            "lastModified": "2023-09-05T10:41:31Z",
-            "revision": 17595,
+            "lastModified": "2023-09-05T11:56:29Z",
+            "revision": 17601,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Helmet+part"
         },
         {
-            "id": "Destiny Helmet recipe",
+            "id": "r139",
             "eventItem": false,
-            "name": "r139",
+            "name": "Destiny Helmet recipe",
             "type": "Piece of Equipment",
             "quest": true,
             "recipe": [],
             "pagename": "Destiny Helmet recipe",
-            "lastModified": "2023-09-05T10:42:10Z",
-            "revision": 17596,
+            "lastModified": "2023-09-05T11:57:07Z",
+            "revision": 17602,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Helmet+recipe"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-04T19:14:27.439761+00:00",
+    "timestamp": "2023-09-05T11:31:26.895667+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -29403,6 +29403,110 @@
             "lastModified": "2023-09-02T12:26:04Z",
             "revision": 17522,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots+Part"
+        },
+        {
+            "id": "Destiny Helmet",
+            "eventItem": false,
+            "name": "a128",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "armorClass": "Robe Armor",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_128",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "18",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "17",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "17",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "200",
+                    "personalized": false
+                },
+                {
+                    "name": "Destiny Helmet part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Destiny Helmet recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Destiny Helmet",
+            "lastModified": "2023-09-05T10:47:19Z",
+            "revision": 17597,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Helmet"
+        },
+        {
+            "id": "Destiny Helmet recipe",
+            "eventItem": false,
+            "name": "r139",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "recipe": [],
+            "pagename": "Destiny Helmet recipe",
+            "lastModified": "2023-09-05T10:42:10Z",
+            "revision": 17596,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Helmet+recipe"
+        },
+        {
+            "id": "Destiny Helmet part",
+            "eventItem": false,
+            "name": "k135",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "recipe": [],
+            "pagename": "Destiny Helmet part",
+            "lastModified": "2023-09-05T10:41:31Z",
+            "revision": 17595,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Helmet+part"
         }
     ],
     "incomplete": [

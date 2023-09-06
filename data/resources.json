@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-06T09:11:14.275643+00:00",
+    "timestamp": "2023-09-06T17:11:09.316271+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -23915,7 +23915,7 @@
             "subType": "Gloves",
             "armorClass": "Heavy Armor",
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "craftCommand": "/c_a144",
             "craftSkill": "Crafting (Skill)",
             "wikiFreeText": "{{#subobject:\n|Crafting ingredient=Artisan Frame\n|Personalized=No\n}}",
@@ -23927,13 +23927,13 @@
                 "Forged Leather": "11",
                 "Reinforced Loom": "32",
                 "Rune Anvil": "3",
-                "unknown shard": "150",
+                "Supreme Shard": "150",
                 "Monument Gauntlets part": "7",
                 "Monument Gauntlets recipe": "1"
             },
             "pagename": "Monument Gauntlets",
-            "lastModified": "2023-09-06T07:52:03Z",
-            "revision": 17681,
+            "lastModified": "2023-09-06T17:07:59Z",
+            "revision": 17707,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Gauntlets"
         },
         {
@@ -23965,7 +23965,7 @@
             "type": "Weapon",
             "subType": "Shield",
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "craftCommand": "/c_a142",
             "craftSkill": "Crafting (Skill)",
             "recipe": {
@@ -23975,13 +23975,13 @@
                 "Artisan Frame": "10",
                 "Metal Plate": "39",
                 "Rune Anvil": "7",
-                "unknown shards": "100",
+                "Supreme Shard": "100",
                 "Monument Shield Part": "7",
                 "Monument Shield recipe": "1"
             },
             "pagename": "Monument Shield",
-            "lastModified": "2023-09-06T07:39:09Z",
-            "revision": 17678,
+            "lastModified": "2023-09-06T17:10:39Z",
+            "revision": 17709,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Shield"
         },
         {
@@ -24122,7 +24122,7 @@
             "type": "Weapon",
             "subType": "Dagger",
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
             "craftCommand": "/c_w120",
             "craftSkill": "Crafting (Skill)",
             "recipe": {
@@ -24131,13 +24131,13 @@
                 "Blacksmith Frame": "15",
                 "Metal Plate": "19",
                 "Arcane Mold": "5",
-                "unknown shard": "200",
+                "Supreme Shard": "200",
                 "Relic Knife blade": "5",
                 "Relic Knife recipe": "1"
             },
             "pagename": "Relic Knife",
-            "lastModified": "2023-09-06T08:23:12Z",
-            "revision": 17692,
+            "lastModified": "2023-09-06T17:09:30Z",
+            "revision": 17708,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Relic+Knife"
         },
         {
@@ -24161,6 +24161,20 @@
             "lastModified": "2023-09-06T08:17:55Z",
             "revision": 17688,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Relic+Knife+recipe"
+        },
+        {
+            "id": "89",
+            "eventItem": false,
+            "name": "Supreme Shard",
+            "type": "Resource",
+            "auction": false,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Supreme Shard",
+            "lastModified": "2023-09-06T17:07:08Z",
+            "revision": 17706,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Supreme+Shard"
         }
     ],
     "incomplete": [

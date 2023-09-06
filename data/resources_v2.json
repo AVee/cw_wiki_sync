@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-05T20:11:13.034192+00:00",
+    "timestamp": "2023-09-06T08:11:09.903429+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -29666,101 +29666,6 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Shield+recipe"
         },
         {
-            "id": "a131",
-            "eventItem": false,
-            "name": "Giant Gaunlets",
-            "type": "Protective Gear",
-            "subType": "Gloves",
-            "armorClass": "Heavy Armor",
-            "craftable": true,
-            "recipeIncomplete": false,
-            "craftCommand": "/c_131",
-            "craftSkill": "Crafting (Skill)",
-            "recipe": [
-                {
-                    "name": "Sapphire",
-                    "qty": "18",
-                    "personalized": false
-                },
-                {
-                    "name": "Solvent",
-                    "qty": "4",
-                    "personalized": false
-                },
-                {
-                    "name": "Ruby",
-                    "qty": "3",
-                    "personalized": false
-                },
-                {
-                    "name": "Blacksmith Frame",
-                    "qty": "6",
-                    "personalized": false
-                },
-                {
-                    "name": "Quality Cloth",
-                    "qty": "3",
-                    "personalized": false
-                },
-                {
-                    "name": "Forged Leather",
-                    "qty": "7",
-                    "personalized": false
-                },
-                {
-                    "name": "Reinforced Loom",
-                    "qty": "21",
-                    "personalized": false
-                },
-                {
-                    "name": "Rune Anvil",
-                    "qty": "2",
-                    "personalized": false
-                },
-                {
-                    "name": "Eminent Shard",
-                    "qty": "150",
-                    "personalized": false
-                },
-                {
-                    "name": "Giant Gaunlets part",
-                    "qty": "7",
-                    "personalized": false
-                },
-                {
-                    "name": "Giant Gaunlets recipe",
-                    "qty": "1",
-                    "personalized": false
-                }
-            ],
-            "pagename": "Giant Gaunlets",
-            "lastModified": "2023-09-05T14:15:15Z",
-            "revision": 17622,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Gaunlets"
-        },
-        {
-            "id": "r131",
-            "eventItem": false,
-            "name": "Giant Gaunlets recipe",
-            "type": "Recipe (Item)",
-            "recipe": [],
-            "pagename": "Giant Gaunlets recipe",
-            "lastModified": "2023-09-05T19:34:36Z",
-            "revision": 17660,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Gaunlets+recipe"
-        },
-        {
-            "id": "k137",
-            "eventItem": false,
-            "name": "Giant Gaunlets part",
-            "type": "Piece of Equipment",
-            "recipe": [],
-            "pagename": "Giant Gaunlets part",
-            "lastModified": "2023-09-05T14:11:14Z",
-            "revision": 17620,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Gaunlets+part"
-        },
-        {
             "id": "m12",
             "eventItem": false,
             "name": "Mass Bottle Of Mana",
@@ -30090,6 +29995,254 @@
             "lastModified": "2023-09-05T19:18:36Z",
             "revision": 17652,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Guild+emblem+cloth"
+        },
+        {
+            "id": "w115",
+            "eventItem": false,
+            "name": "Black Arbalest",
+            "type": "Weapon",
+            "subType": "Bow",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_w115",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Ruby",
+                    "qty": "11",
+                    "personalized": false
+                },
+                {
+                    "name": "Hardener",
+                    "qty": "16",
+                    "personalized": false
+                },
+                {
+                    "name": "Coke",
+                    "qty": "49",
+                    "personalized": false
+                },
+                {
+                    "name": "Mithril Alloy",
+                    "qty": "50",
+                    "personalized": false
+                },
+                {
+                    "name": "Tempered Shaft",
+                    "qty": "15",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "700",
+                    "personalized": false
+                },
+                {
+                    "name": "Black Arbalest part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Black Arbalest recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Black Arbalest",
+            "lastModified": "2023-09-06T08:00:46Z",
+            "revision": 17684,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Arbalest"
+        },
+        {
+            "id": "r164",
+            "eventItem": false,
+            "name": "Black Arbalest recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Black Arbalest recipe",
+            "lastModified": "2023-09-06T07:54:28Z",
+            "revision": 17683,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Arbalest+recipe"
+        },
+        {
+            "id": "k162",
+            "eventItem": false,
+            "name": "Black Arbalest part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Black Arbalest part",
+            "lastModified": "2023-09-06T07:53:55Z",
+            "revision": 17682,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Black+Arbalest+part"
+        },
+        {
+            "id": "a144",
+            "eventItem": false,
+            "name": "Monument Gauntlets",
+            "type": "Protective Gear",
+            "subType": "Gloves",
+            "armorClass": "Heavy Armor",
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/c_a144",
+            "craftSkill": "Crafting (Skill)",
+            "wikiFreeText": "{{#subobject:\n|Crafting ingredient=Artisan Frame\n|Personalized=No\n}}",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "24",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "11",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "32",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "unknown shard",
+                    "qty": "150",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Gauntlets part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Gauntlets recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Monument Gauntlets",
+            "lastModified": "2023-09-06T07:52:03Z",
+            "revision": 17681,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Gauntlets"
+        },
+        {
+            "id": "r136",
+            "eventItem": false,
+            "name": "Monument Gauntlets recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Monument Gauntlets recipe",
+            "lastModified": "2023-09-06T07:47:47Z",
+            "revision": 17680,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Gauntlets+recipe"
+        },
+        {
+            "id": "k150",
+            "eventItem": false,
+            "name": "Monument Gauntlets part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Monument Gauntlets part",
+            "lastModified": "2023-09-06T07:47:16Z",
+            "revision": 17679,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Gauntlets+part"
+        },
+        {
+            "id": "a142",
+            "eventItem": false,
+            "name": "Monument Shield",
+            "type": "Weapon",
+            "subType": "Shield",
+            "craftable": true,
+            "recipeIncomplete": true,
+            "craftCommand": "/c_a142",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "17",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Frame",
+                    "qty": "10",
+                    "personalized": false
+                },
+                {
+                    "name": "Metal Plate",
+                    "qty": "39",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "unknown shards",
+                    "qty": "100",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Shield Part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Shield recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Monument Shield",
+            "lastModified": "2023-09-06T07:39:09Z",
+            "revision": 17678,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Shield"
+        },
+        {
+            "id": "r137",
+            "eventItem": false,
+            "name": "Monument Shield recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Monument Shield recipe",
+            "lastModified": "2023-09-06T07:33:33Z",
+            "revision": 17676,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Shield+recipe"
         }
     ],
     "incomplete": [

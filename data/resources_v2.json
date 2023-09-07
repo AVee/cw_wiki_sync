@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-06T17:11:09.426728+00:00",
+    "timestamp": "2023-09-07T06:11:08.001917+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -30472,6 +30472,108 @@
             "lastModified": "2023-09-06T17:07:08Z",
             "revision": 17706,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Supreme+Shard"
+        },
+        {
+            "id": "a137",
+            "eventItem": false,
+            "name": "Majestic Hat",
+            "type": "Piece of Equipment",
+            "subType": "Helmet",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a137",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "49",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "59",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "41",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "41",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "4",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "200",
+                    "personalized": false
+                },
+                {
+                    "name": "Majestic Hat part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Majestic Hat recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Majestic Hat",
+            "lastModified": "2023-09-07T05:38:46Z",
+            "revision": 17714,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat"
+        },
+        {
+            "id": "r151",
+            "eventItem": false,
+            "name": "Majestic Hat recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Majestic Hat recipe",
+            "lastModified": "2023-09-07T05:34:45Z",
+            "revision": 17713,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat+recipe"
+        },
+        {
+            "id": "k144",
+            "eventItem": false,
+            "name": "Majestic Hat part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Majestic Hat part",
+            "lastModified": "2023-09-07T05:33:16Z",
+            "revision": 17712,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat+part"
         }
     ],
     "incomplete": [

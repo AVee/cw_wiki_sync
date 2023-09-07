@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-06T17:11:09.316271+00:00",
+    "timestamp": "2023-09-07T06:11:07.885653+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24175,6 +24175,64 @@
             "lastModified": "2023-09-06T17:07:08Z",
             "revision": 17706,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Supreme+Shard"
+        },
+        {
+            "id": "a137",
+            "eventItem": false,
+            "name": "Majestic Hat",
+            "type": "Piece of Equipment",
+            "subType": "Helmet",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a137",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": {
+                "Sapphire": "49",
+                "Solvent": "3",
+                "Ruby": "59",
+                "Blacksmith Frame": "9",
+                "Quality Cloth": "41",
+                "Forged Leather": "5",
+                "Reinforced Loom": "41",
+                "Arcane Mold": "4",
+                "Supreme Shard": "200",
+                "Majestic Hat part": "7",
+                "Majestic Hat recipe": "1"
+            },
+            "pagename": "Majestic Hat",
+            "lastModified": "2023-09-07T05:38:46Z",
+            "revision": 17714,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat"
+        },
+        {
+            "id": "r151",
+            "eventItem": false,
+            "name": "Majestic Hat recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Majestic Hat recipe",
+            "lastModified": "2023-09-07T05:34:45Z",
+            "revision": 17713,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat+recipe"
+        },
+        {
+            "id": "k144",
+            "eventItem": false,
+            "name": "Majestic Hat part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Majestic Hat part",
+            "lastModified": "2023-09-07T05:33:16Z",
+            "revision": 17712,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat+part"
         }
     ],
     "incomplete": [

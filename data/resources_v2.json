@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-07T06:11:08.001917+00:00",
+    "timestamp": "2023-09-07T12:11:08.476984+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -30574,6 +30574,108 @@
             "lastModified": "2023-09-07T05:33:16Z",
             "revision": 17712,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat+part"
+        },
+        {
+            "id": "a140",
+            "eventItem": false,
+            "name": "Destroyer Helmet",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a140",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "27",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "21",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "83",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "200",
+                    "personalized": false
+                },
+                {
+                    "name": "Destroyer Helmet part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Destroyer Helmet recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Destroyer Helmet",
+            "lastModified": "2023-09-07T11:42:45Z",
+            "revision": 17719,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet"
+        },
+        {
+            "id": "r143",
+            "eventItem": false,
+            "name": "Destroyer Helmet recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Helmet recipe",
+            "lastModified": "2023-09-07T11:15:36Z",
+            "revision": 17718,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet+recipe"
+        },
+        {
+            "id": "k148",
+            "eventItem": false,
+            "name": "Destroyer Helmet part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Helmet part",
+            "lastModified": "2023-09-07T11:14:24Z",
+            "revision": 17717,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet+part"
         }
     ],
     "incomplete": [

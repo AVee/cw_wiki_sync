@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-07T06:11:07.885653+00:00",
+    "timestamp": "2023-09-07T12:11:08.364959+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24233,6 +24233,64 @@
             "lastModified": "2023-09-07T05:33:16Z",
             "revision": 17712,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat+part"
+        },
+        {
+            "id": "a140",
+            "eventItem": false,
+            "name": "Destroyer Helmet",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a140",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": {
+                "Sapphire": "5",
+                "Solvent": "3",
+                "Ruby": "27",
+                "Bone Powder": "21",
+                "Blacksmith Frame": "14",
+                "Quality Cloth": "14",
+                "Forged Leather": "83",
+                "Reinforced Loom": "2",
+                "Supreme Shard": "200",
+                "Destroyer Helmet part": "7",
+                "Destroyer Helmet recipe": "1"
+            },
+            "pagename": "Destroyer Helmet",
+            "lastModified": "2023-09-07T11:42:45Z",
+            "revision": 17719,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet"
+        },
+        {
+            "id": "r143",
+            "eventItem": false,
+            "name": "Destroyer Helmet recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Helmet recipe",
+            "lastModified": "2023-09-07T11:15:36Z",
+            "revision": 17718,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet+recipe"
+        },
+        {
+            "id": "k148",
+            "eventItem": false,
+            "name": "Destroyer Helmet part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Helmet part",
+            "lastModified": "2023-09-07T11:14:24Z",
+            "revision": 17717,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet+part"
         }
     ],
     "incomplete": [

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-07T12:11:08.364959+00:00",
+    "timestamp": "2023-09-08T08:11:09.533513+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24291,6 +24291,64 @@
             "lastModified": "2023-09-07T11:14:24Z",
             "revision": 17717,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet+part"
+        },
+        {
+            "id": "a141",
+            "eventItem": false,
+            "name": "Destroyer Armor",
+            "type": "Protective Gear",
+            "subType": "Armor",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a141",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": {
+                "Sapphire": "23",
+                "Ruby": "41",
+                "Bone Powder": "30",
+                "Blacksmith Frame": "32",
+                "Artisan Frame": "5",
+                "Quality Cloth": "45",
+                "Arcane Mold": "3",
+                "Supreme Shard": "300",
+                "Destroyer Armor part": "7",
+                "Destroyer Armor recipe": "1"
+            },
+            "pagename": "Destroyer Armor",
+            "lastModified": "2023-09-08T07:21:21Z",
+            "revision": 17724,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Armor"
+        },
+        {
+            "id": "r142",
+            "eventItem": false,
+            "name": "Destroyer Armor recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Armor recipe",
+            "lastModified": "2023-09-08T07:18:21Z",
+            "revision": 17723,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Armor+recipe"
+        },
+        {
+            "id": "k147",
+            "eventItem": false,
+            "name": "Destroyer Armor part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "dropValleyMorning": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Armor part",
+            "lastModified": "2023-09-08T07:17:19Z",
+            "revision": 17722,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Armor+part"
         }
     ],
     "incomplete": [

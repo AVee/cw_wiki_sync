@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-07T12:11:08.476984+00:00",
+    "timestamp": "2023-09-08T08:11:09.644851+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -30676,6 +30676,104 @@
             "lastModified": "2023-09-07T11:14:24Z",
             "revision": 17717,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Helmet+part"
+        },
+        {
+            "id": "a141",
+            "eventItem": false,
+            "name": "Destroyer Armor",
+            "type": "Protective Gear",
+            "subType": "Armor",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a141",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "23",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "41",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "30",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "32",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Frame",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "45",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "300",
+                    "personalized": false
+                },
+                {
+                    "name": "Destroyer Armor part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Destroyer Armor recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Destroyer Armor",
+            "lastModified": "2023-09-08T07:21:21Z",
+            "revision": 17724,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Armor"
+        },
+        {
+            "id": "r142",
+            "eventItem": false,
+            "name": "Destroyer Armor recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Armor recipe",
+            "lastModified": "2023-09-08T07:18:21Z",
+            "revision": 17723,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Armor+recipe"
+        },
+        {
+            "id": "k147",
+            "eventItem": false,
+            "name": "Destroyer Armor part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "dropValleyMorning": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Armor part",
+            "lastModified": "2023-09-08T07:17:19Z",
+            "revision": 17722,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Armor+part"
         }
     ],
     "incomplete": [

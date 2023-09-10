@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-08T08:11:09.644851+00:00",
+    "timestamp": "2023-09-10T07:11:07.983558+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -30774,6 +30774,21 @@
             "lastModified": "2023-09-08T07:17:19Z",
             "revision": 17722,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Armor+part"
+        },
+        {
+            "id": "k160",
+            "eventItem": false,
+            "name": "Old Guard shaft",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "dropSwampNight": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Old Guard shaft",
+            "lastModified": "2023-09-10T06:30:54Z",
+            "revision": 17727,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Old+Guard+shaft"
         }
     ],
     "incomplete": [

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-10T07:11:07.983558+00:00",
+    "timestamp": "2023-09-11T06:11:08.522237+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -30789,6 +30789,109 @@
             "lastModified": "2023-09-10T06:30:54Z",
             "revision": 17727,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Old+Guard+shaft"
+        },
+        {
+            "id": "a138",
+            "eventItem": false,
+            "name": "Destroyer Boots",
+            "type": "Protective Gear",
+            "subType": "Boots",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a138",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "24",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "21",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "23",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "15",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "150",
+                    "personalized": false
+                },
+                {
+                    "name": "Destiny Boots part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Destiny Boots recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Destroyer Boots",
+            "lastModified": "2023-09-11T06:00:55Z",
+            "revision": 17733,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Boots"
+        },
+        {
+            "id": "Destroyer Boots recipe",
+            "eventItem": false,
+            "name": "r144",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Boots recipe",
+            "lastModified": "2023-09-11T05:57:08Z",
+            "revision": 17732,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Boots+recipe"
+        },
+        {
+            "id": "k145",
+            "eventItem": false,
+            "name": "Destroyer Boots part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "dropValleyMorning": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Destroyer Boots part",
+            "lastModified": "2023-09-11T05:56:16Z",
+            "revision": 17731,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Boots+part"
         }
     ],
     "incomplete": [

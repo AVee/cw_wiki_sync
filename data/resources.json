@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-11T06:11:08.403931+00:00",
+    "timestamp": "2023-09-11T19:11:07.756806+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24423,6 +24423,18 @@
             "lastModified": "2023-09-11T05:56:16Z",
             "revision": 17731,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Boots+part"
+        },
+        {
+            "id": "a120",
+            "eventItem": false,
+            "name": "Scout's Sling Pack",
+            "type": "Special Equippable",
+            "inventoryIncrease": 5,
+            "recipe": [],
+            "pagename": "Scout's Sling Pack",
+            "lastModified": "2023-09-11T18:59:30Z",
+            "revision": 17736,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scout%27s+Sling+Pack"
         }
     ],
     "incomplete": [

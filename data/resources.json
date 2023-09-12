@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-12T07:11:10.630432+00:00",
+    "timestamp": "2023-09-12T08:11:08.329761+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24625,6 +24625,42 @@
             "lastModified": "2023-09-12T06:11:43Z",
             "revision": 17739,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Old+Guard+recipe"
+        },
+        {
+            "id": "aid",
+            "eventItem": false,
+            "name": "First Aid Kit",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "First Aid Kit",
+            "lastModified": "2023-09-12T08:07:34Z",
+            "revision": 17755,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=First+Aid+Kit"
+        },
+        {
+            "id": "a44",
+            "eventItem": false,
+            "name": "Veteran's Cloak",
+            "type": "Cape",
+            "attack": 3,
+            "defense": 3,
+            "recipe": [],
+            "pagename": "Veteran's Cloak",
+            "lastModified": "2023-09-12T08:05:29Z",
+            "revision": 17754,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Veteran%27s+Cloak"
+        },
+        {
+            "id": "a42",
+            "eventItem": false,
+            "name": "Saddlebag",
+            "type": "Special Equippable",
+            "inventoryIncrease": 5,
+            "recipe": [],
+            "pagename": "Saddlebag",
+            "lastModified": "2023-09-12T08:04:47Z",
+            "revision": 17753,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Saddlebag"
         }
     ],
     "incomplete": [

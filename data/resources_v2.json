@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-11T19:11:07.882528+00:00",
+    "timestamp": "2023-09-12T07:11:10.743581+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -30477,7 +30477,7 @@
             "id": "a137",
             "eventItem": false,
             "name": "Majestic Hat",
-            "type": "Piece of Equipment",
+            "type": "Protective Gear",
             "subType": "Helmet",
             "quest": false,
             "enchantable": true,
@@ -30543,8 +30543,8 @@
                 }
             ],
             "pagename": "Majestic Hat",
-            "lastModified": "2023-09-07T05:38:46Z",
-            "revision": 17714,
+            "lastModified": "2023-09-12T06:43:24Z",
+            "revision": 17747,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Hat"
         },
         {
@@ -30904,6 +30904,348 @@
             "lastModified": "2023-09-11T18:59:30Z",
             "revision": 17736,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scout%27s+Sling+Pack"
+        },
+        {
+            "id": "w117",
+            "eventItem": false,
+            "name": "Heartbreaker",
+            "type": "Weapon",
+            "subType": "Blunt",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_w117",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Ruby",
+                    "qty": "11",
+                    "personalized": false
+                },
+                {
+                    "name": "Hardener",
+                    "qty": "16",
+                    "personalized": false
+                },
+                {
+                    "name": "Coke",
+                    "qty": "49",
+                    "personalized": false
+                },
+                {
+                    "name": "Mithril Alloy",
+                    "qty": "79",
+                    "personalized": false
+                },
+                {
+                    "name": "Silver Frame",
+                    "qty": "10",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "700",
+                    "personalized": false
+                },
+                {
+                    "name": "Heartbreaker head",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Heartbreaker recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Heartbreaker",
+            "lastModified": "2023-09-12T06:57:30Z",
+            "revision": 17750,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartbreaker"
+        },
+        {
+            "id": "r162",
+            "eventItem": false,
+            "name": "Heartbreaker recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Heartbreaker recipe",
+            "lastModified": "2023-09-12T06:54:24Z",
+            "revision": 17749,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartbreaker+recipe"
+        },
+        {
+            "id": "k164",
+            "eventItem": false,
+            "name": "Heartbreaker head",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Heartbreaker head",
+            "lastModified": "2023-09-12T06:49:08Z",
+            "revision": 17748,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Heartbreaker+head"
+        },
+        {
+            "id": "a145",
+            "eventItem": false,
+            "name": "Monument Armor",
+            "type": "Protective Gear",
+            "subType": "Armor",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a145",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "29",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "35",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Frame",
+                    "qty": "12",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "300",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Armor part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Armor recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Monument Armor",
+            "lastModified": "2023-09-12T06:38:59Z",
+            "revision": 17746,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Armor"
+        },
+        {
+            "id": "r133",
+            "eventItem": false,
+            "name": "Monument Armor recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Monument Armor recipe",
+            "lastModified": "2023-09-12T06:34:13Z",
+            "revision": 17745,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Armor+recipe"
+        },
+        {
+            "id": "k151",
+            "eventItem": false,
+            "name": "Monument Armor part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Monument Armor part",
+            "lastModified": "2023-09-12T06:33:41Z",
+            "revision": 17744,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Armor+part"
+        },
+        {
+            "id": "a127",
+            "eventItem": false,
+            "name": "Destiny Armor",
+            "type": "Protective Gear",
+            "subType": "Armor",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_127",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "15",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "27",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "20",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "21",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Frame",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "30",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "300",
+                    "personalized": false
+                },
+                {
+                    "name": "Destiny Armor part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Destiny Armor recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Destiny Armor",
+            "lastModified": "2023-09-12T06:29:45Z",
+            "revision": 17743,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Armor"
+        },
+        {
+            "id": "Destiny Armor recipe",
+            "eventItem": false,
+            "name": "r138",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Destiny Armor recipe",
+            "lastModified": "2023-09-12T06:26:23Z",
+            "revision": 17742,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Armor+recipe"
+        },
+        {
+            "id": "k134",
+            "eventItem": false,
+            "name": "Destiny Armor part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Destiny Armor part",
+            "lastModified": "2023-09-12T06:25:27Z",
+            "revision": 17741,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Armor+part"
+        },
+        {
+            "id": "w113",
+            "eventItem": false,
+            "name": "Old Guard Bow",
+            "type": "Weapon",
+            "subType": "Bow",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_w113",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Ruby",
+                    "qty": "11",
+                    "personalized": false
+                },
+                {
+                    "name": "Hardener",
+                    "qty": "16",
+                    "personalized": false
+                },
+                {
+                    "name": "Coke",
+                    "qty": "49",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "13",
+                    "personalized": false
+                },
+                {
+                    "name": "Tempered Shaft",
+                    "qty": "30",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "700",
+                    "personalized": false
+                },
+                {
+                    "name": "Old Guard recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Old Guard shaft",
+                    "qty": "7",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Old Guard",
+            "lastModified": "2023-09-12T06:16:14Z",
+            "revision": 17740,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Old+Guard"
+        },
+        {
+            "id": "r160",
+            "eventItem": false,
+            "name": "Old Guard recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Old Guard recipe",
+            "lastModified": "2023-09-12T06:11:43Z",
+            "revision": 17739,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Old+Guard+recipe"
         }
     ],
     "incomplete": [

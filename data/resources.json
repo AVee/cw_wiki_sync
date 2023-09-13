@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-12T08:11:08.329761+00:00",
+    "timestamp": "2023-09-13T05:11:07.803302+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24661,6 +24661,21 @@
             "lastModified": "2023-09-12T08:04:47Z",
             "revision": 17753,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Saddlebag"
+        },
+        {
+            "id": "k159",
+            "eventItem": false,
+            "name": "Divine Javelin blade",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "dropSwampEvening": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Divine Javelin blade",
+            "lastModified": "2023-09-13T05:10:55Z",
+            "revision": 17761,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Javelin+blade"
         }
     ],
     "incomplete": [

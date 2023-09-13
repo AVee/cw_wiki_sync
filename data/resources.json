@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-13T07:11:08.751424+00:00",
+    "timestamp": "2023-09-13T09:11:10.810100+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24719,6 +24719,138 @@
             "lastModified": "2023-09-13T05:13:39Z",
             "revision": 17764,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Javelin+recipe"
+        },
+        {
+            "id": "tr4",
+            "eventItem": false,
+            "name": "Green trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Green trap",
+            "lastModified": "2023-09-13T08:27:48Z",
+            "revision": 17782,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Green+trap"
+        },
+        {
+            "id": "tr8",
+            "eventItem": false,
+            "name": "Lime trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Lime trap",
+            "lastModified": "2023-09-13T08:26:35Z",
+            "revision": 17781,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Lime+trap"
+        },
+        {
+            "id": "tr9",
+            "eventItem": false,
+            "name": "Teal trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Teal trap",
+            "lastModified": "2023-09-13T08:25:40Z",
+            "revision": 17780,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Teal+trap"
+        },
+        {
+            "id": "tr7",
+            "eventItem": false,
+            "name": "Violet trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Violet trap",
+            "lastModified": "2023-09-13T08:24:11Z",
+            "revision": 17778,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Violet+trap"
+        },
+        {
+            "id": "tr6",
+            "eventItem": false,
+            "name": "Indigo trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Indigo trap",
+            "lastModified": "2023-09-13T08:23:50Z",
+            "revision": 17777,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Indigo+trap"
+        },
+        {
+            "id": "tr5",
+            "eventItem": false,
+            "name": "Blue trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Blue trap",
+            "lastModified": "2023-09-13T08:23:24Z",
+            "revision": 17776,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Blue+trap"
+        },
+        {
+            "id": "tr3",
+            "eventItem": false,
+            "name": "Yellow trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Yellow trap",
+            "lastModified": "2023-09-13T08:22:59Z",
+            "revision": 17775,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Yellow+trap"
+        },
+        {
+            "id": "tr2",
+            "eventItem": false,
+            "name": "Orange trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Orange trap",
+            "lastModified": "2023-09-13T08:22:01Z",
+            "revision": 17774,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Orange+trap"
+        },
+        {
+            "id": "tr1",
+            "eventItem": false,
+            "name": "Red trap",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Red trap",
+            "lastModified": "2023-09-13T08:21:40Z",
+            "revision": 17773,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Red+trap"
+        },
+        {
+            "id": "tow",
+            "eventItem": false,
+            "name": "Observer ward",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Observer ward",
+            "lastModified": "2023-09-13T08:21:17Z",
+            "revision": 17772,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Observer+ward"
+        },
+        {
+            "id": "tms",
+            "eventItem": false,
+            "name": "Mushroom stash",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Mushroom stash",
+            "lastModified": "2023-09-13T08:20:48Z",
+            "revision": 17771,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mushroom+stash"
+        },
+        {
+            "id": "td1",
+            "eventItem": false,
+            "name": "Colorless shard",
+            "type": "Misc",
+            "recipe": [],
+            "pagename": "Colorless shard",
+            "lastModified": "2023-09-13T08:18:36Z",
+            "revision": 17770,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Colorless+shard"
         }
     ],
     "incomplete": [

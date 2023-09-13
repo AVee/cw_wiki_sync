@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-13T05:11:07.803302+00:00",
+    "timestamp": "2023-09-13T06:11:08.117860+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24676,6 +24676,49 @@
             "lastModified": "2023-09-13T05:10:55Z",
             "revision": 17761,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Javelin+blade"
+        },
+        {
+            "id": "w112",
+            "eventItem": false,
+            "name": "Divine Javelin",
+            "type": "Weapon",
+            "subType": "Spear",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_w112",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": {
+                "Ruby": "19",
+                "Hardener": "11",
+                "Coke": "73",
+                "Mithril Alloy": "27",
+                "Artisan Mold": "27",
+                "Tempered Shaft": "99",
+                "Arcane Mold": "7",
+                "Supreme Shard": "700",
+                "Divine Javelin blade": "7",
+                "Divine Javelin recipe": "1"
+            },
+            "pagename": "Divine Javelin",
+            "lastModified": "2023-09-13T05:43:51Z",
+            "revision": 17765,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Javelin"
+        },
+        {
+            "id": "r159",
+            "eventItem": false,
+            "name": "Divine Javelin recipe",
+            "type": "Recipe (Item)",
+            "quest": true,
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Divine Javelin recipe",
+            "lastModified": "2023-09-13T05:13:39Z",
+            "revision": 17764,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Divine+Javelin+recipe"
         }
     ],
     "incomplete": [

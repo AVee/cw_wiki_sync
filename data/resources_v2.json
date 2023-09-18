@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-13T09:11:10.922614+00:00",
+    "timestamp": "2023-09-18T14:11:14.782661+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -31512,6 +31512,17 @@
             "lastModified": "2023-09-13T08:18:36Z",
             "revision": 17770,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Colorless+shard"
+        },
+        {
+            "id": "cert2",
+            "eventItem": false,
+            "name": "Certificate of Advanced Training",
+            "type": "Consumable",
+            "recipe": [],
+            "pagename": "Certificate of Advanced Training (Collector)",
+            "lastModified": "2023-09-18T13:46:57Z",
+            "revision": 17786,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Certificate+of+Advanced+Training+%28Collector%29"
         }
     ],
     "incomplete": [

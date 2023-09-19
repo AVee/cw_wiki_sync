@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-18T14:11:14.782661+00:00",
+    "timestamp": "2023-09-19T17:11:10.350584+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -31523,6 +31523,192 @@
             "lastModified": "2023-09-18T13:46:57Z",
             "revision": 17786,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Certificate+of+Advanced+Training+%28Collector%29"
+        },
+        {
+            "id": "a136",
+            "eventItem": false,
+            "name": "Majestic Robe",
+            "type": "Protective Gear",
+            "subType": "Armor",
+            "armorClass": "Robe Armor",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a136",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "63",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "87",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "35",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "12",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "49",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "300",
+                    "personalized": false
+                },
+                {
+                    "name": "Majestic Robe part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Majestic Robe recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Majestic Robe",
+            "lastModified": "2023-09-19T17:08:53Z",
+            "revision": 17796,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Robe"
+        },
+        {
+            "id": "a143",
+            "eventItem": false,
+            "name": "Monument Boots",
+            "type": "Protective Gear",
+            "subType": "Boots",
+            "armorClass": "Heavy Armor",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a143",
+            "craftSkill": "Crafting (Skill)",
+            "recipe": [
+                {
+                    "name": "Sapphire",
+                    "qty": "24",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Frame",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "83",
+                    "qty": "17",
+                    "personalized": false
+                },
+                {
+                    "name": "84",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "86",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "150",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Boots part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Boots recipe",
+                    "qty": "1",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Monument Boots",
+            "lastModified": "2023-09-19T17:07:59Z",
+            "revision": 17795,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Boots"
+        },
+        {
+            "id": "r135",
+            "eventItem": false,
+            "name": "Monument Boots recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Monument Boots recipe",
+            "lastModified": "2023-09-19T17:03:41Z",
+            "revision": 17793,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Boots+recipe"
+        },
+        {
+            "id": "k149",
+            "eventItem": false,
+            "name": "Monument Boots part",
+            "type": "Piece of Equipment",
+            "enchantable": false,
+            "craftable": false,
+            "recipe": [],
+            "pagename": "Monument Boots part",
+            "lastModified": "2023-09-19T17:03:02Z",
+            "revision": 17792,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Boots+part"
+        },
+        {
+            "id": "r150",
+            "eventItem": false,
+            "name": "Majestic Robe recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Majestic Robe recipe",
+            "lastModified": "2023-09-19T16:57:12Z",
+            "revision": 17790,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Robe+recipe"
+        },
+        {
+            "id": "k143",
+            "eventItem": false,
+            "name": "Majestic Robe part",
+            "type": "Piece of Equipment",
+            "quest": true,
+            "dropValleyDay": true,
+            "recipe": [],
+            "pagename": "Majestic Robe part",
+            "lastModified": "2023-09-19T16:56:30Z",
+            "revision": 17789,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Robe+part"
         }
     ],
     "incomplete": [

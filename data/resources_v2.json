@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-22T20:11:13.274172+00:00",
+    "timestamp": "2023-10-26T07:11:04.949764+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -13,7 +13,7 @@
             "recipeIncomplete": false,
             "craftCommand": "/c_87",
             "craftSkill": "Crafting (Skill)",
-            "craftMana": 10,
+            "craftMana": 600,
             "recipe": [
                 {
                     "name": "Artisan Mold",
@@ -42,8 +42,8 @@
                 }
             ],
             "pagename": "Arcane Mold",
-            "lastModified": "2023-09-04T08:53:55Z",
-            "revision": 17554,
+            "lastModified": "2023-10-26T06:32:49Z",
+            "revision": 17836,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Arcane+Mold"
         },
         {
@@ -7631,7 +7631,7 @@
             "recipe": [
                 {
                     "name": "Sapphire",
-                    "qty": "15",
+                    "qty": "6",
                     "personalized": false
                 },
                 {
@@ -7686,8 +7686,8 @@
                 }
             ],
             "pagename": "Destiny Boots",
-            "lastModified": "2023-09-05T13:37:45Z",
-            "revision": 17605,
+            "lastModified": "2023-10-26T06:34:21Z",
+            "revision": 17837,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Boots"
         },
         {

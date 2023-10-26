@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-22T20:11:13.133846+00:00",
+    "timestamp": "2023-10-26T07:11:04.824518+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -13,7 +13,7 @@
             "recipeIncomplete": false,
             "craftCommand": "/c_87",
             "craftSkill": "Crafting (Skill)",
-            "craftMana": 10,
+            "craftMana": 600,
             "recipe": {
                 "Artisan Mold": "1",
                 "Silver Frame": "2",
@@ -22,8 +22,8 @@
                 "Eminent Shard": "5"
             },
             "pagename": "Arcane Mold",
-            "lastModified": "2023-09-04T08:53:55Z",
-            "revision": 17554,
+            "lastModified": "2023-10-26T06:32:49Z",
+            "revision": 17836,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Arcane+Mold"
         },
         {
@@ -5905,7 +5905,7 @@
             "craftCommand": "/c_a125",
             "craftSkill": "Crafting (Skill)",
             "recipe": {
-                "Sapphire": "15",
+                "Sapphire": "6",
                 "Solvent": "2",
                 "Ruby": "16",
                 "Blacksmith Frame": "5",
@@ -5918,8 +5918,8 @@
                 "Destiny Boots recipe": "1"
             },
             "pagename": "Destiny Boots",
-            "lastModified": "2023-09-05T13:37:45Z",
-            "revision": 17605,
+            "lastModified": "2023-10-26T06:34:21Z",
+            "revision": 17837,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Boots"
         },
         {

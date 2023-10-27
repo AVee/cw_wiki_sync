@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-26T07:11:04.824518+00:00",
+    "timestamp": "2023-10-27T08:11:04.082610+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -23462,8 +23462,8 @@
             "recipe": {
                 "Sapphire": "16",
                 "Solvent": "6",
-                "Ruby": "31",
-                "Blacksmith Frame": "3",
+                "Ruby": "3",
+                "Artisan Frame": "3",
                 "Quality Cloth": "6",
                 "Forged Leather": "11",
                 "Reinforced Loom": "7",
@@ -23473,8 +23473,8 @@
                 "Giant Boots recipe": "1"
             },
             "pagename": "Giant Boots",
-            "lastModified": "2023-09-05T14:04:43Z",
-            "revision": 17617,
+            "lastModified": "2023-10-27T07:45:24Z",
+            "revision": 17838,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots"
         },
         {

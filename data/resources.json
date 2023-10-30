@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-27T08:11:04.082610+00:00",
+    "timestamp": "2023-10-30T10:11:04.858488+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -18867,7 +18867,7 @@
             "recipeIncomplete": false,
             "craftCommand": "/c_86",
             "craftSkill": "Crafting (Skill)",
-            "craftMana": 10,
+            "craftMana": 600,
             "recipe": {
                 "Blacksmith Mold": "1",
                 "Silver Frame": "2",
@@ -18876,8 +18876,8 @@
                 "Eminent Shard": "5"
             },
             "pagename": "Rune Anvil",
-            "lastModified": "2023-09-04T08:54:09Z",
-            "revision": 17552,
+            "lastModified": "2023-10-30T09:14:42Z",
+            "revision": 17839,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rune+Anvil"
         },
         {

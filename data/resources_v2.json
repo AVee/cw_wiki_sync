@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-30T10:11:05.036045+00:00",
+    "timestamp": "2023-10-31T13:11:05.180048+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -9,10 +9,12 @@
             "eventItem": false,
             "name": "Arcane Mold",
             "type": "Resource",
+            "weight": 3,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_87",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 7,
             "craftMana": 600,
             "recipe": [
                 {
@@ -42,8 +44,8 @@
                 }
             ],
             "pagename": "Arcane Mold",
-            "lastModified": "2023-10-26T06:32:49Z",
-            "revision": 17836,
+            "lastModified": "2023-10-31T13:06:56Z",
+            "revision": 17842,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Arcane+Mold"
         },
         {
@@ -10680,12 +10682,14 @@
             "eventItem": false,
             "name": "Forged Leather",
             "type": "Resource",
+            "weight": 2,
             "quest": false,
             "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_83",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
             "craftMana": 400,
             "recipe": [
                 {
@@ -10715,8 +10719,8 @@
                 }
             ],
             "pagename": "Forged Leather",
-            "lastModified": "2023-09-04T08:53:52Z",
-            "revision": 17551,
+            "lastModified": "2023-10-31T13:08:53Z",
+            "revision": 17845,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Forged+Leather"
         },
         {
@@ -18904,6 +18908,7 @@
             "eventItem": false,
             "name": "Mithril Alloy",
             "type": "Resource",
+            "weight": 3,
             "exchange": false,
             "auction": false,
             "quest": false,
@@ -18912,6 +18917,7 @@
             "recipeIncomplete": false,
             "craftCommand": "/c_26",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
             "craftMana": 400,
             "recipe": [
                 {
@@ -18931,8 +18937,8 @@
                 }
             ],
             "pagename": "Mithril Alloy",
-            "lastModified": "2023-09-06T09:04:04Z",
-            "revision": 17703,
+            "lastModified": "2023-10-31T13:09:23Z",
+            "revision": 17846,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Alloy"
         },
         {
@@ -22777,10 +22783,12 @@
             "eventItem": false,
             "name": "Reinforced Loom",
             "type": "Resource",
+            "weight": 2,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_84",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
             "craftMana": 400,
             "recipe": [
                 {
@@ -22810,8 +22818,8 @@
                 }
             ],
             "pagename": "Reinforced Loom",
-            "lastModified": "2023-09-04T08:53:42Z",
-            "revision": 17547,
+            "lastModified": "2023-10-31T13:08:19Z",
+            "revision": 17844,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Reinforced+Loom"
         },
         {
@@ -24071,12 +24079,14 @@
             "eventItem": false,
             "name": "Rune Anvil",
             "type": "Resource",
+            "weight": 3,
             "quest": false,
             "enchantable": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_86",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 7,
             "craftMana": 600,
             "recipe": [
                 {
@@ -24106,8 +24116,8 @@
                 }
             ],
             "pagename": "Rune Anvil",
-            "lastModified": "2023-10-30T09:14:42Z",
-            "revision": 17839,
+            "lastModified": "2023-10-31T13:06:00Z",
+            "revision": 17841,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rune+Anvil"
         },
         {
@@ -27080,10 +27090,12 @@
             "eventItem": false,
             "name": "Tempered Shaft",
             "type": "Resource",
+            "weight": 8,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_85",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 6,
             "craftMana": 400,
             "recipe": [
                 {
@@ -27103,8 +27115,8 @@
                 }
             ],
             "pagename": "Tempered Shaft",
-            "lastModified": "2023-09-04T08:54:09Z",
-            "revision": 17553,
+            "lastModified": "2023-10-31T13:07:49Z",
+            "revision": 17843,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Tempered+Shaft"
         },
         {
@@ -29498,8 +29510,18 @@
             "type": "Protective Gear",
             "subType": "Boots",
             "armorClass": "Heavy Armor",
+            "attack": 8,
+            "defense": 26,
+            "weight": 170,
+            "wrapping": 1,
+            "depositable": true,
+            "shopSellPrice": 964,
             "craftable": true,
             "recipeIncomplete": false,
+            "craftCommand": "/c_a130",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 7,
+            "craftMana": 1100,
             "recipe": [
                 {
                     "name": "Sapphire",
@@ -29558,8 +29580,8 @@
                 }
             ],
             "pagename": "Giant Boots",
-            "lastModified": "2023-10-27T07:45:24Z",
-            "revision": 17838,
+            "lastModified": "2023-10-31T12:41:36Z",
+            "revision": 17840,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots"
         },
         {

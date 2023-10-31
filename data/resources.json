@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-31T13:11:05.063922+00:00",
+    "timestamp": "2023-10-31T14:11:08.280167+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -7825,10 +7825,11 @@
             "eventItem": false,
             "name": "Eminent Shard",
             "type": "Resource",
+            "weight": 3,
             "recipe": [],
             "pagename": "Eminent Shard",
-            "lastModified": "2023-09-04T08:53:21Z",
-            "revision": 17557,
+            "lastModified": "2023-10-31T13:24:09Z",
+            "revision": 17850,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Eminent+Shard"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-31T14:11:08.280167+00:00",
+    "timestamp": "2023-11-02T17:11:04.880121+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -15096,8 +15096,8 @@
             "name": "Mithril ore",
             "type": "Resource",
             "weight": 2,
-            "depositable": false,
-            "exchange": false,
+            "depositable": true,
+            "exchange": true,
             "auction": false,
             "quest": true,
             "dropValleyMorning": true,
@@ -15107,8 +15107,8 @@
             "enchantable": false,
             "recipe": [],
             "pagename": "Mithril Ore",
-            "lastModified": "2023-09-05T08:19:07Z",
-            "revision": 17585,
+            "lastModified": "2023-11-02T16:21:17Z",
+            "revision": 17854,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Ore"
         },
         {

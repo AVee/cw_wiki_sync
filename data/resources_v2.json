@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-02T17:11:04.996056+00:00",
+    "timestamp": "2023-11-04T21:11:09.900398+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -32195,6 +32195,54 @@
             "lastModified": "2023-10-22T19:39:06Z",
             "revision": 17803,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Spell"
+        },
+        {
+            "id": "s24",
+            "eventItem": false,
+            "name": "📓Rare scroll of Peace",
+            "type": "Misc",
+            "subType": "Scroll",
+            "recipe": [],
+            "pagename": "Rare scroll of Peace (Black)",
+            "lastModified": "2023-11-04T21:06:03Z",
+            "revision": 17858,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+scroll+of+Peace+%28Black%29"
+        },
+        {
+            "id": "s23",
+            "eventItem": false,
+            "name": "📓Rare scroll of Rage",
+            "type": "Misc",
+            "subType": "Scroll",
+            "recipe": [],
+            "pagename": "Rare scroll of Rage (Black)",
+            "lastModified": "2023-11-04T21:06:17Z",
+            "revision": 17857,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rare+scroll+of+Rage+%28Black%29"
+        },
+        {
+            "id": "s22",
+            "eventItem": false,
+            "name": "📓Scroll of Peace",
+            "type": "Misc",
+            "subType": "Scroll",
+            "recipe": [],
+            "pagename": "Scroll of Peace (Black)",
+            "lastModified": "2023-11-04T21:06:11Z",
+            "revision": 17856,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Peace+%28Black%29"
+        },
+        {
+            "id": "s21",
+            "eventItem": false,
+            "name": "📓Scroll of Rage",
+            "type": "Misc",
+            "subType": "Scroll",
+            "recipe": [],
+            "pagename": "Scroll of Rage (Black)",
+            "lastModified": "2023-11-04T21:05:16Z",
+            "revision": 17855,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Scroll+of+Rage+%28Black%29"
         }
     ],
     "incomplete": [

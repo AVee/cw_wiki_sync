@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-09T12:11:08.586866+00:00",
+    "timestamp": "2023-11-09T13:11:08.731866+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -32257,9 +32257,9 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Helmet+recipe"
         },
         {
-            "id": "Giant Armor",
+            "id": "a132",
             "eventItem": false,
-            "name": "a132",
+            "name": "Giant Armor",
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Heavy Armor",
@@ -32324,8 +32324,8 @@
                 }
             ],
             "pagename": "Giant Armor",
-            "lastModified": "2023-11-09T11:01:06Z",
-            "revision": 17871,
+            "lastModified": "2023-11-09T12:59:24Z",
+            "revision": 17880,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Armor"
         },
         {
@@ -32351,9 +32351,9 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Armor+recipe"
         },
         {
-            "id": "Sunfire Robe",
+            "id": "a123",
             "eventItem": false,
-            "name": "a123",
+            "name": "Sunfire Robe",
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Robe Armor",
@@ -32416,8 +32416,8 @@
                 }
             ],
             "pagename": "Sunfire Robe",
-            "lastModified": "2023-11-09T10:54:06Z",
-            "revision": 17868,
+            "lastModified": "2023-11-09T12:58:05Z",
+            "revision": 17879,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Robe"
         },
         {
@@ -32556,6 +32556,188 @@
             "lastModified": "2023-11-09T11:14:34Z",
             "revision": 17875,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Helmet+part"
+        },
+        {
+            "id": "a146",
+            "eventItem": false,
+            "name": "Monument Helmet",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "armorClass": "Heavy Armor",
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 8,
+            "craftMana": 1500,
+            "recipe": [
+                {
+                    "name": "Monument Helmet recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Monument Helmet part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "4",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Frame",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "9",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "18",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "21",
+                    "personalized": false
+                },
+                {
+                    "name": "Sapphire",
+                    "qty": "27",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "35",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "200",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Monument Helmet",
+            "lastModified": "2023-11-09T13:09:18Z",
+            "revision": 17884,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Helmet"
+        },
+        {
+            "id": "k152",
+            "eventItem": false,
+            "name": "Monument Helmet part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Monument Helmet part",
+            "lastModified": "2023-11-09T13:06:13Z",
+            "revision": 17883,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Helmet+part"
+        },
+        {
+            "id": "r134",
+            "eventItem": false,
+            "name": "Monument Helmet recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Monument Helmet recipe",
+            "lastModified": "2023-11-09T13:05:38Z",
+            "revision": 17882,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Monument+Helmet+recipe"
+        },
+        {
+            "id": "a124",
+            "eventItem": false,
+            "name": "Sunfire Hat",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "armorClass": "Robe Armor",
+            "levelRequirement": 80,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a124",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 7,
+            "craftMana": 1100,
+            "recipe": [
+                {
+                    "name": "Sunfire Hat recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Sunfire Hat part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith frame",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "27",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "27",
+                    "personalized": false
+                },
+                {
+                    "name": "Sapphire",
+                    "qty": "33",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "39",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "200",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Sunfire Hat",
+            "lastModified": "2023-11-09T13:01:42Z",
+            "revision": 17881,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Hat"
         }
     ],
     "incomplete": [
@@ -32710,87 +32892,6 @@
             "lastModified": "2023-09-02T12:26:54Z",
             "revision": 17299,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Testy+Mc+Test+Food"
-        },
-        {
-            "id": "??",
-            "eventItem": false,
-            "name": "Sunfire Hat",
-            "type": "Protective Gear",
-            "subType": "Helmet",
-            "armorClass": "Robe Armor",
-            "levelRequirement": 80,
-            "depositable": true,
-            "exchange": false,
-            "auction": true,
-            "quest": false,
-            "enchantable": true,
-            "craftable": true,
-            "recipeIncomplete": false,
-            "craftCommand": "/c_a124",
-            "craftSkill": "Crafting (Skill)",
-            "craftLevel": 7,
-            "craftMana": 1100,
-            "recipe": [
-                {
-                    "name": "Sunfire Hat recipe",
-                    "qty": "1",
-                    "personalized": false
-                },
-                {
-                    "name": "Sunfire Hat part",
-                    "qty": "7",
-                    "personalized": false
-                },
-                {
-                    "name": "Arcane Mold",
-                    "qty": "2",
-                    "personalized": false
-                },
-                {
-                    "name": "Solvent",
-                    "qty": "2",
-                    "personalized": false
-                },
-                {
-                    "name": "Forged Leather",
-                    "qty": "3",
-                    "personalized": false
-                },
-                {
-                    "name": "Blacksmith frame",
-                    "qty": "6",
-                    "personalized": false
-                },
-                {
-                    "name": "Quality Cloth",
-                    "qty": "27",
-                    "personalized": false
-                },
-                {
-                    "name": "Reinforced Loom",
-                    "qty": "27",
-                    "personalized": false
-                },
-                {
-                    "name": "Sapphire",
-                    "qty": "33",
-                    "personalized": false
-                },
-                {
-                    "name": "Ruby",
-                    "qty": "39",
-                    "personalized": false
-                },
-                {
-                    "name": "Eminent Shard",
-                    "qty": "200",
-                    "personalized": false
-                }
-            ],
-            "pagename": "Sunfire Hat",
-            "lastModified": "2023-11-09T10:46:35Z",
-            "revision": 17864,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Hat"
         }
     ]
 }

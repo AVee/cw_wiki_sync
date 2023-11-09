@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-09T11:11:10.878617+00:00",
+    "timestamp": "2023-11-09T12:11:08.464434+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -25562,6 +25562,51 @@
             "lastModified": "2023-11-09T10:28:56Z",
             "revision": 17862,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Hat+part"
+        },
+        {
+            "id": "a133",
+            "eventItem": false,
+            "name": "Giant Helmet",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "armorClass": "Heavy Armor",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a133",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 7,
+            "craftMana": 1100,
+            "recipe": {
+                "Giant Helmet recipe": "1",
+                "Giant Helmet part": "7",
+                "Quality Cloth": "2",
+                "Ruby": "3",
+                "Rune Anvil": "5",
+                "Artisan Frame": "6",
+                "Forged Leather": "6",
+                "Solvent": "12",
+                "Reinforced Loom": "14",
+                "Sapphire": "18",
+                "Bone Powder": "23",
+                "Eminent Shard": "200"
+            },
+            "pagename": "Giant Helmet",
+            "lastModified": "2023-11-09T11:20:40Z",
+            "revision": 17876,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Helmet"
+        },
+        {
+            "id": "k139",
+            "eventItem": false,
+            "name": "Giant Helmet part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Giant Helmet part",
+            "lastModified": "2023-11-09T11:14:34Z",
+            "revision": 17875,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Helmet+part"
         }
     ],
     "incomplete": [

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-09T11:11:10.998568+00:00",
+    "timestamp": "2023-11-09T12:11:08.586866+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -32463,6 +32463,99 @@
             "lastModified": "2023-11-09T10:28:56Z",
             "revision": 17862,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Hat+part"
+        },
+        {
+            "id": "a133",
+            "eventItem": false,
+            "name": "Giant Helmet",
+            "type": "Protective Gear",
+            "subType": "Helmet",
+            "armorClass": "Heavy Armor",
+            "quest": false,
+            "enchantable": true,
+            "craftable": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a133",
+            "craftSkill": "Crafting (Skill)",
+            "craftLevel": 7,
+            "craftMana": 1100,
+            "recipe": [
+                {
+                    "name": "Giant Helmet recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Giant Helmet part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "3",
+                    "personalized": false
+                },
+                {
+                    "name": "Rune Anvil",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Artisan Frame",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Forged Leather",
+                    "qty": "6",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "12",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Sapphire",
+                    "qty": "18",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "23",
+                    "personalized": false
+                },
+                {
+                    "name": "Eminent Shard",
+                    "qty": "200",
+                    "personalized": false
+                }
+            ],
+            "pagename": "Giant Helmet",
+            "lastModified": "2023-11-09T11:20:40Z",
+            "revision": 17876,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Helmet"
+        },
+        {
+            "id": "k139",
+            "eventItem": false,
+            "name": "Giant Helmet part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Giant Helmet part",
+            "lastModified": "2023-11-09T11:14:34Z",
+            "revision": 17875,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Helmet+part"
         }
     ],
     "incomplete": [

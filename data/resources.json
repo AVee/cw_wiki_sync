@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-19T16:11:04.575115+00:00",
+    "timestamp": "2023-11-19T17:11:08.566778+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -25467,6 +25467,10 @@
             "type": "Protective Gear",
             "subType": "Armor",
             "armorClass": "Heavy Armor",
+            "levelRequirement": 80,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
             "quest": false,
             "enchantable": true,
             "craftable": true,
@@ -25484,12 +25488,12 @@
                 "Quality Cloth": "9",
                 "Ruby": "9",
                 "Sapphire": "19",
-                "Bone powder": "23",
+                "Bone Powder": "23",
                 "Eminent Shard": "300"
             },
             "pagename": "Giant Armor",
-            "lastModified": "2023-11-09T12:59:24Z",
-            "revision": 17880,
+            "lastModified": "2023-11-19T16:21:25Z",
+            "revision": 17918,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Armor"
         },
         {

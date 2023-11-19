@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-18T17:11:04.684522+00:00",
+    "timestamp": "2023-11-19T00:11:05.002844+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -5901,7 +5901,18 @@
             "name": "Destiny Boots",
             "type": "Protective Gear",
             "subType": "Boots",
-            "armorClass": "Robe Armor",
+            "armorClass": "Light Armor",
+            "attack": 15,
+            "defense": 20,
+            "mana": 0,
+            "stamina": 0,
+            "inventoryIncrease": 0,
+            "luck": 0,
+            "levelRequirement": 80,
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
+            "quest": false,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a125",
@@ -5920,8 +5931,8 @@
                 "Destiny Boots recipe": "1"
             },
             "pagename": "Destiny Boots",
-            "lastModified": "2023-10-26T06:34:21Z",
-            "revision": 17837,
+            "lastModified": "2023-11-19T00:01:18Z",
+            "revision": 17890,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destiny+Boots"
         },
         {

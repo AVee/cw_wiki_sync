@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-19T00:11:05.130977+00:00",
+    "timestamp": "2023-11-19T16:11:04.696526+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -26535,7 +26535,10 @@
             "name": "Sunfire Bracers",
             "type": "Protective Gear",
             "subType": "Gloves",
-            "armorClass": "Light Armor",
+            "armorClass": "Robe Armor",
+            "depositable": true,
+            "exchange": false,
+            "auction": true,
             "craftable": true,
             "recipeIncomplete": false,
             "craftCommand": "/c_a122",
@@ -26603,8 +26606,8 @@
                 }
             ],
             "pagename": "Sunfire Bracers",
-            "lastModified": "2023-09-04T08:53:21Z",
-            "revision": 17571,
+            "lastModified": "2023-11-19T15:25:01Z",
+            "revision": 17913,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Bracers"
         },
         {

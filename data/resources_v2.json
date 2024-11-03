@@ -1,5 +1,5 @@
 {
-    "timestamp": "2024-11-03T19:11:08.061151+00:00",
+    "timestamp": "2024-11-03T20:11:08.749974+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -32783,6 +32783,172 @@
             "lastModified": "2023-11-09T13:01:42Z",
             "revision": 17881,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Hat"
+        },
+        {
+            "id": "a134",
+            "eventItem": false,
+            "name": "Majestic Shoes",
+            "type": "Protective Gear",
+            "subType": "Boots",
+            "recipe": [],
+            "pagename": "Majestic Shoes",
+            "lastModified": "2024-11-03T20:10:31Z",
+            "revision": 18120,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Shoes"
+        },
+        {
+            "id": "r165",
+            "eventItem": false,
+            "name": "Elven Arbalest recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Elven Arbalest recipe",
+            "lastModified": "2024-11-03T19:56:27Z",
+            "revision": 18119,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Elven+Arbalest+recipe"
+        },
+        {
+            "id": "r163",
+            "eventItem": false,
+            "name": "Demon Hammer recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Demon Hammer recipe",
+            "lastModified": "2024-11-03T19:56:04Z",
+            "revision": 18118,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Hammer+recipe"
+        },
+        {
+            "id": "r161",
+            "eventItem": false,
+            "name": "Bow of Peril recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Bow of Peril recipe",
+            "lastModified": "2024-11-03T19:55:32Z",
+            "revision": 18117,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bow+of+Peril+recipe"
+        },
+        {
+            "id": "r157",
+            "eventItem": false,
+            "name": "Relic Rapier recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Relic Rapier recipe",
+            "lastModified": "2024-11-03T19:55:08Z",
+            "revision": 18116,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Relic+Rapier+recipe"
+        },
+        {
+            "id": "r156",
+            "eventItem": false,
+            "name": "Caliban Blade recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Caliban Blade recipe",
+            "lastModified": "2024-11-03T19:54:40Z",
+            "revision": 18115,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Caliban+Blade+recipe"
+        },
+        {
+            "id": "r152",
+            "eventItem": false,
+            "name": "Majestic Shoes recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Majestic Shoes recipe",
+            "lastModified": "2024-11-03T19:54:14Z",
+            "revision": 18114,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Shoes+recipe"
+        },
+        {
+            "id": "r145",
+            "eventItem": false,
+            "name": "Destroyer Gloves recipe",
+            "type": "Recipe (Item)",
+            "recipe": [],
+            "pagename": "Destroyer Gloves recipe",
+            "lastModified": "2024-11-03T19:53:49Z",
+            "revision": 18113,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Gloves+recipe"
+        },
+        {
+            "id": "k165",
+            "eventItem": false,
+            "name": "Demon Hammer head",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Demon Hammer head",
+            "lastModified": "2024-11-03T19:52:58Z",
+            "revision": 18112,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Demon+Hammer+head"
+        },
+        {
+            "id": "k163",
+            "eventItem": false,
+            "name": "Elven Arbalest part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Elven Arbalest part",
+            "lastModified": "2024-11-03T19:52:21Z",
+            "revision": 18111,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Elven+Arbalest+part"
+        },
+        {
+            "id": "k161",
+            "eventItem": false,
+            "name": "Bow of Peril shaft",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Bow of Peril shaft",
+            "lastModified": "2024-11-03T19:51:52Z",
+            "revision": 18110,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Bow+of+Peril+shaft"
+        },
+        {
+            "id": "k157",
+            "eventItem": false,
+            "name": "Relic Rapier blade",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Relic Rapier blade",
+            "lastModified": "2024-11-03T19:51:29Z",
+            "revision": 18109,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Relic+Rapier+blade"
+        },
+        {
+            "id": "k156",
+            "eventItem": false,
+            "name": "Caliban blade part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Caliban blade part",
+            "lastModified": "2024-11-03T19:51:01Z",
+            "revision": 18108,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Caliban+blade+part"
+        },
+        {
+            "id": "k146",
+            "eventItem": false,
+            "name": "Destroyer Gloves part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Destroyer Gloves part",
+            "lastModified": "2024-11-03T19:50:18Z",
+            "revision": 18107,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Destroyer+Gloves+part"
+        },
+        {
+            "id": "k141",
+            "eventItem": false,
+            "name": "Majestic Shoes part",
+            "type": "Piece of Equipment",
+            "recipe": [],
+            "pagename": "Majestic Shoes part",
+            "lastModified": "2024-11-03T19:48:16Z",
+            "revision": 18106,
+            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Shoes+part"
         }
     ],
     "incomplete": [

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2024-01-11T14:11:33.927932+00:00",
+    "timestamp": "2024-11-03T19:11:08.061151+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -44,8 +44,8 @@
                 }
             ],
             "pagename": "Arcane Mold",
-            "lastModified": "2023-10-31T13:06:56Z",
-            "revision": 17842,
+            "lastModified": "2024-11-03T18:34:35Z",
+            "revision": 18102,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Arcane+Mold"
         },
         {
@@ -19167,27 +19167,6 @@
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Helmet"
         },
         {
-            "id": "82",
-            "eventItem": false,
-            "name": "Mithril ore",
-            "type": "Resource",
-            "weight": 2,
-            "depositable": true,
-            "exchange": true,
-            "auction": false,
-            "quest": true,
-            "dropValleyMorning": true,
-            "dropValleyDay": true,
-            "dropValleyEvening": true,
-            "dropValleyNight": true,
-            "enchantable": false,
-            "recipe": [],
-            "pagename": "Mithril Ore",
-            "lastModified": "2023-11-02T16:21:17Z",
-            "revision": 17854,
-            "wikiUrl": "https://chatwars-wiki.de/index.php?title=Mithril+Ore"
-        },
-        {
             "id": "a25",
             "eventItem": false,
             "name": "Mithril shield",
@@ -24143,8 +24122,8 @@
                 }
             ],
             "pagename": "Rune Anvil",
-            "lastModified": "2023-10-31T13:06:00Z",
-            "revision": 17841,
+            "lastModified": "2024-11-03T18:33:27Z",
+            "revision": 18101,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Rune+Anvil"
         },
         {
@@ -24761,8 +24740,8 @@
                 }
             ],
             "pagename": "Silver Alloy",
-            "lastModified": "2023-09-04T08:53:21Z",
-            "revision": 16572,
+            "lastModified": "2024-11-03T18:33:00Z",
+            "revision": 18099,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Alloy"
         },
         {
@@ -25030,8 +25009,8 @@
                 }
             ],
             "pagename": "Silver Frame",
-            "lastModified": "2023-09-04T08:53:21Z",
-            "revision": 16575,
+            "lastModified": "2024-11-03T18:33:08Z",
+            "revision": 18100,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Silver+Frame"
         },
         {
@@ -29580,7 +29559,7 @@
                 },
                 {
                     "name": "Ruby",
-                    "qty": "3",
+                    "qty": "31",
                     "personalized": false
                 },
                 {
@@ -29625,8 +29604,8 @@
                 }
             ],
             "pagename": "Giant Boots",
-            "lastModified": "2023-10-31T12:41:36Z",
-            "revision": 17840,
+            "lastModified": "2024-11-03T18:39:49Z",
+            "revision": 18103,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots"
         },
         {

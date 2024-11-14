@@ -1,5 +1,5 @@
 {
-    "timestamp": "2024-11-14T05:11:08.984851+00:00",
+    "timestamp": "2024-11-14T06:11:06.884640+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -21143,6 +21143,8 @@
             "recipeIncomplete": false,
             "craftCommand": "/c_a122",
             "craftSkill": "Crafting (Skill)",
+            "craftLevel": 7,
+            "craftMana": 1100,
             "recipe": {
                 "Sapphire": "21",
                 "Solvent": "2",
@@ -21158,8 +21160,8 @@
                 "Sunfire Bracers recipe": "1"
             },
             "pagename": "Sunfire Bracers",
-            "lastModified": "2024-11-14T05:10:42Z",
-            "revision": 18178,
+            "lastModified": "2024-11-14T05:11:39Z",
+            "revision": 18181,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Bracers"
         },
         {

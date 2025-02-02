@@ -1,5 +1,5 @@
 {
-    "timestamp": "2024-11-14T12:11:07.195133+00:00",
+    "timestamp": "2025-02-02T14:11:05.330164+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -2340,8 +2340,8 @@
                 }
             ],
             "pagename": "Celestial Armor",
-            "lastModified": "2023-09-02T12:01:19Z",
-            "revision": 16431,
+            "lastModified": "2025-02-02T13:46:42Z",
+            "revision": 18209,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Celestial+Armor"
         },
         {
@@ -26637,9 +26637,11 @@
             "stamina": 0,
             "inventoryIncrease": 0,
             "luck": 0,
+            "weight": 170,
             "wrapping": 1,
             "levelRequirement": 80,
             "depositable": true,
+            "shopSellPrice": 861,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -26725,8 +26727,8 @@
                 }
             ],
             "pagename": "Sunfire Bracers",
-            "lastModified": "2024-11-14T05:11:39Z",
-            "revision": 18181,
+            "lastModified": "2025-02-02T14:03:44Z",
+            "revision": 18217,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Bracers"
         },
         {
@@ -26859,8 +26861,8 @@
                 }
             ],
             "pagename": "Sunfire Shoes",
-            "lastModified": "2024-11-14T04:34:55Z",
-            "revision": 18173,
+            "lastModified": "2025-02-02T14:00:02Z",
+            "revision": 18215,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Shoes"
         },
         {
@@ -32710,8 +32712,8 @@
                 }
             ],
             "pagename": "Sunfire Robe",
-            "lastModified": "2024-11-14T04:42:53Z",
-            "revision": 18175,
+            "lastModified": "2025-02-02T14:04:37Z",
+            "revision": 18218,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Robe"
         },
         {
@@ -33098,8 +33100,8 @@
                 }
             ],
             "pagename": "Sunfire Hat",
-            "lastModified": "2024-11-14T05:08:38Z",
-            "revision": 18177,
+            "lastModified": "2025-02-02T14:08:05Z",
+            "revision": 18219,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Hat"
         },
         {

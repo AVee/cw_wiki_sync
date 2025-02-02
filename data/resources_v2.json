@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-02-02T18:11:05.324112+00:00",
+    "timestamp": "2025-02-02T19:11:07.225926+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -26806,7 +26806,6 @@
             "wrapping": 1,
             "levelRequirement": 80,
             "depositable": true,
-            "shopBuyPrice": 0,
             "shopSellPrice": 885,
             "exchange": false,
             "auction": true,
@@ -26888,8 +26887,8 @@
                 }
             ],
             "pagename": "Sunfire Shoes",
-            "lastModified": "2025-02-02T16:43:34Z",
-            "revision": 18221,
+            "lastModified": "2025-02-02T18:29:01Z",
+            "revision": 18259,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Sunfire+Shoes"
         },
         {

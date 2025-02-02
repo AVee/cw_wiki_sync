@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-02-02T19:11:07.225926+00:00",
+    "timestamp": "2025-02-02T20:11:06.968158+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -33279,10 +33279,11 @@
             "luck": 0,
             "weight": 170,
             "wrapping": 1,
+            "levelRequirement": 80,
             "depositable": true,
             "shopSellPrice": 885,
             "exchange": false,
-            "auction": false,
+            "auction": true,
             "quest": false,
             "enchantable": true,
             "enchantAtk1": 0,
@@ -33298,14 +33299,71 @@
             "enchantMana3": 5,
             "enchantMana4": 5,
             "craftable": true,
-            "recipeIncomplete": true,
+            "recipeIncomplete": false,
+            "craftCommand": "/c_a134",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 8,
             "craftMana": 1500,
-            "recipe": [],
+            "recipe": [
+                {
+                    "name": "Majestic Shoes recipe",
+                    "qty": "1",
+                    "personalized": false
+                },
+                {
+                    "name": "Majestic Shoes part",
+                    "qty": "7",
+                    "personalized": false
+                },
+                {
+                    "name": "Supreme Shard",
+                    "qty": "150",
+                    "personalized": false
+                },
+                {
+                    "name": "Bone Powder",
+                    "qty": "51",
+                    "personalized": false
+                },
+                {
+                    "name": "Ruby",
+                    "qty": "27",
+                    "personalized": false
+                },
+                {
+                    "name": "Sapphire",
+                    "qty": "21",
+                    "personalized": false
+                },
+                {
+                    "name": "Reinforced Loom",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Quality Cloth",
+                    "qty": "14",
+                    "personalized": false
+                },
+                {
+                    "name": "Arcane Mold",
+                    "qty": "5",
+                    "personalized": false
+                },
+                {
+                    "name": "Solvent",
+                    "qty": "2",
+                    "personalized": false
+                },
+                {
+                    "name": "Blacksmith Frame",
+                    "qty": "2",
+                    "personalized": false
+                }
+            ],
             "pagename": "Majestic Shoes",
-            "lastModified": "2025-02-02T17:09:07Z",
-            "revision": 18227,
+            "lastModified": "2025-02-02T20:05:45Z",
+            "revision": 18292,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Majestic+Shoes"
         },
         {

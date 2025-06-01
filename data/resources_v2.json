@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-04-25T13:11:07.047687+00:00",
+    "timestamp": "2025-06-01T15:11:04.288882+00:00",
     "deprecated": false,
     "obsolete": false,
     "format": 2,
@@ -33975,10 +33975,10 @@
             "auction": true,
             "quest": false,
             "enchantable": true,
-            "enchantAtk1": 5,
-            "enchantAtk2": 5,
-            "enchantAtk3": 5,
-            "enchantAtk4": 5,
+            "enchantAtk1": 6,
+            "enchantAtk2": 6,
+            "enchantAtk3": 6,
+            "enchantAtk4": 6,
             "enchantDef1": 0,
             "enchantDef2": 0,
             "enchantDef3": 0,
@@ -33989,7 +33989,6 @@
             "enchantMana4": 0,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_w109",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 7,
             "craftMana": 1100,
@@ -34046,8 +34045,8 @@
                 }
             ],
             "pagename": "Caliban Blade",
-            "lastModified": "2025-02-02T18:09:19Z",
-            "revision": 18254,
+            "lastModified": "2025-06-01T14:44:36Z",
+            "revision": 18369,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Caliban+Blade"
         },
         {

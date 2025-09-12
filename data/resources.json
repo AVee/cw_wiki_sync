@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-08-19T16:11:03.948210+00:00",
+    "timestamp": "2025-09-12T12:11:04.043420+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -24495,6 +24495,8 @@
             "wrapping": 1,
             "levelRequirement": 80,
             "depositable": true,
+            "shopBuyPrice": 0,
+            "shopSellPrice": 1800,
             "exchange": false,
             "auction": true,
             "quest": false,
@@ -24527,8 +24529,8 @@
                 "Relic Knife recipe": "1"
             },
             "pagename": "Relic Knife",
-            "lastModified": "2025-04-06T10:50:56Z",
-            "revision": 18331,
+            "lastModified": "2025-09-12T11:21:54Z",
+            "revision": 18398,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Relic+Knife"
         },
         {

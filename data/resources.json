@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-09-12T12:11:04.043420+00:00",
+    "timestamp": "2025-12-21T12:11:04.829797+00:00",
     "deprecated": true,
     "obsolete": false,
     "format": 1,
@@ -23735,9 +23735,9 @@
             "enchantAtk2": 0,
             "enchantAtk3": 0,
             "enchantAtk4": 0,
-            "enchantDef1": 2,
+            "enchantDef1": 3,
             "enchantDef2": 3,
-            "enchantDef3": 2,
+            "enchantDef3": 3,
             "enchantDef4": 3,
             "enchantMana1": 0,
             "enchantMana2": 0,
@@ -23745,14 +23745,13 @@
             "enchantMana4": 0,
             "craftable": true,
             "recipeIncomplete": false,
-            "craftCommand": "/c_a130",
             "craftSkill": "Crafting (Skill)",
             "craftLevel": 7,
             "craftMana": 1100,
             "recipe": {
                 "Sapphire": "16",
                 "Solvent": "6",
-                "Ruby": "31",
+                "Ruby": "3",
                 "Artisan Frame": "3",
                 "Quality Cloth": "6",
                 "Forged Leather": "11",
@@ -23763,8 +23762,8 @@
                 "Giant Boots recipe": "1"
             },
             "pagename": "Giant Boots",
-            "lastModified": "2024-11-14T10:30:55Z",
-            "revision": 18183,
+            "lastModified": "2025-12-21T11:55:56Z",
+            "revision": 18402,
             "wikiUrl": "https://chatwars-wiki.de/index.php?title=Giant+Boots"
         },
         {
